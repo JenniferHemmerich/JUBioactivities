@@ -66,13 +66,21 @@ The datasources used for the library are:
 
 The following webpages were used to accumulate the datasets:
 • http://www.cheminformatics.org/datasets/index.shtml
+
 • http://cdb.ics.uci.edu/cgibin/LearningDatasetsWeb.py
+
 • https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsst
+
 • https://qsardb.jrc.ec.europa.eu/qmrf
+
 • http://qsardb.org/repository/
+
 • https://www.nlm.nih.gov/databases/download/data_distrib_main.html
+
 • https://wiki.nci.nih.gov/display/NCIDTPdata/DTP+NCI+Bulk+Data+for+Download
+
 • https://eurl-ecvam.jrc.ec.europa.eu/databases
+
 • ftp://ftp.ics.uci.edu/pub/baldig/learning
 
 Publications which are not included in the above sources are:
