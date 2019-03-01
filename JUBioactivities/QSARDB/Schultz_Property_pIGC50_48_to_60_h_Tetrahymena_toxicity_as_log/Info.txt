@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/24/0147651386900515.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 48- to 60-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Schultz, T.W.; Holcombe, G.W.; Phipps, G.L. Relationships of quantitative structure-activity to comparative toxicity of selected phenols in the Pimephales promelas and Tetrahymena pyriformis test systems. Ecotoxicol. Environ. Saf. 1986, 12, 2, 146–153.
+EP:"Property pIGC50: 48- to 60-h Tetrahymena toxicity as log"
+Author:Schultz
+Filename:"Schultz_Property pIGC50: 48- to 60-h Tetrahymena toxicity as log"

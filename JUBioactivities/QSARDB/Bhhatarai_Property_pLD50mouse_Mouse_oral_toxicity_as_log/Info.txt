@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/170/2011MD467.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLD50mouse: Mouse oral toxicity as log(LD50) [-log(mmol/kg)]"
+Paper:Bhhatarai, B.; Gramatica, P. Oral LD50 toxicity modeling and prediction of per- and polyfluorinated chemicals on rat and mouse. Mol. Diversity 2010, 15, 467–476.
+EP:"Property pLD50mouse: Mouse oral toxicity as log"
+Author:Bhhatarai
+Filename:"Bhhatarai_Property pLD50mouse: Mouse oral toxicity as log"

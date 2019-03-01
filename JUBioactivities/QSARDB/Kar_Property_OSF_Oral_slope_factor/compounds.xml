@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>c01</Id>
+        <Name>Acephate</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10NO3PS/c1-4(6)5-9(7,8-2)10-3/h1-3H3,(H,5,6,7)</InChI>
+    </Compound>
+    <Compound>
+        <Id>c02</Id>
+        <Name>Acrylamide</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Thyroid, uterus</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H5NO/c1-2-3(4)5/h2H,1H2,(H2,4,5)</InChI>
+    </Compound>
+    <Compound>
+        <Id>c03</Id>
+        <Name>Acrylonitrile</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Brain, stomach
+In orginal publication, compound was classified as P-compound. Should be N-compound</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H3N/c1-2-3-4/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c04</Id>
+        <Name>Aldrin</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H8Cl6/c13-8-9(14)11(16)7-5-2-1-4(3-5)6(7)10(8,15)12(11,17)18/h1-2,4-7H,3H2/t4-,5+,6+,7-,10+,11-</InChI>
+    </Compound>
+    <Compound>
+        <Id>c05</Id>
+        <Name>Aniline</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Spleen</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H7N/c7-6-4-2-1-3-5-6/h1-5H,7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c06</Id>
+        <Name>Aramite</Name>
+        <Description>Property information
+Species: Rat
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H23ClO4S/c1-12(20-21(17)19-10-9-16)11-18-14-7-5-13(6-8-14)15(2,3)4/h5-8,12H,9-11H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c07</Id>
+        <Name>Azobenzene</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Abdominal cavity</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H10N2/c1-3-7-11(8-4-1)13-14-12-9-5-2-6-10-12/h1-10H/b14-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>c10</Id>
+        <Name>Benzo[a]pyrene</Name>
+        <Description>Property information
+Species: Rat
+Sex: M/F
+Cancer site: Forestomach</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C20H12/c1-2-7-17-15(4-1)12-16-9-8-13-5-3-6-14-10-11-18(17)20(16)19(13)14/h1-12H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c11</Id>
+        <Name>Benzotrichloride</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Lung</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H5Cl3/c8-7(9,10)6-4-2-1-3-5-6/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c12</Id>
+        <Name>Benzyl chloride</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Thyroid</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H7Cl/c8-6-7-4-2-1-3-5-7/h1-5H,6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c13</Id>
+        <Name>Bis(chloroethyl)ether</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H8Cl2O/c5-1-3-7-4-2-6/h1-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c14</Id>
+        <Name>Bis(chloromethyl)ether</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Respiratory tract</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4Cl2O/c3-1-5-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c15</Id>
+        <Name>Bromate</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Testes, thyroid
+In orginal publication, compound was classified as P-compound. Should be N-compound</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/BrHO3/c2-1(3)4/h(H,2,3,4)/p-1</InChI>
+    </Compound>
+    <Compound>
+        <Id>c16</Id>
+        <Name>Bromodichloromethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Kidney</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CHBrCl2/c2-1(3)4/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c17</Id>
+        <Name>Bromoform</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Large intestine</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CHBr3/c2-1(3)4/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c18</Id>
+        <Name>Carbon tetrachloride</Name>
+        <Description>Property information
+Species: Mouse, Rat
+Sex: M/F; M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CCl4/c2-1(3,4)5</InChI>
+    </Compound>
+    <Compound>
+        <Id>c19</Id>
+        <Name>Chlordane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H6Cl8/c11-3-1-2-4(5(3)12)9(16)7(14)6(13)8(2,15)10(9,17)18/h2-5H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c20</Id>
+        <Name>Di(2-ethylhexyl)adipate</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H42O4/c1-5-9-13-19(7-3)17-25-21(23)15-11-12-16-22(24)26-18-20(8-4)14-10-6-2/h19-20H,5-18H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c21</Id>
+        <Name>Di(2-ethylhexyl)phthalate</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C24H38O4/c1-5-9-13-19(7-3)17-27-23(25)21-15-11-12-16-22(21)24(26)28-18-20(8-4)14-10-6-2/h11-12,15-16,19-20H,5-10,13-14,17-18H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c22</Id>
+        <Name>Dibromochloromethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CHBr2Cl/c2-1(3)4/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c23</Id>
+        <Name>1,2-Dibromoethane</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Forestomach</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4Br2/c3-1-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c24</Id>
+        <Name>3,3'-Dichlorobenzidine</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Mammary glands</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H10Cl2N2/c13-9-5-7(1-3-11(9)15)8-2-4-12(16)10(14)6-8/h1-6H,15-16H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c25</Id>
+        <Name>p,p'-DDD</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H10Cl4/c15-11-5-1-9(2-6-11)13(14(17)18)10-3-7-12(16)8-4-10/h1-8,13-14H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c26</Id>
+        <Name>p,p'-DDE</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H8Cl4/c15-11-5-1-9(2-6-11)13(14(17)18)10-3-7-12(16)8-4-10/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c27</Id>
+        <Name>DDT</Name>
+        <Description>Property information
+Species: Mouse, Rat
+Sex: M/F; M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H9Cl5/c15-11-5-1-9(2-6-11)13(14(17,18)19)10-3-7-12(16)8-4-10/h1-8,13H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c28</Id>
+        <Name>1,2-Dichloroethane</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Skin</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c29</Id>
+        <Name>Dichloromethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CH2Cl2/c2-1-3/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c30</Id>
+        <Name>1,3-Dichloropropene</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H4Cl2/c4-2-1-3-5/h1-2H,3H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c31</Id>
+        <Name>Dichlorvos</Name>
+        <Description>Property information
+Species: Mouse, Rat
+Sex: M/F; M/F
+Cancer site: Forestomach, pancreas</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H7Cl2O4P/c1-8-11(7,9-2)10-3-4(5)6/h3H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c32</Id>
+        <Name>Dieldrin</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver carcinoma</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10+,11-</InChI>
+    </Compound>
+    <Compound>
+        <Id>c33</Id>
+        <Name>1,4-Dioxane</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Nasal bone</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H8O2/c1-2-6-4-3-5-1/h1-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c34</Id>
+        <Name>1,2-Diphenylhydrazine</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H12N2/c1-3-7-11(8-4-1)13-14-12-9-5-2-6-10-12/h1-10,13-14H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c35</Id>
+        <Name>Epichlorohydrin</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Forestomach</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H5ClO/c4-1-3-2-5-3/h3H,1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c36</Id>
+        <Name>Folpet</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Digestive tract</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H4Cl3NO2S/c10-9(11,12)16-13-7(14)5-3-1-2-4-6(5)8(13)15/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c37</Id>
+        <Name>Fomesafen</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H10ClF3N2O6S/c1-28(25,26)20-14(22)10-7-9(3-4-12(10)21(23)24)27-13-5-2-8(6-11(13)16)15(17,18)19/h2-7H,1H3,(H,20,22)</InChI>
+    </Compound>
+    <Compound>
+        <Id>c38</Id>
+        <Name>Furmecyclox</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H21NO3/c1-10-9-13(11(2)18-10)14(16)15(17-3)12-7-5-4-6-8-12/h9,12H,4-8H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c39</Id>
+        <Name>Heptachlor</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H5Cl7/c11-4-2-1-3-5(4)9(15)7(13)6(12)8(3,14)10(9,16)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c40</Id>
+        <Name>Heptachlor epoxide</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H5Cl7O/c11-3-1-2(4-5(3)18-4)9(15)7(13)6(12)8(1,14)10(9,16)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c41</Id>
+        <Name>Hexachlorobenzene</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6Cl6/c7-1-2(8)4(10)6(12)5(11)3(1)9</InChI>
+    </Compound>
+    <Compound>
+        <Id>c42</Id>
+        <Name>Hexachlorobutadiene</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Kidney</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4Cl6/c5-1(3(7)8)2(6)4(9)10</InChI>
+    </Compound>
+    <Compound>
+        <Id>c43</Id>
+        <Name>alpha-HCH</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H6Cl6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-6H/t1-,2-,3-,4-,5+,6+/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>c44</Id>
+        <Name>beta-HCH</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H6Cl6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-6H/t1-,2-,3+,4+,5-,6-</InChI>
+    </Compound>
+    <Compound>
+        <Id>c45</Id>
+        <Name>Technical HCH</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H6Cl6/c7-1-2(8)4(10)6(12)5(11)3(1)9/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c46</Id>
+        <Name>1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin</Name>
+        <Description>Property information
+Species: Mouse, Rat
+Sex: M; F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H2Cl6O2/c13-3-1-5-11(9(17)7(3)15)20-12-6(19-5)2-4(14)8(16)10(12)18/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c47</Id>
+        <Name>Hexachloroethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2Cl6/c3-1(4,5)2(6,7)8</InChI>
+    </Compound>
+    <Compound>
+        <Id>c48</Id>
+        <Name>Hexahydro-1,3,5-trinitro-1,3,5-triazine</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H6N6O6/c10-7(11)4-1-5(8(12)13)3-6(2-4)9(14)15/h1-3H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c49</Id>
+        <Name>Hydrazine</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/H4N2/c1-2/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c50</Id>
+        <Name>Isophorone</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Preputial gland</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H14O/c1-7-4-8(10)6-9(2,3)5-7/h4H,5-6H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c51</Id>
+        <Name>4,4'-Methylenebis(N,N-dimethylaniline)</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Thyroid</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H22N2/c1-18(2)16-9-5-14(6-10-16)13-15-7-11-17(12-8-15)19(3)4/h5-12H,13H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c52</Id>
+        <Name>N-Nitroso-di-n-butylamine</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Bladder, esophagus</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H18N2O/c1-3-5-7-10(9-11)8-6-4-2/h3-8H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c53</Id>
+        <Name>N-Nitroso-N-methylethylamine</Name>
+        <Description>Property information
+Species: Rat
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H8N2O/c1-3-5(2)4-6/h3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c54</Id>
+        <Name>N-Nitrosodipropylamine</Name>
+        <Description>Property information
+Species: Rat
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14N2O/c1-3-5-8(7-9)6-4-2/h3-6H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c55</Id>
+        <Name>N-Nitrosodiethanolamine</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10N2O3/c7-3-1-6(5-9)2-4-8/h7-8H,1-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c56</Id>
+        <Name>N-Nitrosodiethylamine</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10N2O/c1-3-6(4-2)5-7/h3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c57</Id>
+        <Name>N-Nitrosodimethylamine</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H6N2O/c1-4(2)3-5/h1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c58</Id>
+        <Name>N-Nitrosodiphenylamine</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Bladder</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H10N2O/c15-13-14(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c59</Id>
+        <Name>N-Nitrosopyrrolidine</Name>
+        <Description>Property information
+Species: Rat
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H8N2O/c7-5-6-3-1-2-4-6/h1-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c60</Id>
+        <Name>Pentachlorophenol</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6HCl5O/c7-1-2(8)4(10)6(12)5(11)3(1)9/h12H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c61</Id>
+        <Name>Prochloraz</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H16Cl3N3O2/c1-2-4-20(15(22)21-5-3-19-10-21)6-7-23-14-12(17)8-11(16)9-13(14)18/h3,5,8-10H,2,4,6-7H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c62</Id>
+        <Name>Propylene oxide</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Forestomach</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H6O/c1-3-2-4-3/h3H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c63</Id>
+        <Name>Quinoline</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H7N/c1-2-6-9-8(4-1)5-3-7-10-9/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c64</Id>
+        <Name>1,1,1,2-Tetrachloroethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2Cl4/c3-1-2(4,5)6/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c65</Id>
+        <Name>1,1,2,2-Tetrachloroethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2Cl4/c3-1(4)2(5)6/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c66</Id>
+        <Name>1,1,2-Trichloroethane</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M/F
+Cancer site: Liver</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H3Cl3/c3-1-2(4)5/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c67</Id>
+        <Name>2,4,6-Trichlorophenol</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Leukemia</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H3Cl3O/c7-3-1-4(8)6(10)5(9)2-3/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>c68</Id>
+        <Name>Trifluralin</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Kidney, bladder</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H16F3N3O4/c1-3-5-17(6-4-2)12-10(18(20)21)7-9(13(14,15)16)8-11(12)19(22)23/h7-8H,3-6H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c69</Id>
+        <Name>2,4,6-Trinitrotoluene</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Bladder</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H5N3O6/c1-4-6(9(13)14)2-5(8(11)12)3-7(4)10(15)16/h2-3H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>c70</Id>
+        <Name>Vinyl chloride</Name>
+        <Description>Property information
+Species: Rat
+Sex: F
+Cancer site: Liver
+In orginal publication, compound was classified as P-compound. Should be N-compound</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H3Cl/c1-2-3/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>c71</Id>
+        <Name>Decabromodiphenyl ether</Name>
+        <Description>Property information
+Species: Rat
+Sex: M
+Cancer site: Liver neoplastic</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12Br10O/c13-1-3(15)7(19)11(8(20)4(1)16)23-12-9(21)5(17)2(14)6(18)10(12)22</InChI>
+    </Compound>
+    <Compound>
+        <Id>c72</Id>
+        <Name>Dichloroacetic acid</Name>
+        <Description>Property information
+Species: Mouse
+Sex: M
+Cancer site: Hepatocarcinoma</Description>
+        <Labels></Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2Cl2O2/c3-1(4)2(5)6/h1H,(H,5,6)</InChI>
+    </Compound>
+</CompoundRegistry>

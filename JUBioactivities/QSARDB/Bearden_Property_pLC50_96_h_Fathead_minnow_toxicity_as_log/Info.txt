@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/41/i1552-8618-16-6-1311.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50: 96-h Fathead minnow toxicity as log(1/LC50) [log(L/mmol)]"
+Paper:"Bearden, A.P.; Schultz, T.W. Structure-Activity Relationships for Pimephales and Tetrahymena: a Mechanism of Action Approach. Environ. Toxicol. Chem. 1997, 16, 6, 1311–1317."
+EP:"Property pLC50: 96-h Fathead minnow toxicity as log"
+Author:Bearden
+Filename:"Bearden_Property pLC50: 96-h Fathead minnow toxicity as log"

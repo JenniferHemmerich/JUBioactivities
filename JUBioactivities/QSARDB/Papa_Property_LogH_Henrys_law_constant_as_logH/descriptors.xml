@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>BEHe7</Id>
+        <Name>Highest eigenvalue n7 of Burden matrix, weighted by Sanderson electronegativities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X2A</Id>
+        <Name>Average connectivity index chi-2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TOBr</Id>
+        <Name>Sum of topological distances between oxygen and bromine atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor23m</Id>
+        <Name>Morse signal n23 weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+</DescriptorRegistry>

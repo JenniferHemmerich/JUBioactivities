@@ -1,0 +1,1 @@
+c1ccc(cc1)c2cc(=O)c3c(cc(cc3o2)O)O

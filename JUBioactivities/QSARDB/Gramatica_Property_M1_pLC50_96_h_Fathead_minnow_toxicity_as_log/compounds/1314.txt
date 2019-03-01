@@ -1,0 +1,1 @@
+S=P(S[C@@H](c1ccccc1)C(=O)OCC)(OC)OC

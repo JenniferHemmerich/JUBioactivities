@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>PBT_Index</Id>
+        <Name>PBT Index</Name>
+        <Description>Persistent, Bioaccumulative and Toxic (PBT). Values of the Global Half-Life Index — GHLI were used as a quantitative measure of a compound's persistence (P) in different environmental media. Bioconcentration (B) - log BCF. Toxicity (T) - experimental 96 h LC50 data (Duluth fathead minnow database).</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+        <Species>Pimephales promelas (Fathead minnow)</Species>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/51/m233165607871874.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 2-day Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:"Bryant, S.E.; Schultz, T.W. Toxicological Assessment of Biotransformation Products of Pentachlorophenol: Tetrahymena Population Growth Impairment. Arch. Environ. Contam. Toxicol. 1994, 26, 3, 299–303."
+EP:"Property pIGC50: 2-day Tetrahymena toxicity as log"
+Author:Bryant
+Filename:"Bryant_Property pIGC50: 2-day Tetrahymena toxicity as log"

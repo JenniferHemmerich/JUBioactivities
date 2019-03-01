@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>Mutagenicity</Id>
+        <Name>Mutagenicity on human h1A1v2 cells</Name>
+        <Description>h1A1v2 is a line of human B-lymphoblastoid cells, engineered to express cytochrome P4501A1 (CYP1A1), an enzyme capable of  metabolising promutagenic PAHs
+1: Non-Mutagen was changed to "no"
+2: Mutagen was changed to "yes"</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.10. Mutagenicity</Endpoint>
+    </Property>
+</PropertyRegistry>

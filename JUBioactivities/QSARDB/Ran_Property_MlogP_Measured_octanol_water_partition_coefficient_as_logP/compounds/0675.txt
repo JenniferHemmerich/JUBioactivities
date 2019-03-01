@@ -1,0 +1,1 @@
+CCOC1=CC=C(NC(N)=O)C=C1

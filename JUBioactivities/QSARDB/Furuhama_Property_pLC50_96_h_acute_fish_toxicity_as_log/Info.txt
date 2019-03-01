@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/195/2015SQER301.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50: 96-h acute fish toxicity as log(1/LC50) [-log(mmol/L)]"
+Paper:Furuhama, A.; Hasunuma, K.; Aoki, Y. Interspecies quantitative structure–activity–activity relationships (QSAARs) for prediction of acute aquatic toxicity of aromatic amines and phenols. SAR QSAR Environ. Res. 2015, 26, 301–323.
+EP:"Property pLC50: 96-h acute fish toxicity as log"
+Author:Furuhama
+Filename:"Furuhama_Property pLC50: 96-h acute fish toxicity as log"

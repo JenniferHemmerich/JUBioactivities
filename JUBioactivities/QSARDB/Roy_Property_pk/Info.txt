@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/183/2011JCC2386.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pk(OH): Degradation by OH radicals as -logk(OH) [log(s/cm3)] "
+Paper:"Roy, P. P.; Kovarich, S.; Gramatica, P. QSAR model reproducibility and applicability: A case study of rate constants of hydroxyl radical reaction models applied to polybrominated diphenyl ethers and (benzo-)triazoles. Journal of Computational Chemistry 2011, 32, 2386–2396."
+EP:Property pk
+Author:Roy
+Filename:Roy_Property pk

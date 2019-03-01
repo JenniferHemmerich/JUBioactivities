@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>ASIC2</Id>
+        <Name>Average Structural Information content (order 2)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RNCG</Id>
+        <Name>RNCG Relative negative charge (QMNEG/QTMINUS) [Zefirov's PC]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E_min_ee</Id>
+        <Name>Min exchange energy for a C-C bond</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>IC1</Id>
+        <Name>Information content (order 1)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RPCS</Id>
+        <Name>RPCS Relative positive charged SA (SAMPOS*RPCG) [Zefirov's PC]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.0</Application>
+    </Descriptor>
+</DescriptorRegistry>

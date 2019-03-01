@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>E</Id>
+        <Name>Excess molar refractivity</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>S</Id>
+        <Name>Dipolarity/polarizability</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>A</Id>
+        <Name>Overall hydrogen bond acidity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>B</Id>
+        <Name>Overall hydrogen bond basicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>V</Id>
+        <Name>McGowan characteristic volume</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>Ic</Id>
+        <Name>Indicator for carboxylic acids</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>Iv</Id>
+        <Name>Indicator for in vitro data</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

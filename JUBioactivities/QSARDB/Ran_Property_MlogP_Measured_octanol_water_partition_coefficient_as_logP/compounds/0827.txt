@@ -1,0 +1,1 @@
+CC(C)(C)NCC(O)C1=CC=C(O)C(CO)=C1

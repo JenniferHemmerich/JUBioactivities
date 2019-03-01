@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>A baseline inhalation toxicity model for narcosis in mammals</Name>
+    <Description>This paper presents the results of an analysis of the rodent inhalation literature
+and the development of a quantitative structure–activity relationships (QSAR)
+model for 4-hour LC50 as baseline toxicity to complement the baseline toxicity
+model for aquatic animals. We used the same literature review criteria developed
+for the ECOTOX database which selects only primary references with explicit
+experimental methods to form a high-quality database. Our literature review
+focused on the primary references reporting a 4-hour exposure for a single species
+of rodent in which the chemical had been clearly tested as a vapour and for which
+the exposure concentrations were not ambiguous. An expert system was used
+to remove reactive chemicals, receptor-mediated toxicants, and any test that
+produced symptoms inconsistent with non-polar narcosis. The QSAR model
+derived for narcosis in rodents was log LC50 = 0.69 X log VP + 1.54 which had an
+r 2 of 0.91, which is significantly better than the baseline toxicity model for aquatic
+animals. This simple model suggests that there is no intrinsic barrier to estimating
+baseline toxicity for in vivo endpoints in mammalian or terrestrial toxicology.
+Keywords: QSAR; LC50; rodents; inhalation; toxicity</Description>
+</Archive>

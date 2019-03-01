@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/83/109925323.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property MOA: Mode of action"
+Paper:"Aptula, A.O.; Jeliazkova, N.G.; Schultz, T.W.; Cronin, M.T.D. The Better Predictive Model: High q2 for the Training Set or Low Root Mean Square Error of Prediction for the Test Set?. QSAR Comb. Sci. 2005, 24, 3, 385–396."
+EP:"Property MOA: Mode of action"
+Author:Aptula
+Filename:"Aptula_Property MOA: Mode of action"

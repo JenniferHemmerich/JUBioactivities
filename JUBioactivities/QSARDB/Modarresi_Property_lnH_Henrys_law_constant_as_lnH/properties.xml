@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>lnH</Id>
+        <Name>Henry's law constant as lnH</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.9. Air-water partition coefficient (Henry's law constant, H)</Endpoint>
+    </Property>
+</PropertyRegistry>

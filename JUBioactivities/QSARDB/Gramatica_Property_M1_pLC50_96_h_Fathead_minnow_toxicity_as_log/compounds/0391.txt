@@ -1,0 +1,1 @@
+CCOP(=S)(OCC)Oc1ccc(cc1)[N+]([O-])=O

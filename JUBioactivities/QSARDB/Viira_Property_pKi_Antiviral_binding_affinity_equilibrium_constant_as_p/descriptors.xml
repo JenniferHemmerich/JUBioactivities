@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Nrel</Id>
+        <Name>relative number of nitrogen atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>energy of the lowest unoccupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>2IC</Id>
+        <Name>average information content (order 2)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>2SIC</Id>
+        <Name>average structural information content (order 2)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>XlogP3</Id>
+        <Name>calculated logarithm of octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MVXYZ</Id>
+        <Name>molecular volume divided with XYZ box</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+</DescriptorRegistry>

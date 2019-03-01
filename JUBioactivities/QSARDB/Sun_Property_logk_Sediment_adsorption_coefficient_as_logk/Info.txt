@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/194/1996C831.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logk: Sediment adsorption coefficient as logk"
+Paper:Sun, H.; Huang, G.; Dal, S. Adsorption behaviour and qspr studies of organotin compounds on estuarine sediment. Chemosphere 1996, 33, 831–838.
+EP:"Property logk: Sediment adsorption coefficient as logk"
+Author:Sun
+Filename:"Sun_Property logk: Sediment adsorption coefficient as logk"

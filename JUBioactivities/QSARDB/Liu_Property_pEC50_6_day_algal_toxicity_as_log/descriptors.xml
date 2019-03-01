@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>logarithm of octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>KOWWIN</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>pKa</Id>
+        <Name>dissociation constant</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>SciFinder</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MTI</Id>
+        <Name>molar topological index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Chem3D Ultra</Application>
+    </Descriptor>
+</DescriptorRegistry>

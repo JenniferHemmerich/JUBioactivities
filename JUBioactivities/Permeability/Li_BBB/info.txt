@@ -1,0 +1,7 @@
+
+Paper: 
+
+J. Chem. Inf. Model. 2005, 45, 1376-1384
+Effect of Selection of Molecular Descriptors on the Prediction of Blood-Brain Barrier
+Penetrating and Nonpenetrating Agents by Statistical Learning Methods
+Hu Li, Chun Wei Yap, Choong Yong Ung, Ying Xue, Zhi Wei Cao, and Yu Zong Chen,

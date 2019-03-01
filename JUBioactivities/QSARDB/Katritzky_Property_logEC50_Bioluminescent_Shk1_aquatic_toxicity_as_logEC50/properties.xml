@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logEC50</Id>
+        <Name>Bioluminescent Shk1 aquatic toxicity as logEC50</Name>
+        <Description>Shk1 is Pseudomonas fluorescens containing the lux genes from Vibrio fischerii</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.6. Microbial inhibition</Endpoint>
+        <Species>Pseudomonas fluorescens</Species>
+    </Property>
+</PropertyRegistry>

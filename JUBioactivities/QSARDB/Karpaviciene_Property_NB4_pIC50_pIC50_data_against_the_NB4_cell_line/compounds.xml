@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>3aa</Id>
+        <Name>(2E)-2-[(2-fluorophenyl)methylidene]-3-oxo-3-phenylpropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C18H15FO3/c1-13(20)22-12-16(11-15-9-5-6-10-17(15)19)18(21)14-7-3-2-4-8-14/h2-11H,12H2,1H3/b16-11+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ab</Id>
+        <Name>(2E)-2-[(2,4-dichlorophenyl)methylidene]-3-oxo-3-phenylpropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C18H14Cl2O3/c1-12(21)23-11-15(18(22)13-5-3-2-4-6-13)9-14-7-8-16(19)10-17(14)20/h2-10H,11H2,1H3/b15-9+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ba</Id>
+        <Name>(2E)-2-[(2-fluorophenyl)methylidene]-3-(4-methoxyphenyl)-3-oxopropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H17FO4/c1-13(21)24-12-16(11-15-5-3-4-6-18(15)20)19(22)14-7-9-17(23-2)10-8-14/h3-11H,12H2,1-2H3/b16-11+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3be</Id>
+        <Name>(2E)-2-(2-ethylbutylidene)-3-(4-methoxyphenyl)-3-oxopropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C18H24O4/c1-5-14(6-2)11-16(12-22-13(3)19)18(20)15-7-9-17(21-4)10-8-15/h7-11,14H,5-6,12H2,1-4H3/b16-11+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3bf</Id>
+        <Name>(2E)-2-(cyclohexylmethylidene)-3-(4-methoxyphenyl)-3-oxopropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H24O4/c1-14(20)23-13-17(12-15-6-4-3-5-7-15)19(21)16-8-10-18(22-2)11-9-16/h8-12,15H,3-7,13H2,1-2H3/b17-12+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3de</Id>
+        <Name>(2E)-2-(2-ethylbutylidene)-3-(4-methoxyphenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C23H26O4/c1-4-17(5-2)15-20(16-27-23(25)19-9-7-6-8-10-19)22(24)18-11-13-21(26-3)14-12-18/h6-15,17H,4-5,16H2,1-3H3/b20-15+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3df</Id>
+        <Name>(2E)-2-(cyclohexylmethylidene)-3-(4-methoxyphenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H26O4/c1-27-22-14-12-19(13-15-22)23(25)21(16-18-8-4-2-5-9-18)17-28-24(26)20-10-6-3-7-11-20/h3,6-7,10-16,18H,2,4-5,8-9,17H2,1H3/b21-16+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3dk</Id>
+        <Name>(2E)-2-ethylidene-3-(4-methoxyphenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H18O4/c1-3-14(13-23-19(21)16-7-5-4-6-8-16)18(20)15-9-11-17(22-2)12-10-15/h3-12H,13H2,1-2H3/b14-3+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3dl</Id>
+        <Name>(2E)-2-[(2-chlorophenyl)methylidene]-3-(4-methoxyphenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H19ClO4/c1-28-21-13-11-17(12-14-21)23(26)20(15-19-9-5-6-10-22(19)25)16-29-24(27)18-7-3-2-4-8-18/h2-15H,16H2,1H3/b20-15+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ea</Id>
+        <Name>(3E)-3-[(2-fluorophenyl)methylidene]-4-(4-methoxyphenyl)-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H19FO4/c1-14(22)25-12-11-17(13-16-5-3-4-6-19(16)21)20(23)15-7-9-18(24-2)10-8-15/h3-10,13H,11-12H2,1-2H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3eb</Id>
+        <Name>(3E)-3-[(2,4-dichlorophenyl)methylidene]-4-(4-methoxyphenyl)-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H18Cl2O4/c1-13(23)26-10-9-16(11-15-3-6-17(21)12-19(15)22)20(24)14-4-7-18(25-2)8-5-14/h3-8,11-12H,9-10H2,1-2H3/b16-11+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ee</Id>
+        <Name>(3E)-3-(2-ethylbutylidene)-4-(4-methoxyphenyl)-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H26O4/c1-5-15(6-2)13-17(11-12-23-14(3)20)19(21)16-7-9-18(22-4)10-8-16/h7-10,13,15H,5-6,11-12H2,1-4H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ef</Id>
+        <Name>(3E)-3-(cyclohexylmethylidene)-4-(4-methoxyphenyl)-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H26O4/c1-15(21)24-13-12-18(14-16-6-4-3-5-7-16)20(22)17-8-10-19(23-2)11-9-17/h8-11,14,16H,3-7,12-13H2,1-2H3/b18-14+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3eh</Id>
+        <Name>(3E)-4-(4-methoxyphenyl)-3-[(4-nitrophenyl)methylidene]-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H19NO6/c1-14(22)27-12-11-17(13-15-3-7-18(8-4-15)21(24)25)20(23)16-5-9-19(26-2)10-6-16/h3-10,13H,11-12H2,1-2H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ei</Id>
+        <Name>(3E)-4-(4-methoxyphenyl)-4-oxo-3-[(pentafluorophenyl)methylidene]butyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H15F5O4/c1-10(26)29-8-7-12(20(27)11-3-5-13(28-2)6-4-11)9-14-15(21)17(23)19(25)18(24)16(14)22/h3-6,9H,7-8H2,1-2H3/b12-9+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3el</Id>
+        <Name>(3E)-3-[(2-chlorophenyl)methylidene]-4-(4-methoxyphenyl)-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H19ClO4/c1-14(22)25-12-11-17(13-16-5-3-4-6-19(16)21)20(23)15-7-9-18(24-2)10-8-15/h3-10,13H,11-12H2,1-2H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3en</Id>
+        <Name>(3E)-3-[(4-chlorophenyl)methylidene]-4-(4-methoxyphenyl)-4-oxobutyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H19ClO4/c1-14(22)25-12-11-17(13-15-3-7-18(21)8-4-15)20(23)16-5-9-19(24-2)10-6-16/h3-10,13H,11-12H2,1-2H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3fb</Id>
+        <Name>(2R,4E)-4-[(2,4-dichlorophenyl)methylidene]-5-(4-methoxyphenyl)-5-oxopentan-2-yl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H20Cl2O4/c1-13(27-14(2)24)10-17(11-16-4-7-18(22)12-20(16)23)21(25)15-5-8-19(26-3)9-6-15/h4-9,11-13H,10H2,1-3H3/b17-11+/t13-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ff</Id>
+        <Name>(2R,4E)-4-(cyclohexylmethylidene)-5-(4-methoxyphenyl)-5-oxopentan-2-yl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H28O4/c1-15(25-16(2)22)13-19(14-17-7-5-4-6-8-17)21(23)18-9-11-20(24-3)12-10-18/h9-12,14-15,17H,4-8,13H2,1-3H3/b19-14+/t15-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>3fi</Id>
+        <Name>(2R,4E)-5-(4-methoxyphenyl)-5-oxo-4-[(pentafluorophenyl)methylidene]pentan-2-yl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H17F5O4/c1-10(30-11(2)27)8-13(21(28)12-4-6-14(29-3)7-5-12)9-15-16(22)18(24)20(26)19(25)17(15)23/h4-7,9-10H,8H2,1-3H3/b13-9+/t10-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>3fn</Id>
+        <Name>(2R,4E)-4-[(4-chlorophenyl)methylidene]-5-(4-methoxyphenyl)-5-oxopentan-2-yl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H21ClO4/c1-14(26-15(2)23)12-18(13-16-4-8-19(22)9-5-16)21(24)17-6-10-20(25-3)11-7-17/h4-11,13-14H,12H2,1-3H3/b18-13+/t14-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>3gb</Id>
+        <Name>(2E)-2-[(2,4-dichlorophenyl)methylidene]-1-(4-methoxyphenyl)-4-methylpentan-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H20Cl2O2/c1-13(2)10-16(11-15-4-7-17(21)12-19(15)22)20(23)14-5-8-18(24-3)9-6-14/h4-9,11-13H,10H2,1-3H3/b16-11+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3gh</Id>
+        <Name>(2E)-1-(4-methoxyphenyl)-4-methyl-2-[(4-nitrophenyl)methylidene]pentan-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H21NO4/c1-14(2)12-17(13-15-4-8-18(9-5-15)21(23)24)20(22)16-6-10-19(25-3)11-7-16/h4-11,13-14H,12H2,1-3H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3gn</Id>
+        <Name>(2E)-2-[(4-chlorophenyl)methylidene]-1-(4-methoxyphenyl)-4-methylpentan-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H21ClO2/c1-14(2)12-17(13-15-4-8-18(21)9-5-15)20(22)16-6-10-19(23-3)11-7-16/h4-11,13-14H,12H2,1-3H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3go</Id>
+        <Name>(2E)-1-(4-methoxyphenyl)-4-methyl-2-{[4-(trifluoromethyl)phenyl]methylidene}pentan-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H21F3O2/c1-14(2)12-17(20(25)16-6-10-19(26-3)11-7-16)13-15-4-8-18(9-5-15)21(22,23)24/h4-11,13-14H,12H2,1-3H3/b17-13+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3hb</Id>
+        <Name>(2E)-2-(cyclohexylmethyl)-3-(2,4-dichlorophenyl)-1-(4-methoxyphenyl)prop-2-en-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C23H24Cl2O2/c1-27-21-11-8-17(9-12-21)23(26)19(13-16-5-3-2-4-6-16)14-18-7-10-20(24)15-22(18)25/h7-12,14-16H,2-6,13H2,1H3/b19-14+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ho</Id>
+        <Name>(2E)-2-(cyclohexylmethyl)-1-(4-methoxyphenyl)-3-[4-(trifluoromethyl)phenyl]prop-2-en-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H25F3O2/c1-29-22-13-9-19(10-14-22)23(28)20(15-17-5-3-2-4-6-17)16-18-7-11-21(12-8-18)24(25,26)27/h7-14,16-17H,2-6,15H2,1H3/b20-16+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3ib</Id>
+        <Name>N-[(2E)-2-[(2,4-dichlorophenyl)methylidene]-3-(4-methoxyphenyl)-3-oxopropyl]-N-methylbenzamide</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C25H21Cl2NO3/c1-28(25(30)18-6-4-3-5-7-18)16-20(14-19-8-11-21(26)15-23(19)27)24(29)17-9-12-22(31-2)13-10-17/h3-15H,16H2,1-2H3/b20-14+</InChI>
+    </Compound>
+    <Compound>
+        <Id>3if</Id>
+        <Name>N-[(2E)-2-(cyclohexylmethylidene)-3-(4-methoxyphenyl)-3-oxopropyl]-N-methylbenzamide</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C25H29NO3/c1-26(25(28)21-11-7-4-8-12-21)18-22(17-19-9-5-3-6-10-19)24(27)20-13-15-23(29-2)16-14-20/h4,7-8,11-17,19H,3,5-6,9-10,18H2,1-2H3/b22-17+</InChI>
+    </Compound>
+    <Compound>
+        <Id>4aa</Id>
+        <Name>(2Z)-2-[(2-fluorophenyl)methylidene]-3-oxo-3-phenylpropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C18H15FO3/c1-13(20)22-12-16(11-15-9-5-6-10-17(15)19)18(21)14-7-3-2-4-8-14/h2-11H,12H2,1H3/b16-11-</InChI>
+    </Compound>
+    <Compound>
+        <Id>4ab</Id>
+        <Name>(2Z)-2-[(2,4-dichlorophenyl)methylidene]-3-oxo-3-phenylpropyl acetate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C18H14Cl2O3/c1-12(21)23-11-15(18(22)13-5-3-2-4-6-13)9-14-7-8-16(19)10-17(14)20/h2-10H,11H2,1H3/b15-9-</InChI>
+    </Compound>
+    <Compound>
+        <Id>4dl</Id>
+        <Name>2-[(2-chlorophenyl)methylidene]-3-(4-methoxyphenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H19ClO4/c1-28-21-13-11-17(12-14-21)23(26)20(15-19-9-5-6-10-22(19)25)16-29-24(27)18-7-3-2-4-8-18/h2-15H,16H2,1H3/b20-15-</InChI>
+    </Compound>
+    <Compound>
+        <Id>5ba</Id>
+        <Name>(1S)-1-(2-fluorophenyl)-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H17FO4/c1-12(18(22)14-8-10-15(23-3)11-9-14)19(24-13(2)21)16-6-4-5-7-17(16)20/h4-11,19H,1H2,2-3H3/t19-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5bb</Id>
+        <Name>(1S)-1-(2,4-dichlorophenyl)-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H16Cl2O4/c1-11(18(23)13-4-7-15(24-3)8-5-13)19(25-12(2)22)16-9-6-14(20)10-17(16)21/h4-10,19H,1H2,2-3H3/t19-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5be</Id>
+        <Name>(3R)-4-ethyl-1-(4-methoxyphenyl)-2-methylidene-1-oxohexan-3-yl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C18H24O4/c1-6-14(7-2)18(22-13(4)19)12(3)17(20)15-8-10-16(21-5)11-9-15/h8-11,14,18H,3,6-7H2,1-2,4-5H3/t18-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5bf</Id>
+        <Name>(1R)-1-cyclohexyl-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H24O4/c1-13(18(21)15-9-11-17(22-3)12-10-15)19(23-14(2)20)16-7-5-4-6-8-16/h9-12,16,19H,1,4-8H2,2-3H3/t19-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5bh</Id>
+        <Name>(1R)-3-(4-methoxyphenyl)-2-methylidene-1-(4-nitrophenyl)-3-oxopropyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H17NO6/c1-12(18(22)14-6-10-17(25-3)11-7-14)19(26-13(2)21)15-4-8-16(9-5-15)20(23)24/h4-11,19H,1H2,2-3H3/t19-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5bi</Id>
+        <Name>(1S)-3-(4-methoxyphenyl)-2-methylidene-3-oxo-1-(pentafluorophenyl)propyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H13F5O4/c1-8(18(26)10-4-6-11(27-3)7-5-10)19(28-9(2)25)12-13(20)15(22)17(24)16(23)14(12)21/h4-7,19H,1H2,2-3H3/t19-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5ch</Id>
+        <Name>(1R)-3-(2,4-dimethoxyphenyl)-2-methylidene-1-(4-nitrophenyl)-3-oxopropyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H19NO7/c1-12(19(23)17-10-9-16(26-3)11-18(17)27-4)20(28-13(2)22)14-5-7-15(8-6-14)21(24)25/h5-11,20H,1H2,2-4H3/t20-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5cj</Id>
+        <Name>(1R)-3-(2,4-dimethoxyphenyl)-2-methylidene-1-(2-nitrophenyl)-3-oxopropyl acetate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C20H19NO7/c1-12(19(23)16-10-9-14(26-3)11-18(16)27-4)20(28-13(2)22)15-7-5-6-8-17(15)21(24)25/h5-11,20H,1H2,2-4H3/t20-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5_da</Id>
+        <Name>2-[(S)-(2-fluorophenyl)(hydroxy)methyl]-1-(4-methoxyphenyl)prop-2-en-1-one</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C17H15FO3/c1-11(17(20)14-5-3-4-6-15(14)18)16(19)12-7-9-13(21-2)10-8-12/h3-10,17,20H,1H2,2H3/t17-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5da</Id>
+        <Name>(1S)-1-(2-fluorophenyl)-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H19FO4/c1-16(22(26)17-12-14-19(28-2)15-13-17)23(20-10-6-7-11-21(20)25)29-24(27)18-8-4-3-5-9-18/h3-15,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5_db</Id>
+        <Name>2-[(S)-(2,4-dichlorophenyl)(hydroxy)methyl]-1-(4-methoxyphenyl)prop-2-en-1-one</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C17H14Cl2O3/c1-10(16(20)11-3-6-13(22-2)7-4-11)17(21)14-8-5-12(18)9-15(14)19/h3-9,17,21H,1H2,2H3/t17-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5db</Id>
+        <Name>(1S)-1-(2,4-dichlorophenyl)-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H18Cl2O4/c1-15(22(27)16-8-11-19(29-2)12-9-16)23(20-13-10-18(25)14-21(20)26)30-24(28)17-6-4-3-5-7-17/h3-14,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5de</Id>
+        <Name>(3R)-4-ethyl-1-(4-methoxyphenyl)-2-methylidene-1-oxohexan-3-yl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C23H26O4/c1-5-17(6-2)22(27-23(25)19-10-8-7-9-11-19)16(3)21(24)18-12-14-20(26-4)15-13-18/h7-15,17,22H,3,5-6H2,1-2,4H3/t22-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5df</Id>
+        <Name>(1R)-1-cyclohexyl-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H26O4/c1-17(22(25)18-13-15-21(27-2)16-14-18)23(19-9-5-3-6-10-19)28-24(26)20-11-7-4-8-12-20/h4,7-8,11-16,19,23H,1,3,5-6,9-10H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5_dh</Id>
+        <Name>2-[(R)-hydroxy(4-nitrophenyl)methyl]-1-(4-methoxyphenyl)prop-2-en-1-one</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C17H15NO5/c1-11(17(20)13-5-9-15(23-2)10-6-13)16(19)12-3-7-14(8-4-12)18(21)22/h3-10,16,19H,1H2,2H3/t16-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5dh</Id>
+        <Name>(1R)-3-(4-methoxyphenyl)-2-methylidene-1-(4-nitrophenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H19NO6/c1-16(22(26)17-10-14-21(30-2)15-11-17)23(18-8-12-20(13-9-18)25(28)29)31-24(27)19-6-4-3-5-7-19/h3-15,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5di</Id>
+        <Name>(1S)-3-(4-methoxyphenyl)-2-methylidene-3-oxo-1-(pentafluorophenyl)propyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H15F5O4/c1-12(22(30)13-8-10-15(32-2)11-9-13)23(33-24(31)14-6-4-3-5-7-14)16-17(25)19(27)21(29)20(28)18(16)26/h3-11,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5dj</Id>
+        <Name>(1R)-3-(4-methoxyphenyl)-2-methylidene-1-(2-nitrophenyl)-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H19NO6/c1-16(22(26)17-12-14-19(30-2)15-13-17)23(20-10-6-7-11-21(20)25(28)29)31-24(27)18-8-4-3-5-9-18/h3-15,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5dk</Id>
+        <Name>(2R)-4-(4-methoxyphenyl)-3-methylidene-4-oxobutan-2-yl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C19H18O4/c1-13(18(20)15-9-11-17(22-3)12-10-15)14(2)23-19(21)16-7-5-4-6-8-16/h4-12,14H,1H2,2-3H3/t14-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5_dl</Id>
+        <Name>2-[(S)-(2-chlorophenyl)(hydroxy)methyl]-1-(4-methoxyphenyl)prop-2-en-1-one</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C17H15ClO3/c1-11(17(20)14-5-3-4-6-15(14)18)16(19)12-7-9-13(21-2)10-8-12/h3-10,17,20H,1H2,2H3/t17-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5dl</Id>
+        <Name>(1S)-1-(2-chlorophenyl)-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H19ClO4/c1-16(22(26)17-12-14-19(28-2)15-13-17)23(20-10-6-7-11-21(20)25)29-24(27)18-8-4-3-5-9-18/h3-15,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>5dm</Id>
+        <Name>(1R)-1-(2,4-dinitrophenyl)-3-(4-methoxyphenyl)-2-methylidene-3-oxopropyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C24H18N2O8/c1-15(22(27)16-8-11-19(33-2)12-9-16)23(34-24(28)17-6-4-3-5-7-17)20-13-10-18(25(29)30)14-21(20)26(31)32/h3-14,23H,1H2,2H3/t23-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>6ac</Id>
+        <Name>(4E)-2-methylidene-4-[(4-methylphenyl)methylidene]-1,5-diphenylpentane-1,5-dione</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C26H22O2/c1-19-13-15-21(16-14-19)18-24(26(28)23-11-7-4-8-12-23)17-20(2)25(27)22-9-5-3-6-10-22/h3-16,18H,2,17H2,1H3/b24-18+</InChI>
+    </Compound>
+    <Compound>
+        <Id>6ad</Id>
+        <Name>4-[(1E)-2-[(E)-benzoyl]-4-methylidene-5-oxo-5-phenylpent-1-en-1-yl]phenyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C32H24O4/c1-23(30(33)25-11-5-2-6-12-25)21-28(31(34)26-13-7-3-8-14-26)22-24-17-19-29(20-18-24)36-32(35)27-15-9-4-10-16-27/h2-20,22H,1,21H2/b28-22+</InChI>
+    </Compound>
+    <Compound>
+        <Id>6bd</Id>
+        <Name>4-[(1E)-2-[(E)-4-methoxybenzoyl]-5-(4-methoxyphenyl)-4-methylidene-5-oxopent-1-en-1-yl]phenyl benzoate</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C34H28O6/c1-23(32(35)25-11-17-29(38-2)18-12-25)21-28(33(36)26-13-19-30(39-3)20-14-26)22-24-9-15-31(16-10-24)40-34(37)27-7-5-4-6-8-27/h4-20,22H,1,21H2,2-3H3/b28-22+</InChI>
+    </Compound>
+    <Compound>
+        <Id>6bg</Id>
+        <Name>(4E)-1,5-bis(4-methoxyphenyl)-2-methylidene-4-(phenylmethylidene)pentane-1,5-dione</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C27H24O4/c1-19(26(28)21-9-13-24(30-2)14-10-21)17-23(18-20-7-5-4-6-8-20)27(29)22-11-15-25(31-3)16-12-22/h4-16,18H,1,17H2,2-3H3/b23-18+</InChI>
+    </Compound>
+    <Compound>
+        <Id>6dc</Id>
+        <Name>(4E)-1,5-bis(4-methoxyphenyl)-2-methylidene-4-[(4-methylphenyl)methylidene]pentane-1,5-dione</Name>
+        <Labels>Set2</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C28H26O4/c1-19-5-7-21(8-6-19)18-24(28(30)23-11-15-26(32-4)16-12-23)17-20(2)27(29)22-9-13-25(31-3)14-10-22/h5-16,18H,2,17H2,1,3-4H3/b24-18+</InChI>
+    </Compound>
+    <Compound>
+        <Id>7aa</Id>
+        <Name>(2E)-2-[(diethylamino)methyl]-1-(4-methoxyphenyl)-3-(4-nitrophenyl)prop-2-en-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H24N2O4/c1-4-22(5-2)15-18(14-16-6-10-19(11-7-16)23(25)26)21(24)17-8-12-20(27-3)13-9-17/h6-14H,4-5,15H2,1-3H3/b18-14+</InChI>
+    </Compound>
+    <Compound>
+        <Id>7ac</Id>
+        <Name>(2E)-1-(4-methoxyphenyl)-2-(morpholin-4-ylmethyl)-3-(4-nitrophenyl)prop-2-en-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H22N2O5/c1-27-20-8-4-17(5-9-20)21(24)18(15-22-10-12-28-13-11-22)14-16-2-6-19(7-3-16)23(25)26/h2-9,14H,10-13,15H2,1H3/b18-14+</InChI>
+    </Compound>
+    <Compound>
+        <Id>7bc</Id>
+        <Name>(2E)-3-(2,4-dichlorophenyl)-1-(4-methoxyphenyl)-2-(morpholin-4-ylmethyl)prop-2-en-1-one</Name>
+        <Labels>Set1</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C21H21Cl2NO3/c1-26-19-6-3-15(4-7-19)21(25)17(14-24-8-10-27-11-9-24)12-16-2-5-18(22)13-20(16)23/h2-7,12-13H,8-11,14H2,1H3/b17-12+</InChI>
+    </Compound>
+</CompoundRegistry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>T</Id>
+        <Name>Temperature</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>M</Id>
+        <Name>Molecular weight</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>n</Id>
+        <Name>Viscosity parameter n for cation</Name>
+        <Description>See Table 2 in the article</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>X</Id>
+        <Name>Viscosity parameter X for cation</Name>
+        <Description>See Table 2 in the article</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>Y</Id>
+        <Name>Viscosity parameter Y for the anion</Name>
+        <Description>See Table 3 in the article</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

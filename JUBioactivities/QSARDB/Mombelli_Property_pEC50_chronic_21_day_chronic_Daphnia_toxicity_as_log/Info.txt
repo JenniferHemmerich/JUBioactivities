@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/167/2011BECT494.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC50_chronic: 21-day chronic Daphnia toxicity as log(1/EC50) [log(L/mmol)] "
+Paper:Mombelli, E.; Pery, A. R. R. A Linear Model to Predict Chronic Effects of Chemicals on Daphnia magna. Bull. Environ. Contam. Toxicol. 2011, 87, 494–498.
+EP:"Property pEC50_chronic: 21-day chronic Daphnia toxicity as log"
+Author:Mombelli
+Filename:"Mombelli_Property pEC50_chronic: 21-day chronic Daphnia toxicity as log"

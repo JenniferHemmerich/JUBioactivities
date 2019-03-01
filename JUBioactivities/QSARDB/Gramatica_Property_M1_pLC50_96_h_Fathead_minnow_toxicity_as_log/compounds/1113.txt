@@ -1,0 +1,1 @@
+S(=O)(=O)(O)c1ccc([C@@H](CCCCCCC)CCCC)cc1

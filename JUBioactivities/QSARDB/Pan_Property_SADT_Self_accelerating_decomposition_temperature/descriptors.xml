@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>MAXDP</Id>
+        <Name>Maximal electrotopological positive variation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RDF095v</Id>
+        <Name>Radial Distribution Function – 095/weighted by van der Waals volume</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>R2m+</Id>
+        <Name>R maximal autocorrelation of lag 2/weighted by mass</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHDon</Id>
+        <Name>Number of donor atoms for H-bonds (N and O)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C-004</Id>
+        <Name>CR4</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C-006</Id>
+        <Name>CH2RX</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>MOA</Id>
+        <Name>Mode of action</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+    </Property>
+    <Property>
+        <Id>pIGC50</Id>
+        <Name>40-h Tetrahymena toxicity as log(1/IGC50)</Name>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Tetrahymena pyriformis</Species>
+    </Property>
+</PropertyRegistry>

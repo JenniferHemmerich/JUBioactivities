@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/166/2015SQER.zip?sequence=1&isAllowed=y
+Endpoint:"Property logPeff_pH3: Logarithmic effective membrane permeability at pH 3 [log(cm/s)]"
+Paper:Oja, M.; Maran, U. Quantitative structure-permeability relationships at various pH values for acidic and basic drugs and drug-like compounds. SAR QSAR Environ. Res. 2015, 26, 701-719.
+EP:"Property logPeff_pH3: Logarithmic effective membrane permeability at pH 3 "
+Author:Oja
+Filename:"Oja_Property logPeff_pH3: Logarithmic effective membrane permeability at pH 3"

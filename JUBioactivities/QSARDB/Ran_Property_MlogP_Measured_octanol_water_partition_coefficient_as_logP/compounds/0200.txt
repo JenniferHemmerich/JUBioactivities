@@ -1,0 +1,1 @@
+CCOP(=S)(OCC)OC1=CC=C2C(C)=C(Cl)C(=O)OC2=C1

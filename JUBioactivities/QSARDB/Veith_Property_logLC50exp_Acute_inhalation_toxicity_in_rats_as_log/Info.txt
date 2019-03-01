@@ -1,0 +1,7 @@
+link:/repository/bitstream/handle/10967/129/2009SQER567.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logLC50exp: Acute inhalation toxicity in rats as log(LC50) [log(mmol/m3)
+]"
+Paper:Veith, G.D.; Petkova, E.P.; Wallace, K.B. A baseline inhalation toxicity model for narcosis in mammals. SAR QSAR Environ. Res. 2009, 20, 5-6, 567–578.
+EP:"Property logLC50exp: Acute inhalation toxicity in rats as log"
+Author:Veith
+Filename:"Veith_Property logLC50exp: Acute inhalation toxicity in rats as log"

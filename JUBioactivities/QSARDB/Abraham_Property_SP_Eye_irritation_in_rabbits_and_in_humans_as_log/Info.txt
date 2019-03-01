@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/133/2003TS384.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property SP: Eye irritation in rabbits and in humans as log(MMAS/P°) and log(1/EIT), respectively "
+Paper:"Abraham, M. H.; Hassanisadi, M.; Jalali-Heravi, M.; Ghafourian, T.; Cain, W. S.; Cometto-Muniz, J. E. Draize Rabbit Eye Test Compatibility with Eye Irritation Thresholds in Humans: A Quantitative Structure-Activity Relationship Analysis. Toxicol. Sci. 2003, 76, 2, 384-391."
+EP:"Property SP: Eye irritation in rabbits and in humans as log"
+Author:Abraham
+Filename:"Abraham_Property SP: Eye irritation in rabbits and in humans as log"

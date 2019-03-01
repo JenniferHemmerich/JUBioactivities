@@ -1,0 +1,16 @@
+Compound Id	logarithmic solubility in 1-octanol
+23BF	-1.806
+ANP	-0.5916
+ATR	-1.9281
+BPH	-0.1603
+BMF	-4.185
+CH	-2.699
+CO	-3.4134
+DBA	-3.0278
+FA	-0.763
+FL	-0.6815
+NPTH	-0.0182
+NPTHC	-2.2757
+PHN	-0.3966
+PRL	-2.5166
+PY	-0.8542

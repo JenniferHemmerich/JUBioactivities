@@ -1,0 +1,1 @@
+FC(F)(Oc1ccc(cc1)C(c1ccc(OC(F)(F)C(F)F)cc1)[C@@H](CC)CCCC)C(F)F

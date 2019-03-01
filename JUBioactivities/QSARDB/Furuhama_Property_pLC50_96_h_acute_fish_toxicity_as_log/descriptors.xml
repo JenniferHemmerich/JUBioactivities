@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>da</Id>
+        <Name>48-h Daphnia magna toxicity as log(1/EC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>mw</Id>
+        <Name>Molecular weight</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>a</Id>
+        <Name>Indicator descriptor for SMARTS: n</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>b</Id>
+        <Name>Indicator descriptor for SMARTS: [cH1]c([Nv3H2])[cH1]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>c</Id>
+        <Name>Indicator descriptor for SMARTS: c[Nv3H2]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>d</Id>
+        <Name>Indicator descriptor for SMARTS: c[Nv3]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>e</Id>
+        <Name>Indicator descriptor for SMARTS: C[Nv3]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>f</Id>
+        <Name>Indicator descriptor for SMARTS: c[OH1]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>g</Id>
+        <Name>Indicator descriptor for SMARTS: [Nv3H2,OH1]ccc[Nv3H2,OH1]</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>h</Id>
+        <Name>Indicator descriptor for SMARTS: [Nv3H2,OH1]cc[$([Nv3H2]),$([OH1]),$(cc[Nv3H2]),$(cc[OH1])]c</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

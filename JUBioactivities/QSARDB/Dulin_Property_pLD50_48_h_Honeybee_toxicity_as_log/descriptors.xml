@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Dipole_X_DMol3</Id>
+        <Name>Dipole moment component X</Name>
+        <Description>The dipole moment is a vectorial quantity that encodes displacement with respect to the barycentre of positive and negative charges in molecule. The elements of the vector are dipole moment components (X, Y and Z). The Dipole_X_Dmol3 values are higher for organophosphates than for carbamates. Starting from the position associated to the reactive part of the structures, in function of the nature of the leaving group, positive or negative values for the dipole were observed. Compounds with high negative values display a lower toxicity (phosalone, formetanate, acephate). The interpretation of the orientation of the dipole is not obvious but the docking studies will give some important insights. A special case concerns derivatives with a nitro group on the para position of phenyl ring. Compounds like parathion or fenitrothion display the highest values for the Dipole_X_Dmol3 descriptor and are associated with the highest toxicities to bees.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DMol3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GATS6e</Id>
+        <Name>Geary autocorrelation of lag 6 weighted by Sanderson electronegativity</Name>
+        <Description>2D autocorrelation descriptors explain how the values of certain functions, at intervals corresponding to lag d, are correlated. GATS6e indicates the correlation between chemical fragments (Sanderson electronegativity) at a topological distance equal to 6.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>CIC2</Id>
+        <Name>Complementary Information Content index (neighborhood symmetry of 2-order)</Name>
+        <Description>CIC2 descriptor represents the difference between the maximum possible complexity of a molecule and its real topological information.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SIC2</Id>
+        <Name>Structural Information Content index (neighborhood symmetry of 2-order)</Name>
+        <Description>(SIC2=1−CIC2/log2n with n for the total number of vertices of the molecule)</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Shadow_XZfrac</Id>
+        <Name>Shadow index component XZ</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Application>DMol3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Shadow_YZfrac</Id>
+        <Name>Shadow index component YZ</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application>DMol3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO_Energy_DMol3</Id>
+        <Name>Energy of the lowest unoccupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DMol3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C-040</Id>
+        <Name>R-C(=X)-X / R-C#X / X=C=X</Name>
+        <Description>C-040 belongs to the type of atom-centred fragments</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>B01[S-P]</Id>
+        <Name>Presence/absence of S - P at topological distance 1</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>B05[C-C]</Id>
+        <Name>Presence/absence of C - C at topological distance 5</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GATS1m</Id>
+        <Name>Geary autocorrelation of lag 1 weighted by mass</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS1m</Id>
+        <Name>Moran autocorrelation of lag 1 weighted by mass</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TIE</Id>
+        <Name>E-state topological parameter</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>AAC</Id>
+        <Name>Mean information index on atomic composition</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BELv3</Id>
+        <Name>Lowest eigenvalue 3 of Burden matrix weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Inflammat-50</Id>
+        <Name>Ghose-Viswanadhan-Wendoloski antiinflammatory-like index at 50%</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/98/AbrahamSoluteE.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property E: E"
+Paper:Lang, Andrew SID; Bradley, Jean-Claude Abraham descriptor E.
+EP:"Property E: E"
+Author:Lang
+Filename:"Lang_Property E: E"

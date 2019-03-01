@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/185/2012EES85.qdb.zip?sequence=3&isAllowed=y
+Endpoint:"Property OSF: Oral slope factor [mg/kg/d]"
+Paper:Kar, S.; Deeb, O.; Roy, K. Development of classification and regression based QSAR models to predict rodent carcinogenic potency using oral slope factor. Ecotoxicology and Environmental Safety 2012, 82, 85–95.
+EP:"Property OSF: Oral slope factor "
+Author:Kar
+Filename:"Kar_Property OSF: Oral slope factor"

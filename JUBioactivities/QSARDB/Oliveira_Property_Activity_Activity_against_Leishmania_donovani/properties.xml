@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>Activity</Id>
+        <Name>Activity against Leishmania donovani</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+        <Species>Leishmania donovani</Species>
+    </Property>
+</PropertyRegistry>

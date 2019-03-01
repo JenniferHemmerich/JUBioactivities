@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Estimation of aqueous solubility of organic compounds by using the general solubility equation</Name>
+    <Description>The general solubility equation (GSE) proposed by Jain and Yalkowsky was used to estimate aqueous solubility of
+1026 non-electrolytes. The only parameters used in the GSE are melting points (MP) and octanol–water partition
+coeﬃcients (Kow). No ﬁtted parameters and no training set are employed in the GSE. The experimental solubility values
+were taken from the AQUASOL dATAbASE. The average absolute error and the root-mean-square error in the
+solubility estimates are 0.38 and 0:53 log units, respectively. Thus, with an observed MP and calculated Kow ; the users
+can obtain a reasonable estimation of the aqueous solubility of any organic non-electrolyte.</Description>
+</Archive>

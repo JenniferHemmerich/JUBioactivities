@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logPow</Id>
+        <Name>Logarithmic octanol-water partition coefficient</Name>
+        <Description>Experimental logPow values were collected from the PhysProp database. If experimental logPow value was missing,  XlogP3  value from PubChem database was used for compounds: 3,  6, 8, 14, 16, 18, 23, 28, 30, 38, 50, 51, 59, 60, 61, 62, 65, 67, 68).</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HBSA</Id>
+        <Name>Hydrogen bonding surface area</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA Pro 1.0</Application>
+    </Descriptor>
+</DescriptorRegistry>

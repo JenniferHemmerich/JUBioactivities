@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logP</Id>
+        <Name>logarithm of octanol/water partition</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>HOMO</Id>
+        <Name>Highest Occupied Molecular Orbital</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>Lowest Unoccupied Molecular Orbital</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR5</Id>
+        <Name>Molar Refractivity of substituent in position 5</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+        <Application>Hansch's manual</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR3</Id>
+        <Name>Molar Refractivity of substituent in position 3</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+        <Application>Hansch's manual</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR2</Id>
+        <Name>Molar Refractivity of substituent in position 2</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+        <Application>Hansch's manual</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR6</Id>
+        <Name>Molar Refractivity of substituent in position 6</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+        <Application>Hansch's manual</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Idist</Id>
+        <Name>Indicator variables for nitroanilines and for biphenyls</Name>
+        <Labels>Training</Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

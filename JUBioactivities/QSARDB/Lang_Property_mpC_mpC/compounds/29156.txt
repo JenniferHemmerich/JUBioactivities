@@ -1,0 +1,1 @@
+O=[N+]([O-])c1c(C)ccc2C(=O)c3ccccc3C(=O)c12

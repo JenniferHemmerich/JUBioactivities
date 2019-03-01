@@ -1,0 +1,1 @@
+COP(=S)(S[C@@H](C(=O)OCC)CC(=O)OCC)OC

@@ -1,0 +1,1 @@
+c1c(OP(=S)(OCC)OCC)ccc(c1)[S@](=O)C

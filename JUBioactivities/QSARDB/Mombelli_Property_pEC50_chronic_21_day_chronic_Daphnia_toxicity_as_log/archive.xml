@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>A Linear Model to Predict Chronic Effects of Chemicals on Daphnia magna</Name>
+    <Description>Chronic toxicity data for Daphnia magna are information requirements in the context of regulations on chemical safety. This paper proposes a linear model for the prediction of chemically-induced effects on the reproductive output of D. magna. This model is based on data retrieved from the Japanese Ministry of Environment database and it predicts chronic effects as a function of acute toxicity data. The proposed model proved to be able to predict chronic toxicities for chemicals not used in the training set. Our results suggest that experiments involving chronic exposure to chemicals could be reduced thanks to the proposed model.</Description>
+</Archive>

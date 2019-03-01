@@ -1,0 +1,1 @@
+c1(cnc(cc1)Oc1ccc(cc1)O[C@H](C)C(=O)OCCCC)C(F)(F)F

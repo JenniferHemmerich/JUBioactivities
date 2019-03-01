@@ -1,0 +1,1 @@
+CCOP(=S)(OCC)SCn1c(=O)oc2c1ccc(c2)Cl

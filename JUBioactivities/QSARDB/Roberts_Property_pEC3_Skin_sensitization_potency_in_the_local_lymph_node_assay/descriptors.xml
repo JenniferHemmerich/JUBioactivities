@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logP</Id>
+        <Name>Logarithm of octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ClogP 4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>sum_sigma</Id>
+        <Name>Sum of Taft sigma* values for the two groups R and R’ in RCOR’</Name>
+        <Description>Taken from the book of Perrin et al 198: pKa prediction of organic acids and bases. Sigma* values can also be calculated within the commercial ChemSketch package part of the suite of tools from ACD Labs software (www.acdlabs.com).</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application></Application>
+    </Descriptor>
+</DescriptorRegistry>

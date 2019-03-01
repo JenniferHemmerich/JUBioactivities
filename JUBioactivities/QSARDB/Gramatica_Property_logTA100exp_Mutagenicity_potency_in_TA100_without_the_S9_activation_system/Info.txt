@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/171/2007SQER169.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logTA100exp: Mutagenicity potency in TA100 without the S9 activation system [log(revertants/nmol)]"
+Paper:Gramatica, P.; Pilutti, P.; Papa, E. Approaches for externally validated QSAR modelling of Nitrated Polycyclic Aromatic Hydrocarbon mutagenicity. SAR QSAR Environ. Res. 2007, 18, 169–178.
+EP:"Property logTA100exp: Mutagenicity potency in TA100 without the S9 activation system "
+Author:Gramatica
+Filename:"Gramatica_Property logTA100exp: Mutagenicity potency in TA100 without the S9 activation system"

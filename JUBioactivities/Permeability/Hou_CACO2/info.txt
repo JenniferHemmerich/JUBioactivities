@@ -1,0 +1,6 @@
+See also paper:
+
+Chem. Inf. Comput. Sci. 2004, 44, 1585-1600
+ADME Evaluation in Drug Discovery. 5. Correlation of Caco-2 Permeation with Simple
+Molecular Properties
+T. J. Hou, W. Zhang, K. Xia, X. B. Qiao, and X. J. Xu

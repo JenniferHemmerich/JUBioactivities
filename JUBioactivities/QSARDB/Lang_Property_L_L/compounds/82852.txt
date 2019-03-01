@@ -1,0 +1,1 @@
+O=C2C(\Cl)=C(\SCc1ccc(cc1)C(C)(C)C)/C=N\N2C(C)(C)C

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/138/1996T352.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pBCm: Benchmark concentration for 5% increase in embryos with neural tube defects as log(1/BCm)"
+Paper:Richard, A.M.; Hunter, E.S. Quantitative structure-activity relationships for the developmental toxicity of haloacetic acids in mammalian whole embryo culture. Teratology 1996, 53, 352-360.
+EP:"Property pBCm: Benchmark concentration for 5% increase in embryos with neural tube defects as log"
+Author:Richard
+Filename:"Richard_Property pBCm: Benchmark concentration for 5% increase in embryos with neural tube defects as log"

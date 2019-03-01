@@ -1,0 +1,12 @@
+Compound Id	Ratio of (log10I50NTE/log10I50AChE)
+Mipafox	0.41
+Paraoxon	3.23
+Malaoxon	4.47
+Chlorpyrifos-oxon	1.9
+Dichlorovos	2.17
+Trichlorfon	2
+DFP	0.732
+TSP	-1.155
+PSP	-0.41
+DBVP	0.98
+DOVP	-0.5

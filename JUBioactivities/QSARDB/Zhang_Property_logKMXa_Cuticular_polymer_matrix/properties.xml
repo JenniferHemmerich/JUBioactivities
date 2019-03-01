@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logKMXa</Id>
+        <Name>Cuticular polymer matrix/air partition coefficient as logKMXa</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.10. Vegetation-air partition coefficient</Endpoint>
+        <Species>Lycopersicon esculentum</Species>
+    </Property>
+</PropertyRegistry>

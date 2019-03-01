@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>Carcinogenicity</Id>
+        <Name>Class: C - Carcinogenic, nC -non-Carcinogenic</Name>
+        <Labels>Training</Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.12. Carcinogenicity</Endpoint>
+        <Species>Rattus norvegicus</Species>
+    </Property>
+    <Property>
+        <Id>Potency</Id>
+        <Name>Carcinogenic potency as log(MW/TD50)</Name>
+        <Labels>Training</Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.12. Carcinogenicity</Endpoint>
+        <Species>Rattus norvegicus</Species>
+    </Property>
+</PropertyRegistry>

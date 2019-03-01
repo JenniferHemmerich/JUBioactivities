@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Hydrophobicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wsol</Id>
+        <Name>Water solubility</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>RC50</Id>
+        <Name>2-h Abiotic thiol reactivity as RC50</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

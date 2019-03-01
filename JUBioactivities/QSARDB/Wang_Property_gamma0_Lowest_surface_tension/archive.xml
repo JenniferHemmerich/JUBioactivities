@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Effectiveness of surface tension reduction by nonionic surfactants with quantitative structure-property relationship approach</Name>
+    <Description>Quantitative structure-property relationship (QSPR) study was made for the prediction of surface tension at the critical micelle concentration of nonionic surfactants (gamma(0)) in aqueous solution with the quantum chemistry method. The optimum regressed model simply includes three descriptors: a constitutional descriptor, the number of oxygen atoms of the hydrophilic segment (NO); a topological descriptor, the Kier and Hall index of zero order (KH0) of the hydrophobic segment; and a quantum chemical descriptor, the heat of formation (Delta H-f) of a mole of surfactant molecules. The established general QSPR between gamma(0) and the descriptors produces a correlation coefficient of multiple determination, R-2 = 0.9942, for 30 studied nonionic surfactants.</Description>
+</Archive>

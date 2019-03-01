@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/200/2010WR2451.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logEC50: Bioluminescent Shk1 aquatic toxicity as logEC50 [log(mmol/L)] "
+Paper:Katritzky, A. R.; Kasemets, K.; Slavov, S.; Radzvilovits, M.; Tämm, K.; Karelson, M. Estimating the toxicities of organic chemicals in activated sludge process. Water Res. 2010, 44, 2451–2460.
+EP:"Property logEC50: Bioluminescent Shk1 aquatic toxicity as logEC50 "
+Author:Katritzky
+Filename:"Katritzky_Property logEC50: Bioluminescent Shk1 aquatic toxicity as logEC50"

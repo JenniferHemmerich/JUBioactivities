@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>QSPR Modeling of the Polarizability of Polyaromatic Hydrocarbons and Fullerenes</Name>
+    <Description>Polarizability is one of the key properties determining the nonlinear optical effects of the new materials. In the current study, a quantitative structure - property relationship approach is used to model the polarizability of polyaromatic hydrocarbons (PAHs) and fullerenes. The model is derived using the data set of 40 PAHs and fullerenes and includes just one molecular descriptor, the AM1-calculated total molecular two-center exchange energy. The model is externally validated, and the obtained results are in good agreement with both the ab initio calculated and the experimental polarizabilities of these compounds. The reported quantitative structure - property relationship is a quick tool for finding an estimate of polarizability for different PAHs and fullerenes.</Description>
+</Archive>

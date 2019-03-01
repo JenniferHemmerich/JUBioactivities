@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/128/2014IJR282.zip?sequence=1&isAllowed=y
+Endpoint:"Property Tb: Normal boiling point [K]"
+Paper:"Abooali, D.; Sobati, M. A. Novel method for prediction of normal boiling point and enthalpy of vaporization at normal boiling point of pure refrigerants: A QSPR approach. Int. J. Refrig. 2014, 40, 282–293."
+EP:"Property Tb: Normal boiling point "
+Author:Abooali
+Filename:"Abooali_Property Tb: Normal boiling point"

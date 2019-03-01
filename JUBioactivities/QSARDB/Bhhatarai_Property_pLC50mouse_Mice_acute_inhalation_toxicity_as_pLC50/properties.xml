@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pLC50mouse</Id>
+        <Name>Mice acute inhalation toxicity as pLC50</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.1. Acute Inhalation toxicity</Endpoint>
+        <Species>Mus musculus</Species>
+    </Property>
+    <Property>
+        <Id>pLC50rat</Id>
+        <Name>Rat acute inhalation toxicity as pLC50</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.1. Acute Inhalation toxicity</Endpoint>
+        <Species>Rattus norvegicus</Species>
+    </Property>
+</PropertyRegistry>

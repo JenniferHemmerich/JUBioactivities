@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>Tetrahydrofuran</Name>
+        <Labels>ECOTOX Pimephales_promelas 33-days</Labels>
+        <Cargos></Cargos>
+        <Cas>109-99-9</Cas>
+        <InChI>InChI=1S/C4H8O/c1-2-4-5-3-1/h1-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>2-Phenoxyethanol</Name>
+        <Labels>ECHA Pimephales_promelas 34-days</Labels>
+        <Cargos></Cargos>
+        <Cas>122-99-6</Cas>
+        <InChI>InChI=1S/C8H10O2/c9-6-7-10-8-4-2-1-3-5-8/h1-5,9H,6-7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>Dichloromethane</Name>
+        <Labels>ECHA Pimephales_promelas 28-days</Labels>
+        <Cargos></Cargos>
+        <Cas>75-09-2</Cas>
+        <InChI>InChI=1S/CH2Cl2/c2-1-3/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>1,2-Dichloroethane</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>107-06-2</Cas>
+        <InChI>InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>1,1,2-Trichloroethane</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>79-00-5</Cas>
+        <InChI>InChI=1S/C2H3Cl3/c3-1-2(4)5/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>1,2-Dichloropropane</Name>
+        <Labels>ECHA Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>78-87-5</Cas>
+        <InChI>InChI=1S/C3H6Cl2/c1-3(5)2-4/h3H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>1,4-Dimethoxybenzene</Name>
+        <Labels>ECOTOX Pimephales_promelas 31-days</Labels>
+        <Cargos></Cargos>
+        <Cas>150-78-7</Cas>
+        <InChI>InChI=1S/C8H10O2/c1-9-7-3-5-8(10-2)6-4-7/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>1,1,2,2-Tetrachloroethane</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>79-34-5</Cas>
+        <InChI>InChI=1S/C2H2Cl4/c3-1(4)2(5)6/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>Toluene</Name>
+        <Labels>ECHA Oncorhynchus_kisutch 40-days</Labels>
+        <Cargos></Cargos>
+        <Cas>108-88-3</Cas>
+        <InChI>InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>trans-1,2-Dichlorocyclohexane</Name>
+        <Labels>ECOTOX Pimephales_promelas 31-days</Labels>
+        <Cargos></Cargos>
+        <Cas>822-86-6</Cas>
+        <InChI>InChI=1S/C6H10Cl2/c7-5-3-1-2-4-6(5)8/h5-6H,1-4H2/t5-,6-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>Pentachloroethane</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>76-01-7</Cas>
+        <InChI>InChI=1S/C2HCl5/c3-1(4)2(5,6)7/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>1,1'-[Oxybis(methylene)]dibenzene</Name>
+        <Labels>ECHA Oryzias_latipes 21-days</Labels>
+        <Cargos></Cargos>
+        <Cas>103-50-4</Cas>
+        <InChI>InChI=1S/C14H14O/c1-3-7-13(8-4-1)11-15-12-14-9-5-2-6-10-14/h1-10H,11-12H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>1-Chloro-4-methylbenzene</Name>
+        <Labels>ECOTOX Danio_rerio 28-days</Labels>
+        <Cargos></Cargos>
+        <Cas>106-43-4</Cas>
+        <InChI>InChI=1S/C7H7Cl/c1-6-2-4-7(8)5-3-6/h2-5H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>1,3-Dichlorobenzene</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>541-73-1</Cas>
+        <InChI>InChI=1S/C6H4Cl2/c7-5-2-1-3-6(8)4-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>3,4-Dichlorotoluene</Name>
+        <Labels>ECOTOX Pimephales_promelas 31-days</Labels>
+        <Cargos></Cargos>
+        <Cas>95-75-0</Cas>
+        <InChI>InChI=1S/C7H6Cl2/c1-5-2-3-6(8)7(9)4-5/h2-4H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>1,2,4-Trichlorobenzene</Name>
+        <Labels>ECHA Oryzias_latipes 21-days</Labels>
+        <Cargos></Cargos>
+        <Cas>120-82-1</Cas>
+        <InChI>InChI=1S/C6H3Cl3/c7-4-1-2-5(8)6(9)3-4/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>1,2,3-Trichlorobenzene</Name>
+        <Labels>ECOTOX Danio_rerio 28-days</Labels>
+        <Cargos></Cargos>
+        <Cas>87-61-6</Cas>
+        <InChI>InChI=1S/C6H3Cl3/c7-4-2-1-3-5(8)6(4)9/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>Phenanthrene</Name>
+        <Labels>ECOTOX Oncorhynchus_mykiss 60-days</Labels>
+        <Cargos></Cargos>
+        <Cas>85-01-8</Cas>
+        <InChI>InChI=1S/C14H10/c1-3-7-13-11(5-1)9-10-12-6-2-4-8-14(12)13/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta-gamma-2-benzopyran</Name>
+        <Labels>ECHA Pimephales_promelas 36-days</Labels>
+        <Cargos></Cargos>
+        <Cas>1222-05-5</Cas>
+        <InChI>InChI=1S/C18H26O/c1-11-9-19-10-13-7-15-16(8-14(11)13)18(5,6)12(2)17(15,3)4/h7-8,11-12H,9-10H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>V1</Id>
+        <Name>2-Methoxy-2-methylpropane</Name>
+        <Labels>ECHA Pimephales_promelas 31-days</Labels>
+        <Cargos></Cargos>
+        <Cas>1634-04-4</Cas>
+        <InChI>InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>V2</Id>
+        <Name>4-Methyl-2-pentanone</Name>
+        <Labels>ECOTOX Pimephales_promelas 31-days</Labels>
+        <Cargos></Cargos>
+        <Cas>108-10-1</Cas>
+        <InChI>InChI=1S/C6H12O/c1-5(2)4-6(3)7/h5H,4H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>V3</Id>
+        <Name>1,2-Dibromoethane</Name>
+        <Labels>ECETOC Oryzias_latipes 28-days</Labels>
+        <Cargos></Cargos>
+        <Cas>106-93-4</Cas>
+        <InChI>InChI=1S/C2H4Br2/c3-1-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>V4</Id>
+        <Name>Benzene</Name>
+        <Labels>ECHA Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>71-43-2</Cas>
+        <InChI>InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>V5</Id>
+        <Name>Chlorobenzene</Name>
+        <Labels>ECHA Danio_rerio 28-days</Labels>
+        <Cargos></Cargos>
+        <Cas>108-90-7</Cas>
+        <InChI>InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>V6</Id>
+        <Name>Naphthalene</Name>
+        <Labels>ECHA Oncorhynchus_kisutch 40-days</Labels>
+        <Cargos></Cargos>
+        <Cas>91-20-3</Cas>
+        <InChI>InChI=1S/C10H8/c1-2-6-10-8-4-3-7-9(10)5-1/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>V7</Id>
+        <Name>1,4-Dichlorobenzene</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>106-46-7</Cas>
+        <InChI>InChI=1S/C6H4Cl2/c7-5-1-2-6(8)4-3-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>V8</Id>
+        <Name>Biphenyl</Name>
+        <Labels>ECHA Oncorhynchus_mykiss 87-days</Labels>
+        <Cargos></Cargos>
+        <Cas>92-52-4</Cas>
+        <InChI>InChI=1S/C12H10/c1-3-7-11(8-4-1)12-9-5-2-6-10-12/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>V9</Id>
+        <Name>Hexachloroethane</Name>
+        <Labels>ECOTOX Pimephales_promelas 32-days</Labels>
+        <Cargos></Cargos>
+        <Cas>67-72-1</Cas>
+        <InChI>InChI=1S/C2Cl6/c3-1(4,5)2(6,7)8</InChI>
+    </Compound>
+    <Compound>
+        <Id>V10</Id>
+        <Name>1,2,3,4-Tetrachlorobenzene</Name>
+        <Labels>ECOTOX Danio_rerio 28-days</Labels>
+        <Cargos></Cargos>
+        <Cas>634-66-2</Cas>
+        <InChI>InChI=1S/C6H2Cl4/c7-3-1-2-4(8)6(10)5(3)9/h1-2H</InChI>
+    </Compound>
+</CompoundRegistry>

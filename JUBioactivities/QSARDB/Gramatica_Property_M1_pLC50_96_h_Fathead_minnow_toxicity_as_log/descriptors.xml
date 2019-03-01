@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>nN</Id>
+        <Name>The number of nitrogens</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-1</Id>
+        <Name>Valence path, order 1</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>NaasC</Id>
+        <Name>Count of atom-type E-State: :C:-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HybRatio</Id>
+        <Name>Fraction of sp3 carbons to sp2 carbons</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAtomLAC</Id>
+        <Name>Number of atoms in the longest aliphatic chain</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MLFER_BH</Id>
+        <Name>Overall or summation solute hydrogen bond basicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-0</Id>
+        <Name>Valence path, order 0</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAromBond</Id>
+        <Name>The number of aromatic bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MAXDP</Id>
+        <Name>Maximum positive intrinsic state difference in the molecule</Name>
+        <Description>Related to the electrophilicity of the molecule.  Using deltaV = (Zv-maxBondedHydrogens) /(atomicNumber-Zv-1)</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBAcc</Id>
+        <Name>Number of hydrogen bond acceptors</Name>
+        <Description>using CDK HBondAcceptorCountDescriptor algorithm</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MW</Id>
+        <Name>Molecular weight</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>maxHBa</Id>
+        <Name>Maximum E-States for (strong) Hydrogen Bond acceptors</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MinsCl</Id>
+        <Name>Minimum atom-type E-State: -Cl</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nBondsS2</Id>
+        <Name>Total number of single bonds</Name>
+        <Description>Including bonds to hydrogens, excluding aromatic bonds</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBDon_Lipinski</Id>
+        <Name>Number of hydrogen bond donors</Name>
+        <Description>Using Lipinski's definition: Any OH or NH. Each available hydrogen atom is counted as one hydrogen bond donor</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>maxHsOH</Id>
+        <Name>Maximum atom-type H E-State: -OH</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>hmax</Id>
+        <Name>Maximum H E-State</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-13</Id>
+        <Name>Molecular distance edge between all primary and tertiary carbons</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-23</Id>
+        <Name>Molecular distance edge between all secondary and tertiary carbons</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>n6Ring</Id>
+        <Name>Number of 6-membered rings</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nFG12Ring</Id>
+        <Name>Number of &gt;12-membered fused rings</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VAdjMat</Id>
+        <Name>Vertex adjacency information (magnitude)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>gmax</Id>
+        <Name>The maximum electrotopological state</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nX</Id>
+        <Name>The number of halogens</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SaaaC</Id>
+        <Name>Sum of atom-type E-State: ::C:</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PubchemFP503</Id>
+        <Name>Pubchem fingerprint — simple smart pattern: Clsingle bondC:Csingle bond[#1]</Name>
+        <Description>These bits test for the presence of simple SMARTS patterns, regardless of count, but where bond orders are specific and bond aromaticity matches both single and double bonds.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PubchemFP29</Id>
+        <Name>Pubchem fingerprint — count of individual chemical atoms ≥ 2Si</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>minHBd</Id>
+        <Name>The minimum E-State energy for hydrogen bond donors</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ndsCH</Id>
+        <Name>Count of atom-type double bond; length as =CH-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-2</Id>
+        <Name>Valence path, order 2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>maxHdsCH</Id>
+        <Name>Maximum atom-type H E-State: =CH-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nsCH3</Id>
+        <Name>Count of atom-type E-State: -CH3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>minHdCH2</Id>
+        <Name>Minimum atom-type H E-State: =CH2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C3SP2</Id>
+        <Name>Doubly bound carbon bound to three other carbons</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>maxHaaCH</Id>
+        <Name>Maximum atom-type H E-State: :CH:</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VCH-7</Id>
+        <Name>Valence chain, order 7</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SC-5</Id>
+        <Name>Simple cluster, order 5</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SsBr</Id>
+        <Name>Sum of atom-type E-State: -Br.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-3</Id>
+        <Name>Valence path, order 3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>XLogP</Id>
+        <Name>logP based on the atom-type method</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TopoPSA</Id>
+        <Name>Topological polar surface area</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nsssCH</Id>
+        <Name>Count of atom-type E-State: &gt;CH-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C2SP2</Id>
+        <Name>Doubly bound carbon bound to two other carbons</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>minHCsats</Id>
+        <Name>Minimum atom-type H E-State: H bonded to B, Si, P, Ge, As, Se, Sn or Pb</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SCH-5</Id>
+        <Name>Simple chain, order 5</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SHBint3</Id>
+        <Name>Sum of E-State descriptors of strength for potential Hydrogen Bonds of path length 3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>maxdO</Id>
+        <Name>Maximum atom-type E-State: =O</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SHCsats</Id>
+        <Name>Sum of atom-type H E-State: H on C sp3 bonded to saturated C</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PubchemFP344</Id>
+        <Name>C(~C)(~H). Simple atom nearest neighbors</Name>
+        <Description>These bits test for the  presence of atom nearest neighbor patterns, regardless of  bond order (denoted by "~") or count, but where bond aromaticity (denoted by ":") is significant.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nH</Id>
+        <Name>Number of hydrogen atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBint2</Id>
+        <Name>Count of E-State descriptors of strength for potential Hydrogen Bonds of path length 2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nsF</Id>
+        <Name>Count of atom-type E-State: -F</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-12</Id>
+        <Name>Molecular distance edge between all primary and secondary carbons</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PubchemFP572</Id>
+        <Name>N:C:N:C</Name>
+        <Description>These bits test for the presence of simple SMARTS patterns, regardless of count, but where bond orders are specific and bond aromaticity matches both single and double bonds.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>minssssC</Id>
+        <Name>Minimum atom-type E-State: &gt;C&lt;</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nTRing</Id>
+        <Name>Number of rings (includes counts from fused rings)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-1</Id>
+        <Name>Simple path, order 1</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBAcc2</Id>
+        <Name>Number of hydrogen bond acceptors</Name>
+        <Description>Any oxygen; any nitrogen where the formal charge of the nitrogen is non-positive (i.e. formal charge &lt;= 0) except a non-aromatic nitrogen that is adjacent to an oxygen and aromatic ring, or an aromatic nitrogen with a hydrogen atom in a ring, or an aromatic nitrogen with 3 neighouring atoms in a ring, or a nitrogen with total bond order &gt;=4; any fluorine</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSc5</Id>
+        <Name>ATS autocorrelation descriptor, weighted by charges</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>minwHBa</Id>
+        <Name>Minimum E-States for weak Hydrogen Bond acceptors</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SwHBa</Id>
+        <Name>Sum of E-States for weak Hydrogen Bond acceptors</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-22</Id>
+        <Name>Molecular distance edge between all secondary nitrogens</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPOL</Id>
+        <Name>Wiener polarity number</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPATH</Id>
+        <Name>Wiener path number</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nT9Ring</Id>
+        <Name>Number of 9-membered rings</Name>
+        <Description>Includes counts from fused rings</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+</DescriptorRegistry>

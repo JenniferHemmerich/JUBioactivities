@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/159/2011C634.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logKoc: Logarithm of soil sorption coefficient "
+Paper:"Wen, Y.; Su, L. M.; Qin, W. C.; Fu, L.; He, J.; Zhao, Y. H. Linear and non-linear relationships between soil sorption and hydrophobicity: Model, validation and influencing factors. Chemosphere 2012, 86, 634–640."
+EP:"Property logKoc: Logarithm of soil sorption coefficient "
+Author:Wen
+Filename:"Wen_Property logKoc: Logarithm of soil sorption coefficient"

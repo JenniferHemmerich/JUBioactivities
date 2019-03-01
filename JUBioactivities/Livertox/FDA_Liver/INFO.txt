@@ -1,0 +1,6 @@
+FDA Human Liver Adverse Effects Dataset  
+
+Matthews, E.J., Kruhlak, N.L., Weaver, J.L., Benz, R.D., and Contrera, J.F.
+Assessment of the Health Effects of Chemicals in Humans: II. Construction of an Adverse Effects Database for
+QSAR Modeling,
+Current Drug Discovery Technologies, 2005

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/48/gj654452717n51p7.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property MOA: Mode of action"
+Paper:"Gagliardi, S.R.; Schultz, T.W. Regression Comparisons of Aquatic Toxicity of Benzene Derivatives: Tetrahymena pyriformis and Rana japonica. Bull. Environ. Contam. Toxicol. 2005, 74, 2, 256–262."
+EP:"Property MOA: Mode of action"
+Author:Gagliardi
+Filename:"Gagliardi_Property MOA: Mode of action"

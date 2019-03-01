@@ -1,0 +1,1 @@
+C1CC1([C@](Cc1ccccc1Cl)(Cn1c(=S)[nH]cn1)O)Cl

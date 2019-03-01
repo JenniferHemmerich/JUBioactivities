@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Estimating the toxicities of organic chemicals in activated sludge process</Name>
+    <Description>The experimental log EC(50) toxicity values of 104 compounds causing bioluminescent repression of the bacterium strain Pseudomonas isolated from an industrial wastewater were studied. Using the Best Multilinear Regression method implemented in CODESSA PRO, models with up to 8 theoretical descriptors were obtained. Utilizing a rigorous descriptor selection and validation procedure a reliable QSAR model with four parameters was selected as best. The proposed model emphasizes the importance of the halogen atoms presented in each compound, the possibility of H-bond formation and the flexibility and degree of branching of the molecules. As pointed out by many researchers, the contribution of the octanol water partition coefficient to the explanation of the toxicity effect was also found to be significant. In addition, the model currently proposed was compared to those reported earlier and its advantages were discussed in detail.</Description>
+</Archive>

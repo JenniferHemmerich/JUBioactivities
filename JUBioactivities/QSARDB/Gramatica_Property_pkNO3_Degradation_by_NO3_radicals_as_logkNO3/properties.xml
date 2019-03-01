@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pkNO3</Id>
+        <Name>Degradation by NO3 radicals as -logkNO3</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.2. Persistence: Abiotic degradation in air</Endpoint>
+    </Property>
+</PropertyRegistry>

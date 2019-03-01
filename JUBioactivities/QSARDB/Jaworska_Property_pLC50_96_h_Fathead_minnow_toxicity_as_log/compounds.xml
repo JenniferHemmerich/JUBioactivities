@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>Methyl acetate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>79-20-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>Ethyl acetate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>141-78-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>Propyl acetate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>109-60-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>Butylacetate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>123-86-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>Hexyl acetate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>142-92-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>Ethyl benzoate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>93-89-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>Methyl-2,5-dichloro benzoate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>2905-69-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>Ethylhexanoate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>123-66-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>Diethyl malonate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>105-53-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>Diethylsebacate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>110-40-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>Methyl-4-chloro benzoate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>1126-46-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>Diethyl phthalate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>84-66-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>Dimethyl phthalate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>131-11-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>Diethyl adipate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>141-28-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>Di-n-butyl terephthalate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>1962-75-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>Diphenyl phthtalate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>84-62-8</Cas>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>Dibutyl fumarate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>105-75-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>Dibutyl adipate</Name>
+        <Labels>training</Labels>
+        <Cargos></Cargos>
+        <Cas>105-99-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>Propyl formate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>110-74-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>Butyl formate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>592-84-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>1-naphthyl acetate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>830-81-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>Methylphenyl acetate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>101-41-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>Methyl propionate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>554-12-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>Methyl octanoate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>111-11-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>Methyl benzoate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>93-58-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>Ethyl-2-methyl butyrate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>7452-79-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>Decyl acetate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>112-17-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>Dibutyl phtalate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>84-74-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>Diethyl suberate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>2050-23-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>Diethyl succinate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>123-25-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>Ethyl propionate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>105-37-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>Ethyl butyrate</Name>
+        <Labels>validation</Labels>
+        <Cargos></Cargos>
+        <Cas>105-54-4</Cas>
+    </Compound>
+</CompoundRegistry>

@@ -1,0 +1,1 @@
+COc1c(OC)cc2c([C@@H]3[C@H](CO2)Oc2c(C3=O)ccc3c2C[C@H](O3)C(=C)C)c1

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/94/AbrahamSolvents.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property s: s"
+Paper:Lang, Andrew SID; Bradley, Jean-Claude Abraham model solvent coefficient s.
+EP:"Property s: s"
+Author:Lang
+Filename:"Lang_Property s: s"

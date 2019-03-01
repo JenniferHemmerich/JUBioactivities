@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>M1.pLC50</Id>
+        <Name>96-h Fathead minnow toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Pimephales promelas (Fathead minnow)</Species>
+    </Property>
+    <Property>
+        <Id>M2.logKoc</Id>
+        <Name>Soil sorption coefficient as log(Koc)</Name>
+        <Description>Soil sorption partition coefficient, expressed as the ratio between chemical concentration in soil and in water, normalized to organic carbon (Koc)</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.6. Partition coefficient. Organic carbon-sorption partition coefficient.</Endpoint>
+    </Property>
+    <Property>
+        <Id>M3.GHLI</Id>
+        <Name>Global half-life index</Name>
+        <Description>The Global Half-Life Index (GHLI) is a macro-variable which condenses
+the chemical tendency to environmental persistence.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>M4.logRBA</Id>
+        <Name>Estrogen receptor relative binding affinity as log(RBA)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.18. Endocrine Activity</Endpoint>
+        <Species>Rattus norvegicus (Rat)</Species>
+    </Property>
+    <Property>
+        <Id>M5.logHLn</Id>
+        <Name>Biotransformation half-lives in fish</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>M6.pLC50</Id>
+        <Name>Fathead minnow toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Pimephales promelas (Fathead minnow)</Species>
+    </Property>
+    <Property>
+        <Id>M7.pEC50</Id>
+        <Name>Daphnia toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.1. Short-term toxicity to Daphnia</Endpoint>
+        <Species>Daphnia magna</Species>
+    </Property>
+    <Property>
+        <Id>M8.logTA100</Id>
+        <Name>The mutagenicity potency in TA100 (without the S9 activation system) as log(TA100)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.10. Mutagenicity</Endpoint>
+        <Species>Salmonella typhimurium</Species>
+    </Property>
+    <Property>
+        <Id>M9.logKoa</Id>
+        <Name>Octanol-air partition coefficient as log(Koa)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.8. Octanol-air partition coefficient (Koa)</Endpoint>
+    </Property>
+    <Property>
+        <Id>M10.MP</Id>
+        <Name>Melting Point</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.1. Melting point</Endpoint>
+    </Property>
+    <Property>
+        <Id>M11.pPL</Id>
+        <Name>Subcooled liquid vapour pressure as log(1/PL)</Name>
+        <Description>at 25 °C</Description>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.4. Vapour pressure</Endpoint>
+    </Property>
+    <Property>
+        <Id>M12.pLC50</Id>
+        <Name>Acute inhalation toxicity in mice as log(1/LC50)</Name>
+        <Description>Standard measure of the toxicity of the surrounding medium that will kill half of the sample population of a specific test-animal in a specified period through exposure via inhalation (respiration).</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.1. Acute Inhalation toxicity</Endpoint>
+        <Species>Mus musculus (Mouse)</Species>
+    </Property>
+    <Property>
+        <Id>M13.pLC50</Id>
+        <Name>Acute inhalation toxicity in rat as log(1/LC50)</Name>
+        <Description>Standard measure of the toxicity of the surrounding medium that will kill half of the sample population of a specific test-animal in a specified period through exposure via inhalation (respiration).</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.1. Acute Inhalation toxicity</Endpoint>
+        <Species>Rattus norvegicus (Rat)</Species>
+    </Property>
+    <Property>
+        <Id>M14.pLD50</Id>
+        <Name>Acute oral toxicity in rat as log(1/LD50)</Name>
+        <Description>Standard measure of the toxicity of a material that will kill half of
+the sample population of a specific test animal in a specified period
+through exposure via ingestion, skin contact, or injection.</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.2. Acute Oral toxicity</Endpoint>
+        <Species>Rattus norvegicus (Rat)</Species>
+    </Property>
+    <Property>
+        <Id>M15.logSw</Id>
+        <Name>Water solubility as log(Sw)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.3. Water solubility</Endpoint>
+    </Property>
+    <Property>
+        <Id>M16.logVP</Id>
+        <Name>Vapor pressure as log(VP)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.4. Vapour pressure</Endpoint>
+    </Property>
+    <Property>
+        <Id>M17.logKow</Id>
+        <Name>The octanol-water partition coefficient as log(Kow)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.6. Octanol-water partition coefficient (Kow)</Endpoint>
+    </Property>
+    <Property>
+        <Id>M18.MP</Id>
+        <Name>Melting point</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.1. Melting point</Endpoint>
+    </Property>
+    <Property>
+        <Id>M19.logSw</Id>
+        <Name>Water solubility as log(Sw)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.3. Water solubility</Endpoint>
+    </Property>
+    <Property>
+        <Id>M20.logVP</Id>
+        <Name>Vapor pressure as log(VP)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.4. Vapour pressure</Endpoint>
+    </Property>
+    <Property>
+        <Id>M21.pEC50</Id>
+        <Name>72-h Algal toxicity as log(1/EC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.2. Short-term toxicity to algae</Endpoint>
+        <Species>Pseudokirchneriella subcapitata</Species>
+    </Property>
+    <Property>
+        <Id>M22.pEC50</Id>
+        <Name>Daphnia toxicity as log(1/EC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.1. Short-term toxicity to Daphnia</Endpoint>
+        <Species>Daphnia magna</Species>
+    </Property>
+    <Property>
+        <Id>M23.pLC50</Id>
+        <Name>96-h Rainbow trout toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Oncorhynchus mykiss (Rainbow trout)</Species>
+    </Property>
+</PropertyRegistry>

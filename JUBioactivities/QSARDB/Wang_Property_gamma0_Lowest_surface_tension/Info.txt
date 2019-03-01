@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/152/2005JDST441.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property gamma0: Lowest surface tension [mN/m]"
+Paper:Wang, Z.-W.; Feng, J.-L.; Wang, H.-J.; Cui, Z.-G.; Li, G.-Z. Effectiveness of Surface Tension Reduction by Nonionic Surfactants with Quantitative Structure-Property Relationship Approach. J. Dispersion Sci. Technol. 2005, 26, 441–447.
+EP:"Property gamma0: Lowest surface tension "
+Author:Wang
+Filename:"Wang_Property gamma0: Lowest surface tension"

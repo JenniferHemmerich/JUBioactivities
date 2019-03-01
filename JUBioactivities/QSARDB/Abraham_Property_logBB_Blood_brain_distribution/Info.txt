@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/132/2006JPS2091.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logBB: Blood-brain distribution"
+Paper:Abraham, M. H.; Ibrahim, A.; Zhao, Y.; Acree, W. E. A data base for partition of volatile organic compounds and drugs from blood/plasma/serum to brain, and an LFER analysis of the data. J. Pharm. Sci. 2006, 95, 10, 2091–2100.
+EP:"Property logBB: Blood-brain distribution"
+Author:Abraham
+Filename:"Abraham_Property logBB: Blood-brain distribution"

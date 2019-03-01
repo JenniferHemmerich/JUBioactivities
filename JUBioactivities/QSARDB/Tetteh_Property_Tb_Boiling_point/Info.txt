@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/158/1999JCIM491.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property Tb: Boiling point [°C]"
+Paper:Tetteh, J.; Suzuki, T.; Metcalfe, E.; Howells, S. Quantitative Structure-Property Relationships for the Estimation of Boiling Point and Flash Point Using a Radial Basis Function Neural Network. J. Chem. Inf. Model. 1999, 39, 491-507.
+EP:"Property Tb: Boiling point "
+Author:Tetteh
+Filename:"Tetteh_Property Tb: Boiling point"

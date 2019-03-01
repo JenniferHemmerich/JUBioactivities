@@ -1,0 +1,1 @@
+OCCN=C(O)Cn1cnc(n1)[N+]([O-])=O

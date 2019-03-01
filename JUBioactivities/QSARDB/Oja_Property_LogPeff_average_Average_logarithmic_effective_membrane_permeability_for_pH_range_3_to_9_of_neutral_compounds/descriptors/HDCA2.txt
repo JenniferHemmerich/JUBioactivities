@@ -1,0 +1,16 @@
+Compound Id	HA dependent HDCA-2 (Zefirov PC)
+N1	0.58
+N2	0.87
+N4	0.21
+N5	1.37
+N6	0.27
+N7	0.52
+N8	1.39
+N9	0.19
+N11	0.9
+N12	1.39
+N14	0.96
+N15	0.82
+N3	0.65
+N10	0.74
+N13	1.16

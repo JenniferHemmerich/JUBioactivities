@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/141/2007EMM754.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property TA100: Mutagenicity for strain TA100 + S9 metabolism [[lg(revertants/nmol)]]"
+Paper:"Benigni, R.; Bossa, C.; Netzeva, T. I.; Rodomonte, A.; Tsakovska, I. Mechanistic QSAR of aromatic amines: New models for discriminating between homocyclic mutagens and nonmutagens, and validation of models for carcinogens. Environ. Mol. Mutagen. 2007, 48, 754–771."
+EP:"Property TA100: Mutagenicity for strain TA100 + S9 metabolism "
+Author:Benigni
+Filename:"Benigni_Property TA100: Mutagenicity for strain TA100 + S9 metabolism"

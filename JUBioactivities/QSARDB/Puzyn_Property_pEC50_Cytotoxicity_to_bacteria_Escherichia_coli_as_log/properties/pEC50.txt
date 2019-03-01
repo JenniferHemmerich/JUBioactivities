@@ -1,0 +1,18 @@
+Compound Id	Cytotoxicity to bacteria Escherichia coli as log(1/EC50)
+ZnO	3.45
+CuO	3.2
+Y2O3	2.87
+Bi2O3	2.82
+In2O3	2.81
+Al2O3	2.49
+Fe2O3	2.29
+SiO2	2.2
+SnO2	2.01
+TiO2	1.74
+V2O3	3.14
+Sb2O3	2.64
+ZrO2	2.15
+CoO	3.51
+NiO	3.45
+Cr2O3	2.51
+La2O3	2.87

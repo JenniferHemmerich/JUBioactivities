@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/76/906420958.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Ellison, C.M.; Cronin, M.T.D.; Madden, J.C.; Schultz, T.W. Definition of the structural domain of the baseline non-polar narcosis model for Tetrahymena pyriformis. SAR QSAR Environ. Res. 2008, 19, 7-8, 751–783.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Ellison
+Filename:"Ellison_Property pIGC50: 40-h Tetrahymena toxicity as log"

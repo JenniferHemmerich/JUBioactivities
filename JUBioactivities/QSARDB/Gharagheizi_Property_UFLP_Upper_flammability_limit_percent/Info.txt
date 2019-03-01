@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/197/2009JHM507.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property UFLP: Upper ﬂammability limit percent [%]"
+Paper:Gharagheizi, F. Prediction of upper flammability limit percent of pure compounds from their molecular structures. J. Hazard. Mater. 2009, 167, 507–510.
+EP:"Property UFLP: Upper ﬂammability limit percent "
+Author:Gharagheizi
+Filename:"Gharagheizi_Property UFLP: Upper ﬂammability limit percent"

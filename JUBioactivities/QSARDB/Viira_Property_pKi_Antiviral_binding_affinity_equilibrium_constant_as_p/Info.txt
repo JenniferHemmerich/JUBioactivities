@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/202/2017JMGMxxx.zip?sequence=1&isAllowed=y
+Endpoint:"Property pKi: Antiviral binding affinity equilibrium constant as p(Ki) [-log(mol/L)]"
+Paper:Viira, B.; Garcia-Sosa, A. T.; Maran, U. Chemical Structure and Correlation Analysis of HIV-1 NNRT and NRT Inhibitors and Database-Curated, Published Inhibition Constants with Chemical Structure in Diverse Datasets. J. Mol. Graph. Model. 2017, 76, 205-223.
+EP:"Property pKi: Antiviral binding affinity equilibrium constant as p"
+Author:Viira
+Filename:"Viira_Property pKi: Antiviral binding affinity equilibrium constant as p"

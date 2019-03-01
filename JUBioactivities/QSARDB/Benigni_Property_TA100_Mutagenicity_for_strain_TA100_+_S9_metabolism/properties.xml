@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>TA100</Id>
+        <Name>Mutagenicity for strain TA100 + S9 metabolism</Name>
+        <Labels>Training set</Labels>
+        <Cargos>values ucum</Cargos>
+        <Endpoint>4. Human health effects 4.10. Mutagenicity</Endpoint>
+        <Species>Salmonella typhimurium</Species>
+    </Property>
+    <Property>
+        <Id>Mutagenicity</Id>
+        <Name>Mutagenic class</Name>
+        <Labels>Training set</Labels>
+        <Cargos>values</Cargos>
+        <Endpoint>4. Human health effects 4.10. Mutagenicity</Endpoint>
+        <Species>Salmonella typhimurium</Species>
+    </Property>
+</PropertyRegistry>

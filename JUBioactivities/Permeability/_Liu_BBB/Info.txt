@@ -1,0 +1,8 @@
+Structures were drawn manually eg might contain errors
+
+Paper:
+
+J. Chem. Inf. Comput. Sci. 2001, 41, 1623-1632
+Development of Quantitative Structure-Property Relationship Models for Early ADME
+Evaluation in Drug Discovery. 2. Blood-Brain Barrier Penetration
+Ruifeng Liu, Hongmao Sun, and Sung-Sau So

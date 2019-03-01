@@ -1,0 +1,1 @@
+Cc1ccc(cc1)N(CC2=NCCN2)c3cc(O)ccc3

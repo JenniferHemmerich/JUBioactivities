@@ -1,0 +1,1 @@
+n1([C@@H](Cc2c(cc(Cl)cc2)Cl)[C@@H](C(C)(C)C)O)cncn1

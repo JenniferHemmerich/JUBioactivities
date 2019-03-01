@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/17/tx9003648.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property IGC50: 40-h Tetrahymena toxicity as IGC50 [mmol/L]"
+Paper:"Roberts, D.W.; Schultz, T.W.; Wolf, E.M.; Aptula, A.O. Experimental Reactivity Parameters for Toxicity Modeling: Application to the Acute Aquatic Toxicity of SN2 Electrophiles to Tetrahymena pyriformis. Chem. Res. Toxicol. 2010, 23, 1, 228–234."
+EP:"Property IGC50: 40-h Tetrahymena toxicity as IGC50 "
+Author:Roberts
+Filename:"Roberts_Property IGC50: 40-h Tetrahymena toxicity as IGC50"

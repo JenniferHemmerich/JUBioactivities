@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logRD50</Id>
+        <Name>Respiratory sensitisation as logarithm of toxicity</Name>
+        <Labels>Training set</Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.7. Respiratory sensitisation</Endpoint>
+        <Species></Species>
+    </Property>
+    <Property>
+        <Id>pIGC50</Id>
+        <Name>40-h Tetrahymena toxicity as log(1/IGC50)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+        <Species>Tetrahymena pyriformis</Species>
+    </Property>
+</PropertyRegistry>

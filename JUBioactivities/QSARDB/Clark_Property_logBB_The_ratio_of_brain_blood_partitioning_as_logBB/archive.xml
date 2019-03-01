@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Rapid calculation of polar molecular surface area and its application to the prediction of transport phenomena. 2. Prediction of blood-brain barrier penetration</Name>
+    <Description>This paper describes the derivation of a simple QSAR model for the prediction of log BB from a set of 55 diverse organic compounds. The model contains two variables: polar surface area (PSA) and calculated logP, both of which can be rapidly computed. It therefore permits the prediction of log BB for large compound sets, such as virtual combinatorial libraries. The performance of this QSAR on two test sets taken from the literature is illustrated and compared with results from other reported computational approaches to log BB prediction.</Description>
+</Archive>

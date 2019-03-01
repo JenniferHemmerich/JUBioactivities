@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>X1</Id>
+        <Name>Functional Group -H</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X2</Id>
+        <Name>Functional Group -CH3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X3</Id>
+        <Name>Functional Group -CH2-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X4</Id>
+        <Name>Functional Group &gt;CH-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X5</Id>
+        <Name>Functional Group &gt;C&lt;</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X6</Id>
+        <Name>Functional Group =CH2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X7</Id>
+        <Name>Functional Group =CH-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X8</Id>
+        <Name>Functional Group =C&lt;</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X9</Id>
+        <Name>Functional Group #CH</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X10</Id>
+        <Name>Functional Group #C-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X11</Id>
+        <Name>Functional Group (-CH2-)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X12</Id>
+        <Name>Functional Group (&gt;CH-)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X13</Id>
+        <Name>Functional Group (&gt;C&lt;)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X14</Id>
+        <Name>Functional Group (=CH-)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X15</Id>
+        <Name>Functional Group (=C&lt;)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X16</Id>
+        <Name>Functional Group aCHa</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X17</Id>
+        <Name>Functional Group saCa</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X18</Id>
+        <Name>Functional Group -OH (alcohol)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X19</Id>
+        <Name>Functional Group -OH (phenol)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X20</Id>
+        <Name>Functional Group -O-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X21</Id>
+        <Name>Functional Group (-O-)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X22</Id>
+        <Name>Functional Group aOa</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X23</Id>
+        <Name>Functional Group &gt;C=O</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X24</Id>
+        <Name>Functional Group (&gt;C=O)R</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X25</Id>
+        <Name>Functional Group -CHO</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X26</Id>
+        <Name>Functional Group -COOH</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X27</Id>
+        <Name>Functional Group -COO-</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X28</Id>
+        <Name>Functional Group aaCa</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D1</Id>
+        <Name>Total.energy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D2</Id>
+        <Name>Electronic.energy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D3</Id>
+        <Name>Heat.of.formation..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D4</Id>
+        <Name>HOMO.eigenvalue..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D5</Id>
+        <Name>LUMO.eigenvalue..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D6</Id>
+        <Name>Molecular.surface.area..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D7</Id>
+        <Name>Total.dipole..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D8</Id>
+        <Name>Dipole.x..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D9</Id>
+        <Name>Dipole.y..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D10</Id>
+        <Name>Dipole.z..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D11</Id>
+        <Name>Quadrupole.xx..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D12</Id>
+        <Name>Quadrupole.xy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D13</Id>
+        <Name>Quadrupole.yy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D14</Id>
+        <Name>Quadrupole.xz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D15</Id>
+        <Name>Quadrupole.yz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D16</Id>
+        <Name>Quadrupole.zz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D17</Id>
+        <Name>Octupole.xxx..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D18</Id>
+        <Name>Octupole.xxy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D19</Id>
+        <Name>Octupole.xxz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D20</Id>
+        <Name>Octupole.xyy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D21</Id>
+        <Name>Octupole.xyz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D22</Id>
+        <Name>Octupole.xzz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D23</Id>
+        <Name>Octupole.yyy..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D24</Id>
+        <Name>Octupole.yyz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D25</Id>
+        <Name>Octupole.yzz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D26</Id>
+        <Name>Octupole.zzz..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D27</Id>
+        <Name>Mean.polarizability..VAMP.Electrostatics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D28</Id>
+        <Name>Total.charge..Atomistic.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D29</Id>
+        <Name>Total.molecular.mass..Atomistic.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D30</Id>
+        <Name>Atom.count..Atomistic.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D31</Id>
+        <Name>Element.count..Atomistic.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D32</Id>
+        <Name>Total.energy..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D33</Id>
+        <Name>Binding.energy..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D34</Id>
+        <Name>HOMO.energy..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D35</Id>
+        <Name>LUMO.energy..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D36</Id>
+        <Name>LUMO.HOMO.energy..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D37</Id>
+        <Name>Total.dipole..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D38</Id>
+        <Name>Dipole.x..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D39</Id>
+        <Name>Dipole.y..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D40</Id>
+        <Name>Dipole.z..DMol3.Molecular.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D41</Id>
+        <Name>Rotatable.bonds..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D42</Id>
+        <Name>Hydrogen.bond.donor..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D43</Id>
+        <Name>Hydrogen.bond.acceptor..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D44</Id>
+        <Name>AlogP..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D45</Id>
+        <Name>AlogP98..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D46</Id>
+        <Name>Molecular.refractivity..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D47</Id>
+        <Name>Molecular.flexibility..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D48</Id>
+        <Name>Balaban.index.JX..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D49</Id>
+        <Name>Balaban.index.JY..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D50</Id>
+        <Name>Wiener.index..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D51</Id>
+        <Name>Zagreb.index..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D52</Id>
+        <Name>Kappa.1..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D53</Id>
+        <Name>Kappa.2..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D54</Id>
+        <Name>Kappa.3..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D55</Id>
+        <Name>Kappa.1..alpha.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D56</Id>
+        <Name>Kappa.2..alpha.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D57</Id>
+        <Name>Kappa.3..alpha.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D58</Id>
+        <Name>Subgraph.counts..0...path..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D59</Id>
+        <Name>Subgraph.counts..1...path..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D60</Id>
+        <Name>Subgraph.counts..2...path..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D61</Id>
+        <Name>Subgraph.counts..3...path..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D62</Id>
+        <Name>Subgraph.counts..3...cluster..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D63</Id>
+        <Name>Chi..0...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D64</Id>
+        <Name>Chi..1...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D65</Id>
+        <Name>Chi..2...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D66</Id>
+        <Name>Chi..3...path..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D67</Id>
+        <Name>Chi..3...cluster..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D68</Id>
+        <Name>Chi..0...valence.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D69</Id>
+        <Name>Chi..1...valence.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D70</Id>
+        <Name>Chi..2...valence.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D71</Id>
+        <Name>Chi..3...path..valence.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D72</Id>
+        <Name>Chi..3...cluster..valence.modified...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D73</Id>
+        <Name>Information.content..IC...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D74</Id>
+        <Name>Bond.information.content..BIC...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D75</Id>
+        <Name>Complementary.information.content..CIC...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D76</Id>
+        <Name>Structural.information.content..SIC...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D77</Id>
+        <Name>Edge.adjacency.magnitude..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D78</Id>
+        <Name>Edge.distance.magnitude..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D79</Id>
+        <Name>Vertex.adjacency.equality..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D80</Id>
+        <Name>Vertex.adjacency.magnitude..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D81</Id>
+        <Name>Vertex.distance.equality..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D82</Id>
+        <Name>Vertex.distance.magnitude..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D83</Id>
+        <Name>Atomic.composition..total...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D84</Id>
+        <Name>E.state.keys..sums...S_sCH3..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D85</Id>
+        <Name>E.state.keys..sums...S_dCH2..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D86</Id>
+        <Name>E.state.keys..sums...S_ssCH2..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D87</Id>
+        <Name>E.state.keys..sums...S_tCH..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D88</Id>
+        <Name>E.state.keys..sums...S_dsCH..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D89</Id>
+        <Name>E.state.keys..sums...S_aaCH..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D90</Id>
+        <Name>E.state.keys..sums...S_sssCH..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D91</Id>
+        <Name>E.state.keys..sums...S_ddC..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D92</Id>
+        <Name>E.state.keys..sums...S_tsC...Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D93</Id>
+        <Name>E.state.keys..sums...S_dssC..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D94</Id>
+        <Name>E.state.keys..sums...S_aasC..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D95</Id>
+        <Name>E.state.keys..sums...S_aaaC..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D96</Id>
+        <Name>E.state.keys..sums...S_ssssC..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D97</Id>
+        <Name>E.state.keys..sums...S_sOH..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D98</Id>
+        <Name>E.state.keys..sums...S_dO..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D99</Id>
+        <Name>E.state.keys..sums...S_ssO..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D100</Id>
+        <Name>E.state.keys..sums...S_aaO..Fast.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D101</Id>
+        <Name>Molecular.area..vdW.area...Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D102</Id>
+        <Name>Molecular.volume..vdW.volume...Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D103</Id>
+        <Name>Molecular.density..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D104</Id>
+        <Name>Principal.moments.of.inertia..magnitude...Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D105</Id>
+        <Name>Principal.moment.of.inertia.X..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D106</Id>
+        <Name>Principal.moment.of.inertia.Y..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D107</Id>
+        <Name>Principal.moment.of.inertia.Z..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D108</Id>
+        <Name>Radius.of.gyration..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D109</Id>
+        <Name>Ellipsoidal.volume..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D110</Id>
+        <Name>Shadow.area..XY.plane..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D111</Id>
+        <Name>Shadow.area..YZ.plane..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D112</Id>
+        <Name>Shadow.area..ZX.plane..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D113</Id>
+        <Name>Shadow.area.fraction..XY.plane..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D114</Id>
+        <Name>Shadow.area.fraction..YZ.plane..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D115</Id>
+        <Name>Shadow.area.fraction..ZX.plane..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D116</Id>
+        <Name>Shadow.length..LX..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D117</Id>
+        <Name>Shadow.length..LY..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D118</Id>
+        <Name>Shadow.length..LZ..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D119</Id>
+        <Name>Shadow.ratio..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D120</Id>
+        <Name>Dipole.moment..magnitude...Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D121</Id>
+        <Name>Dipole.moment.X..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D122</Id>
+        <Name>Dipole.moment.Y..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D123</Id>
+        <Name>Dipole.moment.Z..Spatial.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D124</Id>
+        <Name>Connolly.surface.area..Atom.Volumes.and.Surfaces.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D125</Id>
+        <Name>Connolly.surface.occupied.volume..Atom.Volumes.and.Surfaces.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D126</Id>
+        <Name>Solvent.surface.area..Atom.Volumes.and.Surfaces.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D127</Id>
+        <Name>Solvent.surface.occupied.volume..Atom.Volumes.and.Surfaces.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D128</Id>
+        <Name>SASA..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D129</Id>
+        <Name>PPSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D130</Id>
+        <Name>PNSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D131</Id>
+        <Name>DPSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D132</Id>
+        <Name>PPSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D133</Id>
+        <Name>PNSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D134</Id>
+        <Name>DPSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D135</Id>
+        <Name>PPSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D136</Id>
+        <Name>PNSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D137</Id>
+        <Name>DPSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D138</Id>
+        <Name>FPSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D139</Id>
+        <Name>FPSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D140</Id>
+        <Name>FPSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D141</Id>
+        <Name>FNSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D142</Id>
+        <Name>FNSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D143</Id>
+        <Name>FNSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D144</Id>
+        <Name>WPSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D145</Id>
+        <Name>WPSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D146</Id>
+        <Name>WPSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D147</Id>
+        <Name>WNSA1..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D148</Id>
+        <Name>WNSA2..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D149</Id>
+        <Name>WNSA3..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D150</Id>
+        <Name>RPCG..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D151</Id>
+        <Name>RNCG..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D152</Id>
+        <Name>RPCS..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D153</Id>
+        <Name>RNCS..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D154</Id>
+        <Name>TPSA..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D155</Id>
+        <Name>TASA..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D156</Id>
+        <Name>RPSA..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D157</Id>
+        <Name>RASA..Jurs.Descriptors.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D158</Id>
+        <Name>Total.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D159</Id>
+        <Name>Non.bond.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D160</Id>
+        <Name>van.der.Waals.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D161</Id>
+        <Name>Electrostatic.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D162</Id>
+        <Name>Valence.energy..diag..terms...Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D163</Id>
+        <Name>Bond.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D164</Id>
+        <Name>Angle.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D165</Id>
+        <Name>Torsion.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D166</Id>
+        <Name>Inversion.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D167</Id>
+        <Name>Valence.energy..cross.terms...Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D168</Id>
+        <Name>Stretch.Stretch.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D169</Id>
+        <Name>Stretch.Bend.Stretch.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D170</Id>
+        <Name>Stretch.Torsion.Stretch.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D171</Id>
+        <Name>Separated.Stretch.Stretch.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D172</Id>
+        <Name>Torsion.Stretch.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D173</Id>
+        <Name>Bend.Bend.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D174</Id>
+        <Name>Torsion.Bend.Bend.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D175</Id>
+        <Name>Bend.Torsion.Bend.energy..Forcite.Energetics.</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D176</Id>
+        <Name>Carboxylic.Acid..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D177</Id>
+        <Name>Glycerol..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D178</Id>
+        <Name>Glycol..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D179</Id>
+        <Name>Hydroxy..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D180</Id>
+        <Name>Methanal..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D181</Id>
+        <Name>Methoxy..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D182</Id>
+        <Name>Phenoxy..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D183</Id>
+        <Name>Butadiene..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D184</Id>
+        <Name>Butyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D185</Id>
+        <Name>Ethyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D186</Id>
+        <Name>Ethylene..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D187</Id>
+        <Name>Isobutyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D188</Id>
+        <Name>Isopropyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D189</Id>
+        <Name>Methyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D190</Id>
+        <Name>Propyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D191</Id>
+        <Name>Secondary.butyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D192</Id>
+        <Name>Tertiary.butyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D193</Id>
+        <Name>Phenyl..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D194</Id>
+        <Name>Cyclohexane..Fragment.Counts.</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Materials Studio 5.0</Application>
+    </Descriptor>
+</DescriptorRegistry>

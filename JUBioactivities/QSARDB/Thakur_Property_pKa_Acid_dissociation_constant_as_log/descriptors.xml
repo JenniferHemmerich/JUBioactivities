@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>I</Id>
+        <Name>Chlorine indicator parameter</Name>
+        <Description>1 if Cl substitution present on parent moiety 0 otherwise</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>n</Id>
+        <Name>Refractive Index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ACD/Labs</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ST</Id>
+        <Name>Surface Tension</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>ACD/Labs</Application>
+    </Descriptor>
+</DescriptorRegistry>

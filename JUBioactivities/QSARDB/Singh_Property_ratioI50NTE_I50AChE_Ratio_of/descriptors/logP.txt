@@ -1,0 +1,12 @@
+Compound Id	logarithm of octanol/water partition coefficient
+Mipafox	0.083
+Paraoxon	1.578
+Malaoxon	2.4
+Chlorpyrifos-oxon	2.8
+Dichlorovos	1.189
+Trichlorfon	-0.8
+DFP	0.36
+TSP	3.08
+PSP	1.78
+DBVP	3.3
+DOVP	8.4

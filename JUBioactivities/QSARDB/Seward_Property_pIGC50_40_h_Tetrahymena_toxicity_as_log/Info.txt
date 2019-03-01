@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/33/S0166445X00001582.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Seward, J.R.; Sinks, G.D.; Schultz, T.W. Reproducibility of toxicity across mode of toxic action in the Tetrahymena population growth impairment assay. Aquat. Toxicol. 2001, 53, 1, 33–47.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Seward
+Filename:"Seward_Property pIGC50: 40-h Tetrahymena toxicity as log"

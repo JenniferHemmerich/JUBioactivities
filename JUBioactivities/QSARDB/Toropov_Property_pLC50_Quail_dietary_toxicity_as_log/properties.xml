@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pLC50</Id>
+        <Name>Quail dietary toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.12. Toxicity to birds</Endpoint>
+        <Species>Colinus virginianus</Species>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,1 @@
+C=C[Si]1(C)O[Si](O[Si](O[Si](C)(C)O[Si](C)(C)O1)(C=C)C=C)(C=C)C=C

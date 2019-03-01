@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Qmax</Id>
+        <Name>Maximum atom electron density</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 97</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>alpha</Id>
+        <Name>Alpha-polarizability</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 97</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>mu</Id>
+        <Name>Dipole factor</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 97</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>EHOMO</Id>
+        <Name>Highest occupied orbital energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 97</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ELUMO</Id>
+        <Name>Lowest unoccupied orbital energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 97</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>qH+</Id>
+        <Name>Most positive formal charge on a hydrogen atom</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 97</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>LFLT</Id>
+        <Name>Lower flammability limit temperature</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.20. Flammability</Endpoint>
+    </Property>
+</PropertyRegistry>

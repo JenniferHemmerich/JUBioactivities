@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Hydrophobicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>CLOGP</Name>
+            <Version>3.34</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

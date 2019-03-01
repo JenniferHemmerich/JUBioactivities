@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/180/2010GC836.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property PBT_Index: PBT Index "
+Paper:"Papa, E.; Gramatica, P. QSPR as a support for the EU REACH regulation and rational design of environmentally safer chemicals: PBT identification from molecular structure. Green Chem. 2010, 12, 836-843."
+EP:"Property PBT_Index: PBT Index "
+Author:Papa
+Filename:"Papa_Property PBT_Index: PBT Index"

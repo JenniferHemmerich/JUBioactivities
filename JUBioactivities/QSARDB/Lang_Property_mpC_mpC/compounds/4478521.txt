@@ -1,0 +1,1 @@
+COc1ccc(cc1)C2=CC(=O)c3c(O)c(OC)c(O)cc3O2

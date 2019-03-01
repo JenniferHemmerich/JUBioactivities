@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/117/2007JPCB9853.zip?sequence=1&isAllowed=y
+Endpoint:"Property logS_hept: logarithm of solubility in n-heptane [mol/L]"
+Paper:Martin, D.; Maran, U.; Sild, S.; Karelson, M. QSPR Modeling of Solubility of Polyaromatic Hydrocarbons and Fullerene in 1-Octanol and n-Heptane. J. Phys. Chem. B 2007, 111, 33, 9853-9857.
+EP:"Property logS_hept: logarithm of solubility in n-heptane "
+Author:Martin
+Filename:"Martin_Property logS_hept: logarithm of solubility in n-heptane"

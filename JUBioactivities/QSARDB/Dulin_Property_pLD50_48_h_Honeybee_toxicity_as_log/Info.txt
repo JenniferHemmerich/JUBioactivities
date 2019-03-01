@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/157/2012EES13.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLD50: 48-h Honeybee toxicity as -log(LD50) [log(bee/micromol)] "
+Paper:Dulin, F.; Halm-Lemeille, M.-P.; Lozano, S.; Lepailleur, A.; Sopkova-de Oliveira Santos, J.; Rault, S.; Bureau, R. Interpretation of honeybees contact toxicity associated to acetylcholinesterase inhibitors. Ecotoxicol. Environ. Saf. 2012, 79, 13–21.
+EP:"Property pLD50: 48-h Honeybee toxicity as -log"
+Author:Dulin
+Filename:"Dulin_Property pLD50: 48-h Honeybee toxicity as -log"

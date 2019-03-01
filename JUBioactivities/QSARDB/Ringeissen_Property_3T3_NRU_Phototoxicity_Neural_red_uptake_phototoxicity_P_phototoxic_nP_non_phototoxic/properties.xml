@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>3T3_NRU_Phototoxicity</Id>
+        <Name>Neural red uptake phototoxicity: P - phototoxic, nP - non-phototoxic</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Endpoint>4. Human health effects 4.5. Acute photoirritation</Endpoint>
+        <Species>Mus musculus</Species>
+    </Property>
+</PropertyRegistry>

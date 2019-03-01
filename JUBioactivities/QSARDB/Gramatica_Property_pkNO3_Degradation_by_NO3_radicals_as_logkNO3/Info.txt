@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/201/2003AE3115.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pkNO3: Degradation by NO3 radicals as -logkNO3 [-log(cm3/(s.{molecule}))]"
+Paper:Gramatica, P.; Pilutti, P.; Papa, E. Predicting the NO3 radical tropospheric degradability of organic pollutants by theoretical molecular descriptors. Atmos. Environ. 2003, 37, 3115–3124.
+EP:"Property pkNO3: Degradation by NO3 radicals as -logkNO3 "
+Author:Gramatica
+Filename:"Gramatica_Property pkNO3: Degradation by NO3 radicals as -logkNO3"

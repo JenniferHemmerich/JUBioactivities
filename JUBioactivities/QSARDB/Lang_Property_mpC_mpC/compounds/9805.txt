@@ -1,0 +1,1 @@
+CC(C)c2cc3ccc1c(cccc1C)c3cc2

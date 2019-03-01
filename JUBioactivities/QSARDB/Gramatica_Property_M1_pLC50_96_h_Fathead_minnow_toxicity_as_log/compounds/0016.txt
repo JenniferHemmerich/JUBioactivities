@@ -1,0 +1,1 @@
+c1([C@@](Cn2cncn2)(CCCC)C#N)ccc(Cl)cc1

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logD</Id>
+        <Name>Distribution coefficient at pH 7.4</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>ACD/Labs</Name>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

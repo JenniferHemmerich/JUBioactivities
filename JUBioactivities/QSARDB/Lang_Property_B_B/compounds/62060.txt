@@ -1,0 +1,1 @@
+O=C3O[C@@H]4O[C@@]1(OO[C@@]42[C@@H](CC1)[C@H](C)CC[C@H]2[C@H]3C)C

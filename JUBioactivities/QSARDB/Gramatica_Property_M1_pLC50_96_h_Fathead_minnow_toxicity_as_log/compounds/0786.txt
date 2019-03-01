@@ -1,0 +1,1 @@
+c1ccc2c(c1)cc1c3c2ccc2c3c(cc1)cc1c2cccc1

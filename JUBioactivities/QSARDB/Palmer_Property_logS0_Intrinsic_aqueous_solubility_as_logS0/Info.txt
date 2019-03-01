@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/148/2008MP266.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logS0: Intrinsic aqueous solubility as logS0 [mol/L]"
+Paper:Palmer, D. S.; Llinas, A.; Morao, I.; Day, G. M.; Goodman, J. M.; Glen, R. C.; Mitchell, J. B. O. Predicting Intrinsic Aqueous Solubility by a Thermodynamic Cycle. Mol. Pharmaceutics 2008, 5, 266-279.
+EP:"Property logS0: Intrinsic aqueous solubility as logS0 "
+Author:Palmer
+Filename:"Palmer_Property logS0: Intrinsic aqueous solubility as logS0"

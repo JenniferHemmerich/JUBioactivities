@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>gamma0</Id>
+        <Name>Lowest surface tension</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.5. Surface tension</Endpoint>
+    </Property>
+</PropertyRegistry>

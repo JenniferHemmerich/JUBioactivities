@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>IDDM</Id>
+        <Name>Mean information content of the distance degree magnitude of Bonchev</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS1p</Id>
+        <Name>Moran 2D-autocorrelation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GATS1e</Id>
+        <Name>Geary 2D-autocorrelation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HIC</Id>
+        <Name>3D GETAWAY - mean information content on leverage magnitude</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHAcc</Id>
+        <Name>Number of atom acceptors in the hydrogen bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+</DescriptorRegistry>

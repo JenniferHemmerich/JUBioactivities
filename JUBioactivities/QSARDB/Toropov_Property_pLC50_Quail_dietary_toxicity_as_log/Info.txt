@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/198/2006BMCL1941.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50: Quail dietary toxicity as log(1/LC50) [-log(mmol/L)]"
+Paper:Toropov, A. A.; Benfenati, E. QSAR models of quail dietary toxicity based on the graph of atomic orbitals. Bioorg. Med. Chem. Lett. 2006, 16, 1941–1943.
+EP:"Property pLC50: Quail dietary toxicity as log"
+Author:Toropov
+Filename:"Toropov_Property pLC50: Quail dietary toxicity as log"

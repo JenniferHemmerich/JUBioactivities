@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logP</Id>
+        <Name>logarithm of octanol/water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Chem3D</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>logPolarity</Id>
+        <Name>logarithm base 10 of molecular polarity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Chem3D</Application>
+    </Descriptor>
+</DescriptorRegistry>

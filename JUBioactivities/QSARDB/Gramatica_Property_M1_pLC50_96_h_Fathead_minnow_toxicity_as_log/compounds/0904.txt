@@ -1,0 +1,1 @@
+CCCCN(CC)c1c(cc(cc1[N+]([O-])=O)C(F)(F)F)[N+]([O-])=O

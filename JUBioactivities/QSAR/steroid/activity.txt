@@ -1,0 +1,46 @@
+
+CBG binding activity data:
+
+first column:   pK (log 1/K);
+second column:  activity class;
+third column:   compound name;
+
+activity classes:
+1: high;
+2: intermediate;
+3: low;
+
+Ref.: J.Med.Chem. 36(1993)433-438;
+
+-6.279  2  aldosterone
+-5.000  3  androstanediol
+-5.000  3  5-androstenediol
+-5.763  3  4-androstenedione
+-5.613  3  androsterone
+-7.881  1  corticosterone
+-7.881  1  cortisol
+-6.892  2  cortisone
+-5.000  3  dehydroepiandrosterone
+-7.653  1  11-deoxycorticosterone
+-7.881  1  11-deoxycortisol
+-5.919  2  dihydrotestosterone
+-5.000  3  estradiol
+-5.000  3  estriol
+-5.000  3  estrone
+-5.225  3  etiocholanolone
+-5.225  3  pregnenolone
+-5.000  3  17a-hydroxypregnenolone
+-7.380  1  progesterone
+-7.740  1  17a-hydroxyprogesterone
+-6.724  2  testosterone
+-7.512  1  prednisolone
+-7.553  1  cortisolacetat
+-6.779  2  4-pregnene-3,11,20-trione
+-7.200  1  epicorticosterone
+-6.144  2  19-nortestosterone
+-6.247  2  16a,17a-dihydroxyprogesterone
+-7.120  1  16a-methylprogesterone
+-6.817  2  19-norprogesterone
+-7.688  1  2a-methylcortisol
+-5.797  2  2a-methyl-9a-fluoro-cortisol
+

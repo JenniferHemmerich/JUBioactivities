@@ -1,0 +1,1 @@
+CN(CC1=CC=C(C2=CC([NH]C3=C(N(=O)=O)C=C[NH]3)=CC=C2)O1)C

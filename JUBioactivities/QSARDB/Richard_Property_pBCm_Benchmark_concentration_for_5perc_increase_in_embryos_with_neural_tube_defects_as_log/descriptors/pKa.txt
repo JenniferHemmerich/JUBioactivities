@@ -1,0 +1,11 @@
+Compound Id	Acid dissociation constant as log(1/Ka)
+MFA	2.66
+DFA	1.24
+TFA	0.23
+MCA	2.82
+DCA	1.3
+TCA	0.65
+MBA	2.9
+DBA	1.5
+TBA	0.66
+MIA		3.12

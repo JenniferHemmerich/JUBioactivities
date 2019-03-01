@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/29/S0045653500004732.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50: 96-h Guppy toxicity as log(1/LC50) [log(L/mmol)]"
+Paper:Seward, J.R.; Hamblen, E.L.; Schultz, T.W. Regression comparisons of Tetrahymena pyriformis and Poecilia reticulata toxicity. Chemosphere 2002, 47, 1, 93–101.
+EP:"Property pLC50: 96-h Guppy toxicity as log"
+Author:Seward
+Filename:"Seward_Property pLC50: 96-h Guppy toxicity as log"

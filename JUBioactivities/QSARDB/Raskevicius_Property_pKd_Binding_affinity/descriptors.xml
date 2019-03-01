@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>VAR</Id>
+        <Name>variation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS8p</Id>
+        <Name>Moran autocorrelation  - lag 8 / weighted by atomic polarizabilitiess</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>G(N..S)</Id>
+        <Name>sum of geometrical distances between N..S</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>H5u</Id>
+        <Name>H autocorrelation of lag 5 / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HATS8m</Id>
+        <Name>leverage - weighted autocorrelation of lag 8 / weighted by mass</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>R7p+</Id>
+        <Name>R maximal autocorrelation of lag 7 / weighted by polarizability</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS7m</Id>
+        <Name>Moran autocorrelation  - lag 7 / weighted by atomic massess</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+</DescriptorRegistry>

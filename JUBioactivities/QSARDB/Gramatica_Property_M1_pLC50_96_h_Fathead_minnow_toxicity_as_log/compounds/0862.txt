@@ -1,0 +1,1 @@
+COP(=S)(OC)SCN1C(=O)c2c(C1=O)cccc2

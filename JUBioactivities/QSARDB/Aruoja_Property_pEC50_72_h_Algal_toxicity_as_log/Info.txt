@@ -1,0 +1,7 @@
+link:/repository/bitstream/handle/10967/106/2014C23.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC50: 72-h Algal toxicity as log(1/EC50) [log(L/mmol)
+]"
+Paper:Aruoja, V.; Moosus, M.; Kahru, A.; Sihtmäe, M.; Maran, U. Measurement of baseline toxicity and QSAR analysis of 50 non-polar and 58 polar narcotic chemicals for the alga Pseudokirchneriella subcapitata. Chemosphere 2014, 96, 23-32
+EP:"Property pEC50: 72-h Algal toxicity as log"
+Author:Aruoja
+Filename:"Aruoja_Property pEC50: 72-h Algal toxicity as log"

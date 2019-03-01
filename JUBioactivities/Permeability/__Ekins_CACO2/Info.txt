@@ -1,0 +1,11 @@
+Structures were drawn manually eg might contain errors
+
+permeability in (cm/s)*10e5
+
+See also paper:
+
+J. Chem. Inf. Comput. Sci. 2001, 41, 1578-1586
+Three-Dimensional Quantitative Structure-Permeability Relationship Analysis for a
+Series of Inhibitors of Rhinovirus Replication
+Sean Ekins,Gregory L. Durst, Robert E. Stratford, David A. Thorner, Richard Lewis,
+Richard J. Loncharich, and James H. Wikel 

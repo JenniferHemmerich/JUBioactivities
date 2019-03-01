@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>pEC50_acute</Id>
+        <Name>48-h Daphnia toxicity as log(1/EC50)</Name>
+        <Description>EC50 values were retrieved from the website of the Japanese MoE (2010). Most of the data were obtained by adopting the OECD technical guidance 202 (OECD 1984).</Description>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

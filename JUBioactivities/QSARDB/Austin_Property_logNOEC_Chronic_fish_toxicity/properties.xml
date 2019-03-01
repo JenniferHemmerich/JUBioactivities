@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logNOEC</Id>
+        <Name>Chronic fish toxicity</Name>
+        <Description>Sub-lethal no-observed-effect concentration NOEC or EC10 values</Description>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.5. Long-term toxicity to fish</Endpoint>
+        <Species>Actinopterygii (ray-finned fish)</Species>
+    </Property>
+</PropertyRegistry>

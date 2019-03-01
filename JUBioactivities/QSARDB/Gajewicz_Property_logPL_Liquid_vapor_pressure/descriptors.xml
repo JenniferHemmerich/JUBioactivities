@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>EE</Id>
+        <Name>Electronic energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TE</Id>
+        <Name>Total energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TE+</Id>
+        <Name>Total energy of the corresponding cation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TEc</Id>
+        <Name>Total energy in a solution represented by the Conductor-like Screening Model (COSMO)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SAS</Id>
+        <Name>Solvent accessible surface</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MV</Id>
+        <Name>Molecular volume</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Q+</Id>
+        <Name>Highest positive partial charge on the molecule</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Ahof</Id>
+        <Name>Polarizability derived from the heat of formation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+</DescriptorRegistry>

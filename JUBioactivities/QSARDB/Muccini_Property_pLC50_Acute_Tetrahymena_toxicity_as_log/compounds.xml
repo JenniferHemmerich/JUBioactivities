@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>Benzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>65-85-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>2-chlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>118-91-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>3-chlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>535-80-8</Cas>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>4-chlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>74-11-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>2,3-dichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>50-45-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>2,4-dichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>50-84-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>2,5-dichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>50-79-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>2,6-dichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>50-30-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>3,4-dichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>51-44-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>3,5-dichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>51-36-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>2,4,6-trichlorobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>50-43-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>2-bromobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>88-65-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>4-bromobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>586-76-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>2,5-dibromobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>610-71-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>3,5-dibromobenzoic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>618-58-6</Cas>
+    </Compound>
+</CompoundRegistry>

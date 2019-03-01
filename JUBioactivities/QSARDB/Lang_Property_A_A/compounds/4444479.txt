@@ -1,0 +1,1 @@
+O=C\1\C=C/[C@]2(/C(=C/1)CC[C@H]3[C@H]4[C@](C[C@H](O)[C@H]23)([C@@]5(OC(O[C@@H]5C4)CCC)C(=O)CO)C)C

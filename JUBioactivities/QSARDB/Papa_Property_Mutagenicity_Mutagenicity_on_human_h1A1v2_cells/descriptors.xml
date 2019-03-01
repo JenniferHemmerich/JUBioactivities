@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>nArNO2</Id>
+        <Name>the number of aromatic nitro groups</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>S1K</Id>
+        <Name>1-path Kier alpha-modified shape index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+</DescriptorRegistry>

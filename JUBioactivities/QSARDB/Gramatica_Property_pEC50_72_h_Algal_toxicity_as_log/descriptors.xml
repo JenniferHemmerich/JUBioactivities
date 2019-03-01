@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>T(N..S)</Id>
+        <Name>Sum of topological distances between N and S, standard coeff. 0.48</Name>
+        <Description>T(N..S) is related to the presence of chemicals that, in addition to the triazole rings, have substituent groups containing sulfur</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>AEigZ</Id>
+        <Name>Absolute eigenvalue sum from Z weighted distance matrix</Name>
+        <Description>AEigZ is an index of the degree of branching of the molecule. The molecules predicted to be more toxic within the domain of applicability of the model have higher level of branching, AEigZ is positively correlated with the response.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Seigv</Id>
+        <Name>Eigenvalue sum from van der Waals weighted distance matrix</Name>
+        <Description>Seigv takes into account the van der Waals volumes for each atom, thus the dimensional features of the modeled compounds.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>AMR</Id>
+        <Name>Molar Refractivity</Name>
+        <Description>AMR indicates the direct influence of molecular volume and polarizability on algae toxicity. It was observed that highly branched compounds with more aromatic/heteroaromatic rings have high values of AMR compared to small molecules. Therefore it is mainly indicative of molecular hydrophobicity.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.12</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>maxwHBa</Id>
+        <Name>Molecular distance edge between all secondary nitrogens</Name>
+        <Description>maxwHBa has a positive impact on algae toxicity. It codes, in particular, for the presence of secondary nitrogens, either in ring systems like triazoles/azo aromatics or in amide linkages, depending therefore on the number and hybridization state of the nitrogens.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.12</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-22</Id>
+        <Name>Maximum E-States for weak Hydrogen Bond acceptors</Name>
+        <Description>MDEN-22 provides further relevance to molecule polarity for the modeling of algae toxicity in this data set.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.12</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C-C</Id>
+        <Name>Number of carbon-carbon links</Name>
+        <Description>C-C belongs to ISIDA descriptors.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application>QSPR-THESAURUS</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>p1p4-5N</Id>
+        <Name>a GSFragments descriptor</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Application>QSPR-THESAURUS</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>p5BE</Id>
+        <Name>a GSFragments descriptor</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Application>QSPR-THESAURUS</Application>
+    </Descriptor>
+</DescriptorRegistry>

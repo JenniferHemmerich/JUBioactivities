@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pKa</Id>
+        <Name>Acid dissociation constant as log(1/Ka)</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.10. Dissociation constant (pKa)</Endpoint>
+    </Property>
+</PropertyRegistry>

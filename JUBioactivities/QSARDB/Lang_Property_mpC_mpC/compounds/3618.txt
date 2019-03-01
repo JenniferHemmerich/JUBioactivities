@@ -1,0 +1,1 @@
+CCCCC2=NC1(CCCC1)C(=O)N2Cc3ccc(cc3)c4ccccc4c5nnn[nH]5

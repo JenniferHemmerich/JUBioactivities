@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/191/2010PR1398.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property perm: Corneal permeability [cm/s]"
+Paper:Kidron, H.; Vellonen, K.-S.; del Amo, E. M.; Tissari, A.; Urtti, A. Prediction of the Corneal Permeability of Drug-Like Compounds. Pharm. Res. 2010, 27, 1398–1407.
+EP:"Property perm: Corneal permeability "
+Author:Kidron
+Filename:"Kidron_Property perm: Corneal permeability"

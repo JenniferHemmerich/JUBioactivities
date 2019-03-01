@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/115/2010SQER711.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property LogBCF: Fish bioconcentration factor as logBCF"
+Paper:Piir, G.; Sild, S.; Roncaglioni, A.; Benfenati, E.; Maran, U. QSAR model for the prediction of bio-concentration factor using aqueous solubility and descriptors considering various electronic effects. SAR QSAR Environ. Res. 2010, 21, 7-8, 711-729.
+EP:"Property LogBCF: Fish bioconcentration factor as logBCF"
+Author:Piir
+Filename:"Piir_Property LogBCF: Fish bioconcentration factor as logBCF"

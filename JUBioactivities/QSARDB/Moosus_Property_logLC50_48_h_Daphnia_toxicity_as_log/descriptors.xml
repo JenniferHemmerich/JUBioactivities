@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>LogPmix</Id>
+        <Name>Logarithm of octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>KOWWIN 1.67, Episuit v4.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HOMO</Id>
+        <Name>Energy of the highest occupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WNSA1</Id>
+        <Name>Surface weighted partial negative surface area (Zefirov)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ABIC1</Id>
+        <Name>Average bonding information content (order 1)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,9 @@
+Compound Id	xz
+MPT	9.48
+MMT	8.88
+MBT	8.75
+TPT	4.76
+DBT	5.66
+DMT	5.92
+TBT	2.57
+TMT	2.96

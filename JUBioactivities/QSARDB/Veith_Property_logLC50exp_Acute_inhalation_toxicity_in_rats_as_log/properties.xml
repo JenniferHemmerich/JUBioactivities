@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logLC50exp</Id>
+        <Name>Acute inhalation toxicity in rats as log(LC50)</Name>
+        <Labels>Training</Labels>
+        <Cargos>values ucum bibtex references</Cargos>
+        <Endpoint>4. Human health effects 4.1. Acute Inhalation toxicity</Endpoint>
+        <Species>Rattus norvegicus</Species>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logkOH</Id>
+        <Name>aqueous-phase hydroxyl radical reaction rate constant as logkOH</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex references</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.1. Persistence: Abiotic degradation in water</Endpoint>
+    </Property>
+</PropertyRegistry>

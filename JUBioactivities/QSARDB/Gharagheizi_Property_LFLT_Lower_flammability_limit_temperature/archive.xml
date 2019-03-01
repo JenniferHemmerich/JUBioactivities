@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>A QSPR model for estimation of lower flammability limit temperature of pure compounds based on molecular structure</Name>
+    <Description>In this study, a quantitative structure–property relationship was presented to estimate lower flammability limit temperature (LFLT) of pure compounds. This relationship is a multi-linear equation and has six parameters. These chemical structure-based parameters were selected from 1664 molecular-based parameters by genetic algorithm multivariate linear regression (GA-MLR). Since 1171 compounds were used to develop this equation, the model can be used to estimate the LFLT of a wide range of pure compounds.</Description>
+</Archive>

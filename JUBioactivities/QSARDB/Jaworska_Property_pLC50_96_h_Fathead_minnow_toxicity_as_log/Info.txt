@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/55/qtpp87p43l6p6858.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50: 96-h Fathead minnow toxicity as log(1/LC50) [log(L/mmol)]"
+Paper:Jaworska, J.S.; Hunter, R.S.; Schultz, T.W. Quantitative Structure-Toxicity Relationships and Volume Fraction Analyses for Selected Esters. Arch. Environ. Contam. Toxicol. 1995, 29, 1, 86–93.
+EP:"Property pLC50: 96-h Fathead minnow toxicity as log"
+Author:Jaworska
+Filename:"Jaworska_Property pLC50: 96-h Fathead minnow toxicity as log"

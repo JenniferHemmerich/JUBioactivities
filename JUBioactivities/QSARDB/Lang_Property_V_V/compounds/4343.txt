@@ -1,0 +1,1 @@
+O=C(OCC(C)C)\C1=C(\N/C(=C(/C(=O)OC)C1c2ccccc2[N+]([O-])=O)C)C

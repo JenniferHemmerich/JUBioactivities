@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/143/2006SQER413.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logRD50: Respiratory sensitisation as logarithm of toxicity"
+Paper:"Schultz, T.W.; Carlson, R.E.; Cronin, M.T.D.; Hermens, J.L.M.; Johnson, R.; O’Brien, P.J.; Roberts, D.W.; Siraki, A.; Wallace, K.B.; Veith, G.D. A conceptual framework for predicting the toxicity of reactive chemicals: modeling soft electrophilicity. SAR QSAR Environ. Res. 2006, 17, 413–428."
+EP:"Property logRD50: Respiratory sensitisation as logarithm of toxicity"
+Author:Schultz
+Filename:"Schultz_Property logRD50: Respiratory sensitisation as logarithm of toxicity"

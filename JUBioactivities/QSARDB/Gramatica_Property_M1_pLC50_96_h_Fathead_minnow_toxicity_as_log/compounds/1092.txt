@@ -1,0 +1,1 @@
+c1(ccccc1)Oc1cc([C@H](OC(=O)[C@@H]2C(C)(C)[C@H]2C=C(Cl)Cl)C#N)ccc1F

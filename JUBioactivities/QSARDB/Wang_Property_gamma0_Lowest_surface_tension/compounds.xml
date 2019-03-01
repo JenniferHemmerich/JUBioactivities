@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>3,6,9,12,15,18-hexaoxatetracosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C18H38O7/c1-2-3-4-5-7-20-9-11-22-13-15-24-17-18-25-16-14-23-12-10-21-8-6-19/h19H,2-18H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>3,6,9,12,15,18-hexaoxaoctacosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C22H46O7/c1-2-3-4-5-6-7-8-9-11-24-13-15-26-17-19-28-21-22-29-20-18-27-16-14-25-12-10-23/h23H,2-22H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>3,6,9,12,15,18,21,24-octaoxatetratriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C26H54O9/c1-2-3-4-5-6-7-8-9-11-28-13-15-30-17-19-32-21-23-34-25-26-35-24-22-33-20-18-31-16-14-29-12-10-27/h27H,2-26H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>2-{2-[2-(dodecyloxy)ethoxy]ethoxy}ethan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C18H38O4/c1-2-3-4-5-6-7-8-9-10-11-13-20-15-17-22-18-16-21-14-12-19/h19H,2-18H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>3,6,9,12-tetraoxatetracosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C20H42O5/c1-2-3-4-5-6-7-8-9-10-11-13-22-15-17-24-19-20-25-18-16-23-14-12-21/h21H,2-20H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>3,6,9,12,15-pentaoxaheptacosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C22H46O6/c1-2-3-4-5-6-7-8-9-10-11-13-24-15-17-26-19-21-28-22-20-27-18-16-25-14-12-23/h23H,2-22H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>3,6,9,12,15,18-hexaoxatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C24H50O7/c1-2-3-4-5-6-7-8-9-10-11-13-26-15-17-28-19-21-30-23-24-31-22-20-29-18-16-27-14-12-25/h25H,2-24H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>3,6,9,12,15,18,21-heptaoxatritriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C26H54O8/c1-2-3-4-5-6-7-8-9-10-11-13-28-15-17-30-19-21-32-23-25-34-26-24-33-22-20-31-18-16-29-14-12-27/h27H,2-26H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>3,6,9,12,15,18,21,24-octaoxahexatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C28H58O9/c1-2-3-4-5-6-7-8-9-10-11-13-30-15-17-32-19-21-34-23-25-36-27-28-37-26-24-35-22-20-33-18-16-31-14-12-29/h29H,2-28H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>3,6,9,12,15,18,21,24,27-nonaoxanonatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C30H62O10/c1-2-3-4-5-6-7-8-9-10-11-13-32-15-17-34-19-21-36-23-25-38-27-29-40-30-28-39-26-24-37-22-20-35-18-16-33-14-12-31/h31H,2-30H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>3,6,9,12,15,18,21,24,27,30,33,36-dodecaoxaoctatetracontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C36H74O13/c1-2-3-4-5-6-7-8-9-10-11-13-38-15-17-40-19-21-42-23-25-44-27-29-46-31-33-48-35-36-49-34-32-47-30-28-45-26-24-43-22-20-41-18-16-39-14-12-37/h37H,2-36H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>3,6,9,12,15,18,21,24-octaoxaheptatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C29H60O9/c1-2-3-4-5-6-7-8-9-10-11-12-14-31-16-18-33-20-22-35-24-26-37-28-29-38-27-25-36-23-21-34-19-17-32-15-13-30/h30H,2-29H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>3,6,9,12,15,18,21,24-octaoxaoctatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C30H62O9/c1-2-3-4-5-6-7-8-9-10-11-12-13-15-32-17-19-34-21-23-36-25-27-38-29-30-39-28-26-37-24-22-35-20-18-33-16-14-31/h31H,2-30H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>3,6,9,12,15,18,21,24-octaoxanonatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C31H64O9/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-16-33-18-20-35-22-24-37-26-28-39-30-31-40-29-27-38-25-23-36-21-19-34-17-15-32/h32H,2-31H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>3,6,9,12,15,18-hexaoxatetratriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C28H58O7/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-17-30-19-21-32-23-25-34-27-28-35-26-24-33-22-20-31-18-16-29/h29H,2-28H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>3,6,9,12,15,18,21-heptaoxaheptatriacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C30H62O8/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-17-32-19-21-34-23-25-36-27-29-38-30-28-37-26-24-35-22-20-33-18-16-31/h31H,2-30H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>3,6,9,12,15,18,21,24,27-nonaoxatritetracontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C34H70O10/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-17-36-19-21-38-23-25-40-27-29-42-31-33-44-34-32-43-30-28-41-26-24-39-22-20-37-18-16-35/h35H,2-34H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>3,6,9,12,15,18,21,24,27,30,33,36-dodecaoxadopentacontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C40H82O13/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-17-42-19-21-44-23-25-46-27-29-48-31-33-50-35-37-52-39-40-53-38-36-51-34-32-49-30-28-47-26-24-45-22-20-43-18-16-41/h41H,2-40H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>20-[4-(5,5-dimethylhexyl)phenoxy]-3,6,9,12,15,18-hexaoxaicosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C28H50O8/c1-28(2,3)11-5-4-6-26-7-9-27(10-8-26)36-25-24-35-23-22-34-21-20-33-19-18-32-17-16-31-15-14-30-13-12-29/h7-10,29H,4-6,11-25H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>23-[4-(5,5-dimethylhexyl)phenoxy]-3,6,9,12,15,18,21-heptaoxatricosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C30H54O9/c1-30(2,3)11-5-4-6-28-7-9-29(10-8-28)39-27-26-38-25-24-37-23-22-36-21-20-35-19-18-34-17-16-33-15-14-32-13-12-31/h7-10,31H,4-6,11-27H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>26-[4-(5,5-dimethylhexyl)phenoxy]-3,6,9,12,15,18,21,24-octaoxahexacosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C32H58O10/c1-32(2,3)11-5-4-6-30-7-9-31(10-8-30)42-29-28-41-27-26-40-25-24-39-23-22-38-21-20-37-19-18-36-17-16-35-15-14-34-13-12-33/h7-10,33H,4-6,11-29H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>29-[4-(5,5-dimethylhexyl)phenoxy]-3,6,9,12,15,18,21,24,27-nonaoxanonacosan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C34H62O11/c1-34(2,3)11-5-4-6-32-7-9-33(10-8-32)45-31-30-44-29-28-43-27-26-42-25-24-41-23-22-40-21-20-39-19-18-38-17-16-37-15-14-36-13-12-35/h7-10,35H,4-6,11-31H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>4,8,12,16,20,24,27,30,33-nonaoxapentatetracontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C36H74O10/c1-2-3-4-5-6-7-8-9-10-11-19-43-31-33-45-35-36-46-34-32-44-30-17-29-42-28-16-27-41-26-15-25-40-24-14-23-39-22-13-21-38-20-12-18-37/h37H,2-36H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>4,8,12,16,20,23,26,29,32-nonaoxatetratetracontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C35H72O10/c1-2-3-4-5-6-7-8-9-10-11-18-41-28-30-43-32-34-45-35-33-44-31-29-42-27-16-26-40-25-15-24-39-23-14-22-38-21-13-20-37-19-12-17-36/h36H,2-35H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>4,8,12,16,19,22,25,28,31-nonaoxatritetracontan-1-ol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C34H70O10/c1-2-3-4-5-6-7-8-9-10-11-17-39-25-27-41-29-31-43-33-34-44-32-30-42-28-26-40-24-15-23-38-22-14-21-37-20-13-19-36-18-12-16-35/h35H,2-34H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>decane-1,2-diol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C10H22O2/c1-2-3-4-5-6-7-8-10(12)9-11/h10-12H,2-9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>undecane-1,3-diol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C11H24O2/c1-2-3-4-5-6-7-8-11(13)9-10-12/h11-13H,2-10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>dodecane-1,2-diol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C12H26O2/c1-2-3-4-5-6-7-8-9-10-12(14)11-13/h12-14H,2-11H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>tridecane-1,3-diol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C13H28O2/c1-2-3-4-5-6-7-8-9-10-13(15)11-12-14/h13-15H,2-12H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>pentadecane-1,3-diol</Name>
+        <Description>Names and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <InChI>InChI=1S/C15H32O2/c1-2-3-4-5-6-7-8-9-10-11-12-15(17)13-14-16/h15-17H,2-14H2,1H3</InChI>
+    </Compound>
+</CompoundRegistry>

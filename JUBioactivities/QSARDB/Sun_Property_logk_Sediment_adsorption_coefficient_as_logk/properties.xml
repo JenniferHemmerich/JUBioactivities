@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logk</Id>
+        <Name>Sediment adsorption coefficient as logk</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.8. Adsorption/Desorption in sediment</Endpoint>
+    </Property>
+</PropertyRegistry>

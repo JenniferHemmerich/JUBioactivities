@@ -1,0 +1,1 @@
+Nc1c(Cl)cc(cc1Cl)[N+]([O-])=O

@@ -1,0 +1,16 @@
+Compound Id	logarithmic solubility in n-heptane
+ATR	-2.3979
+BATR	-1.8752
+BGP	-2.9208
+BPH	0.2209
+BMF	-4.0868
+BP	-2.4685
+CH	-2.3979
+CO	-3.3188
+DBA	-3.4685
+NPTH	-0.2218
+NPTHC	-3.7959
+PHN	-1.5686
+PRL	-3.4318
+PY	-1.9208
+TPHNL	-2.2518

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logVP</Id>
+        <Name>Vapour pressure as logVP</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.4. Vapour pressure</Endpoint>
+    </Property>
+    <Property>
+        <Id>logCMC</Id>
+        <Name>Critical micelle concentration as logCMC</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>logAqS</Id>
+        <Name>Aqueous solubility as logAqS</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.3. Water solubility</Endpoint>
+    </Property>
+</PropertyRegistry>

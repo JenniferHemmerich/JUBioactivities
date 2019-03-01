@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/9/tx015502k.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Cronin, M.T.D.; Manga, N.; Seward, J.R.; Sinks, G.D.; Schultz, T.W. Parametrization of Electrophilicity for the Prediction of the Toxicity of Aromatic Compounds. Chem. Res. Toxicol. 2001, 14, 11, 1498–1505.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Cronin
+Filename:"Cronin_Property pIGC50: 40-h Tetrahymena toxicity as log"

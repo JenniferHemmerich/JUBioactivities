@@ -1,0 +1,1 @@
+Cl/C(Cl)=C/[C@H]3[C@@H](C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C

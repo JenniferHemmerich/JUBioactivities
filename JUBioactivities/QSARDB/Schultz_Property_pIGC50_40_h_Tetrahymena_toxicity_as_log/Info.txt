@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/8/ci9800965.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:"Schultz, T.W.; Cronin, M.T.D. Response-Surface Analyses for Toxicity to Tetrahymena pyriformis: Reactive Carbonyl-Containing Aliphatic Chemicals. J. Chem. Inf. Comput. Sci. 1999, 39, 2, 304–309."
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Schultz
+Filename:"Schultz_Property pIGC50: 40-h Tetrahymena toxicity as log"

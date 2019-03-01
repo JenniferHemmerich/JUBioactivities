@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/61/xn34j40hygn3d6x6.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50: Acute Tetrahymena toxicity as log(1/LC50) [log(L/mmol)]"
+Paper:Muccini, M.; Layton, A.C.; Sayler, G.S.; Schultz, T.W. Aquatic Toxicities of Halogenated Benzoic Acids to Tetrahymena pyriformis. Bull. Environ. Contam. Toxicol. 1999, 62, 5, 616–622.
+EP:"Property pLC50: Acute Tetrahymena toxicity as log"
+Author:Muccini
+Filename:"Muccini_Property pLC50: Acute Tetrahymena toxicity as log"

@@ -1,0 +1,1 @@
+ClC1=C(Cl)C(C#N)=C(Cl)C(C#N)=C1Cl

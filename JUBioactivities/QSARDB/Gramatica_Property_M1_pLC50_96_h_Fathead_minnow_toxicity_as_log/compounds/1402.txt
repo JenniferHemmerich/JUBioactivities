@@ -1,0 +1,1 @@
+Nc1c(Cl)c(C(=O)OC[C@@H](CCCC)CC)nc(Cl)c1Cl

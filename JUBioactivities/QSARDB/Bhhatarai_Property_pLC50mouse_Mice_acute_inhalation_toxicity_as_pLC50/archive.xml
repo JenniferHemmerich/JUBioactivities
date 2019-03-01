@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Per- and Polyfluoro Toxicity (LC50 Inhalation) Study in Rat and Mouse Using QSAR Modeling</Name>
+    <Description>Fully or partially fluorinated compounds, known as per- and polyfluorinated chemicals are widely
+distributed in the environment and released because of their use in different household and industrial
+products. Few of these long chain per- and polyfluorinated chemicals are classified as emerging pollutants,
+and their environmental and toxicological effects are unveiled in the literature. This has diverted the
+production of long chain compounds, considered as more toxic, to short chains, but concerns regarding
+the toxicity of both types of per- and polyfluorinated chemicals are alarming. There are few experimental
+data available on the environmental behavior and toxicity of these compounds, and moreover, toxicity
+profiles are found to be different for the types of animals and species used. Quantitative structure-activity
+relationship (QSAR) is applied to a combination of short and long chain per- and polyfluorinated chemicals,
+for the first time, to model and predict the toxicity on two species of rodents, rat (Rattus) and mouse
+(Mus), by modeling inhalation (LC50) data. Multiple linear regression (MLR) models using the ordinary-
+least-squares (OLS) method, based on theoretical molecular descriptors selected by genetic algorithm
+(GA), were used for QSAR studies. Training and prediction sets were prepared a priori, and these sets
+were used to derive statistically robust and predictive (both internally and externally) models. The structural
+applicability domain (AD) of the model was verified on a larger set of per- and polyfluorinated chemicals
+retrieved from different databases and journals. The descriptors involved, the similarities, and the
+differences observed between models pertaining to the toxicity related to the two species are discussed.
+Chemometric methods such as principal component analysis (PCA) and multidimensional scaling (MDS)
+were used to select most toxic compounds from those within the AD of both models, which will be
+subjected to experimental tests under the EU project CADASTER.</Description>
+</Archive>

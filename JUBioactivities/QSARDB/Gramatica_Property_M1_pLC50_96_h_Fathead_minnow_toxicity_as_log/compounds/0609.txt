@@ -1,0 +1,1 @@
+ClC([C@]12[C@H]([C@H](Cl)[C@H]([C@H](Cl)[C@H]1Cl)C2(CCl)CCl)Cl)Cl

@@ -1,0 +1,1 @@
+COC1=C(Cl)C(Cl)=CC=C1

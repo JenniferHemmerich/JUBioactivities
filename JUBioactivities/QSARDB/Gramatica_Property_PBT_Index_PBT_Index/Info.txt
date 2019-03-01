@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/181/2013JCC2121.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property PBT_Index: PBT Index "
+Paper:"Gramatica, P.; Chirico, N.; Papa, E.; Cassani, S.; Kovarich, S. QSARINS: A new software for the development, analysis, and validation of QSAR MLR models. Journal of Computational Chemistry 2013, 34, 2121–2132."
+EP:"Property PBT_Index: PBT Index "
+Author:Gramatica
+Filename:"Gramatica_Property PBT_Index: PBT Index"

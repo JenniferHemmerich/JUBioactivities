@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Octanol/water partition coefficient as logKow</Name>
+        <Description>Descriptor values originate from the Pesticide Properties Database</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>alpha</Id>
+        <Name>Alpha-polarisability</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>Gaussian 09</Application>
+    </Descriptor>
+</DescriptorRegistry>

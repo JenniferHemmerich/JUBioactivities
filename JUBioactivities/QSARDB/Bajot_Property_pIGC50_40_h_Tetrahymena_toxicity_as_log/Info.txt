@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/78/934633649.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Bajot, F.; Cronin, M.T.D.; Roberts, D.W.; Schultz, T.W. Reactivity and aquatic toxicity of aromatic compounds transformable to quinone-type Michael acceptors. SAR QSAR Environ. Res. 2011, 1, 2, 51–65.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Bajot
+Filename:"Bajot_Property pIGC50: 40-h Tetrahymena toxicity as log"

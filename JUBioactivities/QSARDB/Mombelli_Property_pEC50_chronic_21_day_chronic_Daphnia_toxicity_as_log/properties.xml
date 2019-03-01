@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pEC50_chronic</Id>
+        <Name>21-day chronic Daphnia toxicity as log(1/EC50)</Name>
+        <Description>EC50 values were retrieved from the website of the Japanese MoE (2010). Most of the data were obtained by adopting the OECD technical guidance 211 (OECD 1998). Chemicals characterized by a ratio between chronic and acute EC50 &gt; 1 were not considered.</Description>
+        <Labels></Labels>
+        <Cargos>bibtex ucum values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.4. Long-term toxicity to Daphnia</Endpoint>
+        <Species>Daphnia magna</Species>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,1 @@
+BrC1=CC=CN=C1CSCC[NH]C2=C(N(=O)=O)C=C[NH]2

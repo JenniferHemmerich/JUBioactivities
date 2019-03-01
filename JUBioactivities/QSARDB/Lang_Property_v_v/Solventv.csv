@@ -1,0 +1,64 @@
+solvent,SMILES,v,csid
+"1,2-dichloroethane",ClCCCl,4.18,13837650
+"1,4-dioxane",O1CCOCC1,4.11,29015
+1-butanol,CCCCO,4.044,258
+1-chlorobutane,ClCCCC,4.456,7714
+1-decanol,OCCCCCCCCCC,4.279,7882
+1-heptanol,OCCCCCCC,4.317,7837
+1-hexanol,OCCCCCC,4.131,7812
+1-octanol,OCCCCCCCC,4.218,932
+1-pentanol,OCCCCC,4.077,6040
+1-propanol,CCCO,3.986,1004
+"2,2,4-trimethylpentane",CC(C)CC(C)(C)C,4.399,10445
+2-butanol,OC(C)CC,4.114,6320
+2-methyl-1-propanol,OCC(C)C,3.968,6312
+2-methyl-2-propanol,OC(C)(C)C,4.109,6146
+2-pentanol,OC(C)CCC,4.201,21011
+2-propanol,CC(O)C,4.033,3644
+3-methyl-1-butanol,OCCC(C)C,4.399,29000
+acetone,CC(=O)C,3.942,175
+acetonitrile,CC#N,3.364,6102
+benzene,c1ccccc1,4.491,236
+benzonitrile,c1ccc(cc1)C#N,4.028,7224
+bromobenzene,Brc1ccccc1,4.445,7673
+butanone,O=C(C)CC,4.148,6321
+butyl acetate,O=C(OCCCC)C,4.281,29012
+carbon tetrachloride,ClC(Cl)(Cl)Cl,4.618,5730
+chlorobenzene,Clc1ccccc1,4.614,7676
+chloroform,C(Cl)(Cl)Cl,4.395,5977
+cyclohexane,C1CCCCC1,4.577,7787
+cyclohexanone,O=C1CCCCC1,4.315,7679
+decane,C(CCCCCCCC)C,4.476,14840
+dibutyl ether,O(CCCC)CCCC,4.524,8569
+dibutylformamide,O=C(NCCCC)CCCC,3.952,121365
+dichloromethane,C(Cl)Cl,4.324,6104
+diethyl ether,CCOCC,4.35,3168
+diethylacetamide,O=C(N(CC)CC)C,4.088,12181
+dodecane,C(CCCCCCCC)CCC,4.459,7890
+ethanol,CCO,3.857,682
+ethyl acetate,O=C(OCC)C,4.15,8525
+ethylbenzene,CCc1ccccc1,4.514,7219
+fluorobenzene,Fc1ccccc1,4.54,9614
+heptane,CCCCCCC,4.488,8560
+hexane,CCCCCC,4.463,7767
+methanol,CO,3.549,864
+methyl acetate,O=C(OC)C,3.972,6335
+methyl tert-butyl ether,O(C(C)(C)C)C,4.425,14672
+methylcyclohexane,CC1CCCCC1,4.528,7674
+m-xylene,Cc1cccc(c1)C,4.535,7641
+N-ethylacetamide,O=C(NCC)C,3.856,11752
+N-ethylformamide,O=CNCC,3.73,11815
+N-methyl-2-piperidone,O=C1N(C)CCCC1,3.983,13014
+N-methylacetamide,O=C(NC)C,3.833,6334
+N-methylformamide,O=CNC,3.471,28994
+N-methylpyrrolidinone,O=C1N(C)CCC1,3.674,12814
+nonane,CCCCCCCCC,4.482,7849
+octane,CCCCCCCC,4.502,349
+o-xylene,Cc1ccccc1C,4.559,6967
+pentane,CCCCC,4.514,7712
+propylene carbonate,CC1COC(=O)O1,3.421,7636
+p-xylene,Cc1ccc(cc1)C,4.532,7521
+sulfolane,C1CCS(=O)(=O)C1,3.29,29080
+THF,C1CCOC1,4.45,7737
+toluene,c1ccccc1C,4.524,1108
+undecane,C(CCCCCCCC)CC,4.619,13619

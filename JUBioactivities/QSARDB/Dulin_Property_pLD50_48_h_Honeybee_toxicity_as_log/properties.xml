@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pLD50</Id>
+        <Name>48-h Honeybee toxicity as -log(LD50)</Name>
+        <Description>Acute contact toxicity data corresponding to the concentration of pesticide that leads to the death of 50% of bees by contact (LD50).</Description>
+        <Labels></Labels>
+        <Cargos>bibtex ucum values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.13. Toxicity to honeybees</Endpoint>
+        <Species>Apis mellifera (Honeybee)</Species>
+    </Property>
+</PropertyRegistry>

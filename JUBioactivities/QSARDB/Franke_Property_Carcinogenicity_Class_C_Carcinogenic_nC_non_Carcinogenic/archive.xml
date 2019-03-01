@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Prediction of rodent carcinogenicity of aromatic amines: a quantitative structure–activity relationships model</Name>
+    <Description>The aromatic amines are widely used industrial chemicals
+and can be found in tobacco smoke as well as in products
+generated during cooking. In a previous study, we
+established quantitative structure–activity relationship
+(QSAR) models linking the carcinogenic potency of non-
+heterocyclic carcinogenic aromatic amines to a series of
+molecular determinants. We also found that QSAR models
+for carcinogenic potency were inadequate in describing
+the difference between carcinogenic and non-carcinogenic
+amines [Benigni,R., Giuliani,A., Franke,R. and Gruska,A.
+(2000) Chem. Rev., 100, 3697–3714]. In this paper, we
+derived specific QSAR models for separating active from
+inactive amines. It appeared that hydrophobicity (as
+measured by the octanol/water partition coefficient, logP)
+played a major role in modulating the potency of the
+carcinogens, whereas mainly electronic (reactivity) and
+steric characteristics separated the carcinogens from the
+non-carcinogens. Interestingly, a similar pattern was
+previously demonstrated by us regarding their mutagenic
+activity [Benigni,R., Passerini,L., Gallo,G., Giorgi,F. and
+Cotta-Ramusino,M. (1998) Environ. Mol. Mutagen., 32,
+75–83]. Based on the QSAR models found, the molecular
+determinants of the mechanisms of action of aromatic
+amines are discussed in detail. The QSAR models obtained
+can be used directly for estimating the carcinogenicity of
+other non-heterocyclic aromatic amines for which experi-
+mental data are not available. With the QSARs in Benigni
+et al. (2000) and the present results, a two-step prediction
+of carcinogenicity of aromatic amines is possible: (i) step 1,
+yes/no activity from the discriminant functions; and (ii) step
+2, if the answer from step 1 is yes then prediction of the
+degree of potency from the equations in Benigni et al.
+(2000). Thus, QSAR models can contribute to the following:
+the direct synthesis of safer chemicals; the estimation of
+the risk posed by amines present in the environment;
+setting priorities for further experimentation, thus also
+reducing the use of experimental animals. Whereas the
+quality of in vivo experimental data is often questioned,
+the robustness and intepretability of the present results
+strongly support the reliability of the rodent carcino-
+genicity assay.</Description>
+</Archive>

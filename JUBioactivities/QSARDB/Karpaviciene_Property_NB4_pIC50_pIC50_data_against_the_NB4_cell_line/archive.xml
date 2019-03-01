@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Synthesis and antiproliferative activity of a-branched a,b-unsaturated ketones in human hematological and solid cancer cell lines</Name>
+    <Description>A series of a-branched a,b-unsaturated ketones were prepared via boron trifluoride etherate mediated
+reaction between arylalkynes and carboxaldehydes. The evaluation of the antiproliferative activity over
+hematological (NB4) and solid cancer (A549, MCF-7) cell lines provided a structure-activity relationship.
+5-Parameter QSAR equations were built which were able to explain 80%-92% of the variance in activity.
+The resulting selective lead compound showed IC50 value 0.6 mM against the hematological cell line and
+did not cause apoptosis, but blocked cell cycle in G0/G1. Moreover, it was demonstrated that this
+compound enhances and accelerates retinoic acid induced granulocytic differentiation.</Description>
+</Archive>

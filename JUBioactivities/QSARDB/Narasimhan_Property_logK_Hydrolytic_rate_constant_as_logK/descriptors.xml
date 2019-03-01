@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>AN</Id>
+        <Name>Charge on amide nitrogen</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>logP</Id>
+        <Name>Lipophilic parameter</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>NUFD</Id>
+        <Name>Nucleophilic frontal density</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

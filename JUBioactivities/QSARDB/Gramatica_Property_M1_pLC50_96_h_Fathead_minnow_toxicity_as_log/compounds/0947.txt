@@ -1,0 +1,1 @@
+C1(=O)[C@@H]2[C@@H](C(=O)N1SC(C(Cl)Cl)(Cl)Cl)CC=CC2

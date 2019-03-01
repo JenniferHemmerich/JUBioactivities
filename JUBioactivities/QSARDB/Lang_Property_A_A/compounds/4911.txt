@@ -1,0 +1,1 @@
+O=C2OCC(=C2\c1ccccc1)\c3ccc(cc3)S(=O)(=O)C

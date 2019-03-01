@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>NO</Id>
+        <Name>Number of oxygen atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>dHf</Id>
+        <Name>The heat of formation</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>MOPAC 7.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>KH0</Id>
+        <Name>The Kier and Hall index of zero order</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

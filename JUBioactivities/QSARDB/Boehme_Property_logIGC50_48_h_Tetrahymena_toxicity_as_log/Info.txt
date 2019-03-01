@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/15/tx100226n.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logIGC50: 48-h Tetrahymena toxicity as log(IGC50) [log(mol/L)]"
+Paper:Böhme, A.; Thaens, D.; Schramm, F.; Paschke, A.; Schüürmann, G. Thiol Reactivity and Its Impact on the Ciliate Toxicity of α,β-Unsaturated Aldehydes, Ketones, and Esters. Chem. Res. Toxicol. 2010, 23, 12, 1905–1912.
+EP:"Property logIGC50: 48-h Tetrahymena toxicity as log"
+Author:Böhme
+Filename:"Böhme_Property logIGC50: 48-h Tetrahymena toxicity as log"

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>E1s</Id>
+        <Name>1st component accessibility directional WHIM index / weighted by atomic electrotopological states</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS1v</Id>
+        <Name>Moran autocorrelation - lag 1 / weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>L3s</Id>
+        <Name>3rd component accessibility directional WHIM index / weighted by atomic electrotopological states</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor12v</Id>
+        <Name>3D-MoRSE - signal 12 / weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RDF020e</Id>
+        <Name>Radial Distribution Function - 2.0 / weighted by atomic Sanderson electronegativities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/36/S1093326301001498.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 96-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Baláž, Š.; Lukacova, V. Subcellular pharmacokinetics and its potential for library focusing. J. Mol. Graph. Model. 2002, 20, 6, 479–490.
+EP:"Property pIGC50: 96-h Tetrahymena toxicity as log"
+Author:Baláž
+Filename:"Baláž_Property pIGC50: 96-h Tetrahymena toxicity as log"

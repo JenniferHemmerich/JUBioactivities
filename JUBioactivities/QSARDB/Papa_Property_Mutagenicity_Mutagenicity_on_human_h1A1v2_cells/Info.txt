@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/186/2008SQER115.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property Mutagenicity: Mutagenicity on human h1A1v2 cells "
+Paper:Papa, E.; Pilutti, P.; Gramatica, P. Prediction of PAH mutagenicity in human cells by QSAR classification. SAR and QSAR in Environmental Research 2008, 19, 115–127.
+EP:"Property Mutagenicity: Mutagenicity on human h1A1v2 cells "
+Author:Papa
+Filename:"Papa_Property Mutagenicity: Mutagenicity on human h1A1v2 cells"

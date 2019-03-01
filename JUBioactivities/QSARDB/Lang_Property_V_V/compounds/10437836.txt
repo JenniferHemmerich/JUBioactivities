@@ -1,0 +1,1 @@
+CC(C)CCn1cnc(n1)[N+]([O-])=O

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pEC50</Id>
+        <Name>6-day algal toxicity as log(1/EC50)</Name>
+        <Description>The algal growth in each DBP solution during the 6 d toxicity test was evaluated by the change in chlorophyll a concentration.</Description>
+        <Labels></Labels>
+        <Cargos>bibtex values ucum</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.2. Short-term toxicity to algae</Endpoint>
+        <Species>Tetraselmis marina</Species>
+    </Property>
+</PropertyRegistry>

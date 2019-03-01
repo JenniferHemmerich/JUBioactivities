@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>XLogP3</Id>
+        <Name>Logarithm of octanol/water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>XLOGP3 3.2.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPATH</Id>
+        <Name>Wiener index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MLFER_BH</Id>
+        <Name>Molecular Linear Free Energy Relation overall solute hydrogen bond basicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TopoPSA</Id>
+        <Name>Topological polar surface area</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBAcc</Id>
+        <Name>Number of hydrogen bond acceptors</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Hydrophobicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>ClogP</Name>
+            <Version>1.0</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>Energy of the lowest unoccupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>TSAR</Name>
+            <Version>3.3</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,1 @@
+C(=C\c1ccc(cc1)O)/C(=O)c1c(cc(cc1)O)O

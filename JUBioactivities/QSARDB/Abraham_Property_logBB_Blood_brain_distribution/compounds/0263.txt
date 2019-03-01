@@ -1,0 +1,1 @@
+C[NH]/C([NH]C1=CC(C2=CSC(/N=C(N)/N)=N2)=CC=C1)=N/C#N

@@ -1,0 +1,9 @@
+Compound Id	1-electron redox potential
+1	-89
+2	-140
+3	-203
+4	-415
+5	-93
+6	-110
+7	-156
+8	-36

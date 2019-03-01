@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>BP</Id>
+        <Name>Boiling point</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.2. Boiling point</Endpoint>
+    </Property>
+    <Property>
+        <Id>D</Id>
+        <Name>Density at 25C</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.13. Density</Endpoint>
+    </Property>
+    <Property>
+        <Id>MR</Id>
+        <Name>Molar refraction at 20C</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other (Molar refraction)</Endpoint>
+    </Property>
+    <Property>
+        <Id>RI</Id>
+        <Name>Refraction index at 25C</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other (Refraction index)</Endpoint>
+    </Property>
+    <Property>
+        <Id>CT</Id>
+        <Name>Critical temperature</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>6. Other (Critical temperature)</Endpoint>
+    </Property>
+    <Property>
+        <Id>CP</Id>
+        <Name>Critical pressure</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>6. Other (Critical pressure)</Endpoint>
+    </Property>
+    <Property>
+        <Id>ST</Id>
+        <Name>Surface tension at 20C</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.5. Surface tension</Endpoint>
+    </Property>
+    <Property>
+        <Id>MV</Id>
+        <Name>Molar volume at 20C</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>6. Other (Molar volume)</Endpoint>
+    </Property>
+    <Property>
+        <Id>HC</Id>
+        <Name>Heat capacity at 300K</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>6. Other (Heat capacity)</Endpoint>
+    </Property>
+    <Property>
+        <Id>E</Id>
+        <Name>Enthalphy at 300K</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other (Enthalphy)</Endpoint>
+    </Property>
+    <Property>
+        <Id>HV</Id>
+        <Name>Heat of vaporization at 25C</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other (Heat of vaporization)</Endpoint>
+    </Property>
+    <Property>
+        <Id>HA</Id>
+        <Name>Heat of atomization at 25C</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other (Heat of atomization)</Endpoint>
+    </Property>
+    <Property>
+        <Id>HF</Id>
+        <Name>Standard heat of formation at 25C</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other (Standard heat of formation)</Endpoint>
+    </Property>
+    <Property>
+        <Id>HFL</Id>
+        <Name>Heat of formation in liquid at 25C</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other (Heat of formation in liquid)</Endpoint>
+    </Property>
+    <Property>
+        <Id>HFG</Id>
+        <Name>Heat of formation in gas at 25C</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other (Heat of formation in gas)</Endpoint>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,1 @@
+CC(C)(C)NC(=O)C(N(Cc1ccccc1)C(=O)\C=C\C)c3cc4ccccc4c2ccccc23

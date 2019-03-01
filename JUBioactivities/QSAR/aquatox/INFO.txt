@@ -1,0 +1,8 @@
+Acute aquatic toxicity dataset
+A QSAR model was developed from a dataset consisting in 546 organic molecules to predict acute aquatic toxicity towards Daphnia Magna. LC50 data, which is the concentration that causes death in 50% of test D. magna over a test duration of 48 hours, was used as model response. The 546 molecules of the dataset were randomly divided into training (436) and external test sets (110). The dataset included 8 molecular descriptors: TPSA(Tot) (Molecular properties), SAacc	(Molecular properties), H-050 (Atom-centred fragments), MLOGP (Molecular properties), RDCHI	(Connectivity indices), GATS1p (2D autocorrelations), nN (Constitutional indices), C-040 (Atom-centred fragments).
+Here the dataset (togheter with the molecular SMILES) is provided for free as excel file. For further details on the dataset, molecular descriptors and the consequent published QSAR model, please have a look to the referenced scientific paper. The dataset is also uploaded on the OCHEM web site. 
+ 
+ Conditions
+The dataset is freeware and may be used if proper reference is given to the authors. Please, refer to the following paper: 
+
+M. Cassotti, D. Ballabio, V. Consonni, A. Mauri, I. V. Tetko, R. Todeschini (2014). Prediction of acute aquatic toxicity towards daphnia magna using GA-kNN method, Alternatives to Laboratory Animals (ATLA), 42,31:41.

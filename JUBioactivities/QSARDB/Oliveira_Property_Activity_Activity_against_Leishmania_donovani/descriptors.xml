@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Mor26v</Id>
+        <Name>Signal 26 / weighted by van der Waals volume</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 3.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Gap(HOMO,HOMO-1)</Id>
+        <Name>The orbital energy gap between the highest occupied molecular orbital (HOMO) and HOMO-1</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>AMSOL 7.1</Application>
+    </Descriptor>
+</DescriptorRegistry>

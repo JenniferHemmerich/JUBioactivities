@@ -1,0 +1,1 @@
+O=C(Oc1c(cc(cc1C(C)CC)[N+]([O-])=O)[N+]([O-])=O)\C=C(/C)C

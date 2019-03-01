@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>Tb</Id>
+        <Name>Normal boiling point</Name>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.2. Boiling point</Endpoint>
+    </Property>
+    <Property>
+        <Id>Hvb</Id>
+        <Name>Enthalphy of vaporization at normal boiling point</Name>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

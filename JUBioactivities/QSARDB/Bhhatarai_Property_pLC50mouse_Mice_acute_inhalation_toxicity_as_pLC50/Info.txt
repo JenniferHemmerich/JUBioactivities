@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/179/2010CRT528.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pLC50mouse: Mice acute inhalation toxicity as pLC50 [-log(mmol/m^3)]"
+Paper:Bhhatarai, B.; Gramatica, P. Per- and Polyfluoro Toxicity (LC 50 Inhalation) Study in Rat and Mouse Using QSAR Modeling. Chem. Res. Toxicol. 2010, 23, 528–539.
+EP:"Property pLC50mouse: Mice acute inhalation toxicity as pLC50 "
+Author:Bhhatarai
+Filename:"Bhhatarai_Property pLC50mouse: Mice acute inhalation toxicity as pLC50"

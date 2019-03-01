@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/160/2011IECR11337.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property FP: Flash point [K]"
+Paper:Khajeh, A.; Modarress, H. Quantitative Structure–Property Relationship for Flash Points of Alcohols. Ind. Eng. Chem. Res. 2011, 50, 11337-11342.
+EP:"Property FP: Flash point "
+Author:Khajeh
+Filename:"Khajeh_Property FP: Flash point"

@@ -1,0 +1,7 @@
+Alkanes with their experimental bp and bp predicted by neural networks
+
+D. Cherqaoui and D. Villemin.
+Use of neural network to determine the boiling point of alkanes. J. Chem. Soc. Faraday Trans., 1994. 90(1):97-102.
+
+Note:
+The .txt files contain only the experimental values

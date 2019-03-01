@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pkNO3</Id>
+        <Name>Degradation by NO3 radicals as -logkNO3</Name>
+        <Description>Oxidation rate constants by nitrate radicals (kNO3) - night-time tropospheric degradation pathway. Data pertain to reactions at 25 C and 101.3 kPa.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.2. Persistence: Abiotic degradation in air</Endpoint>
+    </Property>
+</PropertyRegistry>

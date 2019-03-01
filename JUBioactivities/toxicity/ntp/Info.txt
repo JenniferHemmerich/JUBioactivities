@@ -1,0 +1,9 @@
+Structures from
+https://www.predictive-toxicology.org/ptc/#Revis
+
+The file Classes.csv contains the binary classifications as given in the file corrected_results.csv
+Classes:
+1 : All substances labelled P or CE
+0 : All substances labelled N or NE
+
+(for informations about the labels see original_ntp_data.txt)

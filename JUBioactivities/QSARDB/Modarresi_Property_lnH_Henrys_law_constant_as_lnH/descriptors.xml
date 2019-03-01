@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>ST</Id>
+        <Name>Total solvent-accessible surface area</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 7</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SC</Id>
+        <Name>Carbon atoms contribution to the solvent-accessible surface area</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 7</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SH</Id>
+        <Name>Hydrogen atoms contribution to the solvent-accessible surface area</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 7</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>CO</Id>
+        <Name>Cavity ovality</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>HyperChem 7</Application>
+    </Descriptor>
+</DescriptorRegistry>

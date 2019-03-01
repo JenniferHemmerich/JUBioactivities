@@ -1,0 +1,49 @@
+ EURL ECVAM Genotoxicity & Carcinogenicity Consolidated Database of Ames Positive Chemicals
+Filed under: systems toxicology, chemicals, genotoxicity, EURL ECVAM, carcinogenicity, computational toxicology and modelling
+
+The EURL ECVAM Genotoxicity & Carcinogenicity Consolidated database is a structured master database that compiles available genotoxicity and carcinogenicity data for Ames positive chemicals originating from different sources.
+
+By using a harmonised format to capture the information, this database represents a powerful resource for data analysis that can be used to guide a thorough evaluation of genotoxicity and carcinogenicity.
+
+The database is intended, in a first instance, as a resource for evaluating the predictivity of the Ames test for in vivo genotoxicity and carcinogenicity when considered alone or in association with in vitro mammalian cell assays (gene mutation and clastogenicity / aneugenicity) and for a better characterisation of those cases where the Ames test leads to irrelevant ('false positive') results.
+
+The database may also serve as a platform for detailed structural characterization of specific groups of compounds with or without carcinogenic or genotoxic activity.
+The database is linked to two other JRC databases, CHEList and CHemAgora.
+
+The database was constructed following a recommendation of an EURL ECVAM Workshop on 'How can in vitro mammalian cell genotoxicity tests reduce the need for in vivo follow-up testing with compounds positive in the Ames test?' (doi:10.1016/j.mrgentox.2014.10.005)
+
+Its development implements part of the published EURL ECVAM strategy aimed at avoiding and reducing animal use in genotoxicity testing (See genotoxicity and carcinogenicity sections on EURL ECVAM website).
+
+
+Description
+
+db-1
+
+Details on the database construction can be found in the following Manuscript on the Construction and Analysis of the DB (doi:10.1016/j.mrgentox.2014.10.006). The database includes:
+
+    Data from different sources: regulatory agencies, industry and literature databases covering different sectors (Fig. 1, 'Sources of data and categories of compounds in the database'). 
+    Only chemicals with valid in vitro and in vivo results for the genotoxicity endpoints and/or for carcinogenicity.
+    Only chemicals with a known chemical identity (structure, purity, molecular weight, CAS number).
+    Combinations into single entries of free bases and respective simple acid salts or R- and S-isomers for those chemicals where a similar behaviour was expected and/or proven.
+    Data for the following tests: in vitro tests (Ames, mouse lymphoma Tk+/-  [MLA] or gene Hprt locus, micronucleus [MN], chromosome aberration [CA]); in vivo tests (MN, CA, UDS, transgenic models, DNA breakage  [Comet and alkaline elution assay]); rodent carcinogenicity (Fig. 2, 'In vitro and in vivo test results distribution'). (See related sections on genotoxicity and carcinogenicity on EURL ECVAM website).
+    "Overall Calls" were defined for each genotoxicity assay in vitro and in vivo and carcinogenicity by following defined criteria for the reliability of each study and quality of data for those chemicals appearing in more than one source with different calls. 4 categories were considered (+), (-), (E) and (I). Where information was missing, even for those chemicals with one single data entry, scientific literature was consulted.
+    The database is to be considered a living project with possibilities of update and expansion.
+
+db-2 
+Downloads
+--------------------------------------------------------------
+ 
+
+    excel: EURL ECVAM Genotoxicity and Carcinogenicity Consolidated Database of Ames Positive Chemicals
+    pdf: icon Instructions on how to use the EURL ECVAM Genotoxicity and Carcinogenicity Consolidates Database of Ames Positive Chemicals (25.11.2014)
+     
+
+ 
+The reference Carcinogenicity Genotoxicity eXperience (CGX) dataset
+
+The Carcinogenicity Genotoxicity eXperience (CGX) dataset, previously hosted on the Lhasa Limited Site, is now available here. More information on the CGX database can be found in Kirkland D et al. (2005). Mutation Research 584 1-256.
+
+    zip Carcinogenicity Genotoxicity eXperience (CGX) dataset (April 2007)
+
+
+See also: https://eurl-ecvam.jrc.ec.europa.eu/databases/genotoxicity-carcinogenicity-db

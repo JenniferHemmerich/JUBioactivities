@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>A QSAR Approach for the Prediction of Stability of Benzoglycolamide Ester Prodrugs</Name>
+    <Description>A method consisting of quantitative structure–activity relationship (QSAR) (MLR) was developed to predict the hydrolytic rate constant of 37 benzoglycolamide ester prodrugs. The regression method was used as a calibration model for calculating the hydrolytic rate constant and investigating their linear characteristics. The QSAR study indicated the importance of the descriptors charge on amide nitrogen (AN), lipophilic parameter (log P) and nucleophilic frontal density (NUFD) in contribution to the ester hydrolysis with the correlation coefficient value of 0.908 for the developed MLR model. The models were validated by leave one out (LOO) technique as well as by the calculation of statistical parameters for the developed MLR models.</Description>
+</Archive>

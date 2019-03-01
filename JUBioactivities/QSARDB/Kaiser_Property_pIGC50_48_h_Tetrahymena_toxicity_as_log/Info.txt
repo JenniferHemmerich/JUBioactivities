@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/64/713745763.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 48-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Kaiser, K.L.; Niculescu, S.P.; Schultz, T.W. Probabilistic neural network modeling of the toxicity of chemicals to Tetrahymena pyriformis with molecular fragment descriptors. SAR QSAR Environ. Res. 2002, 13, 1, 57–67.
+EP:"Property pIGC50: 48-h Tetrahymena toxicity as log"
+Author:Kaiser
+Filename:"Kaiser_Property pIGC50: 48-h Tetrahymena toxicity as log"

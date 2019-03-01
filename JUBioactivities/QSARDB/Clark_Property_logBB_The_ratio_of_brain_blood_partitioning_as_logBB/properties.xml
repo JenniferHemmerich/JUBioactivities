@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logBB</Id>
+        <Name>The ratio of brain−blood partitioning as logBB</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex references</Cargos>
+        <Endpoint>5. Toxicokinetics 5.4. Blood-brain barrier penetration</Endpoint>
+        <Species>Rattus norvegicus (Rat)</Species>
+    </Property>
+</PropertyRegistry>

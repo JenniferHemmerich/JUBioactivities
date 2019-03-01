@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>HBtot</Id>
+        <Name>Total number of putative hydrogen bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ACDLabs 6.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>logD7.4</Id>
+        <Name>The logarithm of the octanol-water partition coefficient at pH 7.4</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ACDLabs 6.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>logD8.0</Id>
+        <Name>The logarithm of the octanol-water partition coefficient at pH 8.0</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ACDLabs 6.0</Application>
+    </Descriptor>
+</DescriptorRegistry>

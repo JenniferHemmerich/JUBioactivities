@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/131/2014JLPPI41.zip?sequence=1&isAllowed=y
+Endpoint:"Property SADT: Self-accelerating decomposition temperature [°C]"
+Paper:Pan, Y.; Zhang, Y.; Jiang, J.; Ding, L. Prediction of the self-accelerating decomposition temperature of organic peroxides using the quantitative structure–property relationship (QSPR) approach. J. Loss Prev. Process Ind. 2014, 31, 41–49.
+EP:"Property SADT: Self-accelerating decomposition temperature "
+Author:Pan
+Filename:"Pan_Property SADT: Self-accelerating decomposition temperature"

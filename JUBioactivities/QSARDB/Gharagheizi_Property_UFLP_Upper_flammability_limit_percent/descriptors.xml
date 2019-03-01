@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Jhetv</Id>
+        <Name>Balaban-type index from van der Waals weighted distance matrix</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PW5</Id>
+        <Name>Path/walk 5 Randic shape index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SIC0</Id>
+        <Name>Structural information content (neighborhood symmetry of 0-order)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS4m</Id>
+        <Name>Moran autocorrelation-lag 4 weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MLOGP</Id>
+        <Name>Moriguchi octanol–water partition coefﬁcient (log P)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/127/2011WR1463.zip?sequence=1&isAllowed=y
+Endpoint:"Property logWS: Aqueous solubility as logWS [mg/L]"
+Paper:Bhhatarai, B.; Gramatica, P. Modelling physico-chemical properties of (benzo)triazoles, and screening for environmental partitioning. Water Res. 2011, 45, 3, 1463–1471.
+EP:"Property logWS: Aqueous solubility as logWS "
+Author:Bhhatarai
+Filename:"Bhhatarai_Property logWS: Aqueous solubility as logWS"

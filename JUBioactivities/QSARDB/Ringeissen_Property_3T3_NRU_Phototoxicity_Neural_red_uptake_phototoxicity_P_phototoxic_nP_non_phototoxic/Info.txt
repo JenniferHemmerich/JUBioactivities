@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/139/2011TIV324.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property 3T3_NRU_Phototoxicity: Neural red uptake phototoxicity: P - phototoxic, nP - non-phototoxic"
+Paper:Ringeissen, S.; Marrot, L.; Note, R.; Labarussiat, A.; Imbert, S.; Todorov, M.; Mekenyan, O.; Meunier, J.-R. Development of a mechanistic SAR model for the detection of phototoxic chemicals and use in an integrated testing strategy. Toxicol. In Vitro 2011, 25, 324–334.
+EP:"Property 3T3_NRU_Phototoxicity: Neural red uptake phototoxicity: P - phototoxic, nP - non-phototoxic"
+Author:Ringeissen
+Filename:"Ringeissen_Property 3T3_NRU_Phototoxicity: Neural red uptake phototoxicity: P - phototoxic, nP - non-phototoxic"

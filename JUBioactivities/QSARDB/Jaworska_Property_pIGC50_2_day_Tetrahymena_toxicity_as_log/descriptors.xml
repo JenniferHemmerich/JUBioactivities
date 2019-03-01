@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Hydrophobicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>ClogP</Name>
+            <Version>3.53</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Savg</Id>
+        <Name>Average superdelocalizability</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>MOPAC</Name>
+            <Version>6</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

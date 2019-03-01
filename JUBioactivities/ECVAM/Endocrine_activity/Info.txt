@@ -1,0 +1,37 @@
+
+Endocrine Active Substances Information System (EASIS)
+Filed under: endocrine disrupters
+
+In December 1999, the European Commission adopted a Community Strategy for Endocrine Disrupters, focusing on short, medium and long-term actions. A key short-term action was to establish a priority list of substances for further evaluation of their role in endocrine disruption.
+
+Based on the output of four study contracts commissioned over the period 2000-2007, the Directorate-General for the Environment  (DG ENV) developed a database covering 428 substances suspected of having the potential for endocrine disruption. Although it has no normative or pre-normative implications, this database has proven useful in providing stakeholders with a significant amount of information on potential endocrine disrupters. However, one of the limitations of the database in its current form is that it is static in nature, and does not allow information to be introduced or updated.
+
+In September 2010, the Joint Research Centre - Institute for Health and Consumer Protection (JRC-IHCP) received a mandate from DG ENV to take over the work already done and develop it further towards a Web-based Information System on Endocrine Active Substances (EAS). As part of its activities in support of the implementation of the Community Strategy on Endocrine Disrupters, the JRC-IHCP has therefore:
+
+    taken over from DG ENV the existing database with the results of the 2000-2007 studies;  
+    started a project aimed at developing a new database, which could be easily consulted and updated with new (research) findings on EAS via the web
+    started looking at integrating the new database into a Web Portal, so as to provide easy access to additional resources, such as other databases and modelling tools
+
+On this website you can both download the existing database and keep yourself informed about the development of the new one.
+
+ 
+Download the existing European Commission database
+
+To extract the database, please, follow these instructions:
+1. Download the zip zipped file to your hard-disk
+2. Unzip the file and run the database (by a double-click on EDS_2003_DHI2006.mdb).
+3. Minimum requirement: Microsoft Access 2003 or later. 
+
+"CATEGORY","DEFINITION"
+"CAT1","With evidence of ED."
+"CAT2","Potential evidence of ED."
+"CAT3","No scientific evidence or no or insufficient data gathered."
+"CAT3a","No scientific evidence"
+"CAT3b","No or insufficient data gathered."
+
+HH = Human Health
+WL = Wildlife
+
+Get more information: https://eurl-ecvam.jrc.ec.europa.eu/databases/eas_database
+
+

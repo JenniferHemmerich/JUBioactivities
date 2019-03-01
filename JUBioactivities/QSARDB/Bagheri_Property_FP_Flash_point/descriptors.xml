@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Ss</Id>
+        <Name>Sum of Kier-Hall electrotopological states</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Jhetv</Id>
+        <Name>Balaban-type index from van der Waals weighted distance matrix</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HATS1m</Id>
+        <Name>Leverage-weighted autocorrelation of lag 1/weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>R1u+</Id>
+        <Name>R maximal autocorrelation of lag1/unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nCIR</Id>
+        <Name>Number of circuits</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor30m</Id>
+        <Name>3D-MoRSE - signal 30/weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+</DescriptorRegistry>

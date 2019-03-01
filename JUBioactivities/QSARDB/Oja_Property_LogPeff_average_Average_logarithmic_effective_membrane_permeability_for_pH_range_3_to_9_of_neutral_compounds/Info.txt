@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/184/2016SQER.zip?sequence=1&isAllowed=y
+Endpoint:"Property LogPeff_average: Average logarithmic effective membrane permeability for pH range 3 to 9 of neutral compounds [log(cm/s)]"
+Paper:Oja, M.; Maran, U. Quantitative structure-permeability relationships at various pH values for neutral and amphoteric drugs and drug-like compounds. SAR QSAR Environ. Res. 2016, 27, 813-832.
+EP:"Property LogPeff_average: Average logarithmic effective membrane permeability for pH range 3 to 9 of neutral compounds "
+Author:Oja
+Filename:"Oja_Property LogPeff_average: Average logarithmic effective membrane permeability for pH range 3 to 9 of neutral compounds"

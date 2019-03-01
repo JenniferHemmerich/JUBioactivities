@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/21/004896979190211V.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 48-h Tetrahymena toxicity as log(1/IGC50) [log(L/mol)]"
+Paper:Schultz, T.W.; Wilke, T.S.; Bryant, S.E.; Hosein, L.M. QSARs for selected aliphatic and aromatic amines. Sci. Total Environ. 1991, 109, 581–587.
+EP:"Property pIGC50: 48-h Tetrahymena toxicity as log"
+Author:Schultz
+Filename:"Schultz_Property pIGC50: 48-h Tetrahymena toxicity as log"

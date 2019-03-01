@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/137/2015MI.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logPeff: Highest logarithmic effective membrane permeability for pH range 3 to 9 [log(cm/s)] "
+Paper:"Oja, M.; Maran, U. The permeability of artificial membrane for the wide range of pH in human gastrointestinal tract: experimental measurements and quantitative structure-activity relationship. Mol. Inf. 2015, 34, 493–506."
+EP:"Property logPeff: Highest logarithmic effective membrane permeability for pH range 3 to 9 "
+Author:Oja
+Filename:"Oja_Property logPeff: Highest logarithmic effective membrane permeability for pH range 3 to 9"

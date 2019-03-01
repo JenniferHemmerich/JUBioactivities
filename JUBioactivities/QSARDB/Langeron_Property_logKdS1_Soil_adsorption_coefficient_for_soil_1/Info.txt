@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/193/2014ESPR9727.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logKdS1: Soil adsorption coefficient for soil 1 [log(l/kg)] "
+Paper:Langeron, J.; Blondel, A.; Sayen, S.; Hénon, E.; Couderchet, M.; Guillon, E. Molecular properties affecting the adsorption coefficient of pesticides from various chemical families. Environ. Sci. Pollut. Res. 2014, 21, 9727–9741.
+EP:"Property logKdS1: Soil adsorption coefficient for soil 1 "
+Author:Langeron
+Filename:"Langeron_Property logKdS1: Soil adsorption coefficient for soil 1"

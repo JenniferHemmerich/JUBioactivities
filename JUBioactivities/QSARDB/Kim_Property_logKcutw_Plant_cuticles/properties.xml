@@ -1,0 +1,11 @@
+ve<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logKcutw</Id>
+        <Name>Plant cuticles/water partition coefficient as logKcutw</Name>
+        <Labels></Labels>
+        <Cargos>bibtex ucum values references species</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.9. Vegetation-water partition coefficient</Endpoint>
+        <Species></Species>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>MW</Id>
+        <Name>Molecular weight</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP</Id>
+        <Name>Vapor Pressure</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>EPI Suite 3.12</Application>
+    </Descriptor>
+</DescriptorRegistry>

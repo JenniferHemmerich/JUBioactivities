@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/13/tx049666n.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Aptula, A.O.; Roberts, D.W.; Cronin, M.T.D.; Schultz, T.W. Chemistry-Toxicity Relationships for the Effects of Di- and Trihydroxybenzenes to Tetrahymena pyriformis. Chem. Res. Toxicol. 2005, 18, 5, 844–854.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Aptula
+Filename:"Aptula_Property pIGC50: 40-h Tetrahymena toxicity as log"

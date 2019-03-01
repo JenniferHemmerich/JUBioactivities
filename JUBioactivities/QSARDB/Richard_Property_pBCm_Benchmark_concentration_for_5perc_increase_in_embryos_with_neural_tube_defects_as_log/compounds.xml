@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>MFA</Id>
+        <Name>Monofluoroacetic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>144-49-0</Cas>
+        <InChI>InChI=1S/C2H3FO2/c3-1-2(4)5/h1H2,(H,4,5)</InChI>
+    </Compound>
+    <Compound>
+        <Id>DFA</Id>
+        <Name>Difluoroacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>381-73-7</Cas>
+        <InChI>InChI=1S/C2H2F2O2/c3-1(4)2(5)6/h1H,(H,5,6)</InChI>
+    </Compound>
+    <Compound>
+        <Id>TFA</Id>
+        <Name>Trifluoroacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>76-05-1</Cas>
+        <InChI>InChI=1S/C2HF3O2/c3-2(4,5)1(6)7/h(H,6,7)</InChI>
+    </Compound>
+    <Compound>
+        <Id>MCA</Id>
+        <Name>Monochloroacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>79-11-8</Cas>
+        <InChI>InChI=1S/C2H3ClO2/c3-1-2(4)5/h1H2,(H,4,5)</InChI>
+    </Compound>
+    <Compound>
+        <Id>DCA</Id>
+        <Name>Dichloroacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>79-43-6</Cas>
+        <InChI>InChI=1S/C2H2Cl2O2/c3-1(4)2(5)6/h1H,(H,5,6)</InChI>
+    </Compound>
+    <Compound>
+        <Id>TCA</Id>
+        <Name>Trichloroacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>76-03-9</Cas>
+        <InChI>InChI=1S/C2HCl3O2/c3-2(4,5)1(6)7/h(H,6,7)</InChI>
+    </Compound>
+    <Compound>
+        <Id>MBA</Id>
+        <Name>Monobromoacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>79-08-3</Cas>
+        <InChI>InChI=1S/C2H3BrO2/c3-1-2(4)5/h1H2,(H,4,5)</InChI>
+    </Compound>
+    <Compound>
+        <Id>DBA</Id>
+        <Name>Dibromoacetic  acid</Name>
+        <Description>pKA calculated with ASTER software</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>631-64-1</Cas>
+        <InChI>InChI=1S/C2H2Br2O2/c3-1(4)2(5)6/h1H,(H,5,6)</InChI>
+    </Compound>
+    <Compound>
+        <Id>TBA</Id>
+        <Name>Tribromoacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>75-96-7</Cas>
+        <InChI>InChI=1S/C2HBr3O2/c3-2(4,5)1(6)7/h(H,6,7)</InChI>
+    </Compound>
+    <Compound>
+        <Id>MIA</Id>
+        <Name>Monoiodoacetic  acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>64-69-7</Cas>
+        <InChI>InChI=1S/C2H3IO2/c3-1-2(4)5/h1H2,(H,4,5)</InChI>
+    </Compound>
+</CompoundRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/165/1999FRBM285.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property E7: Redox potential [V] "
+Paper:Lien, E. J.; Ren, S.; Bui, H.-H.; Wang, R. Quantitative structure-activity relationship analysis of phenolic antioxidants. Free Radic. Biol. Med. 1999, 26, 285–294.
+EP:"Property E7: Redox potential "
+Author:Lien
+Filename:"Lien_Property E7: Redox potential"

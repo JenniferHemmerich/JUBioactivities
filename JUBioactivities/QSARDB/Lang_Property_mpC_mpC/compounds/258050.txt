@@ -1,0 +1,1 @@
+CC(C)(C)c1ccc2c(c1)nc(o2)c3ccc(s3)c4nc5cc(ccc5o4)C(C)(C)C

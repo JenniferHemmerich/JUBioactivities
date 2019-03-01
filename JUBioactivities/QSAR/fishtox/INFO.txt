@@ -1,0 +1,12 @@
+Acute toxicity to fish dataset
+A QSAR model was developed from a dataset consisting in 908 organic molecules to predict acute aquatic toxicity towards the fish Pimephales promelas (fathead minnow). LC50 data, which is the concentration that causes death in 50% of test fish over a test duration of 96 hours, was used as model response. The 908 molecules of the dataset were randomly divided into training (726) and external test sets (182). The model comprised 6 molecular descriptors: MLOGP (molecular properties), CIC0 (information indices), GATS1i (2D autocorrelations), NdssC (atom-type counts), NdsCH ((atom-type counts), SM1_Dz(Z) (2D matrix-based descriptors).
+Here the dataset (togheter with the molecular SMILES) is provided for free as excel file. For further details on the dataset, molecular descriptors and the related published QSAR model, please have a look at the referenced scientific paper.
+
+Notes:
+13 chemicals are associated with 2 CAS-RNs in the form CAS-RN1/CAS-RN2. In these cases the product of the dissociation algorithm coincided with another molecule in the dataset. Please refer to the manuscript for further details.
+
+ 
+Conditions
+The dataset is freeware and may be used if proper reference is given to the authors. Please, refer to the following paper: 
+
+M. Cassotti, D. Ballabio, R. Todeschini, V. Consonni. A similarity-based QSAR model for predicting acute toxicity towards the fathead minnow (Pimephales promelas), SAR and QSAR in Environmental Research (2015), 26, 217-243, DOI: 10.1080/1062936X.2015.1018938

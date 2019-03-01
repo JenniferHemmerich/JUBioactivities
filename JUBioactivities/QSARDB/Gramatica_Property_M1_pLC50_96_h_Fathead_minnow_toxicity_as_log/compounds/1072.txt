@@ -1,0 +1,1 @@
+c1cc(Oc2cc([C@H](OC(=O)[C@H]3[C@H](C=C(Cl)Cl)C3(C)C)C#N)ccc2)ccc1

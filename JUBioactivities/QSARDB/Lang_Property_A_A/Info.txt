@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/100/AbrahamSoluteA.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property A: A"
+Paper:Lang, Andrew SID; Bradley, Jean-Claude Abraham descriptor A.
+EP:"Property A: A"
+Author:Lang
+Filename:"Lang_Property A: A"

@@ -1,0 +1,11 @@
+Compound Id	Benchmark concentration for 5perc increase in embryos with neural tube defects as log(1/BCm)
+MFA	3.16
+DFA	2.228
+TFA	2.437
+MCA	4.039
+DCA	2.61
+TCA	2.874
+MBA	5.572
+DBA	3.79
+TBA	2.853
+MIA	6.174

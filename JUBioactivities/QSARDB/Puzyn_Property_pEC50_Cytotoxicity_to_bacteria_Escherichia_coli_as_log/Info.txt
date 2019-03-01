@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/119/2011NN175.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC50: Cytotoxicity to bacteria Escherichia coli as log(1/EC50) [mol/l]"
+Paper:Puzyn, T.; Rasulev, B.; Gajewicz, A.; Hu, X.; Dasari, T. P.; Michalkova, A.; Hwang, H.; Toropov, A.; Leszczynska, D.; Leszczynski, J. Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles. Nat. Nanotechnol. 2011, 6, 3, 175–178.
+EP:"Property pEC50: Cytotoxicity to bacteria Escherichia coli as log"
+Author:Puzyn
+Filename:"Puzyn_Property pEC50: Cytotoxicity to bacteria Escherichia coli as log"

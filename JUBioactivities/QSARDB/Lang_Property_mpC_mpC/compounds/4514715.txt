@@ -1,0 +1,1 @@
+COCC(=O)Nc2cc(Sc1ccccc1)ccc2N=C(NC(=O)OC)NC(=O)OC

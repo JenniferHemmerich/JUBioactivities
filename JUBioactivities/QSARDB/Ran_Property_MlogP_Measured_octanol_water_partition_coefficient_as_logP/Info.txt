@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/188/2002C487.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property MlogP: Measured octanol/water partition coefficient as logP"
+Paper:Ran, Y.; He, Y.; Yang, G.; Johnson, J. L. H.; Yalkowsky, S. H. Estimation of aqueous solubility of organic compounds by using the general solubility equation. Chemosphere 2002, 48, 487–509.
+EP:"Property MlogP: Measured octanol/water partition coefficient as logP"
+Author:Ran
+Filename:"Ran_Property MlogP: Measured octanol/water partition coefficient as logP"

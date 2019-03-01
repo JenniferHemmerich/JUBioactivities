@@ -1,0 +1,1 @@
+Clc2ccc(\C(=C(/Cl)Cl)c1ccc(Cl)cc1)cc2

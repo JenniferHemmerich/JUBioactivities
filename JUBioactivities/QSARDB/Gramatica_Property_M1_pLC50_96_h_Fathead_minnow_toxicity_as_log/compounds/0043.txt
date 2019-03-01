@@ -1,0 +1,1 @@
+Clc1ccc(cc1)/C=C/1\[C@@](Cn2ncnc2)(O)[C@H]([C@H]([C@H]1O)C)C

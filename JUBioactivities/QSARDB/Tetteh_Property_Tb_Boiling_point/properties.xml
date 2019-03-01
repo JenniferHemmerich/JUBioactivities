@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>Tb</Id>
+        <Name>Boiling point</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.2. Boiling point</Endpoint>
+    </Property>
+    <Property>
+        <Id>Tf</Id>
+        <Name>Flash point</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.19. Flash point</Endpoint>
+    </Property>
+</PropertyRegistry>

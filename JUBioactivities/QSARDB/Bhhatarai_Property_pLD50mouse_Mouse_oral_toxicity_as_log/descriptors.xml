@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>DDr09</Id>
+        <Name>distance/detour ring index of order 9</Name>
+        <Description>topological 2D descriptor</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS1e</Id>
+        <Name>2D Moran autocorrelation descriptor</Name>
+        <Description>represents electronegativity</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E1u</Id>
+        <Name>First component accessibility directional WHIM index</Name>
+        <Description>3D descriptor representing information regarding the quantity of unfilled space per projected atom</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>H8m</Id>
+        <Name>H autocorrelation of lag 8</Name>
+        <Description>3D GETAWAY descriptor</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HATS2u</Id>
+        <Name>Leverage-weighted autocorrelation of lag 2/unweighted</Name>
+        <Description>3D GETAWAY descriptor</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>B09_C-O</Id>
+        <Name>Binary fingerprint descriptor of the presence of carbonyl at topological distance of 9</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>B04_C-F</Id>
+        <Name>Binary fingerprint descriptor of the presence of C-F bond at topological distance of 4</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>F01_C-O</Id>
+        <Name>Binary fingerprint descriptor of the frequency of carbonyl at topological distance of 1</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+</DescriptorRegistry>

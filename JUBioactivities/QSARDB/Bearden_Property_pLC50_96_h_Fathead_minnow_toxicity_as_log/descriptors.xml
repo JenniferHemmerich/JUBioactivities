@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Snav</Id>
+        <Name>Average acceptor superdelocalizability</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Hydrophobicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>pKa</Id>
+        <Name>Ionization constant</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>HOMO</Id>
+        <Name>Energy of the highest occupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>MOPAC</Name>
+            <Version>6</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>Energy of the lowest unoccupeied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>MOPAC</Name>
+            <Version>6</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

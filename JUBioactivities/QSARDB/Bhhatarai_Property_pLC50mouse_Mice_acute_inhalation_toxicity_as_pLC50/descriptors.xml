@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>X3v</Id>
+        <Name>valence connectivity index chi-3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MlogP</Id>
+        <Name>Moriguchi octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>H-048</Id>
+        <Name>H attached to C2(sp3)/C1(sp2)/C0(sp) carbon belonging to atom centered fragments</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>F01[C-C]</Id>
+        <Name>2D frequency fingerprint of C-C at distance 01</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PCR</Id>
+        <Name>walk and path count descriptor which is the ratio of multiple path count over path count</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>B02[Cl-Cl]</Id>
+        <Name>2D binary fingerprint descriptor which determines the presence/absence of Cl-Cl at a topological distance of 2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Jhetv</Id>
+        <Name>Balaban type index from van der Waals weighted distance matrix encoding the topological properties</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+</DescriptorRegistry>

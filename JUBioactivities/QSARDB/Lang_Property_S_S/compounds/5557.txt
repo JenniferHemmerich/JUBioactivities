@@ -1,0 +1,1 @@
+O=C(O[C@H]1CC2N(C)C([C@H]1C(=O)OC)CC2)c3ccccc3

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/144/2001C437.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC50: 48-h Algal toxicity as log(1/EC50) [log(mol/l)]"
+Paper:Lu, G.-H.; Yuan, X.; Zhao, Y.-H. QSAR study on the toxicity of substituted benzenes to the algae (Scenedesmus obliquus). Chemosphere 2001, 44, 437–440.
+EP:"Property pEC50: 48-h Algal toxicity as log"
+Author:Lu
+Filename:"Lu_Property pEC50: 48-h Algal toxicity as log"

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Mv</Id>
+        <Name>Mean atomic van der Waals volume (scaled on carbon atom)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>CID</Id>
+        <Name>Randic ID number</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>EEig02d</Id>
+        <Name>Eigenvalue 02 from edge adjacency matrix weighted by dipole moment</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GGI1</Id>
+        <Name>Topological charge index of order 1</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nROH</Id>
+        <Name>Number of hydroxyl groups</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHDon</Id>
+        <Name>Number of donor atoms for H-bonds (N and O)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+</DescriptorRegistry>

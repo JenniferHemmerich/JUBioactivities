@@ -1,0 +1,2743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>ALogP</Id>
+        <Name>ALOGP [ALogP]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ALogp2</Id>
+        <Name>ALOGP [ALogp2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>AMR</Id>
+        <Name>ALOGP [AMR]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>apol</Id>
+        <Name>APol</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAcid</Id>
+        <Name>AcidicGroupCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>naAromAtom</Id>
+        <Name>AromaticAtomsCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAromBond</Id>
+        <Name>AromaticBondsCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAtom</Id>
+        <Name>AtomCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSc1</Id>
+        <Name>AutocorrelationCharge [ATSc1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSc2</Id>
+        <Name>AutocorrelationCharge [ATSc2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSc3</Id>
+        <Name>AutocorrelationCharge [ATSc3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSc4</Id>
+        <Name>AutocorrelationCharge [ATSc4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSc5</Id>
+        <Name>AutocorrelationCharge [ATSc5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSm1</Id>
+        <Name>AutocorrelationMass [ATSm1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSm2</Id>
+        <Name>AutocorrelationMass [ATSm2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSm3</Id>
+        <Name>AutocorrelationMass [ATSm3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSm4</Id>
+        <Name>AutocorrelationMass [ATSm4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSm5</Id>
+        <Name>AutocorrelationMass [ATSm5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSp1</Id>
+        <Name>AutocorrelationPolarizability [ATSp1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSp2</Id>
+        <Name>AutocorrelationPolarizability [ATSp2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSp3</Id>
+        <Name>AutocorrelationPolarizability [ATSp3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSp4</Id>
+        <Name>AutocorrelationPolarizability [ATSp4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATSp5</Id>
+        <Name>AutocorrelationPolarizability [ATSp5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BCUTw-1l</Id>
+        <Name>BCUT [BCUTw-1l]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BCUTw-1h</Id>
+        <Name>BCUT [BCUTw-1h]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BCUTc-1l</Id>
+        <Name>BCUT [BCUTc-1l]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BCUTc-1h</Id>
+        <Name>BCUT [BCUTc-1h]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BCUTp-1l</Id>
+        <Name>BCUT [BCUTp-1l]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>BCUTp-1h</Id>
+        <Name>BCUT [BCUTp-1h]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>bpol</Id>
+        <Name>BPol</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nBase</Id>
+        <Name>BasicGroupCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nB</Id>
+        <Name>BondCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PPSA-1</Id>
+        <Name>CPSA [PPSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PPSA-2</Id>
+        <Name>CPSA [PPSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PPSA-3</Id>
+        <Name>CPSA [PPSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PNSA-1</Id>
+        <Name>CPSA [PNSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PNSA-2</Id>
+        <Name>CPSA [PNSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PNSA-3</Id>
+        <Name>CPSA [PNSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>DPSA-1</Id>
+        <Name>CPSA [DPSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>DPSA-2</Id>
+        <Name>CPSA [DPSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>DPSA-3</Id>
+        <Name>CPSA [DPSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FPSA-1</Id>
+        <Name>CPSA [FPSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FPSA-2</Id>
+        <Name>CPSA [FPSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FPSA-3</Id>
+        <Name>CPSA [FPSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FNSA-1</Id>
+        <Name>CPSA [FNSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FNSA-2</Id>
+        <Name>CPSA [FNSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FNSA-3</Id>
+        <Name>CPSA [FNSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPSA-1</Id>
+        <Name>CPSA [WPSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPSA-2</Id>
+        <Name>CPSA [WPSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPSA-3</Id>
+        <Name>CPSA [WPSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WNSA-1</Id>
+        <Name>CPSA [WNSA-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WNSA-2</Id>
+        <Name>CPSA [WNSA-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WNSA-3</Id>
+        <Name>CPSA [WNSA-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RPCG</Id>
+        <Name>CPSA [RPCG]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RNCG</Id>
+        <Name>CPSA [RNCG]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RPCS</Id>
+        <Name>CPSA [RPCS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RNCS</Id>
+        <Name>CPSA [RNCS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>THSA</Id>
+        <Name>CPSA [THSA]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TPSA</Id>
+        <Name>CPSA [TPSA]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RHSA</Id>
+        <Name>CPSA [RHSA]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RPSA</Id>
+        <Name>CPSA [RPSA]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C1SP1</Id>
+        <Name>CarbonTypes [C1SP1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C2SP1</Id>
+        <Name>CarbonTypes [C2SP1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C1SP2</Id>
+        <Name>CarbonTypes [C1SP2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C2SP2</Id>
+        <Name>CarbonTypes [C2SP2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C3SP2</Id>
+        <Name>CarbonTypes [C3SP2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C1SP3</Id>
+        <Name>CarbonTypes [C1SP3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C2SP3</Id>
+        <Name>CarbonTypes [C2SP3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C3SP3</Id>
+        <Name>CarbonTypes [C3SP3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C4SP3</Id>
+        <Name>CarbonTypes [C4SP3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SCH-3</Id>
+        <Name>ChiChain [SCH-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SCH-4</Id>
+        <Name>ChiChain [SCH-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SCH-5</Id>
+        <Name>ChiChain [SCH-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SCH-6</Id>
+        <Name>ChiChain [SCH-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SCH-7</Id>
+        <Name>ChiChain [SCH-7]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VCH-3</Id>
+        <Name>ChiChain [VCH-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VCH-4</Id>
+        <Name>ChiChain [VCH-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VCH-5</Id>
+        <Name>ChiChain [VCH-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VCH-6</Id>
+        <Name>ChiChain [VCH-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VCH-7</Id>
+        <Name>ChiChain [VCH-7]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SC-3</Id>
+        <Name>ChiCluster [SC-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SC-4</Id>
+        <Name>ChiCluster [SC-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SC-5</Id>
+        <Name>ChiCluster [SC-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SC-6</Id>
+        <Name>ChiCluster [SC-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VC-3</Id>
+        <Name>ChiCluster [VC-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VC-4</Id>
+        <Name>ChiCluster [VC-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VC-5</Id>
+        <Name>ChiCluster [VC-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VC-6</Id>
+        <Name>ChiCluster [VC-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SPC-4</Id>
+        <Name>ChiPathCluster [SPC-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SPC-5</Id>
+        <Name>ChiPathCluster [SPC-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SPC-6</Id>
+        <Name>ChiPathCluster [SPC-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VPC-4</Id>
+        <Name>ChiPathCluster [VPC-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VPC-5</Id>
+        <Name>ChiPathCluster [VPC-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VPC-6</Id>
+        <Name>ChiPathCluster [VPC-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-0</Id>
+        <Name>ChiPath [SP-0]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-1</Id>
+        <Name>ChiPath [SP-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-2</Id>
+        <Name>ChiPath [SP-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-3</Id>
+        <Name>ChiPath [SP-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-4</Id>
+        <Name>ChiPath [SP-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-5</Id>
+        <Name>ChiPath [SP-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-6</Id>
+        <Name>ChiPath [SP-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SP-7</Id>
+        <Name>ChiPath [SP-7]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-0</Id>
+        <Name>ChiPath [VP-0]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-1</Id>
+        <Name>ChiPath [VP-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-2</Id>
+        <Name>ChiPath [VP-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-3</Id>
+        <Name>ChiPath [VP-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-4</Id>
+        <Name>ChiPath [VP-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-5</Id>
+        <Name>ChiPath [VP-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-6</Id>
+        <Name>ChiPath [VP-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VP-7</Id>
+        <Name>ChiPath [VP-7]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ECCEN</Id>
+        <Name>EccentricConnectivityIndex</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>FMF</Id>
+        <Name>FMF</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>fragC</Id>
+        <Name>FragmentComplexity</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAV-1</Id>
+        <Name>GravitationalIndex [GRAV-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAV-2</Id>
+        <Name>GravitationalIndex [GRAV-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAV-3</Id>
+        <Name>GravitationalIndex [GRAV-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAVH-1</Id>
+        <Name>GravitationalIndex [GRAVH-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAVH-2</Id>
+        <Name>GravitationalIndex [GRAVH-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAVH-3</Id>
+        <Name>GravitationalIndex [GRAVH-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAV-4</Id>
+        <Name>GravitationalIndex [GRAV-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAV-5</Id>
+        <Name>GravitationalIndex [GRAV-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GRAV-6</Id>
+        <Name>GravitationalIndex [GRAV-6]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBAcc</Id>
+        <Name>HBondAcceptorCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBDon</Id>
+        <Name>HBondDonorCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HybRatio</Id>
+        <Name>HybridizationRatio</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Kier1</Id>
+        <Name>KappaShapeIndices [Kier1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Kier2</Id>
+        <Name>KappaShapeIndices [Kier2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Kier3</Id>
+        <Name>KappaShapeIndices [Kier3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sLi</Id>
+        <Name>KierHallSmarts [khs.sLi]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssBe</Id>
+        <Name>KierHallSmarts [khs.ssBe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssBe</Id>
+        <Name>KierHallSmarts [khs.ssssBe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssBH</Id>
+        <Name>KierHallSmarts [khs.ssBH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssB</Id>
+        <Name>KierHallSmarts [khs.sssB]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssB</Id>
+        <Name>KierHallSmarts [khs.ssssB]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sCH3</Id>
+        <Name>KierHallSmarts [khs.sCH3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dCH2</Id>
+        <Name>KierHallSmarts [khs.dCH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssCH2</Id>
+        <Name>KierHallSmarts [khs.ssCH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.tCH</Id>
+        <Name>KierHallSmarts [khs.tCH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dsCH</Id>
+        <Name>KierHallSmarts [khs.dsCH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaCH</Id>
+        <Name>KierHallSmarts [khs.aaCH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssCH</Id>
+        <Name>KierHallSmarts [khs.sssCH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ddC</Id>
+        <Name>KierHallSmarts [khs.ddC]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.tsC</Id>
+        <Name>KierHallSmarts [khs.tsC]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dssC</Id>
+        <Name>KierHallSmarts [khs.dssC]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aasC</Id>
+        <Name>KierHallSmarts [khs.aasC]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaaC</Id>
+        <Name>KierHallSmarts [khs.aaaC]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssC</Id>
+        <Name>KierHallSmarts [khs.ssssC]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sNH3</Id>
+        <Name>KierHallSmarts [khs.sNH3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sNH2</Id>
+        <Name>KierHallSmarts [khs.sNH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssNH2</Id>
+        <Name>KierHallSmarts [khs.ssNH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dNH</Id>
+        <Name>KierHallSmarts [khs.dNH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssNH</Id>
+        <Name>KierHallSmarts [khs.ssNH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaNH</Id>
+        <Name>KierHallSmarts [khs.aaNH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.tN</Id>
+        <Name>KierHallSmarts [khs.tN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssNH</Id>
+        <Name>KierHallSmarts [khs.sssNH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dsN</Id>
+        <Name>KierHallSmarts [khs.dsN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaN</Id>
+        <Name>KierHallSmarts [khs.aaN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssN</Id>
+        <Name>KierHallSmarts [khs.sssN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ddsN</Id>
+        <Name>KierHallSmarts [khs.ddsN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aasN</Id>
+        <Name>KierHallSmarts [khs.aasN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssN</Id>
+        <Name>KierHallSmarts [khs.ssssN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sOH</Id>
+        <Name>KierHallSmarts [khs.sOH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dO</Id>
+        <Name>KierHallSmarts [khs.dO]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssO</Id>
+        <Name>KierHallSmarts [khs.ssO]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaO</Id>
+        <Name>KierHallSmarts [khs.aaO]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sF</Id>
+        <Name>KierHallSmarts [khs.sF]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sSiH3</Id>
+        <Name>KierHallSmarts [khs.sSiH3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssSiH2</Id>
+        <Name>KierHallSmarts [khs.ssSiH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssSiH</Id>
+        <Name>KierHallSmarts [khs.sssSiH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssSi</Id>
+        <Name>KierHallSmarts [khs.ssssSi]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sPH2</Id>
+        <Name>KierHallSmarts [khs.sPH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssPH</Id>
+        <Name>KierHallSmarts [khs.ssPH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssP</Id>
+        <Name>KierHallSmarts [khs.sssP]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dsssP</Id>
+        <Name>KierHallSmarts [khs.dsssP]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssssP</Id>
+        <Name>KierHallSmarts [khs.sssssP]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sSH</Id>
+        <Name>KierHallSmarts [khs.sSH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dS</Id>
+        <Name>KierHallSmarts [khs.dS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssS</Id>
+        <Name>KierHallSmarts [khs.ssS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaS</Id>
+        <Name>KierHallSmarts [khs.aaS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dssS</Id>
+        <Name>KierHallSmarts [khs.dssS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ddssS</Id>
+        <Name>KierHallSmarts [khs.ddssS]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sCl</Id>
+        <Name>KierHallSmarts [khs.sCl]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sGeH3</Id>
+        <Name>KierHallSmarts [khs.sGeH3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssGeH2</Id>
+        <Name>KierHallSmarts [khs.ssGeH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssGeH</Id>
+        <Name>KierHallSmarts [khs.sssGeH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssGe</Id>
+        <Name>KierHallSmarts [khs.ssssGe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sAsH2</Id>
+        <Name>KierHallSmarts [khs.sAsH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssAsH</Id>
+        <Name>KierHallSmarts [khs.ssAsH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssAs</Id>
+        <Name>KierHallSmarts [khs.sssAs]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssdAs</Id>
+        <Name>KierHallSmarts [khs.sssdAs]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssssAs</Id>
+        <Name>KierHallSmarts [khs.sssssAs]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sSeH</Id>
+        <Name>KierHallSmarts [khs.sSeH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dSe</Id>
+        <Name>KierHallSmarts [khs.dSe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssSe</Id>
+        <Name>KierHallSmarts [khs.ssSe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.aaSe</Id>
+        <Name>KierHallSmarts [khs.aaSe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.dssSe</Id>
+        <Name>KierHallSmarts [khs.dssSe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ddssSe</Id>
+        <Name>KierHallSmarts [khs.ddssSe]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sBr</Id>
+        <Name>KierHallSmarts [khs.sBr]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sSnH3</Id>
+        <Name>KierHallSmarts [khs.sSnH3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssSnH2</Id>
+        <Name>KierHallSmarts [khs.ssSnH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssSnH</Id>
+        <Name>KierHallSmarts [khs.sssSnH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssSn</Id>
+        <Name>KierHallSmarts [khs.ssssSn]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sI</Id>
+        <Name>KierHallSmarts [khs.sI]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sPbH3</Id>
+        <Name>KierHallSmarts [khs.sPbH3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssPbH2</Id>
+        <Name>KierHallSmarts [khs.ssPbH2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.sssPbH</Id>
+        <Name>KierHallSmarts [khs.sssPbH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>khs.ssssPb</Id>
+        <Name>KierHallSmarts [khs.ssssPb]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAtomLC</Id>
+        <Name>LargestChain</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAtomP</Id>
+        <Name>LargestPiSystem</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LOBMAX</Id>
+        <Name>LengthOverBreadth [LOBMAX]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LOBMIN</Id>
+        <Name>LengthOverBreadth [LOBMIN]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nAtomLAC</Id>
+        <Name>LongestAliphaticChain</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-11</Id>
+        <Name>MDE [MDEC-11]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-12</Id>
+        <Name>MDE [MDEC-12]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-13</Id>
+        <Name>MDE [MDEC-13]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-14</Id>
+        <Name>MDE [MDEC-14]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-22</Id>
+        <Name>MDE [MDEC-22]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-23</Id>
+        <Name>MDE [MDEC-23]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-24</Id>
+        <Name>MDE [MDEC-24]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-33</Id>
+        <Name>MDE [MDEC-33]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-34</Id>
+        <Name>MDE [MDEC-34]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEC-44</Id>
+        <Name>MDE [MDEC-44]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEO-11</Id>
+        <Name>MDE [MDEO-11]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEO-12</Id>
+        <Name>MDE [MDEO-12]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEO-22</Id>
+        <Name>MDE [MDEO-22]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-11</Id>
+        <Name>MDE [MDEN-11]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-12</Id>
+        <Name>MDE [MDEN-12]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-13</Id>
+        <Name>MDE [MDEN-13]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-22</Id>
+        <Name>MDE [MDEN-22]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-23</Id>
+        <Name>MDE [MDEN-23]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MDEN-33</Id>
+        <Name>MDE [MDEN-33]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MLogP</Id>
+        <Name>MannholdLogP</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-X</Id>
+        <Name>MomentOfInertia [MOMI-X]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-Y</Id>
+        <Name>MomentOfInertia [MOMI-Y]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-Z</Id>
+        <Name>MomentOfInertia [MOMI-Z]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-XY</Id>
+        <Name>MomentOfInertia [MOMI-XY]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-XZ</Id>
+        <Name>MomentOfInertia [MOMI-XZ]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-YZ</Id>
+        <Name>MomentOfInertia [MOMI-YZ]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MOMI-R</Id>
+        <Name>MomentOfInertia [MOMI-R]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PetitjeanNumber</Id>
+        <Name>PetitjeanNumber</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>topoShape</Id>
+        <Name>PetitjeanShapeIndex [topoShape]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>geomShape</Id>
+        <Name>PetitjeanShapeIndex [geomShape]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nRotB</Id>
+        <Name>RotatableBondsCount</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LipinskiFailures</Id>
+        <Name>RuleOfFive</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TopoPSA</Id>
+        <Name>TPSA</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VABC</Id>
+        <Name>VABC</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>VAdjMat</Id>
+        <Name>VAdjMa</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wlambda1.unity</Id>
+        <Name>WHIM [Wlambda1.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wlambda2.unity</Id>
+        <Name>WHIM [Wlambda2.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wlambda3.unity</Id>
+        <Name>WHIM [Wlambda3.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wnu1.unity</Id>
+        <Name>WHIM [Wnu1.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wnu2.unity</Id>
+        <Name>WHIM [Wnu2.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wgamma1.unity</Id>
+        <Name>WHIM [Wgamma1.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wgamma2.unity</Id>
+        <Name>WHIM [Wgamma2.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wgamma3.unity</Id>
+        <Name>WHIM [Wgamma3.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Weta1.unity</Id>
+        <Name>WHIM [Weta1.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Weta2.unity</Id>
+        <Name>WHIM [Weta2.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Weta3.unity</Id>
+        <Name>WHIM [Weta3.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WT.unity</Id>
+        <Name>WHIM [WT.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WA.unity</Id>
+        <Name>WHIM [WA.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WV.unity</Id>
+        <Name>WHIM [WV.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WK.unity</Id>
+        <Name>WHIM [WK.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WG.unity</Id>
+        <Name>WHIM [WG.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WD.unity</Id>
+        <Name>WHIM [WD.unity]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MW</Id>
+        <Name>Weight</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WTPT-1</Id>
+        <Name>WeightedPath [WTPT-1]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WTPT-2</Id>
+        <Name>WeightedPath [WTPT-2]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WTPT-3</Id>
+        <Name>WeightedPath [WTPT-3]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WTPT-4</Id>
+        <Name>WeightedPath [WTPT-4]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WTPT-5</Id>
+        <Name>WeightedPath [WTPT-5]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPATH</Id>
+        <Name>WienerNumbers [WPATH]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPOL</Id>
+        <Name>WienerNumbers [WPOL]</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>XLogP</Id>
+        <Name>XLogP</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Zagreb</Id>
+        <Name>ZagrebIndex</Name>
+        <Labels></Labels>
+        <Cargos>bodo values</Cargos>
+        <Application>
+            <Name>CDK</Name>
+            <Version>1.4.5</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

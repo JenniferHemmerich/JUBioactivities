@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logKoc</Id>
+        <Name>Logarithm of soil sorption coefficient</Name>
+        <Description>Soil sorption partition coefficient, expressed as the ratio between chemical concentration in soil and in water, normalized to organic carbon (Koc)</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.6. Partition coefficient. Organic carbon-sorption partition coefficient.</Endpoint>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>LogBCF</Id>
+        <Name>Fish bioconcentration factor as logBCF</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.4. Bioconcentration</Endpoint>
+        <Species>Actinopterygii (ray-finned fish)</Species>
+    </Property>
+</PropertyRegistry>

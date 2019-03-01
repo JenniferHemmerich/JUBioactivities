@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/161/2014MI269.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pKi: LRRK2 inhibition as log(1/Ki)"
+Paper:Kahn, I.; Lomaka, A.; Karelson, M. Topological Fingerprints as an Aid in Finding Structural Patterns for LRRK2 Inhibition. Mol. Inf. 2014, 33, 269-275.
+EP:"Property pKi: LRRK2 inhibition as log"
+Author:Kahn
+Filename:"Kahn_Property pKi: LRRK2 inhibition as log"

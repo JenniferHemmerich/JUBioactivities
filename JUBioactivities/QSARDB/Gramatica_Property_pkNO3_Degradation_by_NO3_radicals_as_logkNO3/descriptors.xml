@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>HOMO</Id>
+        <Name>Energy of the highest occupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nBnz</Id>
+        <Name>Number of aromatic rings</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS1m</Id>
+        <Name>2D-(Moran) autocorrelation weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 2.1</Application>
+    </Descriptor>
+</DescriptorRegistry>

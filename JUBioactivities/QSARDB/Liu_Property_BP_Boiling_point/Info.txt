@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/122/2000JCICS1337.zip?sequence=1&isAllowed=y
+Endpoint:"Property BP: Boiling point [K]"
+Paper:Liu, S.; Cai, S.; Cao, C.; Li, Z. Molecular Electronegative Distance Vector (MEDV) Related to 15 Properties of Alkanes. J. Chem. Inf. Model. 2000, 40, 6, 1337–1348.
+EP:"Property BP: Boiling point "
+Author:Liu
+Filename:"Liu_Property BP: Boiling point"

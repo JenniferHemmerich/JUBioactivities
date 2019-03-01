@@ -1,0 +1,1 @@
+C1(=C([C@]2([C@H]([C@H]([C@@]1(C2(Cl)Cl)Cl)C(=O)O)C(=O)O)Cl)Cl)Cl

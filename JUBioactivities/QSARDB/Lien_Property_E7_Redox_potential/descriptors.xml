@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Hfr_10</Id>
+        <Name>Heat of formation of phenoxyl radicals as Hfr/10</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>HyperChem 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Hfp_10</Id>
+        <Name>Heat of formation of the corresponding parent phenol as Hfp/10</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>DeltaHf_10</Id>
+        <Name>Difference of heats of formation between phenoxyl radicals and the corresponding parent phenols as DeltaHf/10</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>OH</Id>
+        <Name>Number of hydroxyl groups</Name>
+        <Description>E7: excluding one hydroxyl group for each phenolic compound
+TEAC: number of free phenolic OH groups (excluding OH groups on sugars)</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>Elumo-r</Id>
+        <Name>Energy of the lowest unoccupied molecular orbital of the radical</Name>
+        <Description>Elumo values of the corresponding radicals of antioxidants were calculated using radicals obtained by substraction of a hydrogen atom from the proper phenolic hydroxyl group.</Description>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Ehomo</Id>
+        <Name>Energy of the highest occupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>HyperChem 5.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>I</Id>
+        <Name>Indicator variable</Name>
+        <Description>indicator variable (I) - presence (I = 1) or absence (I = 0) of the 2,3-double bond</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/116/2014SQER-Piir.zip?sequence=1&isAllowed=y
+Endpoint:"Property BCF_class: Experimental BCF class (nB - non-bio-accumulative, B - bioaccumulative)"
+Paper:Piir, G.; Sild, S.; Maran, U. Classifying bio-concentration factor with random forest algorithm, influence of the bio-accumulative vs. non-bio-accumulative compound ratio to modelling result, and applicability domain for random forest model. SAR QSAR Environ. Res. 2014, 25, 967-981.
+EP:"Property BCF_class: Experimental BCF class "
+Author:Piir
+Filename:"Piir_Property BCF_class: Experimental BCF class"

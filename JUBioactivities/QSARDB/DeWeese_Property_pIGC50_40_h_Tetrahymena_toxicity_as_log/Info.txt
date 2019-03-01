@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/86/76506763.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:"DeWeese, A.D.; Schultz, T.W. Structure-Activity Relationships for Aquatic Toxicity to Tetrahymena: Halogen-Substituted Aliphatic Esters. Environ. Toxicol. 2001, 16, 1, 54–60."
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:DeWeese
+Filename:"DeWeese_Property pIGC50: 40-h Tetrahymena toxicity as log"

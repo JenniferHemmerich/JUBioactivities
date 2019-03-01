@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/177/2014JCC1036.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property M1.pLC50: 96-h Fathead minnow toxicity as log(1/LC50) [-log(mol/L)]"
+Paper:"Gramatica, P.; Cassani, S.; Chirico, N. QSARINS-chem: Insubria datasets and new QSAR/QSPR models for environmental pollutants in QSARINS. J. Comput. Chem. 2014, 35, 1036–1044."
+EP:"Property M1.pLC50: 96-h Fathead minnow toxicity as log"
+Author:Gramatica
+Filename:"Gramatica_Property M1.pLC50: 96-h Fathead minnow toxicity as log"

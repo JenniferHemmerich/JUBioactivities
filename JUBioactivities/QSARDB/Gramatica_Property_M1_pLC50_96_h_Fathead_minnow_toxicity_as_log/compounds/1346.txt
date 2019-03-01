@@ -1,0 +1,1 @@
+c1c(C(C)C)cc2[C@@]3(CCC[C@@H]([C@@H]3CCc2c1)C)C

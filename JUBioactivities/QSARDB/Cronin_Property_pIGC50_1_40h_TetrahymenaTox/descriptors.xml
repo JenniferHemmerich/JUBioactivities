@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logD</Id>
+        <Name>Distribution coefficient at pH 7.35</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>ACD/Labs</Name>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>Energy of the lowest unoccupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>MOPAC</Name>
+            <Version>6.49</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MW</Id>
+        <Name>Molecular weight</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>TSAR</Name>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Pneg</Id>
+        <Name>Volume of the isopotential surface with electrostatic potential &lt; -10 kcal/mol</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>Chem-X</Name>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>QONabs</Id>
+        <Name>Sum of absolute charges on nitrogen and oxygen atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>QSARis</Name>
+            <Version>1.1</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PHmax</Id>
+        <Name>The largest positive charge on a hydrogen atom</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>QSARis</Name>
+            <Version>1.1</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SSOH</Id>
+        <Name>Electrotopological state index for the hydroxy group</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>QSARis</Name>
+            <Version>1.1</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

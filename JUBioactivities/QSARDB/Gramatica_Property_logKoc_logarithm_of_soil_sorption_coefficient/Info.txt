@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/135/2007JMGM755.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logKoc: logarithm of soil sorption coefficient "
+Paper:"Gramatica, P.; Giani, E.; Papa, E. Statistical external validation and consensus modeling: A QSPR case study for Koc prediction. J. Mol. Graph. Model. 2007, 25, 6, 755–766."
+EP:"Property logKoc: logarithm of soil sorption coefficient "
+Author:Gramatica
+Filename:"Gramatica_Property logKoc: logarithm of soil sorption coefficient"

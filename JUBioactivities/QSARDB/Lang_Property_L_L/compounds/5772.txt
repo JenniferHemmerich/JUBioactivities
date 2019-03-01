@@ -1,0 +1,1 @@
+Cl/C2=C(\Cl)C3(Cl)C1CC(Cl)C(Cl)C1C2(Cl)C3(Cl)Cl

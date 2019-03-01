@@ -1,0 +1,1 @@
+[NH2]/C([NH2])=N\C1=NC(C2=CC=CC=C2)=CS1

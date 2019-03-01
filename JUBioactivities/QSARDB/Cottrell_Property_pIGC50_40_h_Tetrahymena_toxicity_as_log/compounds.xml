@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>Methyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-34-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>Allyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>13361-32-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>Ethyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-56-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>Isopropyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>13361-30-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>n-butyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>5459-58-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>Cyclohexyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>52688-11-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>n-amyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>17686-39-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>Ethylphenyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>4553-07-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>2-ethylhexyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>13361-34-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>n-octyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>15666-97-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>n-decyl cyanoacetate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>17686-43-0</Cas>
+    </Compound>
+</CompoundRegistry>

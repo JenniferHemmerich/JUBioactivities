@@ -1,0 +1,1 @@
+ClC(Cl)(Cl)[C@@H]1O[C@@H]2[C@@H](O)[C@H](OC2O1)[C@H](O)CO

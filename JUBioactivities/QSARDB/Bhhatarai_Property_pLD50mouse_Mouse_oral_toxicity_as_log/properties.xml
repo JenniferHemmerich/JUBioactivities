@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pLD50mouse</Id>
+        <Name>Mouse oral toxicity as log(LD50)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>4. Human health effects 4.2. Acute Oral toxicity</Endpoint>
+        <Species>Mus musculus</Species>
+    </Property>
+    <Property>
+        <Id>pLD50rat</Id>
+        <Name>Rat oral toxicity as log(1/LD50)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>4. Human health effects 4.2. Acute Oral toxicity</Endpoint>
+        <Species>Rattus norvegicus</Species>
+    </Property>
+</PropertyRegistry>

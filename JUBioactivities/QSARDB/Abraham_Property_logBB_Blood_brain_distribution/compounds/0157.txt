@@ -1,0 +1,1 @@
+ClC3=CC(N(C(C2)=O)C1=CC=CC=C1)=C(C=C3)NC2=O

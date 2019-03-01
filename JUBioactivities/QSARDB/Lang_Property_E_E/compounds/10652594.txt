@@ -1,0 +1,1 @@
+[SiH2]1O[SiH2]O[SiH](O[Si](O[Si](O1)(C)C)(C)C)C

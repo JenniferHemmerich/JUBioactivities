@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/190/2002CSB1270.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logKMXa: Cuticular polymer matrix/air partition coefficient as logKMXa"
+Paper:Zhang, C.; Feng, L.; Wei, J. Predicting partitioning of volatile organic compounds from air into plant cuticular matrix by quantum chemical descriptors. Chin. Sci. Bull. 2002, 47, 1270.
+EP:"Property logKMXa: Cuticular polymer matrix/air partition coefficient as logKMXa"
+Author:Zhang
+Filename:"Zhang_Property logKMXa: Cuticular polymer matrix/air partition coefficient as logKMXa"

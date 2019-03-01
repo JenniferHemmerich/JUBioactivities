@@ -1,0 +1,1 @@
+C(=C\[C@H]1[C@@H](C(=O)OCc2cccc(c3ccccc3)c2C)C1(C)C)(/C(F)(F)F)\Cl

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pLC50</Id>
+        <Name>96-h acute fish toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Oryzias latipes</Species>
+    </Property>
+    <Property>
+        <Id>pEC50</Id>
+        <Name>72-h acute algae toxicity as log(1/EC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.2. Short-term toxicity to algae</Endpoint>
+        <Species>Pseudokirchneriella subcapitata</Species>
+    </Property>
+</PropertyRegistry>

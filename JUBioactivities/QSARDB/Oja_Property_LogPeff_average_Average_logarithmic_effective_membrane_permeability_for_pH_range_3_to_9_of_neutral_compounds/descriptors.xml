@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>HDCA2</Id>
+        <Name>HA dependent HDCA-2 (Zefirov PC)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>logPow</Id>
+        <Name>Logarithmic octanol-water partition coefficient</Name>
+        <Description>Experimental logPow values were collected from the PhysProp database. If experimental logPow value was missing, XlogP3 value from PubChem database was used for compounds: AMF5, AMF6, AMF8, AMF12, AMF14, AMF16, AMF18, AMF22, AMF23, AMF25, AMF27, AMF31, AMF33, AMF36, AMF37, AMF38, AMF39, AMF42, AMF52, AMF58, AMF60.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>XlogP3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HACA</Id>
+        <Name>Charged surface area of H-acceptors (MOPAC PC)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HDCA</Id>
+        <Name>H-donor charged surface area (MOPAC PC)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>DPSA1</Id>
+        <Name>First-order difference in charged partial surface areas (MOPAC PC)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SXY_RXY</Id>
+        <Name>XY Shadow/XYplane</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>2BIC</Id>
+        <Name>Average bonding information content (order 2)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>N_N,r</Id>
+        <Name>Relative number of nitrogen atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>2CIC</Id>
+        <Name>Average complementary information content (order 2)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO 1.0</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/187/2012EES273.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logRBA: Relative binding affinity to hERa "
+Paper:Li, F.; Wu, H.; Li, L.; Li, X.; Zhao, J.; Peijnenburg, W. J. G. M. Docking and QSAR study on the binding interactions between polycyclic aromatic hydrocarbons and estrogen receptor. Ecotoxicology and Environmental Safety 2012, 80, 273 - 279.
+EP:"Property logRBA: Relative binding affinity to hERa "
+Author:Li
+Filename:"Li_Property logRBA: Relative binding affinity to hERa"

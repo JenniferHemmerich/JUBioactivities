@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>PSA</Id>
+        <Name>Polar surface area</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ClogP</Id>
+        <Name>Calculated octanol/water partition coefficient as logP</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ClogP 4.51</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MlogP</Id>
+        <Name>Calculated octanol/water partition coefficient as logP</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Sybyl 6.4.2</Application>
+    </Descriptor>
+</DescriptorRegistry>

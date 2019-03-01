@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/130/2012ECM185.zip?sequence=1&isAllowed=y
+Endpoint:"Property FP: Flash point [K]"
+Paper:Bagheri, M.; Borhani, T. N. G.; Zahedi, G. Estimation of flash point and autoignition temperature of organic sulfur chemicals. Energy Convers. Manage. 2012, 58, 185–196.
+EP:"Property FP: Flash point "
+Author:Bagheri
+Filename:"Bagheri_Property FP: Flash point"

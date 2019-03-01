@@ -1,0 +1,1 @@
+[O-][N+](=O)c1c(c([N+]([O-])=O)c(Cl)c(c1)C(F)(F)F)Nc2ncc(cc2Cl)C(F)(F)F

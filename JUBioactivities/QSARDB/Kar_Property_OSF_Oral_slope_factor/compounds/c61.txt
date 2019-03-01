@@ -1,0 +1,1 @@
+CCCN(CCOC1=C(Cl)C=C(Cl)C=C1Cl)C(=O)N1C=CN=C1

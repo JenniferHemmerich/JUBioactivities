@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/126/2008C1225.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mol)] "
+Paper:Enoch, S.J.; Cronin, M.T.D.; Schultz, T.W.; Madden, J.C. An evaluation of global QSAR models for the prediction of the toxicity of phenols to Tetrahymena pyriformis. Chemosphere 2008, 71, 7, 1225–1232.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Enoch
+Filename:"Enoch_Property pIGC50: 40-h Tetrahymena toxicity as log"

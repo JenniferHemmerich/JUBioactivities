@@ -1,0 +1,1 @@
+CC=1CCCCC=1C

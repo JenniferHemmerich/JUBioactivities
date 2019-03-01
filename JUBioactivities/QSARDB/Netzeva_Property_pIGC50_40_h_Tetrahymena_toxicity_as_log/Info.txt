@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/31/S0045653505006016.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Netzeva, T.I.; Schultz, T.W. QSARs for the aquatic toxicity of aromatic aldehydes from Tetrahymena data. Chemosphere 2005, 61, 11, 1632–1643.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Netzeva
+Filename:"Netzeva_Property pIGC50: 40-h Tetrahymena toxicity as log"

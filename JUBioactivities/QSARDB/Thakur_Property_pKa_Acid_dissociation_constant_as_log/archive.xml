@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>QSAR study on benzenesulfonamide dissociation constant pKa: physicochemical approach using surface tension</Name>
+    <Description>QSAR study on benzenesulfonamide dissociation constant pKa has been made using the physicochemical parameter surface tension (ST). The regression analysis has shown that even in mono-parametric regression this physicochemical parameter gave significant results. Furthermore, using the combination of the surface tension (ST) with the refractive index (eta) and indicator parameter, remarkable improvement in the statistics has been observed. The results are discussed critically on the basis of regression data and cross-validation parameters.</Description>
+</Archive>

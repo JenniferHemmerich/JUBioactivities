@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>ratioI50NTE_I50AChE</Id>
+        <Name>Ratio of (log10I50NTE/log10I50AChE)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.19. Neurotoxicity</Endpoint>
+        <Species>Homo sapiens</Species>
+    </Property>
+</PropertyRegistry>

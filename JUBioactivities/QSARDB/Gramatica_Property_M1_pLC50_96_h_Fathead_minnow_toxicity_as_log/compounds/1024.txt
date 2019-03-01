@@ -1,0 +1,1 @@
+C1C[C@@H](C)N(CC1)C(=O)CSP(=S)(OCCC)OCCC

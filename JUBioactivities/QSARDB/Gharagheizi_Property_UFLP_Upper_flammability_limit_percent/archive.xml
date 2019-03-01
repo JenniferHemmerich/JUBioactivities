@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Prediction of upper flammability limit percent of pure compounds from their molecular structures</Name>
+    <Description>In this study, a quantitative structure–property relationship (QSPR) is presented to predict the upper flammability limit percent (UFLP) of pure compounds. The obtained model is a five parameters multi-linear equation. The parameters of the model are calculated only from chemical structure. The average absolute error and squared correlation coefficient of the obtained model over all 865 pure compounds used to develop the model are 9.7%, and 0.92, respectively.</Description>
+</Archive>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>perm</Id>
+        <Name>Corneal permeability</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex references</Cargos>
+        <Endpoint>5. Toxicokinetics 5.2. Ocular membrane penetration</Endpoint>
+        <Species>Oryctolagus cuniculus (Rabbit)</Species>
+    </Property>
+    <Property>
+        <Id>logPapp</Id>
+        <Name>The logarithm of the corneal permeability</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex references</Cargos>
+        <Endpoint>5. Toxicokinetics 5.2. Ocular membrane penetration</Endpoint>
+        <Species>Oryctolagus cuniculus (Rabbit)</Species>
+    </Property>
+</PropertyRegistry>

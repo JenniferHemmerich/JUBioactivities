@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Mv</Id>
+        <Name>Mean atomic van der Waals volume</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON - 2006, v. 5.4 for Windows</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MAXDP</Id>
+        <Name>Maximal electrotopological positive variation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON - 2006, v. 5.4 for Windows</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X0v</Id>
+        <Name>Randic connectivity index of 0 order</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON - 2006, v. 5.4 for Windows</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>CIC0</Id>
+        <Name>Information index related to the complementary information content</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON - 2006, v. 5.4 for Windows</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHDon</Id>
+        <Name>Number of donor atoms for H bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON - 2006, v. 5.4 for Windows</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>O_060</Id>
+        <Name>fragment related to the presence of oxygen atoms in ethers and esters</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON - 2006, v. 5.4 for Windows</Application>
+    </Descriptor>
+</DescriptorRegistry>

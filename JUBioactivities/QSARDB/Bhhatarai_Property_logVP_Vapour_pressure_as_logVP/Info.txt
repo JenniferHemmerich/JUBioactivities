@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/173/2011EST8120.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logVP: Vapour pressure as logVP [log(mm Hg)]"
+Paper:Bhhatarai, B.; Gramatica, P. Prediction of Aqueous Solubility, Vapor Pressure and Critical Micelle Concentration for Aquatic Partitioning of Perfluorinated Chemicals. Environ. Sci. Technol. 2011, 45, 8120–8128.
+EP:"Property logVP: Vapour pressure as logVP "
+Author:Bhhatarai
+Filename:"Bhhatarai_Property logVP: Vapour pressure as logVP"

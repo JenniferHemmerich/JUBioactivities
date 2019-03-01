@@ -1,0 +1,1 @@
+n1cc(cnc1)[C@](O)(C(C)C)c1ccc(cc1)OC(F)(F)F

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/125/2006CRT1228.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC3: Skin sensitization potency in the local lymph node assay (LLNA) as log(1/EC3) [log(L/mol)] "
+Paper:Roberts, D. W.; Aptula, A. O.; Patlewicz, G. Mechanistic Applicability Domains for Non-Animal Based Prediction of Toxicological Endpoints. QSAR Analysis of the Schiff Base Applicability Domain for Skin Sensitization. Chem. Res. Toxicol. 2006, 19, 9, 1228–1233.
+EP:"Property pEC3: Skin sensitization potency in the local lymph node assay "
+Author:Roberts
+Filename:"Roberts_Property pEC3: Skin sensitization potency in the local lymph node assay"

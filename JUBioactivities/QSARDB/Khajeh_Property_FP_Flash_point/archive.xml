@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Quantitative Structure Property Relationship for Flash Points of Alcohols</Name>
+    <Description>In this paper, quantitative structure property relationship (QSPR) models have been developed to predict flash
+points for some common alcohols based on a data set of 151 components. With the use of the genetic function approximation (GFA) approach, four descriptors have been selected from a set of more than 1000 molecular descriptors. These selected descriptors were used as inputs for the adaptive neuro-fuzzy inference system (ANFIS) model. The GFA model resulted in squared correlation coefficient values of 0.935 and 0.91 respectively for the training and test sets, whereas ANFIS resulted in the values of 0.959 and 0.951 for the training and test sets, respectively. However, the linear and nonlinear models can give satisfactory prediction results, but the ANFIS model is somewhat superior.</Description>
+</Archive>

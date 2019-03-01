@@ -1,0 +1,79 @@
+# Chemical Carcinogenisis Research Information System (04/04/2004)
+
+# Conversion Table for: CCRIS
+
+# The following is a list of field full names and XML tags.
+
+# Updated: 04/04/04.
+# By: Albert Lu, SIS/NLM/NIH
+
+
+#   CHEMICAL CARCINOGENISIS RESEARCH INFORMATION SYSTEM
+
+# Section 0 - Administrative Information
+
+"Chemical Carcinogenesis Record Number","ccn"
+"Last revision date","date"
+"Update History","DateRevised"
+
+# Section 1 - Substance Identification/Use Information
+
+"Name of Substance","NameOfSubstance"
+"CAS Registry Number","CASRegistryNumber"
+"Major Use Class","use"
+"Data Type","dtyp"
+
+# Section 2 - Carcinogenicity/Mutagenicity Data
+
+# Carcinogenicity Studies  CSTU
+"Species","specc"
+"Strain/Sex","stsxc"
+"Route","routc"
+"Dose","dosec"
+"Tumor Site: Type of Lesion","tstlc"
+"Results","rsltc"
+"Reference","ref"
+
+# Tumor Promotion Studies  TSTU
+"Species","spect"
+"Strain/Sex","stsxt"
+"Route [Promoter]","rtprt"
+"Doses [Promoter]","doprt"
+"Carcinogen","crcnt"
+"Route [Carcinogen]","rtcat"
+"Doses [Carcinogen]","docat"
+"Target Tissue: Type of Lesion","tttlt"
+"Reference","ref"
+
+# Mutagenicity Studies  MSTU
+"End Point","endpm"
+"Test System","tsstm"
+"Strain/Indicator","indcm"
+"Species","specm"
+"Strain/Sex","stsxm"
+"Route","routm"
+"Metabolic Activation","matvm"
+"Method","methm"
+"Dose Range","dosem"
+"Dose Regimen","dosrm"
+"Results","rsltm"
+"Reference","ref"
+
+# Tumor Inhibitor Studies  ISTU
+"Species","speci"
+"Number of Animals Tested","noat"
+"Strain/Sex","stsxi"
+"Route [Inhibitor]","rtini"
+"Dose [Inhibitor]","doini"
+"Carcinogen","crcni"
+"Route [Carcinogen]","rtcai"
+"Dose [Carcinogen]","docai"
+"Promoter","prmti"
+"Route [Promoter]","rtpri"
+"Dose [Promoter]","dopri"
+"Target Tissue: Type of Lesion","tttli"
+"Endpoint [Incidence]","endii"
+"Endpoint [Multiplicity]","endmi"
+"Endpoint [Latency]","endli"
+"Comments","commi"
+"Reference","ref"

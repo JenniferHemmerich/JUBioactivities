@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pLC50</Id>
+        <Name>96-h Fathead minnow toxicity as log(1/LC50)</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Pimephales promelas</Species>
+    </Property>
+    <Property>
+        <Id>pIGC50</Id>
+        <Name>2-day Tetrahymena toxicity as log(1/IGC50)</Name>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.3. Acute toxicity to fish</Endpoint>
+        <Species>Tetrahymena pyriformis</Species>
+    </Property>
+</PropertyRegistry>

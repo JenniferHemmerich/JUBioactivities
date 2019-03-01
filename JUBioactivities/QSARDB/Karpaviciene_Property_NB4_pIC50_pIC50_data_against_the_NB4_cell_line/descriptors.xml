@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>CSI</Id>
+        <Name>eccentric connectivity index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>UNIP</Id>
+        <Name>unipolarity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MPC10</Id>
+        <Name>molecular path count of order 10</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X2</Id>
+        <Name>connectivity index chi-2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X3Av</Id>
+        <Name>average valence connectivity index chi-3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ATS6e</Id>
+        <Name>Broto-Moreau autocorrelation of a topological structure - lag 6 / weighted by atomic Sanderson electronegativities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS1m</Id>
+        <Name>Moran autocorrelation - lag 1 / weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS2m</Id>
+        <Name>Moran autocorrelation - lag 2 / weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS8m</Id>
+        <Name>Moran autocorrelation - lag 8 / weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS2e</Id>
+        <Name>Moran autocorrelation - lag 2 / weighted by atomic Sanderson electronegativities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MATS5p</Id>
+        <Name>Moran autocorrelation - lag 5 / weighted by atomic polarizabilities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>GATS1v</Id>
+        <Name>Geary autocorrelation - lag 1 / weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HOMA</Id>
+        <Name>Harmonic Oscillator Model of Aromaticity index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RDF050u</Id>
+        <Name>Radial Distribution Function - 5.0 / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RDF035p</Id>
+        <Name>Radial Distribution Function - 3.5 / weighted by atomic polarizabilities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor16u</Id>
+        <Name>3D-MoRSE - signal 16 / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor20m</Id>
+        <Name>3D-MoRSE - signal 20 / weighted by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor05v</Id>
+        <Name>3D-MoRSE - signal 05 / weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor11p</Id>
+        <Name>3D-MoRSE - signal 15 / weighted by atomic polarizabilities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mor20p</Id>
+        <Name>3D-MoRSE - signal 20 / weighted by atomic polarizabilities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>G3u</Id>
+        <Name>3st component symmetry directional WHIM index / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E2u</Id>
+        <Name>2nd component accessibility directional WHIM index / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E3u</Id>
+        <Name>3nd component accessibility directional WHIM index / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E2e</Id>
+        <Name>2nd component accessibility directional WHIM index / weighted by atomic Sanderson electronegativities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>G3p</Id>
+        <Name>3st component symmetry directional WHIM index / weighted by atomic polarizabilities</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>G2s</Id>
+        <Name>2st component symmetry directional WHIM index / weighted by atomic electrotopological states</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>H7u</Id>
+        <Name>H autocorrelation of lag 7 / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HATS2u</Id>
+        <Name>leverage-weighted autocorrelation of lag 2 / unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HTv</Id>
+        <Name>H total index / weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>R4v</Id>
+        <Name>R autocorrelation of lag 4 / weighted by atomic van der Waals volumes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>E-Dragon</Application>
+    </Descriptor>
+</DescriptorRegistry>

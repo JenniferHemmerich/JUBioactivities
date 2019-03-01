@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>logarithm of the octanol-water partition coefficient</Name>
+        <Description>Values for most compounds are measured. Except for compounds id: 12, 13, 14, 16, 34, 39, 47, 51, 66, 70, 71, 74, 78, 80, 81, 87, 88, 89, 91</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ClogP 1.0.0</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>energy of lowest unoccupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>MOPAC 93</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>delta1ChiV</Id>
+        <Name>first-order valence connectivity index, ∆1χv</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>QSARis 1.1</Application>
+    </Descriptor>
+</DescriptorRegistry>

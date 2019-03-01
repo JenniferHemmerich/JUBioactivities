@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/59/v048068u04086617.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 96-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:"Piršelová, K.; Baláž, Š.; Schultz, T.W. Model-Based QSAR for Ionizable Compounds: Toxicity of Phenols Against Tetrahymena pyriformis. Arch. Environ. Contam. Toxicol. 1996, 30, 2, 170–177."
+EP:"Property pIGC50: 96-h Tetrahymena toxicity as log"
+Author:Piršelová
+Filename:"Piršelová_Property pIGC50: 96-h Tetrahymena toxicity as log"

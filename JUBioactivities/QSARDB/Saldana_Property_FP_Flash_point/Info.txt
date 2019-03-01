@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/123/2011EF3900.zip?sequence=4&isAllowed=y
+Endpoint:"Property FP: Flash point [K]"
+Paper:Saldana, D. A.; Starck, L.; Mougin, P.; Rousseau, B.; Pidol, L.; Jeuland, N.; Creton, B. Flash Point and Cetane Number Predictions for Fuel Compounds Using Quantitative Structure Property Relationship (QSPR) Methods. Energy Fuels 2011, 25, 9, 3900–3908.
+EP:"Property FP: Flash point "
+Author:Saldana
+Filename:"Saldana_Property FP: Flash point"

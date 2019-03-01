@@ -1,0 +1,1 @@
+O=C(\C=C\C1C(=C/CCC1(C)C)\C)C

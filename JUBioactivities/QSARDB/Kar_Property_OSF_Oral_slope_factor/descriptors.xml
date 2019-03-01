@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>nRNNOx</Id>
+        <Name>number of N-nitroso groups (aliphatic)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MAXDP</Id>
+        <Name>maximal electrotopological positive variation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Cl-089</Id>
+        <Name>Cl attached to C1(sp2)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mp</Id>
+        <Name>mean atomic polarizability (scaled on Carbon atom)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nCXr</Id>
+        <Name>number of X on ring C(sp3)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nArOR</Id>
+        <Name>number of ethers (aromatic)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nArX</Id>
+        <Name>number of X on aromatic ring</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>C-005</Id>
+        <Name>CH3X</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Wap</Id>
+        <Name>all-path Wiener index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Cl-086</Id>
+        <Name>Cl attached to C1(sp3)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 6</Application>
+    </Descriptor>
+</DescriptorRegistry>

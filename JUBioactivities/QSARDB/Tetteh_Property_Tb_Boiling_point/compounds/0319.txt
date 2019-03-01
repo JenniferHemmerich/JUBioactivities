@@ -1,0 +1,1 @@
+InChI=1/C2H3ClO/c1-2(3)4/h1H3

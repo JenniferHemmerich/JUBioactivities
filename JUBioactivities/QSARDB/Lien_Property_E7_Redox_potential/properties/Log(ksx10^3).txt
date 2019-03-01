@@ -1,0 +1,23 @@
+Compound Id	Antioxidant activity
+Tab3-1	-0.39
+Tab3-2	-0.25
+Tab3-3	-0.06
+Tab3-4	0
+Tab3-5	0
+Tab3-6	0.13
+Tab3-7	0.28
+Tab3-8	0.3
+Tab3-9	0.32
+Tab3-10	0.35
+Tab3-11	0.35
+Tab3-12	0.37
+Tab3-13	0.38
+Tab3-14	0.38
+Tab3-15	0.45
+Tab3-16	0.54
+Tab3-17	0.62
+Tab3-18	0.71
+Tab3-19	0.73
+Tab3-20	0.84
+Tab3-22	1.39
+Tab3-23	1.55

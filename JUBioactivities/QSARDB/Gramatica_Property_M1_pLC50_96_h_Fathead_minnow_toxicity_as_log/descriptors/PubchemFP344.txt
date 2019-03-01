@@ -1,0 +1,21 @@
+Compound Id	C(~C)(~H). Simple atom nearest neighbors - These bits test for the  presence of atom nearest neighbor patterns, regardless of  bond order (denoted by "~") or count, but where bond aromaticity (denoted by ":") is significant.
+704	1
+1165	1
+1879	0
+1881	0
+1925	0
+1952	0
+1982	0
+1983	0
+1984	0
+1985	0
+1986	0
+1987	0
+1988	1
+1989	1
+1990	1
+1991	1
+1992	1
+1993	1
+1994	1
+1995	1

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>HOMO</Id>
+        <Name>Energy of the Highest Occupied Molecular Orbital</Name>
+        <Description>This descriptor characterizes the susceptibility of a molecule toward the attack by the electrophile OH radical, more reactive chemicals having higher HOMO energy. HOMO was calculated in MOPAC using AM1 semi-empirical parameterization. It is the most relevant descriptor in the models.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>HYPERCHEM 7.03</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nX</Id>
+        <Name>Number of halogen atoms</Name>
+        <Description>Molecules with more halogen atoms tend to have less reactivity (higher log kOH values).</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>IDE</Id>
+        <Name>Mean information content on distance equality</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nCbH</Id>
+        <Name>Number of unsubstituted benzene C(sp2)</Name>
+        <Description>Gives information on possible reactive sites in aromatic rings. The chemicals with higher number of hydrogen atoms can more readily be attacked by the hydroxyl radical and are, for this reason, more reactive.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D_PathSum(F,rel)</Id>
+        <Name>Relative number of fluorine atoms</Name>
+        <Description>an AMBIT Fragment descriptor, calculated at CADASTER web (at the time of archiving: QSPR-THESAURUS)</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>QSPR-THESAURUS</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>G_([Cl,Br,I])</Id>
+        <Name>Number of chlorine, bromine and iodine atoms</Name>
+        <Description>an AMBIT Fragment descriptor, calculated at CADASTER web (at the time of archiving: QSPR-THESAURUS)</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>QSPR-THESAURUS</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SeaC2C2aa</Id>
+        <Name>Sum of the bond electro-topological values of aromatic bonds</Name>
+        <Description>Sum of the bond electro-topological values of carbon–carbon aromatic bonds in which the carbons are not substituted. gives information on possible reactive sites in aromatic rings, An E-state index, calculated at CADASTER web (at the time of archiving: QSPR-THESAURUS)</Description>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Application>QSPR-THESAURUS</Application>
+    </Descriptor>
+</DescriptorRegistry>

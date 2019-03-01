@@ -1,0 +1,1 @@
+CC(CCC(=O)O)(c1ccc(cc1)O)c2ccc(cc2)O

@@ -1,0 +1,1 @@
+Cc1ccc(cc1)P(c2ccc(cc2)C)c3ccc(cc3)C

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>nArOR</Id>
+        <Name>The number of aromatic ether groups</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X2A</Id>
+        <Name>Average connectivity index chi-2</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>TIC1</Id>
+        <Name>Total information index (neighborhood symmetry 1-order)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>EEig02d</Id>
+        <Name>Eigenvalue 2 from edge adjacency matrix weighted dipole moments</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>JGI10</Id>
+        <Name>Mean topological charge index of order 10</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SPH</Id>
+        <Name>Spherosity index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E1u</Id>
+        <Name>The first component accessibility directional WHIM index/unweighted</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>RTm_plus</Id>
+        <Name>R maximal index weighed by atomic masses</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+</DescriptorRegistry>

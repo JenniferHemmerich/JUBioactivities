@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logPL</Id>
+        <Name>Liquid vapor pressure</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.4. Vapour pressure</Endpoint>
+    </Property>
+</PropertyRegistry>

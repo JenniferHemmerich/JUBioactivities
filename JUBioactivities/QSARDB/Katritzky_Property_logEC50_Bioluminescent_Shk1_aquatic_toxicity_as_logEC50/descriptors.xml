@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>D0043000000</Id>
+        <Name>Randic index (order 3)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D0186000000</Id>
+        <Name>HDSA H-donors surface area (MOPAC PC)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D0358000000</Id>
+        <Name>Lowest normal mode vib frequency</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>D0373000000</Id>
+        <Name>Rot entropy (300K)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA PRO</Application>
+    </Descriptor>
+</DescriptorRegistry>

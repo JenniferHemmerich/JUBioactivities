@@ -1,0 +1,1 @@
+ClC1=CC=CC(Cl)=C1/N=C2NCCN\2

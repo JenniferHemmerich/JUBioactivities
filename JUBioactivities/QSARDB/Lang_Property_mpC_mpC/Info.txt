@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/104/ONSMP010.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property mpC: mpC"
+Paper:Lang, Andrew SID; Bradley, Jean-Claude ONS Melting Point Model 010.
+EP:"Property mpC: mpC"
+Author:Lang
+Filename:"Lang_Property mpC: mpC"

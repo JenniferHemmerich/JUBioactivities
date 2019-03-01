@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/46/6u629uqpcvhjrl3u.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Cottrell, M.B.; Schultz, T.W. Structure-Toxicity Relationships for Methyl Esters of Cyanoacetic Acids to Tetrahymena pyriformis. Bull. Environ. Contam. Toxicol. 2003, 70, 3, 549–556.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Cottrell
+Filename:"Cottrell_Property pIGC50: 40-h Tetrahymena toxicity as log"

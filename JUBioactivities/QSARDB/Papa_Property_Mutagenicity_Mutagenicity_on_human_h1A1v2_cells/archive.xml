@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Prediction of PAH mutagenicity in human cells by QSAR classification</Name>
+    <Description>Polycyclic aromatic hydrocarbons (PAHs) are ubiquitous pollutants of high
+environmental concern. The experimental data of a mutagenicity test on human
+B-lymphoblastoid cells (alternative to the Ames bacterial test) for a set of 70 oxo-,
+nitro- and unsubstituted PAHs, detected in particulate matter (PM), were
+modelled by Quantitative Structure-Activity Relationships (QSAR) classification
+methods (k-NN, k-Nearest Neighbour, and CART, Classification and Regression
+Tree) based on different theoretical molecular descriptors selected by Genetic
+Algorithms. The best models were validated for predictivity both externally and
+internally. For external validation, Self Organizing Maps (SOM) were applied
+to split the original data set. The best models, developed on the training set
+alone, show good predictive performance also on the prediction set chemicals
+(sensitivity 69.2–87.1%, specificity 62.5–87.5%). The classification of PAHs
+according to their mutagenicity, based only on a few theoretical molecular
+descriptors, allows a preliminary assessment of the human health risk, and the
+prioritisation of these compounds.</Description>
+</Archive>

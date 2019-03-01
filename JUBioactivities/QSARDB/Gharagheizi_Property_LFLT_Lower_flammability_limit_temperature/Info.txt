@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/196/2009JHM217.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property LFLT: Lower flammability limit temperature [K]"
+Paper:Gharagheizi, F. A QSPR model for estimation of lower flammability limit temperature of pure compounds based on molecular structure. J. Hazard. Mater. 2009, 169, 217–220.
+EP:"Property LFLT: Lower flammability limit temperature "
+Author:Gharagheizi
+Filename:"Gharagheizi_Property LFLT: Lower flammability limit temperature"

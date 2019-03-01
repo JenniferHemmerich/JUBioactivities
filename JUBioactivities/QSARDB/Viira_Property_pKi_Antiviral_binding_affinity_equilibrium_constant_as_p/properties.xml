@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pKi</Id>
+        <Name>Antiviral binding affinity equilibrium constant as p(Ki)</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

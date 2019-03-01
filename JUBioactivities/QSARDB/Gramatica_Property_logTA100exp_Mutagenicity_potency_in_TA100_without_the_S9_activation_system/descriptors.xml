@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>CIC1</Id>
+        <Name>Complementary Information Content, neighbor symmetry of the first order</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>PW2</Id>
+        <Name>Path/Walk-2 Randic shape index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+</DescriptorRegistry>

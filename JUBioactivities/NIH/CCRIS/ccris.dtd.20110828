@@ -1,0 +1,116 @@
+<!-- ================================================================= -->
+<!-- ccris DTD
+
+    This is the Current DTD which NLM has written for
+     external use.
+
+    Comments and suggestions are welcome.
+     2011/08/30
+
+ -->
+<!-- ================================================================= -->
+<!ENTITY auml  "&#228;">
+<!ENTITY ouml  "&#246;">
+<!ENTITY uuml  "&#252;">
+<!ELEMENT ccris (DOC)+>
+<!ELEMENT DOC ((DOCNO|NameOfSubstance|CASRegistryNumber|DateRevised|
+ccn|cstu|date|dtyp|istu|mstu|
+rln|tstu|use
+)*)>
+<!ELEMENT cstu ((specc|ref|stsxc|routc|dosec|tstlc|rsltc)*)>
+<!ELEMENT istu ((speci|ref|noat|stsxi|rtini|doini|crcni|rtcai|docai|prmti|rtpri|dopri|tttli|endii|endmi|endli|commi)*)>
+<!ELEMENT mstu ((tsstm|ref|indcm|matvm|methm|rsltm|dosem|endpm|specm|stsxm|routm|dosrm)*)>
+<!ELEMENT tstu ((spect|ref|stsxt|rtprt|doprt|crcnt|rtcat|docat|tttlt)*)>
+<!ELEMENT DOCNO (#PCDATA)>
+<!ELEMENT NameOfSubstance (#PCDATA|sub|sup|i)*>
+<!ELEMENT CASRegistryNumber (#PCDATA)>
+<!ELEMENT DateRevised (#PCDATA)>
+<!ELEMENT ccn (#PCDATA)>
+<!ELEMENT commi (#PCDATA)>
+<!ELEMENT crcni (#PCDATA)>
+<!ELEMENT crcnt (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT docai (#PCDATA)>
+<!ELEMENT docat (#PCDATA)>
+<!ELEMENT doini (#PCDATA)>
+<!ELEMENT dopri (#PCDATA)>
+<!ELEMENT doprt (#PCDATA)>
+<!ELEMENT dosec (#PCDATA)>
+<!ELEMENT dosem (#PCDATA)>
+<!ELEMENT dosrm (#PCDATA)>
+<!ELEMENT dtyp (#PCDATA)>
+<!ELEMENT endii (#PCDATA)>
+<!ELEMENT endli (#PCDATA)>
+<!ELEMENT endmi (#PCDATA)>
+<!ELEMENT endpm (#PCDATA)>
+<!ELEMENT indcm (#PCDATA)>
+<!ELEMENT matvm (#PCDATA)>
+<!ELEMENT methm (#PCDATA)>
+<!ELEMENT noat (#PCDATA)>
+<!ELEMENT prmti (#PCDATA)>
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT rln (#PCDATA)>
+<!ELEMENT routc (#PCDATA)>
+<!ELEMENT routm (#PCDATA)>
+<!ELEMENT rsltc (#PCDATA)>
+<!ELEMENT rsltm (#PCDATA)>
+<!ELEMENT rtcai (#PCDATA)>
+<!ELEMENT rtcat (#PCDATA)>
+<!ELEMENT rtini (#PCDATA)>
+<!ELEMENT rtpri (#PCDATA)>
+<!ELEMENT rtprt (#PCDATA)>
+<!ELEMENT specc (#PCDATA)>
+<!ELEMENT speci (#PCDATA)>
+<!ELEMENT specm (#PCDATA)>
+<!ELEMENT spect (#PCDATA)>
+<!ELEMENT stsxc (#PCDATA)>
+<!ELEMENT stsxi (#PCDATA)>
+<!ELEMENT stsxm (#PCDATA)>
+<!ELEMENT stsxt (#PCDATA)>
+<!ELEMENT tsstm (#PCDATA)>
+<!ELEMENT tstlc (#PCDATA)>
+<!ELEMENT tttli (#PCDATA)>
+<!ELEMENT tttlt (#PCDATA)>
+<!ELEMENT use (#PCDATA)>
+<!ELEMENT specc (#PCDATA)>
+<!ELEMENT ref (#PCDATA)>
+<!ELEMENT stsxc (#PCDATA)>
+<!ELEMENT routc (#PCDATA)>
+<!ELEMENT dosec (#PCDATA)>
+<!ELEMENT tstlc (#PCDATA)>
+<!ELEMENT rsltc (#PCDATA)>
+<!ELEMENT speci (#PCDATA)>
+<!ELEMENT noat (#PCDATA)>
+<!ELEMENT stsxi (#PCDATA)>
+<!ELEMENT rtini (#PCDATA)>
+<!ELEMENT doini (#PCDATA)>
+<!ELEMENT crcni (#PCDATA)>
+<!ELEMENT rtcai (#PCDATA)>
+<!ELEMENT docai (#PCDATA)>
+<!ELEMENT prmti (#PCDATA)>
+<!ELEMENT rtpri (#PCDATA)>
+<!ELEMENT dopri (#PCDATA)>
+<!ELEMENT tttli (#PCDATA)>
+<!ELEMENT endii (#PCDATA)>
+<!ELEMENT endmi (#PCDATA)>
+<!ELEMENT endli (#PCDATA)>
+<!ELEMENT commi (#PCDATA)>
+<!ELEMENT tsstm (#PCDATA)>
+<!ELEMENT indcm (#PCDATA)>
+<!ELEMENT matvm (#PCDATA)>
+<!ELEMENT methm (#PCDATA)>
+<!ELEMENT rsltm (#PCDATA)>
+<!ELEMENT dosem (#PCDATA)>
+<!ELEMENT endpm (#PCDATA)>
+<!ELEMENT specm (#PCDATA)>
+<!ELEMENT stsxm (#PCDATA)>
+<!ELEMENT routm (#PCDATA)>
+<!ELEMENT dosrm (#PCDATA)>
+<!ELEMENT spect (#PCDATA)>
+<!ELEMENT stsxt (#PCDATA)>
+<!ELEMENT rtprt (#PCDATA)>
+<!ELEMENT doprt (#PCDATA)>
+<!ELEMENT crcnt (#PCDATA)>
+<!ELEMENT rtcat (#PCDATA)>
+<!ELEMENT docat (#PCDATA)>
+<!ELEMENT tttlt (#PCDATA)>

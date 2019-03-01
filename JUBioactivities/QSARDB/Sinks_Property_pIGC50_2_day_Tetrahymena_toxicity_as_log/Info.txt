@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/42/i1552-8618-20-4-917.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 2-day Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:"Sinks, G.D.; Schultz, T.W. Correlation of Tetrahymena and Pimephales Toxicity: Evaluation of 100 Additional Compounds. Environ. Toxicol. Chem. 2001, 20, 4, 917–921."
+EP:"Property pIGC50: 2-day Tetrahymena toxicity as log"
+Author:Sinks
+Filename:"Sinks_Property pIGC50: 2-day Tetrahymena toxicity as log"

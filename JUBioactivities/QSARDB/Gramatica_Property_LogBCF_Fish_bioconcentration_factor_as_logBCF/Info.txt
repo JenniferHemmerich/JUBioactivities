@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/110/2005QCS935.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property LogBCF: Fish bioconcentration factor as logBCF"
+Paper:Gramatica, P.; Papa, E. An Update of the BCF QSAR Model Based on Theoretical Molecular Descriptors. QSAR Comb. Sci. 2005, 24, 8, 935–960.
+EP:"Property LogBCF: Fish bioconcentration factor as logBCF"
+Author:Gramatica
+Filename:"Gramatica_Property LogBCF: Fish bioconcentration factor as logBCF"

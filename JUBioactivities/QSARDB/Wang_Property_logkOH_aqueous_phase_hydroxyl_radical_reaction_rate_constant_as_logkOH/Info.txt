@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/189/2009QCS1309.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logkOH: aqueous-phase hydroxyl radical reaction rate constant as logkOH [L/mol.s]"
+Paper:Wang, Y.-n.; Chen, J.; Li, X.; Zhang, S.; Qiao, X. Estimation of Aqueous-Phase Reaction Rate Constants of Hydroxyl Radical with Phenols, Alkanes and Alcohols. QSAR Comb. Sci. 2009, 28, 1309–1316.
+EP:"Property logkOH: aqueous-phase hydroxyl radical reaction rate constant as logkOH "
+Author:Wang
+Filename:"Wang_Property logkOH: aqueous-phase hydroxyl radical reaction rate constant as logkOH"

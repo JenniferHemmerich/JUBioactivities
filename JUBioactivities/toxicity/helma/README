@@ -1,0 +1,32 @@
+Welcome to http://www.predictive-toxicology.org/data/cpdb_mutagens/
+Last modification: Mon Mar 15 11:49:40 MET 2004
+
+
+Mutagenicity Data and Molecular Properties for CPDB Compounds
+
+please cite:
+
+	C. Helma,  T. Cramer, S. Kramer and L. DeRaedt:
+	Data Mining and Machine Learning Techniques for the Identification of
+	Mutagenicity Inducing Substructures and Structure Activity Relationships
+	of Noncongeneric Compounds, J. Chem. Inf. Comput. Sci., submitted
+
+if you use this data
+
+=============================================================================
+
+fragments.tar.gz	Linear Fragments for the Mutagenicity Dataset
+mutagen.tab 		CAS Nr., SMILES Structures and Mutagenicity Classifications
+mutagens.pdf		Graphical Representation of Structures
+properties.tab	        CAS Nr. and Molecular Properties
+
+=============================================================================
+
+:: christoph helma
+:: machine learning lab
+:: university freiburg
+:: georges koehler allee 079, d-79110 freiburg/br
+:: phone ++49-761-203-8013
+:: fax   ++49-761-203-8007
+:: helma@informatik.uni-freiburg.de
+:: http://www.informatik.uni-freiburg.de/~helma/

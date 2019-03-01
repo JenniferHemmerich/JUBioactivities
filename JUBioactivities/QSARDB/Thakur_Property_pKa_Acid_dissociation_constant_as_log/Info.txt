@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/147/2005ARKIVOC49.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pKa: Acid dissociation constant as log(1/Ka)"
+Paper:"Thakur, A. QSAR study on benzenesulfonamide ionization constant: physicochemical approach using surface tension. ARKIVOC 2005, 2005, 49-58."
+EP:"Property pKa: Acid dissociation constant as log"
+Author:Thakur
+Filename:"Thakur_Property pKa: Acid dissociation constant as log"

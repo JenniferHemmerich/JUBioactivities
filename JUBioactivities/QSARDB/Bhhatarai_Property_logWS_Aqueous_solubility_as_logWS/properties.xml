@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logWS</Id>
+        <Name>Aqueous solubility as logWS</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values ucum</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.3. Water solubility</Endpoint>
+    </Property>
+    <Property>
+        <Id>logVP</Id>
+        <Name>Vapour pressure as logVP</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values ucum</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.4. Vapour pressure</Endpoint>
+    </Property>
+    <Property>
+        <Id>MP</Id>
+        <Name>Melting point</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values ucum</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.1. Melting point</Endpoint>
+    </Property>
+    <Property>
+        <Id>logKow</Id>
+        <Name>Octanol/water partition coefficient as logKow</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.6. Octanol-water partition coefficient (Kow)</Endpoint>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,57 @@
+Screening Results (May 2004 Release)
+
+The results of the screening tests are evaluated and placed in one of three categories:
+
+    1 - CA - Confirmed active
+    1 - CM - Confirmed moderately active
+    0 - CI - Confirmed inactive
+
+aids_conc_may04.txt 
+-------------------------------
+
+is an ASCII comma delimited file containing the screening results for 43,850 compounds. The following data fields are provided for each compound:
+
+    NSC number - the NCI's internal ID number
+    Screening Result - one of the categories listed above
+
+To download this file, click the right mouse button and choose "save link as"
+
+
+aids_ec50_may04.txt
+------------------------------
+
+Data is available for the concentrations necessary to see a protective effect on the infected cells (EC50). The aids_ec50_may04.txt file is a file containing seven data fields in comma delimited format for 39365 NSCs.
+
+    NSC - the NCI internal ID number.
+    Log10(HiConc) - the Log10 of the highest concentration used in the dose response. Experiments with the same HiConc are averaged.
+    ConcUnit
+        M = molar
+        u = micrograms per ml.
+        V = Volumetric
+    Flag - when different experiments are averaged, if the EC50 value would be less than the lowest tested concentration, the the lowest tested concentration is used for the value of EC50
+        A > in this field indicates EC50 would be higher than the hightest concentration tested in at least one of the experiments.
+        A < in this field indicates EC50 would be less than the lowest concentration tested in at least one of the experiments.
+        A = indicated that all the experiments reached EC50.
+    Log10EC50 - Log10 of the concentration of compound that gives 50% protection of infected cells.
+    NumExp - number of experiments included in the average.
+    StdDev - Standard Deviation of the average Log10EC50 across multiple experiments
+
+!!!This File was not available for Download (contained same info as above file)
+aids_ec50_may04.txt
+----------------------------
+
+Data is also available for the concentrations necessary to inhibit the growth of uninfected cells (IC50). The aids_ec50_may04.txt file is a file containing six data fields in comma delimited format for 39350 NSCs.
+
+    NSC - the NCI internal ID number.
+    HiConc - the highest concentration used in the dose response. Experiments with the same HiConc are averaged.
+    ConcUnit:
+        M = molar
+        u = micrograms per ml.
+    Flag - when different experiments are averaged, the highest tested concentration is used for the value of IC50 in experiments that don't actually reach an EC50.
+        A > in this field indicates that this happened in at least one of the experiments.
+        A = indicated that all the experiments reached IC50.
+    IC50 - concentration of compound that inhibits the growth of uninfected cells by 50%.
+    NumExp - number of experiments included in the average.
+    StdDev - Standard Deviation of the average Log10EC50 across multiple experiments
+
+NOTE: the conclusion data was determined by inspection of individual dose response curves and is an overall judgment by trained personnel. The EC50 and IC50 data are computer generated averages and don't necessarily capture everything that was considered when making the judgement.

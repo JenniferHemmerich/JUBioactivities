@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/199/1999JPS815.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logBB: The ratio of brain−blood partitioning as logBB"
+Paper:Clark, D. E. Rapid calculation of polar molecular surface area and its application to the prediction of transport phenomena. 2. Prediction of blood–brain barrier penetration. J. Pharm. Sci. 1999, 88, 815–821.
+EP:"Property logBB: The ratio of brain−blood partitioning as logBB"
+Author:Clark
+Filename:"Clark_Property logBB: The ratio of brain−blood partitioning as logBB"

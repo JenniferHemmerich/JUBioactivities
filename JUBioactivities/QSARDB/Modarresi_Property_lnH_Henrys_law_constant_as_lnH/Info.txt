@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/150/2005SQER461.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property lnH: Henry's law constant as lnH"
+Paper:"Modarresi, H.; Modarress, H.; Dearden, J.C. Henry’s law constant of hydrocarbons in air–water system: The cavity ovality effect on the non-electrostatic contribution term of solvation free energy. SAR QSAR Environ. Res. 2005, 16, 461–482."
+EP:"Property lnH: Henry's law constant as lnH"
+Author:Modarresi
+Filename:"Modarresi_Property lnH: Henry's law constant as lnH"

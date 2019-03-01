@@ -1,0 +1,523 @@
+,Directory,Datasets,Datatype,Column Name,Endpoint,Measure,Number of Molecules,Unique Molecules
+0,QSPR,boiling,regression,BP_QSPR,boiling point,,107,107
+1,,_solubilityD,regression,solubilityD_QSPR,solubility ,,1117,1117
+2,,meltingB,regression,meltingB,melting point,,274,274
+3,,meltingK,regression,MTP,melting point,,4245,4245
+4,Livertox,Liew,classification,H_DILI_Liew,DILI human,,1273,1273
+5,,Fourches,,,,,,
+5.02,,Fourches,classification,H_DILI_Fourches,DILI human,,909,914
+5.04,,Fourches,classification,R_DILI_Fourches,DILI rodent,,911,
+5.06,,Fourches,classification,NR_DILI_Fourches,DILI non-rodent,,912,
+6,,Mulliner,,,,,,
+6.02,,Mulliner,classification,H_HT_Mulliner,DILI human,,2169,3710
+6.04,,Mulliner,classification,H_CC_Mulliner,DILI human,,1939,
+6.06,,Mulliner,classification,H_MF_Mulliner,DILI human,,1938,
+6.08,,Mulliner,classification,H_MFHB_Mulliner,DILI human,,1889,
+6.1,,Mulliner,classification,H_MFHC_Mulliner,DILI human,,1889,
+6.12,,Mulliner,classification,PC_HT_Mulliner,DILI human,,3248,
+6.14,,Mulliner,classification,PC_CC_Mulliner,DILI rodent non-rodent,,2339,
+6.16,,Mulliner,classification,PC_MF_Mulliner,DILI rodent non-rodent,,2339,
+6.18,,Mulliner,classification,PC_CCHB_Mulliner,DILI rodent non-rodent,,1558,
+6.2,,Mulliner,classification,PC_CCHC_Mulliner,DILI rodent non-rodent,,2105,
+6.22,,Mulliner,classification,PC_MFHB_Mulliner,DILI rodent non-rodent,,1565,
+6.24,,Mulliner,classification,PC_MFHC_Mulliner,DILI rodent non-rodent,,2314,
+6.26,,Mulliner,classification,PC_HTdl500_Mulliner,DILI rodent non-rodent,,1577,
+6.28,,Mulliner,classification,PC_CCdl500_Mulliner,DILI rodent non-rodent,,1577,
+6.3,,Mulliner,classification,PC_MFdl500_Mulliner,DILI rodent non-rodent,,1577,
+6.32,,Mulliner,classification,PC_CCHCdl500_Mulliner,DILI rodent non-rodent,,1565,
+6.34,,Mulliner,classification,PC_CCHBdl500_Mulliner,DILI rodent non-rodent,,1565,
+6.36,,Mulliner,classification,PC_MFHCdl500_Mulliner,DILI rodent non-rodent,,1562,
+6.38,,Mulliner,classification,PC_MFHBdl500_Mulliner,DILI rodent non-rodent,,1562,
+6.4,,Mulliner,classification,H_CCHB_Mulliner,DILI human,,1873,
+6.42,,Mulliner,classification,H_CCHC_Mulliner,DILI human,,1873,
+7,,FDA_Liver,,,,,,
+7.02,,FDA_Liver,classification,Composite_DILI_FDA,DILI human,,390,483
+7.04,,FDA_Liver,classification,Alkalkine_Phosphatase_Increase_FDA,DILI human,,377,
+7.06,,FDA_Liver,classification,SGOT_Increase_FDA,DILI human,,380,
+7.08,,FDA_Liver,classification,SGPT_Increase_FDA,DILI human,,381,
+7.1,,FDA_Liver,classification,LDH_Increase_FDA,DILI human,,361,
+7.12,,FDA_Liver,classification,GGTIncrease_FDA,DILI human,,371,
+8,,Zhang,classification,DILI_Zhang,DILI human,,1298,1303
+12,NCI,AIDS,,,,,,
+12.02,,AIDS,regression,Log10EC50,,,892,42484
+12.04,,AIDS,classification,Class,,,42389,
+13,NIH,CCRIS,classification,Ames_CCRIS,Ames,,6149,6172
+14,QSAR,bioconcentration,regression,Bioconc_class,bioconcentration,,779,779
+15,,steroid,regression,pK_steroid,CBG binding,pK,31,31
+16,,fishtox,regression,LC50_fishtox,Fathead Minnow Acute Toxicity,LC50,908,908
+17,,sutherland4,,,,,,
+17.02,,sutherland4,regression,ACE_sutherland4,ACE inhibition,IC50,113,1334
+17.04,,sutherland4,regression,ACHE_sutherland4,Acetylcholin esterase inhibition,IC50,111,
+17.06,,sutherland4,regression,BZR_4_sutherland4,Benzodiazepine Receptor Ligands,IC50,163,
+17.08,,sutherland4,regression,COX2_4_sutherland4,Cox2 inhibition,IC50,321,
+17.1,,sutherland4,regression,DHFR_4_sutherland4,DHFR inhibition,IC50,397,
+17.12,,sutherland4,regression,GPB_sutherland4,lycogen phosphorylase b inhibition,IC50,66,
+17.14,,sutherland4,regression,THERM_sutherland4,thermolysin inhibition,IC50,75,
+17.16,,sutherland4,regression,THR_sutherland4,trypsin thrombin inhibition,IC50,88,
+18,,biodegradation,classification,biodeg_class,biodegradability,,1716,1717
+19,,artemisin,regression,logRA_artemisin,Binding affinity,logRA,173,173
+20,,sutherland,,,,,,
+20.02,,sutherland,regression,BZR_sutherland,Benzodiazepine Receptor Ligands,IC50,332,2517
+20.04,,sutherland,regression,COX2_sutherland,Cox2 inhibition,IC50,412,
+20.06,,sutherland,regression,PC_uM_DHFR_sutherland,DHFR inhibition P. carnii,uM,639,
+20.08,,sutherland,regression,TG_uM_DHFR_sutherland,DHFR inhibition T. gondii,uM,594,
+20.1,,sutherland,regression,RL_uM_DHFR_sutherland,DHFR inhibition rat liver,uM,642,
+20.12,,sutherland,regression,ER_LIT_sutherland,Binding affinity,logRA,382,
+20.14,,sutherland,regression,ER_TOX_sutherland,Binding affinity,logRA,587,
+21,,cytochromeP450,,,,,,
+21.02,,cytochromeP450,classification,CYP2C9_active,CYP activation,,11836,14755
+21.04,,cytochromeP450,classification,CYP3A4_active,CYP activation,,12030,
+22,,aquatox,regression,LC50_aquatox,aquatic toxicity,LC50,546,546
+23,,SXRligand,regression,sxr_ligand,SXR activation,percent activation,96,96
+24,,neighbourhood,,,,,,
+24.02,,neighbourhood,regression,chang,activity,nM,34,281
+24.04,,neighbourhood,regression,cristalli,activity,nM,32,
+24.06,,neighbourhood,regression,depreux,activity,nM,26,
+24.08,,neighbourhood,regression,doherty,activity,nM,6,
+24.1,,neighbourhood,regression,garratt,activity,nM,10,
+24.12,,neighbourhood,regression,garratt2,activity,nM,13,
+24.14,,neighbourhood,regression,heyl,activity,nM,11,
+24.16,,neighbourhood,regression,krystek,activity,nM,30,
+24.18,,neighbourhood,regression,lewis,activity,nM,7,
+24.2,,neighbourhood,regression,penning,activity,nM,13,
+24.22,,neighbourhood,regression,rosowsky,activity,nM,10,
+24.24,,neighbourhood,regression,siddiqi,activity,nM,10,
+24.26,,neighbourhood,regression,stevenson,activity,nM,5,
+24.28,,neighbourhood,regression,strupcz,activity,nM,34,
+24.3,,neighbourhood,regression,svensson,activity,nM,13,
+24.32,,neighbourhood,regression,thompson,activity,nM,8,
+24.34,,neighbourhood,regression,tsutumi,activity,nM,13,
+24.36,,neighbourhood,regression,uehling,activity,nM,9,
+24.38,,neighbourhood,regression,yokoyama1,activity,nM,13,
+24.4,,neighbourhood,regression,yokoyama2,activity,nM,12,
+25,toxicity,ISSCAN,,,,,,
+25.02,,ISSCAN,classification,Ames_ISSCAN,Ames,,623,754
+25.04,,ISSCAN,classification,Carc_ISSCAN,carcinogenicity,,700,
+25.06,,ISSCAN,regression,TD50_Rat_ISSCAN,carcinogenicity potency rat,TD50,372,
+25.08,,ISSCAN,regression,TD50_Mouse_ISSCAN,carcinogenicity potency mouse,TD51,313,
+26,,mutagenDebnath,classification,Mutagen_Debnath,mutagenicity,,186,186
+27,,Hansen_Ames,classification,Ames_Hansen,Ames,,5382,5382
+28,,fda,,,,,,
+28.02,,fda,classification,MR_Carc_fda,carcinogenicity,,207,207
+28.04,,fda,classification,FR_Carc_fda,carcinogenicity,,207,
+28.06,,fda,classification,MM_Carc_fda,carcinogenicity,,207,
+28.08,,fda,classification,FM_Carc_fda,carcinogenicity,,207,
+29,,bursi,classification,Ames_bursi,Ames,,4285,4285
+30,,helma,classification,Mutagen_helma,mutagenicity,,579,580
+31,,amicbase,,,,,,
+31.02,,amicbase,regression,LD50-rat-oral_amicbase,LD50 rat oral,,15,44
+31.04,,amicbase,regression,LD50-mouse-oral_amicbase,LD50 mouse oral,,14,
+31.06,,amicbase,regression,LD50-mou-ip_amicbase,LD50 mouse ip,,14,
+32,,_herg,regression,_Herg_toxicity,herg toxicity,,36,36
+33,,Feng,,,,,,
+33.02,,Feng,classification,Mut_Feng,mutagenicity,,1822,36784
+33.04,,Feng,multiclass,NCI_AIDS_Pot_Feng,HIV inhibition,,28761,
+33.06,,Feng,regression,LIC50_Feng_Tox,toxicity to T. pyriformis,IC50,260,
+33.08,,Feng,regression,AVEINH_bub3_Yeast_Feng,yeast anticancer,,7126,
+33.1,,Feng,regression,AVEINH_cln2_rad14_Yeast_Feng,yeast anticancer,,7126,
+33.12,,Feng,regression,AVEINH_mec2-1_Yeast_Feng,yeast anticancer,,7210,
+33.14,,Feng,regression,AVEINH_mlh1_Yeast_Feng,yeast anticancer,,7203,
+33.16,,Feng,regression,AVEINH_rad18_Yeast_Feng,yeast anticancer,,7210,
+34,,ntp,,,,,,
+34.02,,ntp,classification,MR_Carc,carcinogenicity,,302,390
+34.04,,ntp,classification,FR_Carc,carcinogenicity,,324,
+34.06,,ntp,classification,MM_Carc,carcinogenicity,,310,
+34.08,,ntp,classification,FM_Carc,carcinogenicity,,322,
+35,Permeability,_Liu_BBB,regression,Perm_BBB_Liu,permeability blood brain barrier ,,54,67
+36,,Hou_CACO2,regression,Hou_caco2,permeability skin ,,100,100
+37,,Li_BBB,classification,BBB_perm,permeability blood brain barrier ,,371,376
+38,,__Ekins_CACO2,regression,Perm_CACO2_Ekins,,,27,27
+39,QMRF,Q17_471_0031,,,Ames,,,
+39.02,,Q17_471_0031,classification,OVERALL_Ames_Q17_471_0031,Ames,,5626,6597
+39.04,,Q17_471_0031,classification,TA100_Ames_Q17_471_0031,Ames,,4945,
+39.06,,Q17_471_0031,classification,TA100_S9_Ames_Q17_471_0031,Ames,,4623,
+39.08,,Q17_471_0031,classification,TA1535_Ames_Q17_471_0031,Ames,,2693,
+39.1,,Q17_471_0031,classification,TA1535_S9_Ames_Q17_471_0031,Ames,,2540,
+39.12,,Q17_471_0031,classification,TA97_Ames_Q17_471_0031,Ames,,1147,
+39.14,,Q17_471_0031,classification,TA97_S9_Ames_Q17_471_0031,Ames,,1108,
+39.16,,Q17_471_0031,classification,TA1538_Ames_Q17_471_0031,Ames,,1080,
+39.18,,Q17_471_0031,classification,TA1538_S9_Ames_Q17_471_0031,Ames,,1053,
+39.2,,Q17_471_0031,classification,TA98_Ames_Q17_471_0031,Ames,,4640,
+39.22,,Q17_471_0031,classification,TA98_S9_Ames_Q17_471_0031,Ames,,4313,
+39.24,,Q17_471_0031,classification,TA1537_Ames_Q17_471_0031,Ames,,2247,
+39.26,,Q17_471_0031,classification,TA1537_S9_Ames_Q17_471_0031,Ames,,2164,
+39.28,,Q17_471_0031,classification,TA102_Ames_Q17_471_0031,Ames,,1002,
+39.3,,Q17_471_0031,classification,TA102_S9_Ames_Q17_471_0031,Ames,,865,
+39.32,,Q17_471_0031,classification,TA104_Ames_Q17_471_0031,Ames,,414,
+39.34,,Q17_471_0031,classification,TA104_S9_Ames_Q17_471_0031,Ames,,338,
+39.36,,Q17_471_0031,classification,TA98(NR)_Ames_Q17_471_0031,Ames,,222,
+39.38,,Q17_471_0031,classification,TA98(NR)_S9_Ames_Q17_471_0031,Ames,,138,
+39.4,,Q17_471_0031,classification,TA97A_Ames_Q17_471_0031,Ames,,202,
+39.42,,Q17_471_0031,classification,TA97A_S9_Ames_Q17_471_0031,Ames,,162,
+39.44,,Q17_471_0031,classification,"TA98(1,8-DNP6)_Ames_Q17_471_0031",Ames,,200,
+39.46,,Q17_471_0031,classification,"TA98(1,8-DNP6)_S9_Ames_Q17_471_0031",Ames,,119,
+39.48,,Q17_471_0031,classification,"TA100(1,8-DNP6)_Ames_Q17_471_0031",Ames,,26,
+39.5,,Q17_471_0031,classification,"TA100(1,8-DNP6)_S9_Ames_Q17_471_0031",Ames,,20,
+39.52,,Q17_471_0031,classification,TA100(NR)_Ames_Q17_471_0031,Ames,,1,
+39.54,,Q17_471_0031,classification,TA100(NR)_S9_Ames_Q17_471_0031,Ames,,1,
+39.56,,Q17_471_0031,classification,YG1024_Ames_Q17_471_0031,Ames,,69,
+39.58,,Q17_471_0031,classification,YG1024_S9_Ames_Q17_471_0031,Ames,,60,
+39.6,,Q17_471_0031,classification,TA2638_Ames_Q17_471_0031,Ames,,70,
+39.62,,Q17_471_0031,classification,TA2638_S9_Ames_Q17_471_0031,Ames,,43,
+39.64,,Q17_471_0031,classification,YG1029_Ames_Q17_471_0031,Ames,,58,
+39.66,,Q17_471_0031,classification,YG1029_S9_Ames_Q17_471_0031,Ames,,36,
+39.68,,Q17_471_0031,classification,TA92_Ames_Q17_471_0031,Ames,,59,
+39.7,,Q17_471_0031,classification,TA92_S9_Ames_Q17_471_0031,Ames,,20,
+39.72,,Q17_471_0031,classification,YG1026_Ames_Q17_471_0031,Ames,,48,
+39.74,,Q17_471_0031,classification,YG1026_S9_Ames_Q17_471_0031,Ames,,25,
+39.76,,Q17_471_0031,classification,YG1021_Ames_Q17_471_0031,Ames,,49,
+39.78,,Q17_471_0031,classification,YG1021_S9_Ames_Q17_471_0031,Ames,,29,
+39.8,,Q17_471_0031,classification,TA7004_Ames_Q17_471_0031,Ames,,52,
+39.82,,Q17_471_0031,classification,TA7004_S9_Ames_Q17_471_0031,Ames,,24,
+39.84,,Q17_471_0031,classification,TA7005_Ames_Q17_471_0031,Ames,,50,
+39.86,,Q17_471_0031,classification,TA7005_S9_Ames_Q17_471_0031,Ames,,21,
+39.88,,Q17_471_0031,classification,TA1978_Ames_Q17_471_0031,Ames,,36,
+39.9,,Q17_471_0031,classification,TA1978_S9_Ames_Q17_471_0031,Ames,,31,
+39.92,,Q17_471_0031,classification,TA7002_Ames_Q17_471_0031,Ames,,47,
+39.94,,Q17_471_0031,classification,TA7002_S9_Ames_Q17_471_0031,Ames,,21,
+39.96,,Q17_471_0031,classification,TA7003_Ames_Q17_471_0031,Ames,,48,
+39.98,,Q17_471_0031,classification,TA7003_S9_Ames_Q17_471_0031,Ames,,21,
+40,,Q17_46_0042,classification,SkinSens_Q17_46_0042,Ames,,392,392
+40,,Q17_471_0031,classification,SkinSens_Q17_46_0042,Ames,,392,392
+40.02,,Q17_471_0031,classification,TA7001_S9_Ames_Q17_471_0031,Ames,,21,
+40.04,,Q17_471_0031,classification,TA7006_Ames_Q17_471_0031,Ames,,46,
+40.06,,Q17_471_0031,classification,TA7006_S9_Ames_Q17_471_0031,Ames,,19,
+40.08,,Q17_471_0031,classification,TM677_Ames_Q17_471_0031,Ames,,21,
+40.1,,Q17_471_0031,classification,TM677_S9_Ames_Q17_471_0031,Ames,,24,
+40.12,,Q17_471_0031,classification,G46_Ames_Q17_471_0031,Ames,,19,
+40.14,,Q17_471_0031,classification,G46_S9_Ames_Q17_471_0031,Ames,,13,
+40.16,,Q17_471_0031,classification,YG1020_Ames_Q17_471_0031,Ames,,23,
+40.18,,Q17_471_0031,classification,YG1020_S9_Ames_Q17_471_0031,Ames,,18,
+40.2,,Q17_471_0031,classification,YG1025_Ames_Q17_471_0031,Ames,,22,
+40.22,,Q17_471_0031,classification,YG1025_S9_Ames_Q17_471_0031,Ames,,16,
+40.24,,Q17_471_0031,classification,TA94_Ames_Q17_471_0031,Ames,,22,
+40.26,,Q17_471_0031,classification,TA94_S9_Ames_Q17_471_0031,Ames,,13,
+41,,Q17_412_0051,classification,Carc_Q17_412_0051,carcinogenicity,,280,280
+42,,Q17_24a_0023,regression,LogBCF_Q17_24a_0023,bioconcentration,,625,625
+43,,Q17_23a_0014,classification,Ready_Biodeg_Q17_23a_0014,biodegradability,,1604,1604
+44,,Q17_18_0018,regression,LogKOA_Q17_18_0018,octanol-air partition coefficient,logKOA,270,270
+45,,Q17_412_0049,classification,Carc_Q17_412_0049,carcinogenicity,,468,468
+46,,Q17_416_0041,classification,DevTox_Q17_416_0041,developmental toxicity,,270,270
+47,,Q17_23b_0022,regression,LogHalfLife_Q17_23b_0022,half life,,150,150
+48,,Q17_26_0032,regression,LogKOC_Q17_26_0032,soil sorption partition coefficien,logKOC,640,640
+49,,Q17_410_0037,classification,Ames_Q17_410_0037,Ames,,8237,8247
+50,,Q17_42_0028,regression,Oral_tox_Q17_42_0028,acute oral toxicity in vitro,Log IC50,28,28
+51,,Q17_26_0017,regression,LogKOC_Q17_26_0017,soil sorption partition coefficien,logKOC,723,723
+52,,Q17_412_0052,classification,Carc_Q17_412_0052,carcinogenicity,,359,359
+53,,Q17_16_0016,regression,LogP_Q17_16_0016,logP,,14017,14017
+54,,Q17_26_0057,regression,LogKOC_Q17_26_0057,soil sorption partition coefficien,logKOC,635,635
+55,,Q17_14_0013,regression,LogVP_Q17_14_0013,vapor pressure,Log mm/Hg,2711,2711
+56,,Q17_33_0032,regression,LogLC50_Q17_33_0032,acute oral toxicity fathead minnow,- log LC50,43,43
+57,,Q17_301C_0054,classification,Biodeg_Q17_301C_0054,biodegradability,,791,1366
+58,,Q17_105_0032,regression,AquSol_Q17_105_0032,solubility ,,150,2432
+59,,Q17_19_0020,regression,LogHL_Q17_19_0020,half life,,590,590
+60,,Q17_13_0012,regression,LogMolar_Q17_13_0012,logH,,4199,4199
+61,,Q17_412_0050,classification,Carc_Q17_412_0050,carcinogenicity,,323,323
+62,,Q17_22b_0024,regression,LogOH_Q17_22b_0024,Abiotic degradation in air,,692,692
+63,,Q17_202_0034,regression,acutetox_Q17_202_0034,acute toxicity daphnia magna,LC50,983,984
+64,,Q17_12_0021,regression,BP_Q17_12_0021,boiling point,,5433,5433
+65,,Q17_66_0019,regression,LogKmHL_Q17_66_0019,biotransformation rate constant,km/day,541,541
+66,,Q17_22b_0056,,,,,,
+66.02,,Q17_22b_0056,regression,LogOH,Abiotic degradation in air,,228,330
+66.04,,Q17_22b_0056,regression,LogkOH_Q17_22b_0056,Abiotic degradation in air,,189,
+67,,Q17_11_0015,regression,MP_Q17_11_0015,melting point,,8597,8597
+68,ECVAM,Endocrine_activity,,,,,,
+68.02,,Endocrine_activity,classification,HH_ED_ECVAM,endocrine disruption human,,242,257
+68.04,,Endocrine_activity,classification,WL_ED_ECVAM,endocrine disruption wildlife,,108,
+69,,Gentox_Carc,,,,,,
+69.02,,Gentox_Carc,classification,CSCL-ISHL-S9_AMES__ECVAM,Ames,,58,645
+69.04,,Gentox_Carc,classification,CSCL-ISHL+S9_AMES__ECVAM,Ames,,56,
+69.06,,Gentox_Carc,classification,CSCL-ISHLoverall_AMES__ECVAM,Ames,,55,
+69.08,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_AMES__ECVAM",Ames,,505,
+69.1,,Gentox_Carc,classification,US NTP_AMES__ECVAM,Ames,,238,
+69.12,,Gentox_Carc,classification,ECHA_AMES__ECVAM,Ames,,23,
+69.14,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*MLA_invitro__ECVAM",mouse lymphoma assay in vitro,,165,
+69.16,,Gentox_Carc,classification,US NTP_MLA_invitro__ECVAM,mouse lymphoma assay in vitro,,121,
+69.18,,Gentox_Carc,classification,SCCS_MLA_invitro__ECVAM,mouse lymphoma assay in vitro,,26,
+69.2,,Gentox_Carc,classification,CosE_MLA_invitro__ECVAM,mouse lymphoma assay in vitro,,16,
+69.22,,Gentox_Carc,classification,ECHA_MLA_invitro__ECVAM,mouse lymphoma assay in vitro,,15,
+69.24,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_MN_invitro__ECVAM",micronucelus assay in vitro,,106,
+69.26,,Gentox_Carc,classification,SCCS_MN_invitro__ECVAM,micronucelus assay in vitro,,12,
+69.28,,Gentox_Carc,classification,CosE_MN_invitro__ECVAM,micronucelus assay in vitro,,11,
+69.3,,Gentox_Carc,classification,CSCL-ISHL‚ÄîS9_CA_invitro__ECVAM,chomosome abberation in vitro,,57,
+69.32,,Gentox_Carc,classification,CSCL-ISHL+S9_CA_invitro__ECVAM,chomosome abberation in vitro,,57,
+69.34,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_CA_invitro__ECVAM",chomosome abberation in vitro,,291,
+69.36,,Gentox_Carc,classification,US NTP_CA_invitro__ECVAM,chomosome abberation in vitro,,212,
+69.38,,Gentox_Carc,classification,EFSA_CA_invitro__ECVAM,chomosome abberation in vitro,,9,
+69.4,,Gentox_Carc,classification,SCCS_CA_invitro__ECVAM,chomosome abberation in vitro,,27,
+69.42,,Gentox_Carc,classification,CosE_CA_invitro__ECVAM,chomosome abberation in vitro,,17,
+69.44,,Gentox_Carc,classification,ECHA_CA_invitro__ECVAM,chomosome abberation in vitro,,17,
+69.46,,Gentox_Carc,classification,CSCL-ISHL_MN_invivo__ECVAM,micronucelus assay in vivo,,43,
+69.48,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_MN_invivo__ECVAM",micronucelus assay in vivo,,184,
+69.5,,Gentox_Carc,classification,US NTP_MN_invivo__ECVAM,micronucelus assay in vivo,,108,
+69.52,,Gentox_Carc,classification,EFSA_MN_invivo__ECVAM,micronucelus assay in vivo,,6,
+69.54,,Gentox_Carc,classification,SCCS_MN_invivo__ECVAM,micronucelus assay in vivo,,29,
+69.56,,Gentox_Carc,classification,CosE_MN_invivo__ECVAM,micronucelus assay in vivo,,22,
+69.58,,Gentox_Carc,classification,ECHA_MN_invivo__ECVAM,micronucelus assay in vivo,,18,
+69.6,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_CA_invivo__ECVAM",chomosome abberation in vivo,,125,
+69.62,,Gentox_Carc,classification,US NTP_CA_invivo__ECVAM,chomosome abberation in vivo,,28,
+69.64,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_UDS_invivo__ECVAM",unscheduled dna synthesis in vivo,,70,
+69.66,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*-transgenic__ECVAM",in vivo transgenic gene mutation assay,,89,
+69.68,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_DNAdmg_invivo__ECVAM",DNA damage in vivo,,70,
+69.7,,Gentox_Carc,classification,"Kirkland et al 2005 & 2011 [1, 2]*_Carc__ECVAM",carcinogenicity,,364,
+69.72,,Gentox_Carc,classification,NTP_Carc__ECVAM,carcinogenicity,,177,
+69.74,,Gentox_Carc,classification,EFSA_Carc__ECVAM,carcinogenicity,,9,
+69.76,,Gentox_Carc,classification,ECHA_Carc__ECVAM,carcinogenicity,,16,
+70,Tox21_Challenge,HSE,classification,SR_HSE_Tox21,activity HSE,,6639,6702
+71,,ER_LBD,classification,NR_ER_LBD_Tox21,agonist estrogen receptor signalling,,7135,7183
+72,,p53,classification,SR_p53_Tox21,agonist p53 signalling,,6958,7004
+73,,PPAR,classification,NR_PPAR_gamma_Tox21,agonist ppar gamma signalling,,6641,6683
+74,,atad5,classification,SR_ATAD5_Tox21,agonist atad5 signalling,,7250,7290
+75,,AR,classification,NR_AR_Tox21,agonist androgen receptor,,7450,7486
+76,,ER,classification,NR_ER_Tox21,agonist estrogen receptor signalling,,6295,6429
+77,,AR_LBD,classification,NR_AR_LBD_Tox21,agonist androgen receptor,,6931,6984
+78,,MMP,classification,SR_MMP_Tox21,disruptor mitochondrial membrame potential,,5949,6037
+79,,AHR,classification,NR_AhR_Tox21,agonist arylhydrocarbon receptor,,6704,6774
+80,,ARE,classification,SR_ARE_Tox21,agonist antioxidant responsive element ARE signalling,,5970,6076
+81,,aromatase,classification,aromatase_Tox21,agonist aromatase ,,5734,5757
+82,QSARDB,Cronin_Property_pEC50_15_minute_algal_toxicity_as_log,regression,pEC50_15_Cronin,toxicity chlorella vulgaris,pEC50,91,91
+83,,Toropov_Property_pLC50_Quail_dietary_toxicity_as_log,regression,pLC50_Toropov,toxicity quail,pLC50,108,108
+84,,Oja_Property_logPeff_Highest_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9,regression,logPeff_Oja,permeability membrane,,73,73
+85,,Lang_Property_c_c,regression,Property_c_Lang,,,63,63
+86,,Bryant_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,regression,pIGC50_96_Bryant,toxicity algae tetrahymena,pIGC50,24,26
+87,,Aruoja_Property_pEC50_72_h_Algal_toxicity_as_log,regression,pEC50_Aruoja,toxicity algae pseudokirchneriella subcapitata,pEC50,108,108
+88,,Bhhatarai_Property_pLD50mouse_Mouse_oral_toxicity_as_log,,,,,,
+88.02,,Bhhatarai_Property_pLD50mouse_Mouse_oral_toxicity_as_log,regression,pLD50Mouse_pLD50_Bhhatarai,toxicity mouse oral,LD50,58,95
+88.04,,Bhhatarai_Property_pLD50mouse_Mouse_oral_toxicity_as_log,regression,pLD50Rat_pLD50_Bhhatarai,toxicity rat oral,LD50,50,
+89,,Liu_Property_pEC50_6_day_algal_toxicity_as_log,regression,pEC50_6d_Liu,toxicity algae tetraselmis marina,pEC50,20,20
+90,,Seward_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Seward,toxicity algae tetrahymena,pEC50,36,36
+91,,Schultz_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,regression,pIGC50_2d_Schultz,toxicity algae tetrahymena,pEC50,54,54
+92,,Schultz_Property_MOA_Mode_of_action,,,,,,
+92.02,,Schultz_Property_MOA_Mode_of_action,multiclass,MOA_moa_Schultz,,,492,492
+92.04,,Schultz_Property_MOA_Mode_of_action,regression,pLCC50_moa_Schultz,toxicity algae tetrahymena,,246,
+92.06,,Schultz_Property_MOA_Mode_of_action,regression,pIGCC50_moa_Schultz,toxicity algae tetrahymena,,492,
+93,,Schultz_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Schultz,toxicity algae tetrahymena,,48,48
+94,,Lang_Property_E_E,regression,Property_E_Lang,,,2132,2132
+95,,Gramatica_Property_pkNO3_Degradation_by_NO3_radicals_as_logkNO3,regression,pkNO3_Gramatica,degradation,,113,113
+96,,Bhhatarai_Property_pLC50mouse_Mice_acute_inhalation_toxicity_as_pLC50,,,,,,
+96.02,,Bhhatarai_Property_pLC50mouse_Mice_acute_inhalation_toxicity_as_pLC50,regression,pLC50Mouse_pLC50_Bhhatarai,toxicity mouse inhalation,LC50,53,78
+96.04,,Bhhatarai_Property_pLC50mouse_Mice_acute_inhalation_toxicity_as_pLC50,regression,pLC50Rat_pLC50_Bhhatarai,toxicity rat inhalation,LC51,51,
+97,,Furuhama_Property_pLC50_96_h_acute_fish_toxicity_as_log,regression,pLC50_Furuhama,toxicity fish medaka,LC52,108,108
+98,,Moosus_Property_logLC50_48_h_Daphnia_toxicity_as_log,regression,logLC50_48_Moosus,toxicity daphnia magna,pLC50,233,233
+99,,Khajeh_Property_FP_Flash_point,regression,FP_Kajeh,flash point,,149,149
+100,,Schultz_Property_IGC50_40_h_Tetrahymena_toxicity_as_IGC50,regression,IGC50_40_Schultz,toxicity algae tetrahymena,IGC50,26,26
+101,,Pirselova_Property_pIGC50_96_h_Tetrahymena_toxicity_as_log,regression,pIGC50_96_Pirselova,toxicity algae tetrahymena,pIGC50,119,119
+102,,Karpaviciene_Property_NB4_pIC50_pIC50_data_against_the_NB4_cell_line,,,,,,
+102.02,,Karpaviciene_Property_NB4_pIC50_pIC50_data_against_the_NB4_cell_line,regression,A549_pIC50_Karpaviciene,inhibition cell growth A549,pIC50,62,62
+102.04,,Karpaviciene_Property_NB4_pIC50_pIC50_data_against_the_NB4_cell_line,regression,MCF7_pIC50_Karpaviciene,inhibition cell growth MCF7,pIC51,62,
+102.06,,Karpaviciene_Property_NB4_pIC50_pIC50_data_against_the_NB4_cell_line,regression,NB4_pIC50_Karpaviciene,inhibition cell growth NB4,pIC52,62,
+103,,Lang_Property_S_S,regression,Property_S_Lang,,,2200,2200
+104,,Lang_Property_a_a,regression,Property_a_Lang,,,62,62
+105,,Veith_Property_logLC50exp_Acute_inhalation_toxicity_in_rats_as_log,regression,logLC50exp_Veith,toxicity rat inhalation,pLC50,40,40
+106,,Roy_Property_pk,regression,pkOH_Roy,soil sorption partition coefficien,,453,453
+107,,Schultz_Property_IGC50_60_h_Tetrahymena_toxicity_as_IGC50,,,,,,
+107.02,,Schultz_Property_IGC50_60_h_Tetrahymena_toxicity_as_IGC50,regression,pIGC50_log_60_Schultz,toxicity algae tetrahymena,pIGC50,23,23
+107.04,,Schultz_Property_IGC50_60_h_Tetrahymena_toxicity_as_IGC50,regression,IGC50_log_60_Schultz,toxicity algae tetrahymena,IGC50,23,
+108,,Singh_Property_ratioI50NTE_I50AChE_Ratio_of,regression,Ratio_Singh,,,11,11
+109,,Enoch_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_Enoch,toxicity algae tetrahymena,pIGC50,137,137
+110,,Lu_Property_pEC50_48_h_Algal_toxicity_as_log,regression,pEC50_48d_Lu,toxicity algae tetrahymena,pEC50,40,40
+111,,Lang_Property_L_L,regression,Property_L_Lang,,,1964,1964
+112,,Papa_Property_pkNO3_Degradation_by_NO3_radicals_as_logkNO3,regression,pkNO3_Index_Papa,degradation,,165,165
+113,,Clark_Property_logBB_The_ratio_of_brain_blood_partitioning_as_logBB,regression,logBB_Clark,blood brain distribution,,70,70
+114,,Cronin_Property_pIGC50_1_40h_TetrahymenaTox,regression,pIGC50_1_40_Cronin,toxicity algae tetrahymena,pIGC50,248,248
+115,,Wang_Property_logkOH_aqueous_phase_hydroxyl_radical_reaction_rate_constant_as_logkOH,regression,logkOH_Wang,hydroxyl radical reaction,,55,55
+116,,Schultz_Property_pIGC50_48_h_Tetrahymena_toxicity_as_log,regression,pIGC50_48_Schultz,toxicity algae tetrahymena,pIGC50,21,24
+117,,Jaworska_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,regression,pIGC50_2d_Jaworska,toxicity algae tetrahymena,pIGC50,34,34
+118,,Cronin_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Cronin,toxicity algae tetrahymena,pIGC50,201,201
+119,,Zhang_Property_logKMXa_Cuticular_polymer_matrix,regression,logKMXa_Zhang,polymer air partition coefficient,,36,36
+120,,Papa_Property_PBT_Index_PBT_Index,regression,PBT_Index_Papa,PBT Index,,180,249
+121,,Wen_Property_logKoc_Logarithm_of_soil_sorption_coefficient,regression,logKoc_Wen,soil sorption partition coefficien,logKOC,693,693
+122,,Sun_Property_logk_Sediment_adsorption_coefficient_as_logk,regression,logk_Sun,soil sorption partition coefficien,logK,8,8
+123,,Lang_Property_b_b,regression,Property_b_Lang,,,63,63
+124,,Abraham_Property_SP_Eye_irritation_in_rabbits_and_in_humans_as_log,regression,SP_eye_Abraham,irritation eye rabbit human,,80,80
+125,,Schultz_Property_logRD50_Respiratory_sensitisation_as_logarithm_of_toxicity,,,,,,
+125.02,,Schultz_Property_logRD50_Respiratory_sensitisation_as_logarithm_of_toxicity,regression,pIGC50_resp_Schultz,sensitisation respiratory tetrahymena,pIGC50,12,19
+125.04,,Schultz_Property_logRD50_Respiratory_sensitisation_as_logarithm_of_toxicity,regression,logRD50_resp_Schultz,sensitisation respiratory human,pRD50,10,
+126,,Liu_Property_BP_Boiling_point,,,,,,
+126.02,,Liu_Property_BP_Boiling_point,regression,Boiling point_Liu,boiling point,,149,150
+126.04,,Liu_Property_BP_Boiling_point,regression,Critical pressure_Liu,critical pressure,,74,
+126.06,,Liu_Property_BP_Boiling_point,regression,Critical temperature_Liu,critical temperature,,74,
+126.08,,Liu_Property_BP_Boiling_point,regression,Density at 25C_Liu,density,,133,
+126.1,,Liu_Property_BP_Boiling_point,regression,Enthalphy at 300K_Liu,enthaply,,133,
+126.12,,Liu_Property_BP_Boiling_point,regression,Heat of atomization at 25C_Liu,heat of atomization,,44,
+126.14,,Liu_Property_BP_Boiling_point,regression,Heat capacity at 300K_Liu,heat capacity,,133,
+126.16,,Liu_Property_BP_Boiling_point,regression,Standard heat of formation at 25C_Liu,Standard heat of formation,,54,
+126.18,,Liu_Property_BP_Boiling_point,regression,Heat of formation in gas at 25C_Liu,Heat of formation in gas,,63,
+126.2,,Liu_Property_BP_Boiling_point,regression,Heat of formation in liquid at 25C_Liu,Heat of formation in liquid ,,62,
+126.22,,Liu_Property_BP_Boiling_point,regression,Heat of vaporization at 25C_Liu,Heat of vaporization,,69,
+126.24,,Liu_Property_BP_Boiling_point,regression,molar refraction at 20C_Liu,molar refraction,,69,
+126.26,,Liu_Property_BP_Boiling_point,regression,Molar volume at 20C_Liu,Molar volume,,69,
+126.28,,Liu_Property_BP_Boiling_point,regression,Refraction index at 25C_Liu,Refraction index,,133,
+126.3,,Liu_Property_BP_Boiling_point,regression,Surface tension at 20C_Liu,Surface tension,,68,
+127,,Lang_Property_s_s,regression,Property_s_Lang,,,63,63
+128,,Bagheri_Property_FP_Flash_point,,,,,,
+128.02,,Bagheri_Property_FP_Flash_point,regression,AIT_Bagheri,auto ingnition,,46,85
+128.04,,Bagheri_Property_FP_Flash_point,regression,FP_Bagheri,flash point,,46,
+129,,Enoch_Property_pEC3_Skin_sensitisation_potency_in_the_local_lymph_node_assay,regression,pEC3_Enoch,sensitisation skin,pEC3,30,33
+130,,Gramatica_Property_logKoc_logarithm_of_soil_sorption_coefficient,regression,lohKoc_Gramatica,soil sorption partition coefficien,logKOH,638,638
+131,,Jaworska_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,,,,,,
+131.02,,Jaworska_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression,pLC50_96_Jaworska,acute oral toxicity fathead minnow,pLC50,18,32
+131.04,,Jaworska_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression,pIGC50_96_Jaworska,acute oral toxicity fathead minnow,pIGC50,30,
+132,,Seward_Property_pLC50_96_h_Guppy_toxicity_as_log,,,,,,
+132.02,,Seward_Property_pLC50_96_h_Guppy_toxicity_as_log,multiclass,MOA_96_Seward,,,123,123
+132.04,,Seward_Property_pLC50_96_h_Guppy_toxicity_as_log,regression,pIGC50_96_Seward,toxicity algae tetrahymena,pIGC50,123,
+132.06,,Seward_Property_pLC50_96_h_Guppy_toxicity_as_log,regression,pLC50_96_Seward,acute oral toxicity guppy,pLC50,123,
+133,,Ringeissen_Property_3T3_NRU_Phototoxicity_Neural_red_uptake_phototoxicity_P_phototoxic_nP_non_phototoxic,classification,3T3_NRU_Ringeissen,phototoxicity 3T3,,53,53
+134,,Piir_Property_LogBCF_Fish_bioconcentration_factor_as_logBCF,regression,LogBCF_Fish_Piir,bioconcentration,,627,627
+135,,Palmer_Property_logS0_Intrinsic_aqueous_solubility_as_logS0,regression,logS0_Palmer,solubility ,,60,60
+136,,Boehme_Property_logIGC50_48_h_Tetrahymena_toxicity_as_log,regression,logIGC50_Boehme,toxicity algae tetrahymena,pIGC50,46,46
+137,,Dulin_Property_pLD50_48_h_Honeybee_toxicity_as_log,regression,pLD50_48_Dulin,acute contact toxicity honeybee,pLD50,45,45
+138,,Richard_Property_pBCm_Benchmark_concentration_for_5perc_increase_in_embryos_with_neural_tube_defects_as_log,regression,pBCm_5_Richard,bioconcentration,,10,10
+139,,Gramatica_Property_pEC50_72_h_Algal_toxicity_as_log,regression,pEC50_Algae_Gramatica,toxicity algae pseudokirchneriella subcapitata,,34,385
+140,,Saldana_Property_FP_Flash_point,regression,FP_Saldana,flash point,,630,1158
+141,,Kahn_Property_pKi_LRRK2_inhibition_as_log,regression,pKi_Kahn,Serin/Threoninkinase LRRK2 inhibition,pKi,198,198
+142,,Ellison_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Ellison,toxicity algae tetrahymena,pIGC50,500,500
+143,,Liu_Property_LogRBA_Estrogen_receptor_relative_binding_affinity,regression,logRBA_Liu,Binding affinity,logRBA,123,123
+144,,Puzyn_Property_pEC50_Cytotoxicity_to_bacteria_Escherichia_coli_as_log,regression,pEC50_EC_Puzyn,cytotoxicity escherichia coli,pEC50,15,15
+145,,Bajot_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Bajot,toxicity algae tetrahymena,pIGC50,66,69
+146,,Gharagheizi_Property_UFLP_Upper_flammability_limit_percent,regression,UFLP_Gharagheizi,flamability,,862,862
+147,,Modarresi_Property_lnH_Henrys_law_constant_as_lnH,regression,lnH_Modarresi,logH,,189,189
+148,,Gramatica_Property_GHLI_Global_half_life_index,regression,GHLI_Gramatica,half life,,249,249
+149,,Katritzky_Property_logEC50_Bioluminescent_Shk1_aquatic_toxicity_as_logEC50,regression,logEC50_Katritzky,aquatic toxicity,pEC50,103,103
+150,,Hayashi_Property_PIImol_Skin_irritation_potential,regression,PIImol_skinsens_Hayashi,sensitisation skin,,24,24
+151,,Aptula_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Aptula,toxicity algae tetrahymena,pIGC50,35,35
+152,,Gagliardi_Property_pIGC50_40h_TetrahymenaTox,regression,pIGC50_40_Gagliardi,toxicity algae tetrahymena,pIGC50,47,47
+153,,Benigni_Property_TA100_Mutagenicity_for_strain_TA100_+_S9_metabolism,classification,Ames_Begnini,Ames,,108,109
+154,,Gajewicz_Property_logPL_Liquid_vapor_pressure,regression,logPL_Gajewicz,vapor pressure,,341,1434
+155,,Lang_Property_A_A,regression,Property_A_Lang,,,2144,2144
+156,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,,,,,,
+156.02,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Acute toxicity to fish (lethality)_0_M1_Gramatica,acute oral toxicity fathead minnow,pLC50,430,1950
+156.04,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Melting Point 1_1_M1_Gramatica,melting point,,25,
+156.06,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Vapour pressure_2_M1_Gramatica,vapor pressure,,34,
+156.08,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Acute lethal inhalation concentration mice pLC50_3_M1_Gramatica,acute inhalation toxicity mouse,pLC50,53,
+156.1,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Acute inhalation toxicity_4_M1_Gramatica,acute inhalation toxicity rat,pLC50,50,
+156.12,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Acute oral toxicity_5_M1_Gramatica,acute oral toxicity rat,pLD50,48,
+156.14,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Water solubility_6_M1_Gramatica,water solubility,,20,
+156.16,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Vapor pressure_7_M1_Gramatica,vapor pressure,,34,
+156.18,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, The octanol-water partition coefficient_8_M1_Gramatica,loogP,,61,
+156.2,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Melting point_9_M1_Gramatica,melting point,,54,
+156.22,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Water solubility_10_M1_Gramatica,water solubility,,46,
+156.24,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, The soil sorption partition coefficient_11_M1_Gramatica,soil sorption partition coefficien,,628,
+156.26,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Vapor pressure_12_M1_Gramatica,vapor pressure,,31,
+156.28,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Inhibition of the exponential growth rate of algea_13_M1_Gramatica,,,34,
+156.3,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Short-term toxicity to Daphnia_14_M1_Gramatica,acute toxicity daphnia magna,,91,
+156.32,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Acute toxicity to fish_15_M1_Gramatica,acute oral toxicity fathead minnow,pLC50,71,
+156.34,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Global half-life index_16_M1_Gramatica,half life,,249,
+156.36,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, EDC estrogen receptor binding_17_M1_Gramatica,Binding affinity,logRBA,126,
+156.38,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Biotransformation half-lives in fish_18_M1_Gramatica,biotransformation half life,,616,
+156.4,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, LD50_fish_19_M1_Gramatica,acute toxicity fish,LD50,30,
+156.42,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, Short-term toxicity to Daphnia_20_M1_Gramatica,acute toxicity daphnia magna,pEC50,28,
+156.44,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, The mutagenicity potency in TA100 (without the S9 activation system)_21_M1_Gramatica,Ames,,48,
+156.46,,Gramatica_Property_M1_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression, The octanol-air partition coefficient_22_M1_Gramatica,octanol-air partition coefficient,,30,
+157,,Lang_Property_v_v,regression,Property_v_Lang,,,63,63
+158,,Ren_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,,,,,,
+158.02,,Ren_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Ren,toxicity algae tetrahymena,pIGC50,329,329
+158.04,,Ren_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pLC50_40_Ren,toxicity algae tetrahymena,pLC50,329,
+159,,Schultz_Property_pIGC50_48_to_60_h_Tetrahymena_toxicity_as_log,regression,pIGC50_48_60_Schultz,toxicity algae tetrahymena,pIGC50,27,27
+160,,DeWeese_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_DeWeese,toxicity algae tetrahymena,pIGC50,21,21
+161,,Papa_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression,pLC50_96_Index_Papa,toxicity algae tetrahymena,pLC50,449,449
+162,,Papa_Property_Mutagenicity_Mutagenicity_on_human_h1A1v2_cells,classification,Mutagenicity_Papa,mutagenicity,,70,70
+163,,Lang_Property_mpC_mpC,regression,Property_mpC_Lang,,,2576,2576
+164,,Franke_Property_Carcinogenicity_Class_C_Carcinogenic_nC_non_Carcinogenic,,,,,,
+164.02,,Franke_Property_Carcinogenicity_Class_C_Carcinogenic_nC_non_Carcinogenic,regression,Carc_Potency_Franke,carcinogenicity,,64,64
+164.04,,Franke_Property_Carcinogenicity_Class_C_Carcinogenic_nC_non_Carcinogenic,classification,Carcinogenicity_Franke,carcinogenicity,,64,
+165,,Gramatica_Property_LogBCF_Fish_bioconcentration_factor_as_logBCF,regression,LogBCF_Gramatica,bioconcentration,,235,235
+166,,Pan_Property_SADT_Self_accelerating_decomposition_temperature,regression,SADT_Pan,decomposition,,37,37
+167,,Kim_Property_logKcutw_Plant_cuticles,regression,logKcutw_Kim,vegetation water partition coefficient,,20,20
+168,,Lang_Property_V_V,regression,Property_V_Lang,,,2200,2200
+169,,Sinks_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Sinks,toxicity algae tetrahymena,pIGC50,47,49
+170,,Wang_Property_gamma0_Lowest_surface_tension,regression,gamma0_Wang,surface tension,,30,30
+171,,Abraham_Property_logBB_Blood_brain_distribution,regression,LogBB_Abraham,blood brain distribution,,275,275
+172,,Bhhatarai_Property_logWS_Aqueous_solubility_as_logWS,,,,,,
+172.02,,Bhhatarai_Property_logWS_Aqueous_solubility_as_logWS,regression,logKow_logWS_Bhhatarai,water solubility,,56,78
+172.04,,Bhhatarai_Property_logWS_Aqueous_solubility_as_logWS,regression,logVP_logWS_Bhhatarai,water solubility,,63,
+172.06,,Bhhatarai_Property_logWS_Aqueous_solubility_as_logWS,regression,logWS_logWS_Bhhatarai,water solubility,,33,
+172.08,,Bhhatarai_Property_logWS_Aqueous_solubility_as_logWS,regression,MP_logWS_Bhhatarai,water solubility,,49,
+173,,Gramatica_Property_PBT_Index_PBT_Index,regression,PBT_Index_Gramatica,PBT Index,,180,180
+174,,Chen_Property_logVis_Viscosity_as_logVis,regression,logVis_Chen,viscosity,,26,26
+175,,Roberts_Property_IGC50_40_h_Tetrahymena_toxicity_as_IGC50,regression,pIGC50_40_Roberts,toxicity algae tetrahymena,pIGC50,57,57
+176,,Tetteh_Property_Tb_Boiling_point,,,,,,
+176.02,,Tetteh_Property_Tb_Boiling_point,regression,BP_Tb_Tetteh,boiling point,,400,400
+176.04,,Tetteh_Property_Tb_Boiling_point,regression,FP_Tb_Tetteh,flash point,,400,
+177,,Mombelli_Property_pEC50_chronic_21_day_chronic_Daphnia_toxicity_as_log,regression,pEC50_21d_Mombelli,chronic toxicity daphnia magna,pEC50,244,244
+178,,Abooali_Property_Tb_Normal_boiling_point,,,,,,
+178.02,,Abooali_Property_Tb_Normal_boiling_point,regression,Hvb_Enth_Abooali,enthaply,,179,199
+178.04,,Abooali_Property_Tb_Normal_boiling_point,regression,Tb_BP_Abooali,boiling point,,179,
+179,,Li_Property_logRBA_Relative_binding_affinity_to_hERa,regression,logRBA_hERa_Li,Binding affinity,logRBA,36,36
+180,,Martin_Property_p_abinitio_Ab_initio_calculated_polarizability,regression,abinitio_Martin,polarizability,,18,18
+181,,Raskevicius_Property_pKd_Binding_affinity,regression,pKd_Raskevicius,Binding affinity,pKd,40,40
+182,,Viira_Property_pKi_Antiviral_binding_affinity_equilibrium_constant_as_p,regression,pKi_Viira,Binding affinity,pKi,70,70
+183,,Jaworska_Property_pIGC50_48_h_Tetrahymena_toxicity_as_log,regression,pIGC50_48_Jaworska,toxicity algae tetrahymena,pIGC50,65,65
+184,,Schultz_Property_pIGC50_60_h_Tetrahymena_toxicity_as_log,regression,pIGC50_60_Schultz,toxicity algae tetrahymena,pIGC50,29,32
+185,,Lang_Property_e_e,regression,Property_e_Lang,,,63,63
+186,,Dimitrov_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,regression,pIGC50_2d_Dimitrov,toxicity algae tetrahymena,pIGC50,35,115
+187,,Gharagheizi_Property_LFLT_Lower_flammability_limit_temperature,regression,LFLT_Gharagheizi,flamability,,1165,1165
+188,,Kaiser_Property_pIGC50_48_h_Tetrahymena_toxicity_as_log,regression,pIGC50_48_Kaiser,toxicity algae tetrahymena,pIGC50,80,84
+189,,Lien_Property_E7_Redox_potential,regression,E7_Lien,redox potential,,44,109
+190,,Bal√°≈æ_Property_pIGC50_96_h_Tetrahymena_toxicity_as_log,regression,pIGC50_96_Balaz,toxicity algae tetrahymena,pIGC50,123,129
+191,,Cajina_Quezada_Property_pIGC50_48_h_Tetrahymena_toxicity_as_log,regression,pIGC50_48_Cajina,toxicity algae tetrahymena,pIGC50,29,32
+192,,Muccini_Property_pLC50_Acute_Tetrahymena_toxicity_as_log,,,,,,
+192.02,,Muccini_Property_pLC50_Acute_Tetrahymena_toxicity_as_log,regression,pIGC50_Muccini,toxicity algae tetrahymena,pIGC50,15,15
+192.04,,Muccini_Property_pLC50_Acute_Tetrahymena_toxicity_as_log,regression,pIGC50_neutr_Muccini,toxicity algae tetrahymena,pIGC50,15,
+192.06,,Muccini_Property_pLC50_Acute_Tetrahymena_toxicity_as_log,regression,pLC50_Muccini,toxicity algae tetrahymena,pLC50,15,
+192.08,,Muccini_Property_pLC50_Acute_Tetrahymena_toxicity_as_log,regression,pLC50_neutr_Muccini,toxicity algae tetrahymena,pLC50,15,
+193,,Oja_Property_logPeff_pH3_Logarithmic_effective_membrane_permeability_at_pH_3,,,,,,
+193.02,,Oja_Property_logPeff_pH3_Logarithmic_effective_membrane_permeability_at_pH_3,regression,Logarithmic effective membrane permeability at pH 3_pH_Oja,permeability membrane,,36,97
+193.04,,Oja_Property_logPeff_pH3_Logarithmic_effective_membrane_permeability_at_pH_3,regression,Logarithmic effective membrane permeability at pH 5_pH_Oja,permeability membrane,,36,
+193.06,,Oja_Property_logPeff_pH3_Logarithmic_effective_membrane_permeability_at_pH_3,regression,Logarithmic effective membrane permeability at pH 7.4_pH_Oja,permeability membrane,,61,
+193.08,,Oja_Property_logPeff_pH3_Logarithmic_effective_membrane_permeability_at_pH_3,regression,Logarithmic effective membrane permeability at pH 9_pH_Oja,permeability membrane,,61,
+194,,Narasimhan_Property_logK_Hydrolytic_rate_constant_as_logK,regression,logK_Narasimhan,hydrolytic rate,logK,37,37
+195,,Cottrell_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_48_Cottrell,toxicity algae tetrahymena,pIGC50,10,10
+196,,Netzeva_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Netzeva,toxicity algae tetrahymena,pIGC50,75,75
+197,,Yarbrough_Property_IGC50_40_h_Tetrahymena_toxicity_as_IGC50,regression,IGC50_40_Yarbrough,toxicity algae tetrahymena,IGC50,44,44
+198,,Kidron_Property_perm_Corneal_permeability,,,,,,
+198.02,,Kidron_Property_perm_Corneal_permeability,regression,perm_Kidron,permeability cornea,,69,69
+198.04,,Kidron_Property_perm_Corneal_permeability,regression,logPapp_perm_Kidron,permeability cornea,,69,
+199,,Austin_Property_logNOEC_Chronic_fish_toxicity,regression,plogNOEC_Austin,chronic toxicity fish Actinopterygii,,29,29
+200,,Lang_Property_B_B,regression,Property_B_Lang,,,2187,2187
+201,,Roberts_Property_pEC3_Skin_sensitization_potency_in_the_local_lymph_node_assay,regression,pEC3_skin_Roberts,sensitisation skin,pEC3,32,41
+202,,Ran_Property_MlogP_Measured_octanol_water_partition_coefficient_as_logP,,,,,,
+202.02,,Ran_Property_MlogP_Measured_octanol_water_partition_coefficient_as_logP,regression,Octanol/water partition coefficient as logP_MlogP_Ran,logP,,668,988
+202.04,,Ran_Property_MlogP_Measured_octanol_water_partition_coefficient_as_logP,regression,Aqueous solubility as logS_MlogP_Ran,logP,,987,
+203,,Akers_Property_pIGC50_40_h_Tetrahymena_toxicity_as_log,regression,pIGC50_40_Akers,toxicity algae tetrahymena,pIGC50,39,39
+204,,Aptula_Property_MOA_Mode_of_action,regression,MOA_pIGC50_40_Aptula,toxicity algae tetrahymena,pIGC50,248,248
+205,,Thakur_Property_pKa_Acid_dissociation_constant_as_log,regression,pKa_Thakur,pKa,,21,21
+206,,Sinks_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,,,,,,
+206.02,,Sinks_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,multiclass,MOA_96_Sinks,,,100,100
+206.04,,Sinks_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,regression,pIGC50_96_Sinks,toxicity algae tetrahymena,pIGC50,93,
+206.06,,Sinks_Property_pIGC50_2_day_Tetrahymena_toxicity_as_log,regression,pLC50_96_Sinks,toxicity algae tetrahymena,pLC50,97,
+207,,Papa_Property_LogH_Henrys_law_constant_as_logH,,,,,,
+207.02,,Papa_Property_LogH_Henrys_law_constant_as_logH,regression,LogH_logH_Papa,LogH,,7,217
+207.04,,Papa_Property_LogH_Henrys_law_constant_as_logH,regression,LogKoa_logH_Papa,LogH,,30,
+207.06,,Papa_Property_LogH_Henrys_law_constant_as_logH,regression,LogKow_logH_Papa,LogH,,20,
+207.08,,Papa_Property_LogH_Henrys_law_constant_as_logH,regression,LogPL_logH_Papa,LogH,,34,
+207.1,,Papa_Property_LogH_Henrys_law_constant_as_logH,regression,LogS_logH_Papa,LogH,,11,
+207.12,,Papa_Property_LogH_Henrys_law_constant_as_logH,regression,TM_logH_Papa,LogH,,25,
+208,,Kar_Property_OSF_Oral_slope_factor,,,,,,
+208.02,,Kar_Property_OSF_Oral_slope_factor,classification,Carc_Kar,carcinogenicity,,70,70
+208.04,,Kar_Property_OSF_Oral_slope_factor,regression,OSF_Kar,oral slope factor,,70,
+209,,Oliveira_Property_Activity_Activity_against_Leishmania_donovani,classification,activity_LD_Oliveira,inhibition growth leishmania donovani,,35,35
+210,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,,,,,,
+210.02,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,regression,Average logPeff over selected pH values_av_Oja,permeability membrane,,15,75
+210.04,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,regression,Highest logarithmic effective membrane permeability for pH range 3 to 9 of ampholytic compounds_av_Oja,permeability membrane,,60,
+210.06,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,regression,Logarithmic effective membrane permeability at pH 3 for ampholytes_av_Oja,permeability membrane,,60,
+210.08,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,regression,Logarithmic effective membrane permeability at pH 5 for ampholytes_av_Oja,permeability membrane,,60,
+210.1,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,regression,Logarithmic effective membrane permeability at pH 7.4 for ampholytic compounds_av_Oja,permeability membrane,,60,
+210.12,,Oja_Property_LogPeff_average_Average_logarithmic_effective_membrane_permeability_for_pH_range_3_to_9_of_neutral_compounds,regression,Logarithmic effective membrane permeability of ampholytic compoundsat pH 9_av_Oja,permeability membrane,,60,
+211,,Bearden_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,,,,,,
+211.02,,Bearden_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression,pIGC50_96_Bearden,acute oral toxicity fathead minnow,pIGC50,88,92
+211.04,,Bearden_Property_pLC50_96_h_Fathead_minnow_toxicity_as_log,regression,pLC50_Bearden,acute oral toxicity fathead minnow,pLC50,88,
+212,,Langeron_Property_logKdS1_Soil_adsorption_coefficient_for_soil_1,,,,,,
+212.02,,Langeron_Property_logKdS1_Soil_adsorption_coefficient_for_soil_1,regression,logKdS1_Langeron,soil sorption partition coefficient,,36,37
+212.04,,Langeron_Property_logKdS1_Soil_adsorption_coefficient_for_soil_1,regression,logKdS2_Kidron,soil sorption partition coefficient,,34,
+213,,Piir_Property_BCF_class_Experimental_BCF_class,,,,,,
+213.02,,Piir_Property_BCF_class_Experimental_BCF_class,classification,BCF_class_bioacc_Piir,bioconcentration,,1006,1006
+213.04,,Piir_Property_BCF_class_Experimental_BCF_class,regression,logBCF_bioacc_Piir,bioconcentration,,1006,
+214,,Gramatica_Property_logTA100exp_Mutagenicity_potency_in_TA100_without_the_S9_activation_system,regression,logTA100_Gramatica,Ames,,48,48
+215,,Martin_Property_logS_hept_logarithm_of_solubility_in_n_heptane,,,,,,
+215.02,,Martin_Property_logS_hept_logarithm_of_solubility_in_n_heptane,regression,logarithmic solubility in n-heptane_Martin,solubility ,,15,19
+215.04,,Martin_Property_logS_hept_logarithm_of_solubility_in_n_heptane,regression,logarithmic solubility in 1-octanol_Martin,solubility ,,15,
+216,,Bhhatarai_Property_logVP_Vapour_pressure_as_logVP,,,,,,
+216.02,,Bhhatarai_Property_logVP_Vapour_pressure_as_logVP,regression,AqS_logVP_Bhhatarai,vapor pressure,,20,216
+216.04,,Bhhatarai_Property_logVP_Vapour_pressure_as_logVP,regression,logVP_logVP_Bhhatarai,vapor pressure,,35,
+216.06,,Bhhatarai_Property_logVP_Vapour_pressure_as_logVP,regression,logCMC_logVP_Bhhatarai,vapor pressure,,10,

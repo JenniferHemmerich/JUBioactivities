@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/149/2006CPB1067.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logK: Hydrolytic rate constant as logK"
+Paper:Narasimhan, B.; Ansari, A.M.; Singh, N.; Mourya, V.; Dhakee, A.S. A QSAR Approach for the Prediction of Stability of Benzoglycolamide Ester Prodrugs. Chem. Pharm. Bull. 2006, 54, 1067–1071.
+EP:"Property logK: Hydrolytic rate constant as logK"
+Author:Narasimhan
+Filename:"Narasimhan_Property logK: Hydrolytic rate constant as logK"

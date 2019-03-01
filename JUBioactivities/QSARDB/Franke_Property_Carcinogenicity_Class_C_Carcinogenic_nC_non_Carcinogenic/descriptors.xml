@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>EHOMO</Id>
+        <Name>Highest Occupied Molecular Orbital Energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ELUMO</Id>
+        <Name>Lowest Unoccupied Molecular Orbital Energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOPAC</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR5</Id>
+        <Name>Molar Refractivity contributions of substituents in position 5</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR3</Id>
+        <Name>Molar Refractivity contributions of substituents in position 3</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MR6</Id>
+        <Name>Molar Refractivity contributions of substituents in position 6</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application></Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>B5_R</Id>
+        <Name>Maximal width</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Sterimol</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>L_R</Id>
+        <Name>Length</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Sterimol</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>I_An</Id>
+        <Name>Indicator variable for anilines</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>I_NO2</Id>
+        <Name>Indicator variable for NO2 groups</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>I_BiBr</Id>
+        <Name>Indicator variable for bridged biphenyls</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

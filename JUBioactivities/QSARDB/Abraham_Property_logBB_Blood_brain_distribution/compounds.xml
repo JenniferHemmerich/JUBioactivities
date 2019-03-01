@@ -1,0 +1,2425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>96</Id>
+        <Name>Propargyl alcohol</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H4O/c1-2-3-4/h1,4H,3H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>97</Id>
+        <Name>Acrylonitrile</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H3N/c1-2-3-4/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>98</Id>
+        <Name>1-(3-Fluoropropyl)-2-nitroimidazole</Name>
+        <Description>Alternative name from original table: (FPN)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H8FN3O2/c7-2-1-4-9-5-3-8-6(9)10(11)12/h3,5H,1-2,4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>99</Id>
+        <Name>1-(8-Fluorooctyl)-2-nitroimidazole</Name>
+        <Description>Alternative name from original table: (FON)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18FN3O2/c12-7-5-3-1-2-4-6-9-14-10-8-13-11(14)15(16)17/h8,10H,1-7,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>100</Id>
+        <Name>16alpha-Fluoroestradiol</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H23FO2/c1-18-7-6-13-12-5-3-11(20)8-10(12)2-4-14(13)15(18)9-16(19)17(18)21/h3,5,8,13-17,20-21H,2,4,6-7,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>101</Id>
+        <Name>1-Hexyl-4-(4-iodophenyl)piperazine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H25IN2/c1-2-3-4-5-10-18-11-13-19(14-12-18)16-8-6-15(17)7-9-16/h6-9H,2-5,10-14H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>102</Id>
+        <Name>1-Hydroxymidazolam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H13ClFN3O/c19-11-5-6-16-14(7-11)18(13-3-1-2-4-15(13)20)22-9-12-8-21-17(10-24)23(12)16/h1-8,24H,9-10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>103</Id>
+        <Name>1-​(4-Iodophenyl)​-​4-​(1-​methylpropyl)​piperazine</Name>
+        <Description>Name and SMILES from the article did not match. The name has been changed. (Before: 1-isobutyl-4-(4-iodophenyl)piperazine)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H21IN2/c1-3-12(2)16-8-10-17(11-9-16)14-6-4-13(15)5-7-14/h4-7,12H,3,8-11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>104</Id>
+        <Name>4-Fluoroantipyrine</Name>
+        <Description>Name and SMILES are correct according to SciFinder. (not in NIH)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H11FN2O/c1-8-10(12)11(15)14(13(8)2)9-6-4-3-5-7-9/h3-7H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>105</Id>
+        <Name>4-Hydroxymidazolam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H13ClFN3O/c1-10-21-9-16-18(24)22-17(12-4-2-3-5-14(12)20)13-8-11(19)6-7-15(13)23(10)16/h2-9,18,24H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>106</Id>
+        <Name>4-Iodo-alpha,alpha'-dipiperidino-m-xylene</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H27IN2/c19-18-8-7-16(14-20-9-3-1-4-10-20)13-17(18)15-21-11-5-2-6-12-21/h7-8,13H,1-6,9-12,14-15H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>107</Id>
+        <Name>4-Iodoantipyrine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H11IN2O/c1-8-10(12)11(15)14(13(8)2)9-6-4-3-5-7-9/h3-7H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>108</Id>
+        <Name>4-Iodo-N1,​N3-​bis(1-​methylpropyl)​-1,​3-benzenediamine</Name>
+        <Description>Original name: 4-iodo-N,N'-isopropyl-m-xylenediamine (was not resolvable in: http://cactus.nci.nih.gov/chemical/structure)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H23IN2/c1-5-10(3)16-12-7-8-13(15)14(9-12)17-11(4)6-2/h7-11,16-17H,5-6H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>109</Id>
+        <Name>5-Butyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H16N2O3/c1-3-5-6-10(4-2)7(13)11-9(15)12-8(10)14/h3-6H2,1-2H3,(H2,11,12,13,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>110</Id>
+        <Name>5-Heptyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H22N2O3/c1-3-5-6-7-8-9-13(4-2)10(16)14-12(18)15-11(13)17/h3-9H2,1-2H3,(H2,14,15,16,17,18)</InChI>
+    </Compound>
+    <Compound>
+        <Id>111</Id>
+        <Name>5-Hexyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H20N2O3/c1-3-5-6-7-8-12(4-2)9(15)13-11(17)14-10(12)16/h3-8H2,1-2H3,(H2,13,14,15,16,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>112</Id>
+        <Name>5-Methyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H10N2O3/c1-3-7(2)4(10)8-6(12)9-5(7)11/h3H2,1-2H3,(H2,8,9,10,11,12)</InChI>
+    </Compound>
+    <Compound>
+        <Id>113</Id>
+        <Name>5-Octyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H24N2O3/c1-3-5-6-7-8-9-10-14(4-2)11(17)15-13(19)16-12(14)18/h3-10H2,1-2H3,(H2,15,16,17,18,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>114</Id>
+        <Name>5-Pentyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18N2O3/c1-3-5-6-7-11(4-2)8(14)12-10(16)13-9(11)15/h3-7H2,1-2H3,(H2,12,13,14,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>115</Id>
+        <Name>5-Propyl-5-ethyl barbituric acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H14N2O3/c1-3-5-9(4-2)6(12)10-8(14)11-7(9)13/h3-5H2,1-2H3,(H2,10,11,12,13,14)</InChI>
+    </Compound>
+    <Compound>
+        <Id>116</Id>
+        <Name>9-Hydroxyrisperidone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C23H27FN4O3/c1-14-17(23(30)28-9-2-3-19(29)22(28)25-14)8-12-27-10-6-15(7-11-27)21-18-5-4-16(24)13-20(18)31-26-21/h4-5,13,15,19,29H,2-3,6-12H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>117</Id>
+        <Name>AFE</Name>
+        <Description>SciFinder: 2-[[2-Amino-4-(2-fluoroethyl)phenyl]thio]-N,N-dimethylbenzenamine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H19FN2S/c1-19(2)14-5-3-4-6-16(14)20-15-8-7-12(9-10-17)11-13(15)18/h3-8,11H,9-10,18H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>118</Id>
+        <Name>YH 1885 free base</Name>
+        <Description>Systematic name: 4-​(3,​4-Dihydro-​1-​methyl-​2(1H)​-​isoquinolinyl)​-​N-​(4-​fluorophenyl)​-​5,​6-​dimethyl-2-​pyrimidinamine (Name, YH1885  in article contained .HCl,name,  AI-9, was wrong according to SciFinder)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H23FN4/c1-14-15(2)24-22(25-19-10-8-18(23)9-11-19)26-21(14)27-13-12-17-6-4-5-7-20(17)16(27)3/h4-11,16H,12-13H2,1-3H3,(H,24,25,26)</InChI>
+    </Compound>
+    <Compound>
+        <Id>119</Id>
+        <Name>Alaptide</Name>
+        <Description>SMILES of Yuan Zhao was right (Mark Hall SMILES - wrong)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H14N2O2/c1-6-7(12)11-9(8(13)10-6)4-2-3-5-9/h6H,2-5H2,1H3,(H,10,13)(H,11,12)</InChI>
+    </Compound>
+    <Compound>
+        <Id>120</Id>
+        <Name>Alovudine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H13FN2O4/c1-5-3-13(10(16)12-9(5)15)8-2-6(11)7(4-14)17-8/h3,6-8,14H,2,4H2,1H3,(H,12,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>121</Id>
+        <Name>alpha-(4-Pyridyl-1-oxide)-N-tert-butylnitrone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H14N2O2/c1-10(2,3)12(14)8-9-4-6-11(13)7-5-9/h4-8H,1-3H3/b12-8+</InChI>
+    </Compound>
+    <Compound>
+        <Id>122</Id>
+        <Name>Alprazolam</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H13ClN4/c1-11-20-21-16-10-19-17(12-5-3-2-4-6-12)14-9-13(18)7-8-15(14)22(11)16/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>123</Id>
+        <Name>Alprazolam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H13ClN4/c1-11-20-21-16-10-19-17(12-5-3-2-4-6-12)14-9-13(18)7-8-15(14)22(11)16/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>124</Id>
+        <Name>Aminopyrine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H17N3O/c1-10-12(14(2)3)13(17)16(15(10)4)11-8-6-5-7-9-11/h5-9H,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>125</Id>
+        <Name>Amobarbital</Name>
+        <Description>Alternative name from original table: (5-Ethyl-5-(3-methylbutyl)barbital)</Description>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18N2O3/c1-4-11(6-5-7(2)3)8(14)12-10(16)13-9(11)15/h7H,4-6H2,1-3H3,(H2,12,13,14,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>126</Id>
+        <Name>Antipyrine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H12N2O/c1-9-8-11(14)13(12(9)2)10-6-4-3-5-7-10/h3-8H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>127</Id>
+        <Name>Antipyrine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H12N2O/c1-9-8-11(14)13(12(9)2)10-6-4-3-5-7-10/h3-8H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>128</Id>
+        <Name>Atenolol</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H22N2O3/c1-10(2)16-8-12(17)9-19-13-5-3-11(4-6-13)7-14(15)18/h3-6,10,12,16-17H,7-9H2,1-2H3,(H2,15,18)</InChI>
+    </Compound>
+    <Compound>
+        <Id>129</Id>
+        <Name>Barbital</Name>
+        <Description>Alternative name from original table: (5-Ethyl-5-ethyl barbituric acid)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H12N2O3/c1-3-8(4-2)5(11)9-7(13)10-6(8)12/h3-4H2,1-2H3,(H2,9,10,11,12,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>130</Id>
+        <Name>Beloxepin</Name>
+        <Description>(SciFinder: Org 4428)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H21NO2/c1-13-6-5-7-14-16-12-20(2)11-10-19(16,21)15-8-3-4-9-17(15)22-18(13)14/h3-9,16,21H,10-12H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>131</Id>
+        <Name>BESP</Name>
+        <Description>Systematic name:  1-(4-bromophenyl)-3-ethyl-8-[4-(4-fluorophenyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C25H29BrFN3O2/c1-2-29-18-30(22-11-7-20(26)8-12-22)25(24(29)32)13-16-28(17-14-25)15-3-4-23(31)19-5-9-21(27)10-6-19/h5-12H,2-4,13-18H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>132</Id>
+        <Name>Betahistine</Name>
+        <Description>Alternative name from original table: (Y-G 14)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H12N2/c1-9-7-5-8-4-2-3-6-10-8/h2-4,6,9H,5,7H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>133</Id>
+        <Name>Biperiden</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H29NO/c23-21(19-7-3-1-4-8-19,11-14-22-12-5-2-6-13-22)20-16-17-9-10-18(20)15-17/h1,3-4,7-10,17-18,20,23H,2,5-6,11-16H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>134</Id>
+        <Name>Bisphenol A</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H16O2/c1-15(2,11-3-7-13(16)8-4-11)12-5-9-14(17)10-6-12/h3-10,16-17H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>135</Id>
+        <Name>BMSP</Name>
+        <Description>Systematic name:  1-(4-bromophenyl)-3-methyl-8-[4-(4-fluorophenyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C24H27BrFN3O2/c1-27-17-29(21-10-6-19(25)7-11-21)24(23(27)31)12-15-28(16-13-24)14-2-3-22(30)18-4-8-20(26)9-5-18/h4-11H,2-3,12-17H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>136</Id>
+        <Name>BPSP</Name>
+        <Description>Systematic name: 1-(4-bromophenyl)-3-propyl-8-[4-(4-fluorophenyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C26H31BrFN3O2/c1-2-15-30-19-31(23-11-7-21(27)8-12-23)26(25(30)33)13-17-29(18-14-26)16-3-4-24(32)20-5-9-22(28)10-6-20/h5-12H,2-4,13-19H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>137</Id>
+        <Name>Bretazenil</Name>
+        <Description>Name and SMILES did not match. SMILES has been changed (hint: position of Br).</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H20BrN3O3/c1-19(2,3)26-18(25)15-16-13-8-5-9-22(13)17(24)14-11(20)6-4-7-12(14)23(16)10-21-15/h4,6-7,10,13H,5,8-</InChI>
+    </Compound>
+    <Compound>
+        <Id>138</Id>
+        <Name>BSP</Name>
+        <Description>Systematic name:  1-(4-bromophenyl)-8-[4-(4-fluorophenyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one
+(BSP is a different compound according to SciFinder)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C23H25BrFN3O2/c24-18-5-9-20(10-6-18)28-16-26-22(30)23(28)11-14-27(15-12-23)13-1-2-21(29)17-3-7-19(25)8-4-17/h3-10H,1-2,11-16H2,(H,26,30)</InChI>
+    </Compound>
+    <Compound>
+        <Id>139</Id>
+        <Name>Butyl 4-aminobenzoate</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H15NO2/c1-2-3-8-14-11(13)9-4-6-10(12)7-5-9/h4-7H,2-3,8,12H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>140</Id>
+        <Name>Caffeine</Name>
+        <Description>Alternative name from original table: (1,3,7-Trimethylxanthine)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>141</Id>
+        <Name>Caffeine</Name>
+        <Description>Alternative name from original table: (1,3,7-Trimethylxanthine)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H10N4O2/c1-10-4-9-6-5(10)7(13)12(3)8(14)11(6)2/h4H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>142</Id>
+        <Name>Carbamazepine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H12N2O/c16-15(18)17-13-7-3-1-5-11(13)9-10-12-6-2-4-8-14(12)17/h1-10H,(H2,16,18)</InChI>
+    </Compound>
+    <Compound>
+        <Id>143</Id>
+        <Name>Carmustine</Name>
+        <Description>Alternative name from original table: (BCNU)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H9Cl2N3O2/c6-1-3-8-5(11)10(9-12)4-2-7/h1-4H2,(H,8,11)</InChI>
+    </Compound>
+    <Compound>
+        <Id>144</Id>
+        <Name>Carteolol</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H24N2O3/c1-16(2,3)17-9-11(19)10-21-14-6-4-5-13-12(14)7-8-15(20)18-13/h4-6,11,17,19H,7-10H2,1-3H3,(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>145</Id>
+        <Name>Chlorpromazine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H19ClN2S/c1-19(2)10-5-11-20-14-6-3-4-7-16(14)21-17-9-8-13(18)12-15(17)20/h3-4,6-9,12H,5,10-11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>146</Id>
+        <Name>Chlorpromazine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H19ClN2S/c1-19(2)10-5-11-20-14-6-3-4-7-16(14)21-17-9-8-13(18)12-15(17)20/h3-4,6-9,12H,5,10-11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>147</Id>
+        <Name>Chlorpromazine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H19ClN2S/c1-19(2)10-5-11-20-14-6-3-4-7-16(14)21-17-9-8-13(18)12-15(17)20/h3-4,6-9,12H,5,10-11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>148</Id>
+        <Name>Clobazam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H13ClN2O2/c1-18-13-8-7-11(17)9-14(13)19(16(21)10-15(18)20)12-5-3-2-4-6-12/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>149</Id>
+        <Name>Clonidine</Name>
+        <Description>Alternative name from original table: (SKB6)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H9Cl2N3/c10-6-2-1-3-7(11)8(6)14-9-12-4-5-13-9/h1-3H,4-5H2,(H2,12,13,14)</InChI>
+    </Compound>
+    <Compound>
+        <Id>150</Id>
+        <Name>Cocaine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H21NO4/c1-18-12-8-9-13(18)15(17(20)21-2)14(10-12)22-16(19)11-6-4-3-5-7-11/h3-7,12-15H,8-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>151</Id>
+        <Name>Codeine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H21NO3/c1-19-8-7-18-11-4-5-13(20)17(18)22-16-14(21-2)6-3-10(15(16)18)9-12(11)19/h3-6,11-13,17,20H,7-9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>152</Id>
+        <Name>Cotinine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H12N2O/c1-12-9(4-5-10(12)13)8-3-2-6-11-7-8/h2-3,6-7,9H,4-5H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>153</Id>
+        <Name>Cotinine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H12N2O/c1-12-9(4-5-10(12)13)8-3-2-6-11-7-8/h2-3,6-7,9H,4-5H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>154</Id>
+        <Name>Daidzein</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H10O4/c16-10-3-1-9(2-4-10)13-8-19-14-7-11(17)5-6-12(14)15(13)18/h1-8,16-17H</InChI>
+    </Compound>
+    <Compound>
+        <Id>155</Id>
+        <Name>Desipramine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H22N2/c1-19-13-6-14-20-17-9-4-2-7-15(17)11-12-16-8-3-5-10-18(16)20/h2-5,7-10,19H,6,11-14H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>156</Id>
+        <Name>Didesipramine</Name>
+        <Description>Alternative names from original table: (Desmethyldesipramine or Desdimethylimipramine)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H20N2/c18-12-5-13-19-16-8-3-1-6-14(16)10-11-15-7-2-4-9-17(15)19/h1-4,6-9H,5,10-13,18H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>157</Id>
+        <Name>Desmethylclobazam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H11ClN2O2/c16-10-6-7-12-13(8-10)18(11-4-2-1-3-5-11)15(20)9-14(19)17-12/h1-8H,9H2,(H,17,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>158</Id>
+        <Name>Desmethyldiazepam</Name>
+        <Description>Name and SMILES did not match. SMILES changed (hint: position of Cl).</Description>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H11ClN2O/c16-11-6-7-13-12(8-11)15(17-9-14(19)18-13)10-4-2-1-3-5-10/h1-8H,9H2,(H,18,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>159</Id>
+        <Name>Desmonomethylpromazine</Name>
+        <Description>Alternative name from original table: (Monodesmethylpromazine)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H18N2S/c1-17-11-6-12-18-13-7-2-4-9-15(13)19-16-10-5-3-8-14(16)18/h2-5,7-10,17H,6,11-12H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>160</Id>
+        <Name>Diazepam</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H13ClN2O/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>161</Id>
+        <Name>Diazepam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H13ClN2O/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>162</Id>
+        <Name>Didanosine</Name>
+        <Description>Alternative name from original table: (2',3'-dideoxyinosine)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H12N4O3/c15-3-6-1-2-7(17-6)14-5-13-8-9(14)11-4-12-10(8)16/h4-7,15H,1-3H2,(H,11,12,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>163</Id>
+        <Name>Diphenhydramine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H21NO/c1-18(2)13-14-19-17(15-9-5-3-6-10-15)16-11-7-4-8-12-16/h3-12,17H,13-14H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>164</Id>
+        <Name>Domperidone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H24ClN5O2/c23-15-6-7-20-18(14-15)25-22(30)28(20)16-8-12-26(13-9-16)10-3-11-27-19-5-2-1-4-17(19)24-21(27)29/h1-2,4-7,14,16H,3,8-13H2,(H,24,29)(H,25,30)</InChI>
+    </Compound>
+    <Compound>
+        <Id>165</Id>
+        <Name>Doxylamine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H22N2O/c1-17(20-14-13-19(2)3,15-9-5-4-6-10-15)16-11-7-8-12-18-16/h4-12H,13-14H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>166</Id>
+        <Name>Ethenzamide</Name>
+        <Description>Alternative names from original table: (o-Ethoxybenzamide and AI-5)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H11NO2/c1-2-12-8-6-4-3-5-7(8)9(10)11/h3-6H,2H2,1H3,(H2,10,11)</InChI>
+    </Compound>
+    <Compound>
+        <Id>167</Id>
+        <Name>Ethyl 4-aminobenzoate</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H11NO2/c1-2-12-9(11)7-3-5-8(10)6-4-7/h3-6H,2,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>168</Id>
+        <Name>Fentanyl</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>169</Id>
+        <Name>Fentanyl</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H28N2O/c1-2-22(25)24(20-11-7-4-8-12-20)21-14-17-23(18-15-21)16-13-19-9-5-3-6-10-19/h3-12,21H,2,13-18H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>170</Id>
+        <Name>FFMZ</Name>
+        <Description>Systematic name: 4H-​Imidazo[1,​5-​a]​[1,​4]​benzodiazepine-​3-​carboxylic acid, 8-​fluoro-​5,​6-​dihydro-​5-​methyl-​6-​oxo-​, 1-​fluoroethyl ester</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H13F2N3O3/c1-8(16)23-15(22)13-12-6-19(2)14(21)10-5-9(17)3-4-11(10)20(12)7-18-13/h3-5,7-8H,6H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>171</Id>
+        <Name>Flumazenil</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H14FN3O3/c1-3-22-15(21)13-12-7-18(2)14(20)10-6-9(16)4-5-11(10)19(12)8-17-13/h4-6,8H,3,7H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>172</Id>
+        <Name>Flunitrazepam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H12FN3O3/c1-19-14-7-6-10(20(22)23)8-12(14)16(18-9-15(19)21)11-4-2-3-5-13(11)17/h2-8H,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>173</Id>
+        <Name>Fluoroethylflumazenil</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H15F2N3O3/c1-2-24-16(23)14-13-8-20(6-5-17)15(22)11-7-10(18)3-4-12(11)21(13)9-19-14/h3-4,7,9H,2,5-6,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>174</Id>
+        <Name>Fluoromisonidazole</Name>
+        <Description>Name and SMILES did not match. SMILES changed (hint: excess of -C-O-). Same as compound 203.</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H8FN3O3/c7-3-5(11)4-9-2-1-8-6(9)10(12)13/h1-2,5,11H,3-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>175</Id>
+        <Name>Fluoxetine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H18F3NO/c1-21-12-11-16(13-5-3-2-4-6-13)22-15-9-7-14(8-10-15)17(18,19)20/h2-10,16,21H,11-12H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>176</Id>
+        <Name>Glycyrrhetinic acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C30H46O4/c1-25(2)21-8-11-30(7)23(28(21,5)10-9-22(25)32)20(31)16-18-19-17-27(4,24(33)34)13-12-26(19,3)14-15-29(18,30)6/h16,19,21-23,32H,8-15,17H2,1-7H3,(H,33,34)</InChI>
+    </Compound>
+    <Compound>
+        <Id>177</Id>
+        <Name>HEPP</Name>
+        <Description>Alternative name from original table: (beta-Ethyl-beta-hydroxybenzenepropanamide)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H15NO2/c1-2-11(14,8-10(12)13)9-6-4-3-5-7-9/h3-7,14H,2,8H2,1H3,(H2,12,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>178</Id>
+        <Name>Hexobarbital </Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H16N2O3/c1-12(8-6-4-3-5-7-8)9(15)13-11(17)14(2)10(12)16/h6H,3-5,7H2,1-2H3,(H,13,15,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>179</Id>
+        <Name>Hexobarbital </Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H16N2O3/c1-12(8-6-4-3-5-7-8)9(15)13-11(17)14(2)10(12)16/h6H,3-5,7H2,1-2H3,(H,13,15,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>180</Id>
+        <Name>Hydroxyzine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H27ClN2O2/c22-20-8-6-19(7-9-20)21(18-4-2-1-3-5-18)24-12-10-23(11-13-24)14-16-26-17-15-25/h1-9,21,25H,10-17H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>181</Id>
+        <Name>I-1</Name>
+        <Description>Systematic name:  1-phenyl-3-methyl-8-[4-(5-iodo-3-thienyl)-4-oxobutyl]-1,3,8-triazaspiro[4.5]decan-4-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H26IN3O2S/c1-24-16-26(18-6-3-2-4-7-18)22(21(24)28)9-12-25(13-10-22)11-5-8-19(27)17-14-20(23)29-15-17/h2-4,6-7,14-15H,5,8-13,16H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>182</Id>
+        <Name>I-4</Name>
+        <Description>Systematic name: 4-[[1-(3-iodo-2-propenyl)-4-piperidinyl]methoxy]-benzonitrile</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H19IN2O/c17-8-1-9-19-10-6-15(7-11-19)13-20-16-4-2-14(12-18)3-5-16/h1-5,8,15H,6-7,9-11,13H2/b8-1+</InChI>
+    </Compound>
+    <Compound>
+        <Id>183</Id>
+        <Name>Ibuprofen</Name>
+        <Description>Systematic name: alpha-Methyl-4-isobutylphenylacetic acid</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H18O2/c1-9(2)8-11-4-6-12(7-5-11)10(3)13(14)15/h4-7,9-10H,8H2,1-3H3,(H,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>184</Id>
+        <Name>Imipramine</Name>
+        <Description>Alternative name from original table: (SKB8)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H24N2/c1-20(2)14-7-15-21-18-10-5-3-8-16(18)12-13-17-9-4-6-11-19(17)21/h3-6,8-11H,7,12-15H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>185</Id>
+        <Name>Indinavir</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C36H47N5O4/c1-36(2,3)39-35(45)31-24-40(22-26-12-9-15-37-21-26)16-17-41(31)23-29(42)19-28(18-25-10-5-4-6-11-25)34(44)38-33-30-14-8-7-13-27(30)20-32(33)43/h4-15,21,28-29,31-33,42-43H,16-20,22-24H2,1-3H3,(H,38,44)(H,39,45)</InChI>
+    </Compound>
+    <Compound>
+        <Id>186</Id>
+        <Name>Indomethacin</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H16ClNO4/c1-11-15(10-18(22)23)16-9-14(25-2)7-8-17(16)21(11)19(24)12-3-5-13(20)6-4-12/h3-9H,10H2,1-2H3,(H,22,23)</InChI>
+    </Compound>
+    <Compound>
+        <Id>187</Id>
+        <Name>Indomethacin</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H16ClNO4/c1-11-15(10-18(22)23)16-9-14(25-2)7-8-17(16)21(11)19(24)12-3-5-13(20)6-4-12/h3-9H,10H2,1-2H3,(H,22,23)</InChI>
+    </Compound>
+    <Compound>
+        <Id>188</Id>
+        <Name>Lamotrigine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H7Cl2N5/c10-5-3-1-2-4(6(5)11)7-8(12)14-9(13)16-15-7/h1-3H,(H4,12,13,14,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>189</Id>
+        <Name>Lidocaine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H22N2O/c1-5-16(6-2)10-13(17)15-14-11(3)8-7-9-12(14)4/h7-9H,5-6,10H2,1-4H3,(H,15,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>190</Id>
+        <Name>Lorazepam</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H10Cl2N2O2/c16-8-5-6-12-10(7-8)13(19-15(21)14(20)18-12)9-3-1-2-4-11(9)17/h1-7,15,21H,(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>191</Id>
+        <Name>Lorazepam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H10Cl2N2O2/c16-8-5-6-12-10(7-8)13(19-15(21)14(20)18-12)9-3-1-2-4-11(9)17/h1-7,15,21H,(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>192</Id>
+        <Name>Lupitidine</Name>
+        <Description>Alternative name from original table: (SKB5), Lupitidine - correct by Scifinder
+Systematic name: 2-​[[2-​[[[5-​[(dimethylamino)​methyl]​-​2-​furanyl]​methyl]​thio]​ethyl]​amino]​-​5-​[(6-​methyl-​3-​pyridinyl)​methyl]​-4(1H)​-​pyrimidinone</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H27N5O2S/c1-15-4-5-16(11-23-15)10-17-12-24-21(25-20(17)27)22-8-9-29-14-19-7-6-18(28-19)13-26(2)3/h4-7,11-12H,8-10,13-14H2,1-3H3,(H2,22,24,25,27)</InChI>
+    </Compound>
+    <Compound>
+        <Id>193</Id>
+        <Name>Mannitol</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14O6/c7-1-3(9)5(11)6(12)4(10)2-8/h3-12H,1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>194</Id>
+        <Name>Mefloquine</Name>
+        <Description>Alternative name from original table: (+ve) (AI-8)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H16F6N2O/c18-16(19,20)11-5-3-4-9-10(15(26)12-6-1-2-7-24-12)8-13(17(21,22)23)25-14(9)11/h3-5,8,12,15,24,26H,1-2,6-7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>195</Id>
+        <Name>Methamphetamine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H15N/c1-9(11-2)8-10-6-4-3-5-7-10/h3-7,9,11H,8H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>196</Id>
+        <Name>Methohexital</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H18N2O3/c1-5-7-8-10(3)14(9-6-2)11(17)15-13(19)16(4)12(14)18/h6,10H,2,5,9H2,1,3-4H3,(H,15,17,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>197</Id>
+        <Name>Mianserin</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H20N2/c1-19-10-11-20-17-9-5-3-7-15(17)12-14-6-2-4-8-16(14)18(20)13-19/h2-9,18H,10-13H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>198</Id>
+        <Name>Midazolam</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H13ClFN3/c1-11-21-9-13-10-22-18(14-4-2-3-5-16(14)20)15-8-12(19)6-7-17(15)23(11)13/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>199</Id>
+        <Name>Midazolam</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H13ClFN3/c1-11-21-9-13-10-22-18(14-4-2-3-5-16(14)20)15-8-12(19)6-7-17(15)23(11)13/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>200</Id>
+        <Name>Midazolam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H13ClFN3/c1-11-21-9-13-10-22-18(14-4-2-3-5-16(14)20)15-8-12(19)6-7-17(15)23(11)13/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>201</Id>
+        <Name>Miloxacin</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H9NO6/c1-17-13-4-7(12(15)16)11(14)6-2-9-10(3-8(6)13)19-5-18-9/h2-4H,5H2,1H3,(H,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>202</Id>
+        <Name>Mirtazapine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H19N3/c1-19-9-10-20-16(12-19)15-7-3-2-5-13(15)11-14-6-4-8-18-17(14)20/h2-8,16H,9-12H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>203</Id>
+        <Name>Fluoromisonidazole</Name>
+        <Description>Name and SMILES did not match. SMILES changed (hint: excess of -C-O-). Same as compound 174.</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H8FN3O3/c7-3-5(11)4-9-2-1-8-6(9)10(12)13/h1-2,5,11H,3-4H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>204</Id>
+        <Name>Morphine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>205</Id>
+        <Name>MSP</Name>
+        <Description>N-Methylspiroperidol - correct</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C24H28FN3O2/c1-26-18-28(21-6-3-2-4-7-21)24(23(26)30)13-16-27(17-14-24)15-5-8-22(29)19-9-11-20(25)12-10-19/h2-4,6-7,9-12H,5,8,13-18H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>206</Id>
+        <Name>Nalidixic acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H12N2O3/c1-3-14-6-9(12(16)17)10(15)8-5-4-7(2)13-11(8)14/h4-6H,3H2,1-2H3,(H,16,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>207</Id>
+        <Name>Nevirapine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H14N4O/c1-9-6-8-17-14-12(9)18-15(20)11-3-2-7-16-13(11)19(14)10-4-5-10/h2-3,6-8,10H,4-5H2,1H3,(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>208</Id>
+        <Name>Nicotine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H14N2/c1-12-7-3-5-10(12)9-4-2-6-11-8-9/h2,4,6,8,10H,3,5,7H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>209</Id>
+        <Name>Northioridazine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C20H24N2S2/c1-23-16-8-9-20-18(13-16)22(12-10-15-5-4-11-21-14-15)17-6-2-3-7-19(17)24-20/h2-3,6-9,13,15,21H,4-5,10-12,14H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>210</Id>
+        <Name>Olanzapine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H20N4S/c1-12-11-13-16(21-9-7-20(2)8-10-21)18-14-5-3-4-6-15(14)19-17(13)22-12/h3-6,11,18H,7-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>211</Id>
+        <Name>Org13011</Name>
+        <Description>Systematic name: 1-​[4-​[4-​[4-​(Trifluoromethyl)​-​2-​pyridinyl]​-​1-​piperazinyl]​butyl]​-2-pyrrolidinone</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H25F3N4O/c19-18(20,21)15-5-6-22-16(14-15)24-12-10-23(11-13-24)7-1-2-8-25-9-3-4-17(25)26/h5-6,14H,1-4,7-13H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>212</Id>
+        <Name>Org30526</Name>
+        <Description>Systematic name: 5-chloro-2,3,3a,12b-tetrahydro-1H-Dibenz[2,3:6,7]oxepino[4,5-c]pyrrole</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H14ClNO/c17-10-5-6-16-12(7-10)14-9-18-8-13(14)11-3-1-2-4-15(11)19-16/h1-7,13-14,18H,8-9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>213</Id>
+        <Name>Org32104</Name>
+        <Description>Systematic name: 1,​3,​4,​13b-​Tetrahydro-​10-​methyl-dibenz[2,​3:6,​7]​oxepino[4,​5-​c]​pyridin-​4a(2H)​-​ol</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H19NO2/c1-12-5-4-6-13-15-11-19-10-9-18(15,20)14-7-2-3-8-16(14)21-17(12)13/h2-8,15,19-20H,9-11H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>214</Id>
+        <Name>Org34167</Name>
+        <Description>Systematic name: 1-[2-(1,2-benzoxazol-3-yl)phenyl]but-3-en-1-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H16N2O/c1-2-7-15(18)12-8-3-4-9-13(12)17-14-10-5-6-11-16(14)20-19-17/h2-6,8-11,15H,1,7,18H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>215</Id>
+        <Name>Asenapine</Name>
+        <Description>Systematic name: 5-​Chloro-​2,​3,​3a,​12b-​tetrahydro-​2-​methyl-​1H-​dibenz[2,​3:6,​7]​oxepino[4,​5-​c]​pyrrole
+(Org5222 -Asenapine maleate) Name changed to match SMILES.</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H16ClNO/c1-19-9-14-12-4-2-3-5-16(12)20-17-7-6-11(18)8-13(17)15(14)10-19/h2-8,14-15H,9-10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>216</Id>
+        <Name>Oxazepam</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H11ClN2O2/c16-10-6-7-12-11(8-10)13(9-4-2-1-3-5-9)18-15(20)14(19)17-12/h1-8,15,20H,(H,17,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>217</Id>
+        <Name>Oxazepam</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H11ClN2O2/c16-10-6-7-12-11(8-10)13(9-4-2-1-3-5-9)18-15(20)14(19)17-12/h1-8,15,20H,(H,17,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>218</Id>
+        <Name>Paracetamol</Name>
+        <Description>Alternative name from original table: (Acetaminophen or +ol)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>219</Id>
+        <Name>Paraxanthine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H8N4O2/c1-10-3-8-5-4(10)6(12)11(2)7(13)9-5/h3H,1-2H3,(H,9,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>220</Id>
+        <Name>Pentazocine</Name>
+        <Description>Systematic name: 1,2,3,4,5,6-Hexahydro-6,11-dimethyl-3-(3-methylbut-2-enyl)-2,6-methano-3-benzazocin-8-ol</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H27NO/c1-13(2)7-9-20-10-8-19(4)14(3)18(20)11-15-5-6-16(21)12-17(15)19/h5-7,12,14,18,21H,8-11H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>221</Id>
+        <Name>Pentazocine</Name>
+        <Description>Systematic name: 1,2,3,4,5,6-Hexahydro-6,11-dimethyl-3-(3-methylbut-2-enyl)-2,6-methano-3-benzazocin-8-ol</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H27NO/c1-13(2)7-9-20-10-8-19(4)14(3)18(20)11-15-5-6-16(21)12-17(15)19/h5-7,12,14,18,21H,8-11H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>222</Id>
+        <Name>Pentobarbital</Name>
+        <Description>Alternative name from original table: (5-Ethyl-5-(1-methylbutyl)barbituric acid)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18N2O3/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h7H,4-6H2,1-3H3,(H2,12,13,14,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>223</Id>
+        <Name>Pentobarbital</Name>
+        <Description>Alternative name from original table: (5-Ethyl-5-(1-methylbutyl)barbituric acid)</Description>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18N2O3/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h7H,4-6H2,1-3H3,(H2,12,13,14,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>224</Id>
+        <Name>Pentylenetetrazole</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H10N4/c1-2-4-6-7-8-9-10(6)5-3-1/h1-5H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>225</Id>
+        <Name>Antipyrine</Name>
+        <Description>Phenazone - wrong name</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H12N2O/c1-9-8-11(14)13(12(9)2)10-6-4-3-5-7-10/h3-8H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>226</Id>
+        <Name>Phencyclidine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H25N/c1-4-10-16(11-5-1)17(12-6-2-7-13-17)18-14-8-3-9-15-18/h1,4-5,10-11H,2-3,6-9,12-15H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>227</Id>
+        <Name>Phenylbutazone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H20N2O2/c1-2-3-14-17-18(22)20(15-10-6-4-7-11-15)21(19(17)23)16-12-8-5-9-13-16/h4-13,17H,2-3,14H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>228</Id>
+        <Name>Phenyl-N-tert-butylnitrone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H15NO/c1-11(2,3)12(13)9-10-7-5-4-6-8-10/h4-9H,1-3H3/b12-9+</InChI>
+    </Compound>
+    <Compound>
+        <Id>229</Id>
+        <Name>Phenytoin</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H12N2O2/c18-13-15(17-14(19)16-13,11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H,(H2,16,17,18,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>230</Id>
+        <Name>Phenytoin</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H12N2O2/c18-13-15(17-14(19)16-13,11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H,(H2,16,17,18,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>231</Id>
+        <Name>Physostigmine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H21N3O2/c1-15-7-8-17(3)13(15)18(4)12-6-5-10(9-11(12)15)20-14(19)16-2/h5-6,9,13H,7-8H2,1-4H3,(H,16,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>232</Id>
+        <Name>Pindolol</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H20N2O2/c1-10(2)16-8-11(17)9-18-14-5-3-4-13-12(14)6-7-15-13/h3-7,10-11,15-17H,8-9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>233</Id>
+        <Name>Pindolol</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H20N2O2/c1-10(2)16-8-11(17)9-18-14-5-3-4-13-12(14)6-7-15-13/h3-7,10-11,15-17H,8-9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>234</Id>
+        <Name>PK-11195</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H21ClN2O/c1-4-14(2)24(3)21(25)19-13-15-9-5-6-10-16(15)20(23-19)17-11-7-8-12-18(17)22/h5-14H,4H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>235</Id>
+        <Name>p-Phenylbenzoic acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H10O2/c14-13(15)12-8-6-11(7-9-12)10-4-2-1-3-5-10/h1-9H,(H,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>236</Id>
+        <Name>Procaine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H20N2O2/c1-3-15(4-2)9-10-17-13(16)11-5-7-12(14)8-6-11/h5-8H,3-4,9-10,14H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>237</Id>
+        <Name>Promazine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H20N2S/c1-18(2)12-7-13-19-14-8-3-5-10-16(14)20-17-11-6-4-9-15(17)19/h3-6,8-11H,7,12-13H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>238</Id>
+        <Name>Promazine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H20N2S/c1-18(2)12-7-13-19-14-8-3-5-10-16(14)20-17-11-6-4-9-15(17)19/h3-6,8-11H,7,12-13H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>239</Id>
+        <Name>Propofol</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>240</Id>
+        <Name>Propofol</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>241</Id>
+        <Name>Propranolol</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H21NO2/c1-12(2)17-10-14(18)11-19-16-9-5-7-13-6-3-4-8-15(13)16/h3-9,12,14,17-18H,10-11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>242</Id>
+        <Name>Propyl-4-aminobenzoate</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H13NO2/c1-2-7-13-10(12)8-3-5-9(11)6-4-8/h3-6H,2,7,11H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>243</Id>
+        <Name>Pyrene</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H10/c1-3-11-7-9-13-5-2-6-14-10-8-12(4-1)15(11)16(13)14/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>244</Id>
+        <Name>Pyrilamine</Name>
+        <Description>Alternative names from original table: (Mepyramine SKB7)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H23N3O/c1-19(2)12-13-20(17-6-4-5-11-18-17)14-15-7-9-16(21-3)10-8-15/h4-11H,12-14H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>245</Id>
+        <Name>Quinidine</Name>
+        <Description>Alternative name from original table: (quinine)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C20H24N2O2/c1-3-13-12-22-9-7-14(13)10-19(22)20(23)16-6-8-21-18-5-4-15(24-2)11-17(16)18/h3-6,8,11,13-14,19-20,23H,1,7,9-10,12H2,2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>246</Id>
+        <Name>R-Etodolac</Name>
+        <Description></Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H21NO3/c1-3-11-6-5-7-12-13-8-9-21-17(4-2,10-14(19)20)16(13)18-15(11)12/h5-7,18H,3-4,8-10H2,1-2H3,(H,19,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>247</Id>
+        <Name>Risperidone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C23H27FN4O2/c1-15-18(23(29)28-10-3-2-4-21(28)25-15)9-13-27-11-7-16(8-12-27)22-19-6-5-17(24)14-20(19)30-26-22/h5-6,14,16H,2-4,7-13H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>248</Id>
+        <Name>Rolipram</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H21NO3/c1-19-14-7-6-11(12-9-16(18)17-10-12)8-15(14)20-13-4-2-3-5-13/h6-8,12-13H,2-5,9-10H2,1H3,(H,17,18)</InChI>
+    </Compound>
+    <Compound>
+        <Id>249</Id>
+        <Name>Ropinirole</Name>
+        <Description>Alternative name from original table: (SKF101468)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H24N2O/c1-3-9-18(10-4-2)11-8-13-6-5-7-15-14(13)12-16(19)17-15/h5-7H,3-4,8-12H2,1-2H3,(H,17,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>250</Id>
+        <Name>S-2-Fluoroethylisothiourea</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H7FN2S/c4-1-2-7-3(5)6/h1-2H2,(H3,5,6)</InChI>
+    </Compound>
+    <Compound>
+        <Id>251</Id>
+        <Name>Salbutamol</Name>
+        <Description>Alternative name from original table: (albuterol)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H21NO3/c1-13(2,3)14-7-12(17)9-4-5-11(16)10(6-9)8-15/h4-6,12,14-17H,7-8H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>252</Id>
+        <Name>Salicylic acid</Name>
+        <Description>Alternative name from original table: (2-Hydroxybenzoic acid)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>253</Id>
+        <Name>Salicylic acid</Name>
+        <Description>Alternative name from original table: (2-Hydroxybenzoic acid)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H6O3/c8-6-4-2-1-3-5(6)7(9)10/h1-4,8H,(H,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>254</Id>
+        <Name>Saquinavir</Name>
+        <Description>Alternative name from original table: (invirase)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C38H50N6O5/c1-38(2,3)43-37(49)32-20-26-14-7-8-15-27(26)22-44(32)23-33(45)30(19-24-11-5-4-6-12-24)41-36(48)31(21-34(39)46)42-35(47)29-18-17-25-13-9-10-16-28(25)40-29/h4-6,9-13,16-18,26-27,30-33,45H,7-8,14-15,19-23H2,1-3H3,(H2,39,46)(H,41,48)(H,42,47)(H,43,49)</InChI>
+    </Compound>
+    <Compound>
+        <Id>255</Id>
+        <Name>S-Etodolac</Name>
+        <Description></Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H21NO3/c1-3-11-6-5-7-12-13-8-9-21-17(4-2,10-14(19)20)16(13)18-15(11)12/h5-7,18H,3-4,8-10H2,1-2H3,(H,19,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>256</Id>
+        <Name>SKB15</Name>
+        <Description>Systematic name: N-​[2-​[[(3-​bromo-​2-​pyridinyl)​methyl]​thio]​ethyl]​-​3-​nitro-1H-​Pyrrol-​2-​amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H13BrN4O2S/c13-9-2-1-4-14-10(9)8-20-7-6-16-12-11(17(18)19)3-5-15-12/h1-5,15-16H,6-8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>257</Id>
+        <Name>SKB16</Name>
+        <Description>Systematic name: 3-​nitro-​N-​[2-​[(2-​pyridinylmethyl)​thio]​ethyl]​-1H-​Pyrrol-​2-​amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H14N4O2S/c17-16(18)11-4-6-14-12(11)15-7-8-19-9-10-3-1-2-5-13-10/h1-6,14-15H,7-9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>258</Id>
+        <Name>SKB17</Name>
+        <Description>Systematic name: 3-​nitro-​4-​(phenylmethyl)​-​N-​[2-​[(2-​pyridinylmethyl)​thio]​ethyl]​-1H-​Pyrrol-​2-​amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H20N4O2S/c24-23(25)18-16(12-15-6-2-1-3-7-15)13-22-19(18)21-10-11-26-14-17-8-4-5-9-20-17/h1-9,13,21-22H,10-12,14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>259</Id>
+        <Name>SKB19</Name>
+        <Description>Systematic name: N-(4-phenyl-2-thiazolyl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H10N4S/c11-9(12)14-10-13-8(6-15-10)7-4-2-1-3-5-7/h1-6H,(H4,11,12,13,14)</InChI>
+    </Compound>
+    <Compound>
+        <Id>260</Id>
+        <Name>SKB2</Name>
+        <Description>Systematic name: N-(4-methyl-2-thiazolyl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H8N4S/c1-3-2-10-5(8-3)9-4(6)7/h2H,1H3,(H4,6,7,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>261</Id>
+        <Name>SKB20</Name>
+        <Description>Systematic name: N-(4-(3-aminophenyl)-2-thiazolyl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H11N5S/c11-7-3-1-2-6(4-7)8-5-16-10(14-8)15-9(12)13/h1-5H,11H2,(H4,12,13,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>262</Id>
+        <Name>SKB22</Name>
+        <Description>Systematic name: N-(4-(3-acetamidophenyl)-2-thiazolyl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H13N5OS/c1-7(18)15-9-4-2-3-8(5-9)10-6-19-12(16-10)17-11(13)14/h2-6H,1H3,(H,15,18)(H4,13,14,16,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>263</Id>
+        <Name>SKB23</Name>
+        <Description>Systematic name: 1-Cyano-3-(3-{2-[(diaminomethylene)amino]-1,3-thiazol-4-yl}phenyl)-2-methylguanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H14N8S/c1-17-12(18-7-14)19-9-4-2-3-8(5-9)10-6-22-13(20-10)21-11(15)16/h2-6H,1H3,(H2,17,18,19)(H4,15,16,20,21)</InChI>
+    </Compound>
+    <Compound>
+        <Id>264</Id>
+        <Name>SKB24</Name>
+        <Description>Systematic name: N-[2-[[5-(dimethylaminomethyl)furan-2-yl]methylsulfanyl]ethyl]-3-nitro-1H-pyrrol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H20N4O3S/c1-17(2)9-11-3-4-12(21-11)10-22-8-7-16-14-13(18(19)20)5-6-15-14/h3-6,15-16H,7-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>265</Id>
+        <Name>SKB25</Name>
+        <Description>Systematic name: (4-Benzyl-3-nitro-1H-pyrrol-2-yl)-[2-(5-dimethylaminomethyl-furan-2-ylmethylsulfanyl)-ethyl]-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H26N4O3S/c1-24(2)14-18-8-9-19(28-18)15-29-11-10-22-21-20(25(26)27)17(13-23-21)12-16-6-4-3-5-7-16/h3-9,13,22-23H,10-12,14-15H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>266</Id>
+        <Name>SKB26</Name>
+        <Description>Systematic name: [3-(5-Dimethylaminomethyl-furan-2-yl)-phenyl]-(3-nitro-1H-pyrrol-2-yl)-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H18N4O3/c1-20(2)11-14-6-7-16(24-14)12-4-3-5-13(10-12)19-17-15(21(22)23)8-9-18-17/h3-10,18-19H,11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>267</Id>
+        <Name>SKB29</Name>
+        <Description>Systematic name: [3-(4-Dimethylaminomethyl-pyridin-2-yl)-phenyl]-(3-nitro-1H-pyrrol-2-yl)-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H19N5O2/c1-22(2)12-13-6-8-19-16(10-13)14-4-3-5-15(11-14)21-18-17(23(24)25)7-9-20-18/h3-11,20-21H,12H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>268</Id>
+        <Name>SKB30</Name>
+        <Description>Systematic name: N-[3-(3-Piperidin-1-ylmethyl-phenoxy)-propyl]-acetamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H26N2O2/c1-15(20)18-9-6-12-21-17-8-5-7-16(13-17)14-19-10-3-2-4-11-19/h5,7-8,13H,2-4,6,9-12,14H2,1H3,(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>269</Id>
+        <Name>SKB31</Name>
+        <Description>Systematic name: N-[3-(3-Piperidin-1-ylmethyl-phenoxy)-propyl]-benzamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H28N2O2/c25-22(20-10-3-1-4-11-20)23-13-8-16-26-21-12-7-9-19(17-21)18-24-14-5-2-6-15-24/h1,3-4,7,9-12,17H,2,5-6,8,13-16,18H2,(H,23,25)</InChI>
+    </Compound>
+    <Compound>
+        <Id>270</Id>
+        <Name>SKB34</Name>
+        <Description>Systematic name: 3-[3-(1-Piperidinylmethyl)phenoxy]-1-propanol</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H23NO2/c17-10-5-11-18-15-7-4-6-14(12-15)13-16-8-2-1-3-9-16/h4,6-7,12,17H,1-3,5,8-11,13H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>271</Id>
+        <Name>SKB36</Name>
+        <Description>Systematic name: N-(3-(3-(1-Piperidinylmethyl)phenoxy)propyl)-2-pyridinamine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C20H27N3O/c1-4-13-23(14-5-1)17-18-8-6-9-19(16-18)24-15-7-12-22-20-10-2-3-11-21-20/h2-3,6,8-11,16H,1,4-5,7,12-15,17H2,(H,21,22)</InChI>
+    </Compound>
+    <Compound>
+        <Id>272</Id>
+        <Name>SKB37</Name>
+        <Description>Systematic name: N-{3-[3-(1-Piperidinylmethyl)phenoxy]propyl}-1,3-thiazol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H25N3OS/c1-2-10-21(11-3-1)15-16-6-4-7-17(14-16)22-12-5-8-19-18-20-9-13-23-18/h4,6-7,9,13-14H,1-3,5,8,10-12,15H2,(H,19,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>273</Id>
+        <Name>SKB42</Name>
+        <Description>Systematic name: Benzooxazol-2-yl-[3-(3-piperidin-1-ylmethyl-phenoxy)-propyl]-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H27N3O2/c1-4-13-25(14-5-1)17-18-8-6-9-19(16-18)26-15-7-12-23-22-24-20-10-2-3-11-21(20)27-22/h2-3,6,8-11,16H,1,4-5,7,12-15,17H2,(H,23,24)</InChI>
+    </Compound>
+    <Compound>
+        <Id>274</Id>
+        <Name>SKF 89124</Name>
+        <Description></Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H24N2O2/c1-3-8-18(9-4-2)10-7-12-5-6-14(19)16-13(12)11-15(20)17-16/h5-6,19H,3-4,7-11H2,1-2H3,(H,17,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>275</Id>
+        <Name>S-Methylisothiourea</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H6N2S/c1-5-2(3)4/h1H3,(H3,3,4)</InChI>
+    </Compound>
+    <Compound>
+        <Id>276</Id>
+        <Name>Spiperone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C23H26FN3O2/c24-19-10-8-18(9-11-19)21(28)7-4-14-26-15-12-23(13-16-26)22(29)25-17-27(23)20-5-2-1-3-6-20/h1-3,5-6,8-11H,4,7,12-17H2,(H,25,29)</InChI>
+    </Compound>
+    <Compound>
+        <Id>277</Id>
+        <Name>Stavudine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H12N2O4/c1-6-4-12(10(15)11-9(6)14)8-3-2-7(5-13)16-8/h2-4,7-8,13H,5H2,1H3,(H,11,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>278</Id>
+        <Name>Sulforidazine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H26N2O2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)26-21-11-10-17(15-19(21)23)27(2,24)25/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>279</Id>
+        <Name>Terbinafine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H25N/c1-21(2,3)15-8-5-9-16-22(4)17-19-13-10-12-18-11-6-7-14-20(18)19/h5-7,9-14H,16-17H2,1-4H3/b9-5+</InChI>
+    </Compound>
+    <Compound>
+        <Id>280</Id>
+        <Name>Tertbutylchlorambucil</Name>
+        <Description>Systematic name: 4-​[bis(2-​chloroethyl)​amino]​-​benzenebutanoic acid 1,​1-​dimethylethyl ester</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H27Cl2NO2/c1-18(2,3)23-17(22)6-4-5-15-7-9-16(10-8-15)21(13-11-19)14-12-20/h7-10H,4-6,11-14H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>281</Id>
+        <Name>3,7-Dimethylxanthine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H8N4O2/c1-10-3-8-5-4(10)6(12)9-7(13)11(5)2/h3H,1-2H3,(H,9,12,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>282</Id>
+        <Name>1,3-Dimethylxanthine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H8N4O2/c1-10-5-4(8-3-9-5)6(12)11(2)7(10)13/h3H,1-2H3,(H,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>283</Id>
+        <Name>Thiopental</Name>
+        <Description>Alternative name from original table: (Thiopentone)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18N2O2S/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h7H,4-6H2,1-3H3,(H2,12,13,14,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>284</Id>
+        <Name>Thiopental</Name>
+        <Description>Alternative name from original table: (Thiopentone)</Description>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C11H18N2O2S/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h7H,4-6H2,1-3H3,(H2,12,13,14,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>285</Id>
+        <Name>Thioperamide</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H24N4S/c20-15(18-13-4-2-1-3-5-13)19-8-6-12(7-9-19)14-10-16-11-17-14/h10-13H,1-9H2,(H,16,17)(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>286</Id>
+        <Name>Thioridazine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H26N2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(24-2)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>287</Id>
+        <Name>Thioridazine</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H26N2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(24-2)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>288</Id>
+        <Name>Thioridazine</Name>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H26N2S2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(24-2)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>289</Id>
+        <Name>Tibolone</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H28O2/c1-4-21(23)10-8-18-19-13(2)11-14-12-15(22)5-6-16(14)17(19)7-9-20(18,21)3/h1,13,17-19,23H,5-12H2,2-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>290</Id>
+        <Name>Tiotidine</Name>
+        <Description>Alternative name from original table: (SKB10)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H16N8S2/c1-14-9(16-6-11)15-2-3-19-4-7-5-20-10(17-7)18-8(12)13/h5H,2-4H2,1H3,(H2,14,15,16)(H4,12,13,17,18)</InChI>
+    </Compound>
+    <Compound>
+        <Id>291</Id>
+        <Name>Toliprolol</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H21NO2/c1-10(2)14-8-12(15)9-16-13-6-4-5-11(3)7-13/h4-7,10,12,14-15H,8-9H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>292</Id>
+        <Name>Toliprolol</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H21NO2/c1-10(2)14-8-12(15)9-16-13-6-4-5-11(3)7-13/h4-7,10,12,14-15H,8-9H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>293</Id>
+        <Name>Triazolam</Name>
+        <Description>Name and SMILES did not match. SMILES changed (hint: missing aromatic bonds).</Description>
+        <Labels>Serum in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H12Cl2N4/c1-10-21-22-16-9-20-17(12-4-2-3-5-14(12)19)13-8-11(18)6-7-15(13)23(10)16/h2-8H,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>294</Id>
+        <Name>Trifluoperazine</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H24F3N3S/c1-25-11-13-26(14-12-25)9-4-10-27-17-5-2-3-6-19(17)28-20-8-7-16(15-18(20)27)21(22,23)24/h2-3,5-8,15H,4,9-14H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>295</Id>
+        <Name>Triptanol</Name>
+        <Description>Alternative name from original table: (amitriptyline)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C20H23N/c1-21(2)15-7-12-20-18-10-5-3-8-16(18)13-14-17-9-4-6-11-19(17)20/h3-6,8-12H,7,13-15H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>296</Id>
+        <Name>Valproic acid</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H16O2/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>297</Id>
+        <Name>Verapamil</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C27H38N2O4/c1-20(2)27(19-28,22-10-12-24(31-5)26(18-22)33-7)14-8-15-29(3)16-13-21-9-11-23(30-4)25(17-21)32-6/h9-12,17-18,20H,8,13-16H2,1-7H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>298</Id>
+        <Name>Verapamil</Name>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C27H38N2O4/c1-20(2)27(19-28,22-10-12-24(31-5)26(18-22)33-7)14-8-15-29(3)16-13-21-9-11-23(30-4)25(17-21)32-6/h9-12,17-18,20H,8,13-16H2,1-7H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>299</Id>
+        <Name>Water</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/H2O/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>300</Id>
+        <Name>Y-G 15</Name>
+        <Description>Systematic name: N,N-Dimethyl-2-pyridineethylamine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H14N2/c1-11(2)8-6-9-5-3-4-7-10-9/h3-5,7H,6,8H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>301</Id>
+        <Name>Y-G 16</Name>
+        <Description>Systematic name: 2-(1,3-Thiazol-2-yl)ethanamine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H8N2S/c6-2-1-5-7-3-4-8-5/h3-4H,1-2,6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>302</Id>
+        <Name>Zidovudine</Name>
+        <Description>Alternative name from original table: (AZT)</Description>
+        <Labels>Plasma in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H13N5O4/c1-5-3-15(10(18)12-9(5)17)8-2-6(13-14-11)7(4-16)19-8/h3,6-8,16H,2,4H2,1H3,(H,12,17,18)</InChI>
+    </Compound>
+    <Compound>
+        <Id>303</Id>
+        <Name>Zolantidine</Name>
+        <Description>Systematic name: N-[3-[3-(piperidin-1-ylmethyl)phenoxy]propyl]-1,3-benzothiazol-2-amine (SKB41)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H27N3OS/c1-4-13-25(14-5-1)17-18-8-6-9-19(16-18)26-15-7-12-23-22-24-20-10-2-3-11-21(20)27-22/h2-3,6,8-11,16H,1,4-5,7,12-15,17H2,(H,23,24)</InChI>
+    </Compound>
+    <Compound>
+        <Id>304</Id>
+        <Name>Nordazepam</Name>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H11ClN2O/c16-11-6-7-13-12(8-11)15(17-9-14(19)18-13)10-4-2-1-3-5-10/h1-8H,9H2,(H,18,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>305</Id>
+        <Name>BBCPD10</Name>
+        <Description>Systematic name: 4-(5-Amino-1H-1,2,4-triazol-3-yl)-N,N-dimethyl-2-pyridinamine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H12N6/c1-15(2)7-5-6(3-4-11-7)8-12-9(10)14-13-8/h3-5H,1-2H3,(H3,10,12,13,14)</InChI>
+    </Compound>
+    <Compound>
+        <Id>306</Id>
+        <Name>BBCPD12</Name>
+        <Description>Systematic name: [2-(3-Bromo-pyridin-2-ylmethylsulfanyl)-ethyl]-(3-nitro-1H-pyrrol-2-yl)-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H13BrN4O2S/c13-9-2-1-4-14-10(9)8-20-7-6-16-12-11(17(18)19)3-5-15-12/h1-5,15-16H,6-8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>307</Id>
+        <Name>BBCPD13</Name>
+        <Description>Systematic name: 3-Nitro-N-(2-((2-pyridinylmethyl)sulfanyl)ethyl)-1H-pyrrol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H14N4O2S/c17-16(18)11-4-6-14-12(11)15-7-8-19-9-10-3-1-2-5-13-10/h1-6,14-15H,7-9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>308</Id>
+        <Name>BBCPD14</Name>
+        <Description>Systematic name: 4-Benzyl-3-nitro-N-(2-((2-pyridinylmethyl)sulfanyl)ethyl)-1H-pyrrol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C19H20N4O2S/c24-23(25)18-16(12-15-6-2-1-3-7-15)13-22-19(18)21-10-11-26-14-17-8-4-5-9-20-17/h1-9,13,21-22H,10-12,14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>309</Id>
+        <Name>BBCPD15</Name>
+        <Description>Systematic name: 1-(4-Phenyl-1,3-thiazol-2-yl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H10N4S/c11-9(12)14-10-13-8(6-15-10)7-4-2-1-3-5-7/h1-6H,(H4,11,12,13,14)</InChI>
+    </Compound>
+    <Compound>
+        <Id>310</Id>
+        <Name>BBCPD57</Name>
+        <Description>Systematic name: 1-(4-(3-Aminophenyl)-1,3-thiazol-2-yl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H11N5S/c11-7-3-1-2-6(4-7)8-5-16-10(14-8)15-9(12)13/h1-5H,11H2,(H4,12,13,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>311</Id>
+        <Name>BBCPD16</Name>
+        <Description>Systematic name: N-(3-(2-((Diaminomethylene)amino)-1,3-thiazol-4-yl)phenyl)acetamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C12H13N5OS/c1-7(18)15-9-4-2-3-8(5-9)10-6-19-12(16-10)17-11(13)14/h2-6H,1H3,(H,15,18)(H4,13,14,16,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>312</Id>
+        <Name>BBCPD58</Name>
+        <Description>Systematic name: 1-Cyano-3-(3-(2-((diaminomethylene)amino)-1,3-thiazol-4-yl)phenyl)-2-methylguanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C13H14N8S/c1-17-12(18-7-14)19-9-4-2-3-8(5-9)10-6-22-13(20-10)21-11(15)16/h2-6H,1H3,(H2,17,18,19)(H4,15,16,20,21)</InChI>
+    </Compound>
+    <Compound>
+        <Id>313</Id>
+        <Name>BBCPD17</Name>
+        <Description>Systematic name: N-(2-(((5-((Dimethylamino)methyl)-2-furyl)methyl)sulfanyl]ethyl)-3-nitro-1H-pyrrol-2-amine. SMILES did not match name, SMILES changed (SciFinder name: BBCPD 17)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C14H20N4O3S/c1-17(2)9-11-3-4-12(21-11)10-22-8-7-16-14-13(18(19)20)5-6-15-14/h3-6,15-16H,7-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>314</Id>
+        <Name>BBCPD60</Name>
+        <Description>Systematic name: 4-Benzyl-N-(2-(((5-((dimethylamino)methyl]-2-furyl)methyl)sulfanyl)ethyl)-3-nitro-1H-pyrrol-2-amine. SMILES did not match name, SMILES changed (SciFinder name: BBCPD 60)</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C21H26N4O3S/c1-24(2)14-18-8-9-19(28-18)15-29-11-10-22-21-20(25(26)27)17(13-23-21)12-16-6-4-3-5-7-16/h3-9,13,22-23H,10-12,14-15H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>315</Id>
+        <Name>BBCPD18</Name>
+        <Description>Systematic name: N-(3-(5-((Dimethylamino)methyl)-2-furyl)phenyl)-3-nitro-1H-pyrrol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H18N4O3/c1-20(2)11-14-6-7-16(24-14)12-4-3-5-13(10-12)19-17-15(21(22)23)8-9-18-17/h3-10,18-19H,11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>316</Id>
+        <Name>BBCPD19</Name>
+        <Description>Systematic name: N-(3-(4-((Dimethylamino)methyl)-2-pyridinyl)phenyl)-3-nitro-1H-pyrrol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H19N5O2/c1-22(2)12-13-6-8-19-16(10-13)14-4-3-5-15(11-14)21-18-17(23(24)25)7-9-20-18/h3-11,20-21H,12H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>317</Id>
+        <Name>BBCPD20</Name>
+        <Description>Systematic name: N-(3-(3-(1-Piperidinylmethyl)phenoxy)propyl)acetamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H26N2O2/c1-15(20)18-9-6-12-21-17-8-5-7-16(13-17)14-19-10-3-2-4-11-19/h5,7-8,13H,2-4,6,9-12,14H2,1H3,(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>318</Id>
+        <Name>BBCPD21</Name>
+        <Description>Systematic name: N-(3-(3-(1-Piperidinylmethyl)phenoxy)propyl)benzamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H28N2O2/c25-22(20-10-3-1-4-11-20)23-13-8-16-26-21-12-7-9-19(17-21)18-24-14-5-2-6-15-24/h1,3-4,7,9-12,17H,2,5-6,8,13-16,18H2,(H,23,25)</InChI>
+    </Compound>
+    <Compound>
+        <Id>319</Id>
+        <Name>BBCPD22</Name>
+        <Description>Systematic name: 3-(3-(1-Piperidinylmethyl)phenoxy)-1-propanol</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C15H23NO2/c17-10-5-11-18-15-7-4-6-14(12-15)13-16-8-2-1-3-9-16/h4,6-7,12,17H,1-3,5,8-11,13H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>320</Id>
+        <Name>BBCPD23</Name>
+        <Description>Systematic name: N-(3-(3-(1-Piperidinylmethyl)phenoxy)propyl)-2-pyridinamine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C20H27N3O/c1-4-13-23(14-5-1)17-18-8-6-9-19(16-18)24-15-7-12-22-20-10-2-3-11-21-20/h2-3,6,8-11,16H,1,4-5,7,12-15,17H2,(H,21,22)</InChI>
+    </Compound>
+    <Compound>
+        <Id>321</Id>
+        <Name>BBCPD24</Name>
+        <Description>Systematic name: N-(3-(3-(1-Piperidinylmethyl)phenoxy)propyl)-1,3-thiazol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C18H25N3OS/c1-2-10-21(11-3-1)15-16-6-4-7-17(14-16)22-12-5-8-19-18-20-9-13-23-18/h4,6-7,9,13-14H,1-3,5,8,10-12,15H2,(H,19,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>322</Id>
+        <Name>BBCPD26</Name>
+        <Description>Systematic name: N-(3-(3-(1-Piperidinylmethyl)phenoxy)propyl)-1,3-benzoxazol-2-amine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C22H27N3O2/c1-4-13-25(14-5-1)17-18-8-6-9-19(16-18)26-15-7-12-23-22-24-20-10-2-3-11-21(20)27-22/h2-3,6,8-11,16H,1,4-5,7,12-15,17H2,(H,23,24)</InChI>
+    </Compound>
+    <Compound>
+        <Id>323</Id>
+        <Name>ICI17148</Name>
+        <Description>Systematic name: 2-(4-Methyl-1,3-thiazol-2-yl)guanidine</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H8N4S/c1-3-2-10-5(8-3)9-4(6)7/h2H,1H3,(H4,6,7,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>324</Id>
+        <Name>SB222200</Name>
+        <Description>Systematic name: 3-Methyl-2-phenyl-N-(1-phenylpropyl)-4-quinolinecarboxamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C26H24N2O/c1-3-22(19-12-6-4-7-13-19)28-26(29)24-18(2)25(20-14-8-5-9-15-20)27-23-17-11-10-16-21(23)24/h4-17,22H,3H2,1-2H3,(H,28,29)</InChI>
+    </Compound>
+    <Compound>
+        <Id>325</Id>
+        <Name>CBZ-EPO</Name>
+        <Description>Systematic name: 1a,​10b-​Dihydro-dibenzo[b,​f]​cycloprop[d]​azepine-​6(1H)​-​carboxamide</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C16H14N2O/c17-16(19)18-14-7-3-1-5-10(14)12-9-13(12)11-6-2-4-8-15(11)18/h1-8,12-13H,9H2,(H2,17,19)</InChI>
+    </Compound>
+    <Compound>
+        <Id>326</Id>
+        <Name>L-663,581</Name>
+        <Description>Systematic name: 7-Chloro-3-(5-isopropyl-1,2,4-oxadiazol-3-yl)-5-methyl-4,5-dihydro-6H-imidazo[1,5-a][1,4]benzodiazepin-6-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H16ClN5O2/c1-9(2)16-20-15(21-25-16)14-12-7-22(3)17(24)13-10(18)5-4-6-11(13)23(12)8-19-14/h4-6,8-9H,7H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>327</Id>
+        <Name>M1L-663,581</Name>
+        <Description>Systematic name: 7-Chloro-3-[5-(2-hydroxy-2-propanyl)-1,2,4-oxadiazol-3-yl]-5-methyl-4,5-dihydro-6H-imidazo[1,5-a][1,4]benzodiazepin-6-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H16ClN5O3/c1-17(2,25)16-20-14(21-26-16)13-11-7-22(3)15(24)12-9(18)5-4-6-10(12)23(11)8-19-13/h4-6,8,25H,7H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>328</Id>
+        <Name>M2L-663,581</Name>
+        <Description>Systematic name: 7-Chloro-3-[5-(1,2-dihydroxy-2-propanyl)-1,2,4-oxadiazol-3-yl]-5-methyl-4,5-dihydro-6H-imidazo[1,5-a][1,4]benzodiazepin-6-one</Description>
+        <Labels>Blood in_vivo</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C17H16ClN5O4/c1-17(26,7-24)16-20-14(21-27-16)13-11-6-22(2)15(25)12-9(18)4-3-5-10(12)23(11)8-19-13/h3-5,8,24,26H,6-7H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>1</Id>
+        <Name>Argon</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/Ar</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>Krypton</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/Kr</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>Neon</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/Ne</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>Radon</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/Rn</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>Xenon</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/Xe</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>Nitrogen molecule</Name>
+        <Description>SMILES and name did not match. Both changed. Original name: Nitrogen</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/N2/c1-2</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>Nitrous Oxide</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/N2O/c1-2-3</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>Methane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CH4/h1H4</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>Pentane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H12/c1-3-5-4-2/h3-5H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>Hexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>Heptane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H16/c1-3-5-7-6-4-2/h3-7H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>Octane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H18/c1-3-5-7-8-6-4-2/h3-8H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>Nonane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H20/c1-3-5-7-9-8-6-4-2/h3-9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>Decane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H22/c1-3-5-7-9-10-8-6-4-2/h3-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>2-Methylpentane</Name>
+        <Description>Alternative name from original table: (Isohexane)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14/c1-4-5-6(2)3/h6H,4-5H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>2-Methylheptane</Name>
+        <Description>SMILES changed to match name.</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H18/c1-4-5-6-7-8(2)3/h8H,4-7H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>2-Methyloctane</Name>
+        <Description>SMILES changed to match name.</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H20/c1-4-5-6-7-8-9(2)3/h9H,4-8H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>2-Methylnonane</Name>
+        <Description>SMILES changed to match name.</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H22/c1-4-5-6-7-8-9-10(2)3/h10H,4-9H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>3-Methylpentane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14/c1-4-6(3)5-2/h6H,4-5H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>3-Methylhexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H16/c1-4-6-7(3)5-2/h7H,4-6H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>2,2-Dimethylbutane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14/c1-5-6(2,3)4/h5H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>Cyclopropane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H6/c1-2-3-1/h1-3H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>Methylcyclopentane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H12/c1-6-4-2-3-5-6/h6H,2-5H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>Cyclohexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H12/c1-2-4-6-5-3-1/h1-6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>Methylcyclohexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H14/c1-7-5-3-2-4-6-7/h7H,2-6H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>1,2-Dimethylcyclohexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H16/c1-7-5-3-4-6-8(7)2/h7-8H,3-6H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>t-Butylcyclohexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H20/c1-10(2,3)9-7-5-4-6-8-9/h9H,4-8H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>1,2,4-Trimethylcyclohexane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H18/c1-7-4-5-8(2)9(3)6-7/h7-9H,4-6H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>Dichloromethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CH2Cl2/c2-1-3/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>Chloroform</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CHCl3/c2-1(3)4/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>1,1-Dichloroethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4Cl2/c1-2(3)4/h2H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>1,2-Dichloroethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>33</Id>
+        <Name>1,1,1-Trichloroethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H3Cl3/c1-2(3,4)5/h1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>34</Id>
+        <Name>1,1,2-Trichloroethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H3Cl3/c3-1-2(4)5/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>35</Id>
+        <Name>1,1,1,2-Tetrachloroethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2Cl4/c3-1-2(4,5)6/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>36</Id>
+        <Name>1-Chloro-2,2,2-trifluoroethane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2ClF3/c3-1-2(4,5)6/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>37</Id>
+        <Name>1-Bromopropane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H7Br/c1-2-3-4/h2-3H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>38</Id>
+        <Name>2-Bromopropane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H7Br/c1-3(2)4/h3H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>39</Id>
+        <Name>Teflurane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2HBrF4/c3-1(4)2(5,6)7/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>40</Id>
+        <Name>Halothane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2HBrClF3/c3-1(4)2(5,6)7/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>41</Id>
+        <Name>Sulphur Hexafluoride</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/F6S/c1-7(2,3,4,5)6</InChI>
+    </Compound>
+    <Compound>
+        <Id>42</Id>
+        <Name>Ethene</Name>
+        <Description>Alternative name from original table: ethylene</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4/c1-2/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>43</Id>
+        <Name>trans-1,2-Dichloroethene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1+</InChI>
+    </Compound>
+    <Compound>
+        <Id>44</Id>
+        <Name>cis-1,2-Dichloroethene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H2Cl2/c3-1-2-4/h1-2H/b2-1-</InChI>
+    </Compound>
+    <Compound>
+        <Id>45</Id>
+        <Name>Tetrachloroethylene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2Cl4/c3-1(4)2(5)6</InChI>
+    </Compound>
+    <Compound>
+        <Id>46</Id>
+        <Name>Propene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H6/c1-3-2/h3H,1H2,2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>47</Id>
+        <Name>1-Octene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H16/c1-3-5-7-8-6-4-2/h3H,1,4-8H2,2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>48</Id>
+        <Name>1-Nonene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H18/c1-3-5-7-9-8-6-4-2/h3H,1,4-9H2,2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>49</Id>
+        <Name>1-Decene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H20/c1-3-5-7-9-10-8-6-4-2/h3H,1,4-10H2,2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>50</Id>
+        <Name>1,3-Butadiene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H6/c1-3-4-2/h3-4H,1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>51</Id>
+        <Name>Trichloroethene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2HCl3/c3-1-2(4)5/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>52</Id>
+        <Name>1-Chloro-2,2-difluoroethylene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2HClF2/c3-1-2(4)5/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>53</Id>
+        <Name>Carbon Disulfide</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CS2/c2-1-3</InChI>
+    </Compound>
+    <Compound>
+        <Id>54</Id>
+        <Name>Methanol</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/CH4O/c1-2/h2H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>55</Id>
+        <Name>Ethanol</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H6O/c1-2-3/h3H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>56</Id>
+        <Name>1-Propanol</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H8O/c1-2-3-4/h4H,2-3H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>57</Id>
+        <Name>1-Butanol</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>58</Id>
+        <Name>1-Pentanol</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H12O/c1-2-3-4-5-6/h6H,2-5H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>59</Id>
+        <Name>2-Propanol</Name>
+        <Description>Alternative name from original table: (Isopropanol)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H8O/c1-3(2)4/h3-4H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>60</Id>
+        <Name>2-Methyl-1-propanol</Name>
+        <Description>Alternative name from original table: (Isobutanol)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10O/c1-4(2)3-5/h4-5H,3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>61</Id>
+        <Name>3-Methyl-1-butanol</Name>
+        <Description>Alternative name from original table: (Isopentanol)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H12O/c1-5(2)3-4-6/h5-6H,3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>62</Id>
+        <Name>t-Butanol</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>63</Id>
+        <Name>2-Methylbutan-2-ol</Name>
+        <Description>Original names: amylene-hydrate (tertiary-amyl alcohol)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H12O/c1-4-5(2,3)6/h6H,4H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>64</Id>
+        <Name>Diethyl ether</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H10O/c1-3-5-4-2/h3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>65</Id>
+        <Name>Ethyl t-butyl ether</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14O/c1-5-7-6(2,3)4/h5H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>66</Id>
+        <Name>Methyl t-butyl ether</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H12O/c1-5(2,3)6-4/h1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>67</Id>
+        <Name>tertiary-Amyl methyl ether</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H14O/c1-5-6(2,3)7-4/h5H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>68</Id>
+        <Name>Methoxyflurane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H4Cl2F2O/c1-8-3(6,7)2(4)5/h2H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>69</Id>
+        <Name>Isoflurane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H2ClF5O/c4-1(3(7,8)9)10-2(5)6/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>70</Id>
+        <Name>Enflurane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H2ClF5O/c4-1(5)3(8,9)10-2(6)7/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>71</Id>
+        <Name>Sevoflurane</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H3F7O/c5-1-12-2(3(6,7)8)4(9,10)11/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>72</Id>
+        <Name>Ethylene Oxide</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C2H4O/c1-2-3-1/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>73</Id>
+        <Name>Fluroxene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H5F3O/c1-2-8-3-4(5,6)7/h2H,1,3H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>74</Id>
+        <Name>Divinyl ether</Name>
+        <Description>Alternative name from original table: (vinyl ether)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H6O/c1-3-5-4-2/h3-4H,1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>75</Id>
+        <Name>Acetone</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H6O/c1-3(2)4/h1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>76</Id>
+        <Name>2-Butanone</Name>
+        <Description>Alternative name from original table: (Methyl ethyl ketone)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H8O/c1-3-4(2)5/h3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>77</Id>
+        <Name>2-Pentanone</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H10O/c1-3-4-5(2)6/h3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>78</Id>
+        <Name>Methyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C3H6O2/c1-3(4)5-2/h1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>79</Id>
+        <Name>Ethyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>80</Id>
+        <Name>Propyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H10O2/c1-3-4-7-5(2)6/h3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>81</Id>
+        <Name>Butyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H12O2/c1-3-4-5-8-6(2)7/h3-5H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>82</Id>
+        <Name>Pentyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H14O2/c1-3-4-5-6-9-7(2)8/h3-6H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>83</Id>
+        <Name>Isopropyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C5H10O2/c1-4(2)7-5(3)6/h4H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>84</Id>
+        <Name>Isobutyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H12O2/c1-5(2)4-8-6(3)7/h5H,4H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>85</Id>
+        <Name>Isopentyl acetate</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H14O2/c1-6(2)4-5-9-7(3)8/h6H,4-5H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>86</Id>
+        <Name>Benzene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>87</Id>
+        <Name>Toluene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>88</Id>
+        <Name>o-Xylene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H10/c1-7-5-3-4-6-8(7)2/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>89</Id>
+        <Name>m-Xylene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H10/c1-7-4-3-5-8(2)6-7/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>90</Id>
+        <Name>p-Xylene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H10/c1-7-3-5-8(2)6-4-7/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>91</Id>
+        <Name>Ethylbenzene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H10/c1-2-8-6-4-3-5-7-8/h3-7H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>92</Id>
+        <Name>Styrene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C8H8/c1-2-8-6-4-3-5-7-8/h2-7H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>93</Id>
+        <Name>t-Butylbenzene</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C10H14/c1-10(2,3)9-7-5-4-6-8-9/h4-8H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>94</Id>
+        <Name>1,2,4-Trimethylbenzene</Name>
+        <Description>Alternative name from original table: (Pseudocumene)</Description>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C9H12/c1-7-4-5-8(2)9(3)6-7/h4-6H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>95</Id>
+        <Name>4-Chlorobenzotrifluoride</Name>
+        <Labels>Blood in_vitro</Labels>
+        <Cargos>daylight-smiles</Cargos>
+        <InChI>InChI=1S/C7H4ClF3/c8-6-3-1-5(2-4-6)7(9,10)11/h1-4H</InChI>
+    </Compound>
+</CompoundRegistry>

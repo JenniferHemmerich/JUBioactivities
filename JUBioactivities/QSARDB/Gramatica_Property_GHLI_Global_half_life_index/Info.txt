@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/113/2007EST2833.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property GHLI: Global half-life index"
+Paper:"Gramatica, P.; Papa, E. Screening and Ranking of POPs for Global Half-Life: QSAR Approaches for Prioritization Based on Molecular Structure. Environ. Sci. Technol. 2007, 41, 8, 2833–2839."
+EP:"Property GHLI: Global half-life index"
+Author:Gramatica
+Filename:"Gramatica_Property GHLI: Global half-life index"

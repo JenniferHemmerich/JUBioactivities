@@ -1,0 +1,1 @@
+O=C(c1cc(ccc1N)[N+]([O-])=O)c2ccccc2

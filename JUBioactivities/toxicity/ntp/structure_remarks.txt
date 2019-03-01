@@ -1,0 +1,41 @@
+Remarks about structures in the smiles code
+
+1) General
+
+-The configuration at asymmetric centres is not distinguished
+
+-No distinction is made between the constitution at C=C double bonds
+
+-Shown structures do not necessarily represent the main tautomers at pH = 7
+
+-Bonds to metal atoms are always considered to be single bonds
+
+-Mixtures were either seperated (see results_remarks.txt) or deleted
+
+-Polymers and compounds with undefined structures were removed
+
+-Small sperate entities like crystal water, HCl or H2SO4 were removed
+
+2) Specials
+
+-Nitro groups '[N+](=O)[O-]' are always written with charges
+
+-Amino groups 'CN' are never written in the protonated form, although they might be protonated in reality
+
+-Sulphuric acids 'S(=O)(=O)O[Na]' or carboxylic acids 'C(=O)O[Na]' are always written without charges but with bonding to metal ions
+
+-These metals might be part of the structure: 
+ Na
+ K       TR336
+ Ca      TR163
+ Ba      TR225
+ Zn      TR238
+ B       TR324
+ Sn      TR139, TR183
+ As      TR345
+ In      TR499
+ Pb      TR151
+ Te      TR152
+ 
+<cramer@informatik.uni-freiburg.de>, <reichenb@mail.uni-freiburg.de>,
+<helma@informatik.uni-freiburg.de> 

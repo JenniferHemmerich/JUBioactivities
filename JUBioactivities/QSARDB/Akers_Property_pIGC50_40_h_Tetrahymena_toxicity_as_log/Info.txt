@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/38/S1382668998000489.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 40-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Akers, K.S.; Sinks, G.D.; Schultz, T.W. Structure-toxicity relationships for selected halogenated aliphatic chemicals. Environ. Toxicol. Pharmacol. 1999, 7, 1, 33–39.
+EP:"Property pIGC50: 40-h Tetrahymena toxicity as log"
+Author:Akers
+Filename:"Akers_Property pIGC50: 40-h Tetrahymena toxicity as log"

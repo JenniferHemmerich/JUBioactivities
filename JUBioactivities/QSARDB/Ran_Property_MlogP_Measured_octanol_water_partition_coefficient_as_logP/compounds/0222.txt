@@ -1,0 +1,1 @@
+FC(F)(F)C1=CC=C(OC2=CC=C(C=C2)N(=O)=O)C(=C1)N(=O)=O

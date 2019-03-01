@@ -1,0 +1,1 @@
+n1(ccnc1)C[C@@H](c1ccc(cc1Cl)Cl)OCC=C

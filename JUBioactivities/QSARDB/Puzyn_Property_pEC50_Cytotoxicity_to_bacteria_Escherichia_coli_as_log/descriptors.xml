@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>dH_Me</Id>
+        <Name>The enthalpy of formation of a gaseous cation</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>MOPAC 2009</Application>
+    </Descriptor>
+</DescriptorRegistry>

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/11/tx025589p-SI.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property MOA: Mode of action"
+Paper:Schultz, T.W.; Cronin, M.T.D.; Netzeva, T.I.; Aptula, A.O. Structure-Toxicity Relationships for Aliphatic Chemicals Evaluated with Tetrahymena pyriformis. Chem. Res. Toxicol. 2002, 15, 12, 1602–1609.
+EP:"Property MOA: Mode of action"
+Author:Schultz
+Filename:"Schultz_Property MOA: Mode of action"

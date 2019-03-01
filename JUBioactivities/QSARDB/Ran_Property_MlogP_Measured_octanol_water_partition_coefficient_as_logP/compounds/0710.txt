@@ -1,0 +1,1 @@
+NC1=CC(=NC(N)=[N+]1[O-])N1CCCCC1

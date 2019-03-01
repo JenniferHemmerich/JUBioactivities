@@ -1,0 +1,1 @@
+c1c(Cl)ccc(/C=C\2/CCC(C)(C)[C@]2(O)Cn2ncnc2)c1

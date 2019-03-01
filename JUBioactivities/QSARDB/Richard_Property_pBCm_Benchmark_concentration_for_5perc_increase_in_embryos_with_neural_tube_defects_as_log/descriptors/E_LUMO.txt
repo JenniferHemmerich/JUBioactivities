@@ -1,0 +1,11 @@
+Compound Id	Lowest Unoccupied Molecular Orbital Energy
+MFA	0.1528
+DFA	0.1117
+TFA	0.0953
+MCA	0.126
+DCA	0.1113
+TCA	0.0937
+MBA	0.1111
+DBA	0.0992
+TBA	0.0842
+MIA		0.0909

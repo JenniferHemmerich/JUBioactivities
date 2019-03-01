@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logPeff</Id>
+        <Name>Highest logarithmic effective membrane permeability for pH range 3 to 9</Name>
+        <Description>Corresponding pH-s are shown in compound label.</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

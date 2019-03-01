@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/145/2014SQER147.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logNOEC: Chronic fish toxicity [log((mmol/L)] "
+Paper:Austin, T.J.; Eadsforth, C.V. Development of a chronic fish toxicity model for predicting sub-lethal NOEC values for non-polar narcotics. SAR QSAR Environ. Res. 2014, 25, 147–160.
+EP:"Property logNOEC: Chronic fish toxicity "
+Author:Austin
+Filename:"Austin_Property logNOEC: Chronic fish toxicity"

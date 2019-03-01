@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/172/2008SQER655.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pkNO3: Degradation by NO3 radicals as -logkNO3 [log(s molecule/cm3)] "
+Paper:Papa, E.; Gramatica, P. Externally validated QSPR modelling of VOC tropospheric oxidation by NO3 radicals. SAR QSAR Environ. Res. 2008, 19, 655–668.
+EP:"Property pkNO3: Degradation by NO3 radicals as -logkNO3 "
+Author:Papa
+Filename:"Papa_Property pkNO3: Degradation by NO3 radicals as -logkNO3"

@@ -1,0 +1,9 @@
+Compound Id	zx
+MPT	3.49
+MMT	3.2
+MBT	2.92
+TPT	1.81
+DBT	1.33
+DMT	1.15
+TBT	1.07
+TMT	0.69

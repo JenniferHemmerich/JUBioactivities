@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>SP</Id>
+        <Name>Eye irritation in rabbits and in humans as log(MMAS/P°) and log(1/EIT), respectively</Name>
+        <Description>Draize rabbit eye test scores, as modified maximum average score (MMAS), for pure bulk liquids were adjusted by the liquid-saturated vapor pressure P°. These adjusted scores, as log (MMAS/P°), were shown to be completely equivalent to eye irritation thresholds (EIT), expressed as log (1/EIT) in humans.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.9. Eye irritation/corrosion</Endpoint>
+        <Species>Homo sapiens (human)</Species>
+    </Property>
+</PropertyRegistry>

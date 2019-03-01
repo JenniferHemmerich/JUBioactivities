@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>EACT</Id>
+        <Name>The activation energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Gaussian 09</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SAS</Id>
+        <Name>The solvent accessible surface area(SAS) available at the site of Michael addition</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Chimera</Application>
+    </Descriptor>
+</DescriptorRegistry>

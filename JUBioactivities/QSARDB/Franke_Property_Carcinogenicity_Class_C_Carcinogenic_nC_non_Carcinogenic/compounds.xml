@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>2-Naphthylamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>91-59-8</Cas>
+        <InChI>InChI=1S/C10H9N/c11-10-6-5-8-3-1-2-4-9(8)7-10/h1-7H,11H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>Benzidine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>92-87-5</Cas>
+        <InChI>InChI=1S/C12H12N2/c13-11-5-1-9(2-6-11)10-3-7-12(14)8-4-10/h1-8H,13-14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>2-Acetylaminofluorene</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>53-96-3</Cas>
+        <InChI>InChI=1S/C15H13NO/c1-10(17)16-13-6-7-15-12(9-13)8-11-4-2-3-5-14(11)15/h2-7,9H,8H2,1H3,(H,16,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>Isopropyl-N-(3-chlorophenyl)carbamate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>101-21-3</Cas>
+        <InChI>InChI=1S/C10H12ClNO2/c1-7(2)14-10(13)12-9-5-3-4-8(11)6-9/h3-7H,1-2H3,(H,12,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>4,4'-Methylenebis(2-chloroaniline)</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>101-14-4</Cas>
+        <InChI>InChI=1S/C13H12Cl2N2/c14-10-6-8(1-3-12(10)16)5-9-2-4-13(17)11(15)7-9/h1-4,6-7H,5,16-17H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>o-Toluidine</Name>
+        <Description>Changed name and CAS from o-Toluidine · HCl, 636-21-5, to o-Toluidine, 95-53-4</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>95-53-4</Cas>
+        <InChI>InChI=1S/C7H9N/c1-6-4-2-3-5-7(6)8/h2-5H,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>2-Biphenylamine hydrochloride</Name>
+        <Description>Changed name from the original 2-Biphenylamine · HCl to 2-Biphenylamine hydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2185-92-4</Cas>
+        <InChI>InChI=1S/C12H11N.ClH/c13-12-9-5-4-8-11(12)10-6-2-1-3-7-10;/h1-9H,13H2;1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>2,6-Dichloro-p-phenylenediamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>609-20-1</Cas>
+        <InChI>InChI=1S/C6H6Cl2N2/c7-4-1-3(9)2-5(8)6(4)10/h1-2H,9-10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>4,4'-Methylenedianiline dihydrochloride</Name>
+        <Description>Changed name from the original 4,4'-Methylenedianiline . HCl to 4,4'-Methylenedianiline dihydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>13552-44-8</Cas>
+        <InChI>InChI=1S/C13H14N2.2ClH/c14-12-5-1-10(2-6-12)9-11-3-7-13(15)8-4-11;;/h1-8H,9,14-15H2;2*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>Monuron</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>150-68-5</Cas>
+        <InChI>InChI=1S/C9H11ClN2O/c1-12(2)9(13)11-8-5-3-7(10)4-6-8/h3-6H,1-2H3,(H,11,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>4,4'-Oxydianiline</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>101-80-4</Cas>
+        <InChI>InChI=1S/C12H12N2O/c13-9-1-5-11(6-2-9)15-12-7-3-10(14)4-8-12/h1-8H,13-14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>2,6-Xylidine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>87-62-7</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-4-3-5-7(2)8(6)9/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>o-Anthranilic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>118-92-3</Cas>
+        <InChI>InChI=1S/C7H7NO2/c8-6-4-2-1-3-5(6)7(9)10/h1-4H,8H2,(H,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>Acetamide, N-​[4-​(2-​chloroacetyl)​phenyl]​-</Name>
+        <Description>Changed name from the original 4-(Chloroacetyl)-acetylanilide to Acetamide, N-​[4-​(2-​chloroacetyl)​phenyl]​-</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>140-49-8</Cas>
+        <InChI>InChI=1S/C10H10ClNO2/c1-7(13)12-9-4-2-8(3-5-9)10(14)6-11/h2-5H,6H2,1H3,(H,12,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>2-Chloro-p-phenylenediamine sulphate</Name>
+        <Description>The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>61702-44-1</Cas>
+        <InChI>InChI=1S/C6H7ClN2.H2O4S/c7-5-3-4(8)1-2-6(5)9;1-5(2,3)4/h1-3H,8-9H2;(H2,1,2,3,4)</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>2,4-Dimethoxyaniline hydrochloride</Name>
+        <Description>Changed name from the original incorrect 2,4-Dimethoxy analine · HCl to 2,4-Dimethoxyaniline hydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>54150-69-5</Cas>
+        <InChI>InChI=1S/C8H11NO2.ClH/c1-10-6-3-4-7(9)8(5-6)11-2;/h3-5H,9H2,1-2H3;1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>4-Nitroanthranilic acid</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>619-17-0</Cas>
+        <InChI>InChI=1S/C7H6N2O4/c8-6-3-4(9(12)13)1-2-5(6)7(10)11/h1-3H,8H2,(H,10,11)</InChI>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>4-Nitro-o-phenylenediamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>99-56-9</Cas>
+        <InChI>InChI=1S/C6H7N3O2/c7-5-2-1-4(9(10)11)3-6(5)8/h1-3H,7-8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>p-Phenylenediamine dihydrochloride</Name>
+        <Description>Changed name from the original p-Phenylenediamine · 2HCl to p-Phenylenediamine dihydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>624-18-0</Cas>
+        <InChI>InChI=1S/C6H8N2.2ClH/c7-5-1-2-6(8)4-3-5;;/h1-4H,7-8H2;2*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>N-Phenyl-p-phenylenediamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>101-54-2</Cas>
+        <InChI>InChI=1S/C12H12N2/c13-10-6-8-12(9-7-10)14-11-4-2-1-3-5-11/h1-9,14H,13H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>1-Phenyl-2-thiourea</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>103-85-5</Cas>
+        <InChI>InChI=1S/C7H8N2S/c8-7(10)9-6-4-2-1-3-5-6/h1-5H,(H3,8,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>1,​4-​Benzenediamine, 2-​methyl-​, sulfate</Name>
+        <Description>Changed name from the original 5-Tolueneidamine sulfate to 1,​4-​Benzenediamine, 2-​methyl-​, sulfate.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>6369-59-1</Cas>
+        <InChI>InChI=1S/C7H10N2.H2O4S/c1-5-4-6(8)2-3-7(5)9;1-5(2,3)4/h2-4H,8-9H2,1H3;(H2,1,2,3,4)</InChI>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>3-Amino-4-ethoxyacetanilide</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>17026-81-2</Cas>
+        <InChI>InChI=1S/C10H14N2O2/c1-3-14-10-5-4-8(6-9(10)11)12-7(2)13/h4-6H,3,11H2,1-2H3,(H,12,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>3-Amino-9-ethylcarbazole</Name>
+        <Description>Changed original name and CAS from 3-Amino-9-ethylcarbazole · HCl to 3-Amino-9-ethylcarbazole</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>132-32-1</Cas>
+        <InChI>InChI=1S/C14H14N2/c1-2-16-13-6-4-3-5-11(13)12-9-10(15)7-8-14(12)16/h3-9H,2,15H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>4-Amino-2-nitrophenol</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>119-34-6</Cas>
+        <InChI>InChI=1S/C6H6N2O3/c7-4-1-2-6(9)5(3-4)8(10)11/h1-3,9H,7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>Aniline hydrochloride</Name>
+        <Description>Changed name from the original Aniline . HCl</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>142-04-1</Cas>
+        <InChI>InChI=1S/C6H7N.ClH/c7-6-4-2-1-3-5-6;/h1-5H,7H2;1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>o-Anisidine</Name>
+        <Description>Changed CAS from the original incorrect 134-29-0 to 90-04-0, and name from o-Anisidine · HCl to o-Anisidine</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>90-04-0</Cas>
+        <InChI>InChI=1S/C7H9NO/c1-9-7-5-3-2-4-6(7)8/h2-5H,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>p-Chloroaniline hydrochloride</Name>
+        <Description>Changed from the original p-Chloroaniline . HCl to p-Chloroaniline hydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>20265-96-7</Cas>
+        <InChI>InChI=1S/C6H6ClN.ClH/c7-5-1-3-6(8)4-2-5;/h1-4H,8H2;1H/p-1</InChI>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>4-Chloro-m-phenylenediamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>5131-60-2</Cas>
+        <InChI>InChI=1S/C6H7ClN2/c7-5-2-1-4(8)3-6(5)9/h1-3H,8-9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>4-Chloro-o-phenylenediamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>95-83-0</Cas>
+        <InChI>InChI=1S/C6H7ClN2/c7-4-1-2-5(8)6(9)3-4/h1-3H,8-9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>3-Chloro-p-toluidine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>95-74-9</Cas>
+        <InChI>InChI=1S/C7H8ClN/c1-5-2-3-6(9)4-7(5)8/h2-4H,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>m-Cresidine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>102-50-1</Cas>
+        <InChI>InChI=1S/C8H11NO/c1-6-5-7(10-2)3-4-8(6)9/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>33</Id>
+        <Name>p-Cresidine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>120-71-8</Cas>
+        <InChI>InChI=1S/C8H11NO/c1-6-3-4-8(10-2)7(9)5-6/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>34</Id>
+        <Name>Dapsone</Name>
+        <Description>(4,4-sulfonyldianiline)</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>80-08-0</Cas>
+        <InChI>InChI=1S/C12H12N2O2S/c13-9-1-5-11(6-2-9)17(15,16)12-7-3-10(14)4-8-12/h1-8H,13-14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>35</Id>
+        <Name>2,4-Diaminoanisole sulfate</Name>
+        <Description>The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>615-05-4</Cas>
+        <InChI>InChI=1S/C7H10N2O.H2O4S/c1-10-7-3-2-5(8)4-6(7)9;1-5(2,3)4/h2-4H,8-9H2,1H3;(H2,1,2,3,4)</InChI>
+    </Compound>
+    <Compound>
+        <Id>36</Id>
+        <Name>2,4-Diaminotoluene</Name>
+        <Description>Changed CAS from the original incorrect 950-80-7</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>95-80-7</Cas>
+        <InChI>InChI=1S/C7H10N2/c1-5-2-3-6(8)4-7(5)9/h2-4H,8-9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>37</Id>
+        <Name>1,5-Naphthalenediamine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2243-62-1</Cas>
+        <InChI>InChI=1S/C10H10N2/c11-9-5-1-3-7-8(9)4-2-6-10(7)12/h1-6H,11-12H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>38</Id>
+        <Name>3-Nitro-p-acetophenetide</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1777-84-0</Cas>
+        <InChI>InChI=1S/C10H12N2O4/c1-3-16-10-5-4-8(11-7(2)13)6-9(10)12(14)15/h4-6H,3H2,1-2H3,(H,11,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>39</Id>
+        <Name>Benzenamine, 2-​methoxy-​5-​nitro-</Name>
+        <Description>Changed name from the original 5-Nitro-o-anisidine to Benzenamine, 2-​methoxy-​5-​nitro-</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>99-59-2</Cas>
+        <InChI>InChI=1S/C7H8N2O3/c1-12-7-3-2-5(9(10)11)4-6(7)8/h2-4H,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>40</Id>
+        <Name>4,4'-Thiodianiline</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>139-65-1</Cas>
+        <InChI>InChI=1S/C12H12N2S/c13-9-1-5-11(6-2-9)15-12-7-3-10(14)4-8-12/h1-8H,13-14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>41</Id>
+        <Name>2,4,5-Trimethylaniline</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>137-17-7</Cas>
+        <InChI>InChI=1S/C9H13N/c1-6-4-8(3)9(10)5-7(6)2/h4-5H,10H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>42</Id>
+        <Name>4-Aminobiphenyl</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>92-67-1</Cas>
+        <InChI>InChI=1S/C12H11N/c13-12-8-6-11(7-9-12)10-4-2-1-3-5-10/h1-9H,13H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>43</Id>
+        <Name>2-Amino-5-nitrophenol</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>121-88-0</Cas>
+        <InChI>InChI=1S/C6H6N2O3/c7-5-2-1-4(8(10)11)3-6(5)9/h1-3,9H,7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>44</Id>
+        <Name>2,4-Diaminophenol dihydrochloride</Name>
+        <Description>Changed name from the original 2,4-Diaminophenol · 2HCl to 2,4-Diaminophenol dihydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>137-09-7</Cas>
+        <InChI>InChI=1S/C6H8N2O.2ClH/c7-4-1-2-6(9)5(8)3-4;;/h1-3,9H,7-8H2;2*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>45</Id>
+        <Name>4-Acetylaminobiphenyl</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>4075-79-0</Cas>
+        <InChI>InChI=1S/C14H13NO/c1-11(16)15-14-9-7-13(8-10-14)12-5-3-2-4-6-12/h2-10H,1H3,(H,15,16)</InChI>
+    </Compound>
+    <Compound>
+        <Id>46</Id>
+        <Name>4'-Fluoro-4-aminodiphenyl</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>324-93-6</Cas>
+        <InChI>InChI=1S/C12H10FN/c13-11-5-1-9(2-6-11)10-3-7-12(14)8-4-10/h1-8H,14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>47</Id>
+        <Name>4-Acetylamino-4'-fluorobiphenyl</Name>
+        <Description>Changed name from the original N-(4-(4'-Fluorobiphenyl))acetamide to 4-Acetylamino-4'-fluorobiphenyl</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>398-32-3</Cas>
+        <InChI>InChI=1S/C14H12FNO/c1-10(17)16-14-8-4-12(5-9-14)11-2-6-13(15)7-3-11/h2-9H,1H3,(H,16,17)</InChI>
+    </Compound>
+    <Compound>
+        <Id>48</Id>
+        <Name>N-(2-Fluorenyl)-2,2,2-trifluoroacetamide</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>363-17-7</Cas>
+        <InChI>InChI=1S/C15H10F3NO/c16-15(17,18)14(20)19-11-5-6-13-10(8-11)7-9-3-1-2-4-12(9)13/h1-6,8H,7H2,(H,19,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>49</Id>
+        <Name>4-Chloro-4'-aminodiphenyl ether</Name>
+        <Description>Changed name from the original incorrect 4-Chloro-4'-amino-diphenylether to 4-Chloro-4'-aminodiphenyl ether</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>101-79-1</Cas>
+        <InChI>InChI=1S/C12H10ClNO/c13-9-1-5-11(6-2-9)15-12-7-3-10(14)4-8-12/h1-8H,14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>50</Id>
+        <Name>3,3'-Dichlorobenzidine</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>91-94-1</Cas>
+        <InChI>InChI=1S/C12H10Cl2N2/c13-9-5-7(1-3-11(9)15)8-2-4-12(16)10(14)6-8/h1-6H,15-16H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>51</Id>
+        <Name>Acedapsone</Name>
+        <Description>Changed from the original name 4,4'-Sulphonylbisacetanilide to Acedapsone</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>77-46-3</Cas>
+        <InChI>InChI=1S/C16H16N2O4S/c1-11(19)17-13-3-7-15(8-4-13)23(21,22)16-9-5-14(6-10-16)18-12(2)20/h3-10H,1-2H3,(H,17,19)(H,18,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>52</Id>
+        <Name>Phenacetin</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>62-44-2</Cas>
+        <InChI>InChI=1S/C10H13NO2/c1-3-13-10-6-4-9(5-7-10)11-8(2)12/h4-7H,3H2,1-2H3,(H,11,12)</InChI>
+    </Compound>
+    <Compound>
+        <Id>53</Id>
+        <Name>o-Phenylenediamine dihydrochloride</Name>
+        <Description>Changed name from the original o-Phenylenediamine · 2HCl to o-Phenylenediamine dihydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>615-28-1</Cas>
+        <InChI>InChI=1S/C6H8N2.2ClH/c7-5-3-1-2-4-6(5)8;;/h1-4H,7-8H2;2*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>54</Id>
+        <Name>3,3',4,4'-Tetraaminobiphenyl tetrahydrochloride</Name>
+        <Description>Changed name from the original 3,3',4,4'-Tetraaminobiphenyl · 4HCl to 3,3',4,4'-Tetraaminobiphenyl tetrahydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>7411-49-6</Cas>
+        <InChI>InChI=1S/C12H14N4.4ClH/c13-9-3-1-7(5-11(9)15)8-2-4-10(14)12(16)6-8;;;;/h1-6H,13-16H2;4*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>55</Id>
+        <Name>1,3-Benzenediamine, 2,4,5,6-tetrafluoro-</Name>
+        <Description>Changed name from the original Tetrafluoro-m-phenylenediamine · 2HCl to 1,3-Benzenediamine, 2,4,5,6-tetrafluoro-</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>63886-77-1</Cas>
+        <InChI>InChI=1S/C6H4F4N2/c7-1-2(8)5(11)4(10)6(12)3(1)9/h11-12H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>56</Id>
+        <Name>2,4,6-Trimethylanilinium chloride</Name>
+        <Description>Changed name from the original 2,4,6-Trimethylalinine · HCl to 2,4,6-Trimethylanilinium chloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>6334-11-8</Cas>
+        <InChI>InChI=1S/C9H13N.ClH/c1-6-4-7(2)9(10)8(3)5-6;/h4-5H,10H2,1-3H3;1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>57</Id>
+        <Name>p-Toluidine hydrochloride</Name>
+        <Description>Changed name form the original p-Toluidine · HCl to p-Toluidine hydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>540-23-8</Cas>
+        <InChI>InChI=1S/C7H9N.ClH/c1-6-2-4-7(8)5-3-6;/h2-5H,8H2,1H3;1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>58</Id>
+        <Name>2-Amino-4-nitrophenol</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>99-57-0</Cas>
+        <InChI>InChI=1S/C6H6N2O3/c7-5-3-4(8(10)11)1-2-6(5)9/h1-3,9H,7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>59</Id>
+        <Name>2,4,6-Trichloroaniline</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>634-93-5</Cas>
+        <InChI>InChI=1S/C6H4Cl3N/c7-3-1-4(8)6(10)5(9)2-3/h1-2H,10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>60</Id>
+        <Name>m-Toluidine hydrochloride</Name>
+        <Description>Changed name form the original m-Toluidine · HCl to m-Toluidine hydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>638-03-9</Cas>
+        <InChI>InChI=1S/C7H9N.ClH/c1-6-3-2-4-7(8)5-6;/h2-5H,8H2,1H3;1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>61</Id>
+        <Name>3,3'-Dimethoxybenzidine dihydrochloride</Name>
+        <Description>Changed name from the original 3,3'-Dimethoxybenzidine · 2HCl to 3,3'-Dimethoxybenzidine dihydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>20325-40-0</Cas>
+        <InChI>InChI=1S/C14H16N2O2.2ClH/c1-17-13-7-9(3-5-11(13)15)10-4-6-12(16)14(8-10)18-2;;/h3-8H,15-16H2,1-2H3;2*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>62</Id>
+        <Name>o-Toluidine dihydrochloride</Name>
+        <Description>Changed name from the original 3,3'-Dimethylbenzidine to o-Toluidine dihydrochloride.
+The authors most likely used the cation for the calculations.</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>612-82-8</Cas>
+        <InChI>InChI=1S/C14H16N2.2ClH/c1-9-7-11(3-5-13(9)15)12-4-6-14(16)10(2)8-12;;/h3-8H,15-16H2,1-2H3;2*1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>63</Id>
+        <Name>Chloramben</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>133-90-4</Cas>
+        <InChI>InChI=1S/C7H5Cl2NO2/c8-3-1-4(7(11)12)6(9)5(10)2-3/h1-2H,10H2,(H,11,12)</InChI>
+    </Compound>
+    <Compound>
+        <Id>64</Id>
+        <Name>4,4'-Methylenebis (2-methylaniline)</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>838-88-0</Cas>
+        <InChI>InChI=1S/C15H18N2/c1-10-7-12(3-5-14(10)16)9-13-4-6-15(17)11(2)8-13/h3-8H,9,16-17H2,1-2H3</InChI>
+    </Compound>
+</CompoundRegistry>

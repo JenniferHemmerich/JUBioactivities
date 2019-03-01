@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>ClogP</Id>
+        <Name>Octanol/water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CLogP</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>b_rotR</Id>
+        <Name>Fraction of rotatable bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>MOE</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>U_latt</Id>
+        <Name>Lattice energy</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+        <Application>DMAREL 3.11</Application>
+    </Descriptor>
+</DescriptorRegistry>

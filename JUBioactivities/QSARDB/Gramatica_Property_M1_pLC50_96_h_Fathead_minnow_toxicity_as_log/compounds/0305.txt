@@ -1,0 +1,1 @@
+[C@H]1(CC(=O)c2ccccc2O1)c1ccc(cc1)O

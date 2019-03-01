@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>E7</Id>
+        <Name>Redox potential</Name>
+        <Description>One-electron redox potentials of phenols at pH 7</Description>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>6. Other (Redox potential)</Endpoint>
+    </Property>
+    <Property>
+        <Id>Log(ksx10^3)</Id>
+        <Name>Logarithm of second-order rate constant</Name>
+        <Description>ks represents the second-order rate constant for the reaction of vitamin E derivative with stable substituted phenoxyl radicals (ArO•) [2,6-di-tert-butyl-4-(4-methoxy phenyl)phenoxyl] in ethanol at 25.0°C, using stopped-flow technique.</Description>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>6. Other (Rate constant)</Endpoint>
+    </Property>
+    <Property>
+        <Id>TEAC</Id>
+        <Name>Trolox equivalent antioxidant capacity</Name>
+        <Description>TEAC is defined as the millimolar concentration of Trolox with the same antioxidant activity as a 1 mM concentration of the substance under investigation.
+Trolox - a water-soluble vitamin E analog</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other (Antioxidant activity)</Endpoint>
+    </Property>
+</PropertyRegistry>

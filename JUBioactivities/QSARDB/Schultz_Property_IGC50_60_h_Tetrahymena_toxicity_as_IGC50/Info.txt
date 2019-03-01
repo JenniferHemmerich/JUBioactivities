@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/44/i1552-8618-4-3-353.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property IGC50: 60-h Tetrahymena toxicity as IGC50 [mmol/L]"
+Paper:Schultz, T.W.; Moulton, B.A. Structure-activity relationships for nitrogen-containing aromatic molecules. Environ. Toxicol. Chem. 1985, 4, 3, 353–359.
+EP:"Property IGC50: 60-h Tetrahymena toxicity as IGC50 "
+Author:Schultz
+Filename:"Schultz_Property IGC50: 60-h Tetrahymena toxicity as IGC50"

@@ -1,0 +1,11 @@
+Compound Id	Respiratory sensitisation as logarithm of toxicity
+1	0.32
+2	0.72
+3	0.55
+4	0.5
+5	1.22
+6	1.07
+7	2.31
+8	1.44
+9	1.79
+10	2.41

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/134/2014WR64.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC50: 6-day algal toxicity as log(1/EC50) [log(1/microM)] "
+Paper:"Liu, J.; Zhang, X. Comparative toxicity of new halophenolic DBPs in chlorinated saline wastewater effluents against a marine alga: Halophenolic DBPs are generally more toxic than haloaliphatic ones. Water Res. 2014, 65, 64–72."
+EP:"Property pEC50: 6-day algal toxicity as log"
+Author:Liu
+Filename:"Liu_Property pEC50: 6-day algal toxicity as log"

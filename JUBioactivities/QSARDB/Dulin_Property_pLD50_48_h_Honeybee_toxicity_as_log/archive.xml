@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Interpretation of honeybees contact toxicity associated to acetylcholinesterase inhibitors</Name>
+    <Description>The widespread use of different pesticides generates adverse effects on non target organisms like honeybees. Organophosphorous and carbamates kill honeybees through the inactivation of acetylcholinesterase (AChE), thereby interfering with nerve signaling and function. For this class of pesticides, it is fundamental to understand the relationship between their structures and the contact toxicity for honeybees. A Quantitative Structure–Activity Relationship (QSAR) study was carried out on 45 derivatives by a genetic algorithm approach starting from more than 2500 descriptors. In parallel, a new 3D model of AChE associated to honeybees was defined. Physicochemical properties of the receptor and docking studies of the derivatives allow understanding the meaningful of three descriptors and the implication of several amino acids in the overall toxicity of the pesticides.</Description>
+</Archive>

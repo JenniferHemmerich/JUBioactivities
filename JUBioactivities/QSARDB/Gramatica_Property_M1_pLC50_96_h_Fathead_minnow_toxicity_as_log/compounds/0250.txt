@@ -1,0 +1,1 @@
+O=c1oc2c(ccc(O)c2)c(CC)c1c1ccc(OC)cc1

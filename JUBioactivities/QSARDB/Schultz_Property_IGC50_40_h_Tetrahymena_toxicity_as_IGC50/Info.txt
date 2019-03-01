@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/37/S1382668906000937.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property IGC50: 40-h Tetrahymena toxicity as IGC50 [mmol/L]"
+Paper:"Schultz, T.W.; Yarbrough, J.W.; Pilkington, T.B. Aquatic toxicity and abiotic thiol reactivity of aliphatic isothiocyanates: Effects of alkyl-size and -shape. Environ. Toxicol. Pharmacol. 2007, 23, 1, 10–17."
+EP:"Property IGC50: 40-h Tetrahymena toxicity as IGC50 "
+Author:Schultz
+Filename:"Schultz_Property IGC50: 40-h Tetrahymena toxicity as IGC50"

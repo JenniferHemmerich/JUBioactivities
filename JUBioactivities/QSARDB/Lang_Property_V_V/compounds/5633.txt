@@ -1,0 +1,1 @@
+O=C(CO)[C@@H]4[C@@]3(C=O)C[C@H](O)[C@@H]2[C@@]1(/C(=C\C(=O)CC1)CC[C@H]2[C@@H]3CC4)C

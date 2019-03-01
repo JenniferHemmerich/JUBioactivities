@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>VCC_logS</Id>
+        <Name>Logarithm of aqueous solubility</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ALOGPS 2.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>WPSA1</Id>
+        <Name>Charged Partial Surface Areas WPSA-1</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Chemistry Development Kit 1.0.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>LUMO</Id>
+        <Name>Lowest unoccupied molecular orbital (LUMO) energy</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA Pro</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>THSA</Id>
+        <Name>Charged Partial Surface Areas THSA</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>Chemistry Development Kit 1.0.1</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>min_HA_HD</Id>
+        <Name>Minimum number of hydrogen bond acceptor or hydrogen bond donor sites</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA Pro</Application>
+    </Descriptor>
+</DescriptorRegistry>

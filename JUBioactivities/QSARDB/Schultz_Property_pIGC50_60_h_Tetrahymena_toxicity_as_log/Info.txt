@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/22/0147651385900090.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 60-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Schultz, T.W.; Applehans, F.M. Correlations for the acute toxicity of multiple nitrogen substituted aromatic molecules. Ecotoxicol. Environ. Saf. 1985, 10, 1, 75–85.
+EP:"Property pIGC50: 60-h Tetrahymena toxicity as log"
+Author:Schultz
+Filename:"Schultz_Property pIGC50: 60-h Tetrahymena toxicity as log"

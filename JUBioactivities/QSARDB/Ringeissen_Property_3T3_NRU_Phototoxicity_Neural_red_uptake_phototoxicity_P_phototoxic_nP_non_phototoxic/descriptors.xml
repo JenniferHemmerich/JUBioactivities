@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>MW</Id>
+        <Name>Molecular Weight</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>EGAP</Id>
+        <Name>HOMO-LUMO gap</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>MOPAC 93</Application>
+    </Descriptor>
+</DescriptorRegistry>

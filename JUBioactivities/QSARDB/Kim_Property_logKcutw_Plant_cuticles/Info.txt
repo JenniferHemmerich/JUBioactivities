@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/192/2014STE113.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logKcutw: Plant cuticles/water partition coefficient as logKcutw [L/kg(cut)]"
+Paper:Kim, S.-J.; Lee, H.; Kwon, J.-H. Measurement of partition coefficients for selected polycyclic aromatic hydrocarbons between isolated plant cuticles and water. Sci. Total Environ. 2014, 494-495, 113–118.
+EP:"Property logKcutw: Plant cuticles/water partition coefficient as logKcutw "
+Author:Kim
+Filename:"Kim_Property logKcutw: Plant cuticles/water partition coefficient as logKcutw"

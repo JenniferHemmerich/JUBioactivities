@@ -1,0 +1,1 @@
+ClC3(Cl)[C@]1(Cl)C(/Cl)=C(/Cl)[C@@]3(Cl)[C@@H]2COS(=O)OC[C@H]12

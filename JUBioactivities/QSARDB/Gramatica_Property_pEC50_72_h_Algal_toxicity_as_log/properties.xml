@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pEC50</Id>
+        <Name>72-h Algal toxicity as log(1/EC50)</Name>
+        <Description>Measured by the OECD 201 test protocol, collected from the FOOTPRINT Pesticide Properties Database (PPDB) with higher quality-scores: 4 (verified data) and 5 (verified data used for regulatory purposes) and 13 (B)TAZs tested within CADASTER project. The experimental range was from 3.09 to 6.72 log units.</Description>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.2. Short-term toxicity to algae</Endpoint>
+        <Species>Pseudokirchneriella subcapitata</Species>
+    </Property>
+</PropertyRegistry>

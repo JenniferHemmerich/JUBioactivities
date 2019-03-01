@@ -1,0 +1,12 @@
+In silico Prediction of Drug Induced Liver Toxicity Using Substructure Pattern Recognition Method
+
+Chen Zhang
+Feixiong Cheng
+Weihua Li
+Guixia Liu
+Philip W Lee
+Yun Tang
+
+First published: 3 February 2016
+https://doi.org/10.1002/minf.201500055
+

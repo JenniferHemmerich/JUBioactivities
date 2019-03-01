@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>GHLI</Id>
+        <Name>Global half-life index</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Endpoint>2. Environmental Fate Parameters 2.1.c. Persistence: Abiotic degradation in water. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

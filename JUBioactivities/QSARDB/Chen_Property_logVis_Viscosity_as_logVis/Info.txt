@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/151/2013FPE37.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logVis: Viscosity as logVis [cP]"
+Paper:Chen, B.-K.; Liang, M.-J.; Wu, T.-Y.; Wang, H. P. A high correlate and simplified QSPR for viscosity of imidazolium-based ionic liquids. Fluid Phase Equilib. 2013, 350, 37–42.
+EP:"Property logVis: Viscosity as logVis "
+Author:Chen
+Filename:"Chen_Property logVis: Viscosity as logVis"

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logTA100exp</Id>
+        <Name>Mutagenicity potency in TA100 without the S9 activation system</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.10. Mutagenicity</Endpoint>
+        <Species>Salmonella typhimurium</Species>
+    </Property>
+</PropertyRegistry>

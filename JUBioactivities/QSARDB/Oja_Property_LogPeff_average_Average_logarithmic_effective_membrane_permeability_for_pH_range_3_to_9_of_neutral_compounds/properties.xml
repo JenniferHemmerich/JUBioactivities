@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>LogPeff_average</Id>
+        <Name>Average logarithmic effective membrane permeability for pH range 3 to 9 of neutral compounds</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>LogPeff_pH3</Id>
+        <Name>Logarithmic effective membrane permeability of amphoteric compounds at pH 3</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>LogPeff_pH5</Id>
+        <Name>Logarithmic effective membrane permeability of amphoteric compounds at pH 5</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>LogPeff_pH7.4</Id>
+        <Name>Logarithmic effective membrane permeability of amphoteric compounds at pH 7.4</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>LogPeff_pH9</Id>
+        <Name>Logarithmic effective membrane permeability of amphoteric compounds at pH 9</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>LogPeff_highest</Id>
+        <Name>Highest logarithmic effective membrane permeability for pH range 3 to 9 of amphoteric compounds</Name>
+        <Description></Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

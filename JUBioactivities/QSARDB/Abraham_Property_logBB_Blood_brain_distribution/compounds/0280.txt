@@ -1,0 +1,1 @@
+CC(C)(OC(CCCC1=CC=C(N(CCCl)CCCl)C=C1)=O)C

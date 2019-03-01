@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logK</Id>
+        <Name>Hydrolytic rate constant as logK</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Endpoint>1. Physical Chemical Properties 1.15. Hydrolysis</Endpoint>
+    </Property>
+</PropertyRegistry>

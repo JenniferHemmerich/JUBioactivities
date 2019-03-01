@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/30/S0045653502005088.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property MOA: Mode of action"
+Paper:Cronin, M.T.D.; Aptula, A.O.; Duffy, J.C.; Netzeva, T.I.; Rowe, P.H.; Valkova, I.V.; Schultz, T.W. Comparative assessment of methods to develop QSARs for the prediction of the toxicity of phenols to Tetrahymena pyriformis. Chemosphere 2002, 49, 10, 1201–1221.
+EP:"Property MOA: Mode of action"
+Author:Cronin
+Filename:"Cronin_Property MOA: Mode of action"

@@ -1,0 +1,1 @@
+ClC1=C(Cl)C2=NC=CN=C2C(Cl)=C1Cl

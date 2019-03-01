@@ -1,0 +1,1 @@
+O(C)c1cc2CC[C@H]3[C@H]4[C@@]([C@@H](O)[C@H](O)C4)(CC[C@@H]3c2cc1)C

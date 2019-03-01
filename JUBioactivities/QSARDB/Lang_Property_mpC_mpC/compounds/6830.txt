@@ -1,0 +1,1 @@
+CC(=O)OC(c1ccc(o1)[N+](=O)[O-])OC(=O)C

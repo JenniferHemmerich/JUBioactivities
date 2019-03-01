@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/114/2005JCIM1256.qdb.zip?sequence=5&isAllowed=y
+Endpoint:"Property pLC50: 96-h Fathead minnow toxicity as log(1/LC50) [log(L/mmol)]"
+Paper:Papa, E.; Villa, F.; Gramatica, P. Statistically Validated QSARs, Based on Theoretical Descriptors, for Modeling Aquatic Toxicity of Organic Chemicals in Pimephales promelas (Fathead Minnow). J. Chem. Inf. Model. 2005, 45, 5, 1256–1266.
+EP:"Property pLC50: 96-h Fathead minnow toxicity as log"
+Author:Papa
+Filename:"Papa_Property pLC50: 96-h Fathead minnow toxicity as log"

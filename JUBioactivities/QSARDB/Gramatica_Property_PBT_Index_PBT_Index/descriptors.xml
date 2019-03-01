@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>nX</Id>
+        <Name>Number of halogen atoms</Name>
+        <Description>F, Cl, Br, I, At, Uus, encodes for substitution with halogens and it is known to increase the PBT behavior of chemicals.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nBondsM</Id>
+        <Name>Number of multiple bonds</Name>
+        <Description>Total number of bonds that have bond order greater than one (aromatic bonds have bond order 1.5). Encodes for unsaturation and it is known to increase the PBT behavior of chemicals.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MAXDP2</Id>
+        <Name>Maximum positive intrinsic state difference in the molecule</Name>
+        <Description>Using deltaV = Zv-maxBondedHydrogens. It takes into account the electronic distribution in the topological graph and is related to the electrophilicity of the molecule. It is inversely related to the PBT Index and encodes for a compound’s ability to form electrostatic and dipole–dipole interactions.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHBDon_Lipinski</Id>
+        <Name>Number of donor atoms for H bonds</Name>
+        <Description>Using Lipinski's definition: Any OH or NH. Each available hydrogen atom is counted as one hydrogen bond donor. It is inversely related to the PBT Index and encodes for a compound’s ability to form hydrogen bonds in the surrounding media.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>PaDEL-Descriptor 2.18</Application>
+    </Descriptor>
+</DescriptorRegistry>

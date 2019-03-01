@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pKi</Id>
+        <Name>LRRK2 inhibition as log(1/Ki)</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>5. Toxicokinetics 5.9. Protein-binding</Endpoint>
+    </Property>
+</PropertyRegistry>

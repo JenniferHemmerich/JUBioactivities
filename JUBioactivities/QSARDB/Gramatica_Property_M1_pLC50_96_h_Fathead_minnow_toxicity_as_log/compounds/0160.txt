@@ -1,0 +1,1 @@
+c1(c(nccc1)/C(=N/NC(=O)Nc1cc(cc(c1)F)F)/C)C(=O)O

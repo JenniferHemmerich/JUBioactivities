@@ -1,0 +1,1 @@
+Deleted Row 272 of the *.xls in the csv due to missing SMILES string

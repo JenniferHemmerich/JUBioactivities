@@ -1,0 +1,23 @@
+CORRECTIONS AND CHANGES :
+
+Mixtures:
+
+We tried to separate this mixtures as far as there were given separate structures and  results for each substance (for example, TR021, Aldrin and Dieldrin, were separated in TR021a: Aldrin and TR021b: Dieldrin).
+When there was only one result for a mixture of two or more substances, we
+removed structures and results (e.g. Diesel fuel (TR310: mixture of
+carbohydrate compounds) or Chloraminated water (TR392: reaction to several
+compounds in water)). 
+
+Double Entries:
+
+The most relevant entries were used (e.g. first entry of TR-440, TR-431
+instead of TR-250, TR-194 instead of TR-197 & 199)
+
+Non-standardized Studies:
+
+Studies with unusual protocols (e.g. promotor studies) were removed 
+
+TR numbers of classifications and structures were synchronized
+
+<cramer@informatik.uni-freiburg.de>, <reichenb@mail.uni-freiburg.de>,
+<helma@informatik.uni-freiburg.de>

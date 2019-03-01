@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/112/2013CRT767.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC3: Skin sensitisation potency in the local lymph node assay (LLNA) as log(1/EC3) [log(L/mol)]"
+Paper:Enoch, S. J.; Roberts, D. W. Predicting Skin Sensitization Potency for Michael Acceptors in the LLNA Using Quantum Mechanics Calculations. Chem. Res. Toxicol. 2013, 26, 5, 767-774.
+EP:"Property pEC3: Skin sensitisation potency in the local lymph node assay "
+Author:Enoch
+Filename:"Enoch_Property pEC3: Skin sensitisation potency in the local lymph node assay"

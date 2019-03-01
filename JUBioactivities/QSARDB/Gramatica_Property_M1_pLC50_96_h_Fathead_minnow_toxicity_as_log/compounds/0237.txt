@@ -1,0 +1,1 @@
+[C@H](CC)([C@@H](CC)c1ccc(OC)cc1)c1ccc(O)cc1

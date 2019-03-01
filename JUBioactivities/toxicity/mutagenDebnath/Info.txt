@@ -1,0 +1,6 @@
+Mutag Dataset
+
+Debnath, A.K. Lopez de Compadre, R.L., Debnath, G., Shusterman, A.J., and Hansch, C. (1991).
+Structure-activity relationship of mutagenic aromatic and heteroaromatic nitro compounds. Correlation with molecular orbital energies and hydrophobicity. J. Med. Chem. 34:786-797.
+
+http://cdb.ics.uci.edu/cgibin/LearningDatasetsWeb.py

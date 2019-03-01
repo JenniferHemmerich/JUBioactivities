@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logPeff_pH3</Id>
+        <Name>Logarithmic effective membrane permeability at pH 3</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>logPeff_pH5</Id>
+        <Name>Logarithmic effective membrane permeability at pH 5</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>logPeff_pH7.4</Id>
+        <Name>Logarithmic effective membrane permeability at pH 7.4</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>logPeff_pH9</Id>
+        <Name>Logarithmic effective membrane permeability at pH 9</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

@@ -1,0 +1,1 @@
+BrC1=CC=C(C=C1)C1=CC=C(Br)C=C1

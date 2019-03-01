@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/124/2006CRT1540.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property LogRBA: Estrogen receptor relative binding affinity"
+Paper:Liu, H.; Papa, E.; Gramatica, P. QSAR Prediction of Estrogen Activity for a Large Set of Diverse Chemicals under the Guidance of OECD Principles. Chem. Res. Toxicol. 2006, 19, 11, 1540–1548.
+EP:"Property LogRBA: Estrogen receptor relative binding affinity"
+Author:Liu
+Filename:"Liu_Property LogRBA: Estrogen receptor relative binding affinity"

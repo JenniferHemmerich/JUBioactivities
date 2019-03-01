@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>VED1</Id>
+        <Name>eigenvector coefficient sum from distance matrix</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nHAcc</Id>
+        <Name>number of acceptor atoms for H-bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MAXDP</Id>
+        <Name>maximal electropological positive variation</Name>
+        <Labels></Labels>
+        <Cargos>bibtex values</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>CIC0</Id>
+        <Name>complementary information content index neighbourhood symmetry of 0 order</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application>DRAGON 5.3</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>logarithm of octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>EPI Suite 3.12</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>logSw</Id>
+        <Name>logarithm of water solubility</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>EPI Suite 3.12</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>ARR</Id>
+        <Name>theoretical descriptor of aromaticity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Descriptor>
+</DescriptorRegistry>

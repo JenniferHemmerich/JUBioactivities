@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/154/2001SQER275.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property ratioI50NTE_I50AChE: Ratio of (log10I50NTE/log10I50AChE)"
+Paper:Singh, A. QSAR for the organophosphate-induced inhibition and ‘aging’ of the enzyme neuropathy target esterase (NTE). SAR QSAR Environ. Res. 2001, 12, 275-295.
+EP:"Property ratioI50NTE_I50AChE: Ratio of "
+Author:Singh
+Filename:"Singh_Property ratioI50NTE_I50AChE: Ratio of"

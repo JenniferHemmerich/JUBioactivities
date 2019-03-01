@@ -1,0 +1,1 @@
+CC(=O)OC(COC(=O)C)COC(C)=O

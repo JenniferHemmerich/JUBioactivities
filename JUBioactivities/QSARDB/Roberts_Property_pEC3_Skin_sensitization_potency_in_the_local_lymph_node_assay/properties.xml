@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pEC3</Id>
+        <Name>Skin sensitization potency in the local lymph node assay (LLNA) as log(1/EC3)</Name>
+        <Description>The dose (expressed as percent concentration by weight) giving a stimulation index of 3 in local lymph node assay (LLNA) as pEC3 = LogEC3 - LogMW where MW refers to the Molecular Weight.</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.6. Skin sensitisation</Endpoint>
+        <Species>Mus (mouse)</Species>
+    </Property>
+</PropertyRegistry>

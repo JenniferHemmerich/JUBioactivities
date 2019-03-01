@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>pKa</Id>
+        <Name>Acid dissociation constant as log(1/Ka)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>BioByte</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>E_LUMO</Id>
+        <Name>Lowest Unoccupied Molecular Orbital Energy</Name>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>SPARTAN</Application>
+    </Descriptor>
+</DescriptorRegistry>

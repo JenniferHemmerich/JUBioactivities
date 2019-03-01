@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pEC50</Id>
+        <Name>48-h Algal toxicity as log(1/EC50)</Name>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>3. Ecotoxic effects 3.2. Short-term toxicity to algae</Endpoint>
+        <Species>Scenedesmus obliquus</Species>
+    </Property>
+</PropertyRegistry>

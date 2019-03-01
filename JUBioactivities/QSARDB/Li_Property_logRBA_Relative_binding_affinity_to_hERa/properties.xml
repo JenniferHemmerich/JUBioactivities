@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logRBA</Id>
+        <Name>Relative binding affinity to hERa</Name>
+        <Description>Estrogenic activity is recorded as the RBA, which deﬁned as the ratio of the molar concentration of E2 to that of the competing chemical required to decrease radiolabeled E2-receptor binding by 50%, which is then multiplied by 100.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.18. Endocrine Activity</Endpoint>
+    </Property>
+</PropertyRegistry>

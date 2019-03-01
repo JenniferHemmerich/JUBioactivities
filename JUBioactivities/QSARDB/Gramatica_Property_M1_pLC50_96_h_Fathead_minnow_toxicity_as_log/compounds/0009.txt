@@ -1,0 +1,1 @@
+n1(ncnc1)C[C@@]1(O[C@H](CO1)CCC)c1c(cc(cc1)Cl)Cl

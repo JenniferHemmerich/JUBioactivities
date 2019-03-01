@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>dimethyl glutarate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1119-40-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>diethyl succinate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>123-25-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>dimethyl suberate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1732-09-8</Cas>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>diethyl adipate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>141-28-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>diethyl pimelate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2050-20-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>dimethyl sebacate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>106-79-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>dibutyl adipate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-99-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>diethyl sebacate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>110-40-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>dimethyl brassylate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1472-87-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>dibutyl suberate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>16090-77-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>dimethyl malonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>108-59-8</Cas>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>dimethyl succinate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>106-65-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>diethyl-1,3-acetonedicarboxylate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-50-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>diethyl malonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-53-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>diethyl-3-oxopimelate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>40420-22-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>diethyl methylmalonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>609-08-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>diethyl ethylmalonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>133-13-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>diethyl allylmalonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2049-80-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>diethyl propylmalonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2163-48-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>diethyl butylmalonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>133-08-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>dimethyl oxalate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>553-90-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>diethyl ketomalonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>609-09-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>diethyl oxalate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>95-92-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>diethyl oxalpropionate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>5965-53-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>dibutyl oxalate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2050-60-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>dimethyl maleate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>624-48-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>dimethyl ethylidene malonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>17041-60-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>diethyl fumarate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>623-91-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>diethyl ethylidene malonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1462-12-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>diethyl isopropylidene malonate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>6802-75-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>dibutyl fumarate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-75-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>dibutyl maleate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>105-76-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>33</Id>
+        <Name>dimethyl acetylenedicarboxylate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>762-42-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>34</Id>
+        <Name>diethyl acetylenedicarboxylate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>762-21-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>35</Id>
+        <Name>di(tert)butyl acetylenedicarboxylate</Name>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>66086-33-7</Cas>
+    </Compound>
+</CompoundRegistry>

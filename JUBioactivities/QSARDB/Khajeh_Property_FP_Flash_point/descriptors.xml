@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>IVDM</Id>
+        <Name>mean information content on the vertex degree magnitude</Name>
+        <Description>measures the complexity of the molecule</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>G2e</Id>
+        <Name>2nd component symmetry directional WHIM index / weighted by Sanderson electronegativity</Name>
+        <Description>based on the statistical indices calculated as the
+information content index on the symmetry along each component</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Application>DRAGON</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nRNH2</Id>
+        <Name>number of primary aliphatic amine groups</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Hy</Id>
+        <Name>hydrophilic factor</Name>
+        <Description>empirical index related to the hydrophilicities of compounds based on count descriptors. It is a measure of the number of hydrophilic functional groups (-OH, -SH, -NH)</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON</Application>
+    </Descriptor>
+</DescriptorRegistry>

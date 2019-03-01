@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>MP</Id>
+        <Name>Melting Point</Name>
+        <Labels></Labels>
+        <Cargos>ucum values</Cargos>
+    </Descriptor>
+    <Descriptor>
+        <Id>ClogP</Id>
+        <Name>Calculated octanol/water partition coefficient as logP</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>ClogP 4</Application>
+    </Descriptor>
+</DescriptorRegistry>

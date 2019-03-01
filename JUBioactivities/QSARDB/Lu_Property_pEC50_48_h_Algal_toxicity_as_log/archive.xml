@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>QSAR study on the toxicity of substituted benzenes to the algae (Scenedesmus obliquus)</Name>
+    <Description>50% effective inhibition concentration 48h-EC50 of 40 substituted benzenes to the algae (Scenedesmus obliquus) was determined. The energy of the lowest unoccupied molecular orbital (ELUMO) was calculated by the quantum chemical method MOPAC6.0-AM1. By using ELUMO and the hydrophobicity parameter log Kow the quantitative structure–activity relationship model (QSAR) was developed: log(1/EC50) = 0.272 log Kow − 0.659ELUMO + 2.54, R2=0.793, S.E.=0.316, F=71.07, n=40. A series of equations were obtained about the measured EC50 values of different subclasses of compounds. For those compounds containing double –NO2, their toxicity may be related chiefly to the intracellular reduction of –NO2 obtaining electron, while for anilines and phenols, Kow contributes most to the QSAR and ELUMO very little.</Description>
+</Archive>

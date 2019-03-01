@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/118/2008JPCC4785.zip?sequence=1&isAllowed=y
+Endpoint:"Property p_abinitio: Ab initio calculated polarizability [Å^3]"
+Paper:Martin, D.; Sild, S.; Maran, U.; Karelson, M. QSPR Modeling of the Polarizability of Polyaromatic Hydrocarbons and Fullerenes. J. Phys. Chem. C 2008, 112, 13, 4785–4790.
+EP:"Property p_abinitio: Ab initio calculated polarizability "
+Author:Martin
+Filename:"Martin_Property p_abinitio: Ab initio calculated polarizability"

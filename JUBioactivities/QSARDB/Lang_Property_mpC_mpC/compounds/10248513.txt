@@ -1,0 +1,1 @@
+Clc1ccc2N=C(C[N+]([O-])=C(c2c1)c3ccccc3)NC

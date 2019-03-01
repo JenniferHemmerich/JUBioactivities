@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>PIImol</Id>
+        <Name>Skin irritation potential (PII), molecular-based score</Name>
+        <Labels>Training</Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.4. Skin irritation/corrosion</Endpoint>
+        <Species>Oryctolagus cuniculus (rabbit)</Species>
+    </Property>
+</PropertyRegistry>

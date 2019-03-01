@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logLC50</Id>
+        <Name>48-h Daphnia toxicity as log(LC50)</Name>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>3. Ecotoxic effects, 3.2 Acute toxicity to Daphnia</Endpoint>
+        <Species>Daphnia magna</Species>
+    </Property>
+</PropertyRegistry>

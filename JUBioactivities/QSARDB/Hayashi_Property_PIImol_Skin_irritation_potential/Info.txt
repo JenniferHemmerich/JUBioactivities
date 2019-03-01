@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/153/1999TIV915.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property PIImol: Skin irritation potential (PII), molecular-based score"
+Paper:Hayashi, M.; Nakamura, Y.; Higashi, K.; Kato, H.; Kishida, F.; Kaneko, H. A quantitative structure–activity relationship study of the skin irritation potential of phenols. Toxicol. In Vitro 1999, 13, 915–922.
+EP:"Property PIImol: Skin irritation potential "
+Author:Hayashi
+Filename:"Hayashi_Property PIImol: Skin irritation potential"

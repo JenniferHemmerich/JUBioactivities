@@ -1,0 +1,9 @@
+Paper:
+
+DOI: 10.1021/acs.chemrestox.5b00465
+Chem. Res. Toxicol. 2016, 29, 757−767
+Computational Models for Human and Animal Hepatotoxicity with a
+Global Application Scope
+Denis Mulliner, Friedemann Schmidt, Manuela Stolte, Hans-Peter Spirkl, Andreas Czich,
+and Alexander Amberg
+

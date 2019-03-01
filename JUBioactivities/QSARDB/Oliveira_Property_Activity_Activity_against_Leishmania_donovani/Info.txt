@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/169/2008QCS1020.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property Activity: Activity against Leishmania donovani"
+Paper:Oliveira, K. M. G.; Takahata, Y. QSAR Modeling of Nucleosides Against Amastigotes of Leishmania donovani Using Logistic Regression and Classification Tree. QSAR Comb. Sci. 2008, 27, 1020–1027.
+EP:"Property Activity: Activity against Leishmania donovani"
+Author:Oliveira
+Filename:"Oliveira_Property Activity: Activity against Leishmania donovani"

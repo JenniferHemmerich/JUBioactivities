@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Quantitative structure-activity relationship analysis of phenolic antioxidants</Name>
+    <Description>In this report, the quantitative structure-activity relationship (QSAR) analyses of substituted phenols, vitamin E derivatives and flavonoids are presented. Two models have been derived using calculated parameters such as the heat of formation (Hf), the energy of the lowest unoccupied molecular orbital of radicals (Elumo-r), the energy of the highest occupied molecular orbital of the parent compounds (Ehomo) and the number of hydroxyl groups (OH). These models can be used to estimate the redox potentials or antioxidant activities of new substituted phenolic compounds or vitamin E derivatives. The Trolox equivalent antioxidant capacities (TEACs) of 42 different flavonoids are found to be mainly governed by the number and location of hydroxyl groups on the flavonoid ring system.</Description>
+</Archive>

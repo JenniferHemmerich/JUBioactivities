@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>OSF</Id>
+        <Name>Oral slope factor</Name>
+        <Labels></Labels>
+        <Cargos>ucum values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.12. Carcinogenicity</Endpoint>
+    </Property>
+    <Property>
+        <Id>Carc_class</Id>
+        <Name>Carciogenic class</Name>
+        <Description>P = Higher carcinogenic compounds (bioassay value 0.5 mg/kg/day or less than that)
+N = Lower carcinogenic compounds (bioassay value more than 0.5 mg/kg/day)
+U = If discriminant function value is between 0 and 0.5, compounds were classified as undetermined carcinogenicity</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.12. Carcinogenicity</Endpoint>
+    </Property>
+    <Property>
+        <Id>logMW_OSF</Id>
+        <Name>Carciogenicity</Name>
+        <Description>log(Molecular weight/Oral slope factor)</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex ucum</Cargos>
+        <Endpoint>4. Human health effects 4.12. Carcinogenicity</Endpoint>
+    </Property>
+</PropertyRegistry>

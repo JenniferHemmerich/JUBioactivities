@@ -1,0 +1,1 @@
+FC(F)(F)CN2C(=O)CN=C(c1ccccc1)c3cc(Cl)ccc23

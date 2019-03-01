@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>WA</Id>
+        <Name>Mean Weiner index</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Mv</Id>
+        <Name>Mean atomic van der Waals volume</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>H_046</Id>
+        <Name>H attached to C-O sp3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nCb</Id>
+        <Name>Number of C sp2 in substituted benzenes</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MAXDP</Id>
+        <Name>Maximal electrotopological positive variation</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nN</Id>
+        <Name>Number of nitrogen atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.2</Application>
+    </Descriptor>
+</DescriptorRegistry>

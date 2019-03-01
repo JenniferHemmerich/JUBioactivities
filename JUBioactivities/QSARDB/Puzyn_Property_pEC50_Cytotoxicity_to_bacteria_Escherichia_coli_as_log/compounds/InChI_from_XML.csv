@@ -1,0 +1,16 @@
+ID,InchiCode
+ZnO,InChI=1S/O.Zn
+CuO,InChI=1S/Cu.O
+Y2O3,InChI=1S/3O.2Y/q3*-2;2*+3
+Bi2O3,InChI=1S/2Bi.3O/q2*+3;3*-2
+In2O3,InChI=1S/2In.3O/q2*+3;3*-2
+Fe2O3,InChI=1S/2Fe.H2O.3O/h;;1H2;;;/q2*+3;;3*-2
+SiO2,InChI=1S/O2Si/c1-3-2
+SnO2,InChI=1S/2O.Sn
+TiO2,InChI=1S/2O.Ti
+Sb2O3,InChI=1S/3O.2Sb/q3*-2;2*+3
+ZrO2,InChI=1S/2O.Zr
+CoO,InChI=1S/Co.O
+NiO,InChI=1S/Ni.O
+Cr2O3,InChI=1S/2Cr.3O
+La2O3,InChI=1S/2La.3O/q2*+3;3*-2

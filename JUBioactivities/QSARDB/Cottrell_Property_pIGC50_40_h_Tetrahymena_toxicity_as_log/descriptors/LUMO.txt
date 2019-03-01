@@ -1,0 +1,12 @@
+Compound Id	Energy of the lowest unoccupied molecular orbital
+1	0.497
+2	0.469
+3	0.379
+4	0.553
+5	0.387
+6	0.533
+7	0.389
+8	0.120
+9	0.379
+10	0.383
+11	0.378

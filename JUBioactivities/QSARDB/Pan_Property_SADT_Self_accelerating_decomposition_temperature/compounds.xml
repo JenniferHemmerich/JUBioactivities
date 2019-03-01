@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>m-Bis(tert-butylperoxyisopropyl)benzene </Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>2212-81-9</Cas>
+        <InChI>InChI=1S/C20H34O4/c1-17(2,3)21-23-19(7,8)15-12-11-13-16(14-15)20(9,10)24-22-18(4,5)6/h11-14H,1-10H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>Di-tert-butyl peroxide</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>110-05-4</Cas>
+        <InChI>InChI=1S/C8H18O2/c1-7(2,3)9-10-8(4,5)6/h1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>Di-tert-amyl peroxide</Name>
+        <Description>Name changed. Original (Di-tert-pentyl peroxide)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>10508-09-5</Cas>
+        <InChI>InChI=1S/C10H22O2/c1-7-9(3,4)11-12-10(5,6)8-2/h7-8H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>tert-Butyl peroxybenzoate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>614-45-9</Cas>
+        <InChI>InChI=1S/C11H14O3/c1-11(2,3)14-13-10(12)9-7-5-4-6-8-9/h4-8H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>Ditetradecyl peroxydicarbonate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>53220-22-7</Cas>
+        <InChI>InChI=1S/C30H58O6/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-33-29(31)35-36-30(32)34-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h3-28H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>Dicetyl peroxydicarbonate</Name>
+        <Description>Name changed. Original (Biscetyl peroxydicarbonate)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>26322-14-5</Cas>
+        <InChI>InChI=1S/C34H66O6/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-31-37-33(35)39-40-34(36)38-32-30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h3-32H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>Dicumyl peroxide</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>80-43-3</Cas>
+        <InChI>InChI=1S/C18H22O2/c1-17(2,15-11-7-5-8-12-15)19-20-18(3,4)16-13-9-6-10-14-16/h5-14H,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>Cyclohexanone peroxide</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>12262-58-7</Cas>
+        <InChI>InChI=1S/C12H22O5/c13-11(7-3-1-4-8-11)16-17-12(15-14)9-5-2-6-10-12/h13-14H,1-10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>Lauroyl peroxide </Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>105-74-8</Cas>
+        <InChI>InChI=1S/C24H46O4/c1-3-5-7-9-11-13-15-17-19-21-23(25)27-28-24(26)22-20-18-16-14-12-10-8-6-4-2/h3-22H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>Cumyl tert-butyl peroxide </Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>3457-61-2</Cas>
+        <InChI>InChI=1S/C13H20O2/c1-12(2,3)14-15-13(4,5)11-9-7-6-8-10-11/h6-10H,1-5H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>tert-Butyl peroxyneodecanoate </Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>26748-41-4</Cas>
+        <InChI>InChI=1S/C14H28O3/c1-13(2,3)11-9-7-8-10-12(15)16-17-14(4,5)6/h7-11H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>Cumyl peroxyneodecanoate</Name>
+        <Description>Incompletely Defined Substance in SciFinder</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>26748-47-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>1-(Acetyloxy)-2-propanone</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>592-20-1</Cas>
+        <InChI>InChI=1S/C5H8O3/c1-4(6)3-8-5(2)7/h3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>tert-Butyl hydroperoxide</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>75-91-2</Cas>
+        <InChI>InChI=1S/C4H10O2/c1-4(2,3)6-5/h5H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>tert-Butyl peroxyacetate</Name>
+        <Description>Name changed. Original (t-Butyl peroxy acetate)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>107-71-1</Cas>
+        <InChI>InChI=1S/C6H12O3/c1-5(7)8-9-6(2,3)4/h1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>Acetylacetone peroxide</Name>
+        <Description>Name changed. Original (Acetylacetoneperoxide)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>37187-22-7</Cas>
+        <InChI>InChI=1S/C10H14O6/c1-5(11)9(6(2)12)15-16-10(7(3)13)8(4)14/h9-10H,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>Diisopropylbenzene hydroperoxide</Name>
+        <Description>Incompletely Defined Substance in SciFinder</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>26762-93-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>tert-Butyl peroxypivalate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>927-07-1</Cas>
+        <InChI>InChI=1S/C9H18O3/c1-8(2,3)7(10)11-12-9(4,5)6/h1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>2,5-Dimethyl-2,5-di-(benzoylperoxy)hexane</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>2618-77-1</Cas>
+        <InChI>InChI=1S/C22H26O6/c1-21(2,27-25-19(23)17-11-7-5-8-12-17)15-16-22(3,4)28-26-20(24)18-13-9-6-10-14-18/h5-14H,15-16H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>tert-Amyl perpivalate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>29240-17-3</Cas>
+        <InChI>InChI=1S/C10H20O3/c1-7-10(5,6)13-12-8(11)9(2,3)4/h7H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>tert-Buty-peroxy 2-ethylhexanoate</Name>
+        <Description>Name changed. Original (tert-Butylperoxy-2-ethylhexanoate)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>3006-82-4</Cas>
+        <InChI>InChI=1S/C12H24O3/c1-6-8-9-10(7-2)11(13)14-15-12(3,4)5/h10H,6-9H2,1-5H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>1,1-Di(tert-butylperoxy)3,3,5-trimethylcyclohexane</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>6731-36-8</Cas>
+        <InChI>InChI=1S/C17H34O4/c1-13-10-16(8,9)12-17(11-13,20-18-14(2,3)4)21-19-15(5,6)7/h13H,10-12H2,1-9H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>1,1-Di(tert-butylperoxy)cyclohexane</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>3006-86-8</Cas>
+        <InChI>InChI=1S/C14H28O4/c1-12(2,3)15-17-14(10-8-7-9-11-14)18-16-13(4,5)6/h7-11H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>2,5-Dimethyl-2,5-di(tert-butylperoxy)-hexane</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>78-63-7</Cas>
+        <InChI>InChI=1S/C16H34O4/c1-13(2,3)17-19-15(7,8)11-12-16(9,10)20-18-14(4,5)6/h11-12H2,1-10H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>bis(4-tert-butylcyclohexyl) peroxydicarbonate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>15520-11-3</Cas>
+        <InChI>InChI=1S/C22H38O6/c1-21(2,3)15-7-11-17(12-8-15)25-19(23)27-28-20(24)26-18-13-9-16(10-14-18)22(4,5)6/h15-18H,7-14H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>Di-(2-ethylhexyl)peroxydicarbonate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>16111-62-9</Cas>
+        <InChI>InChI=1S/C18H34O6/c1-5-9-11-15(7-3)13-21-17(19)23-24-18(20)22-14-16(8-4)12-10-6-2/h15-16H,5-14H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>di-butyl peroxydicarbonate</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>16215-49-9</Cas>
+        <InChI>InChI=1S/C10H18O6/c1-3-5-7-13-9(11)15-16-10(12)14-8-6-4-2/h3-8H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>bis(3,5,5-trimethylhexanoyl) peroxide</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>3851-87-4</Cas>
+        <InChI>InChI=1S/C18H34O4/c1-13(11-17(3,4)5)9-15(19)21-22-16(20)10-14(2)12-18(6,7)8/h13-14H,9-12H2,1-8H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>2,5-Dimethyl-2,5-di(2-ethylhexanoylperoxy)hexane</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>13052-09-0</Cas>
+        <InChI>InChI=1S/C24H46O6/c1-9-13-15-19(11-3)21(25)27-29-23(5,6)17-18-24(7,8)30-28-22(26)20(12-4)16-14-10-2/h19-20H,9-18H2,1-8H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>2,2-Di-(tert-butylperoxy)butane</Name>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>2167-23-9</Cas>
+        <InChI>InChI=1S/C12H26O4/c1-9-12(8,15-13-10(2,3)4)16-14-11(5,6)7/h9H2,1-8H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>tert-Butylperoxy isopropyl carbonate</Name>
+        <Description>Name changed. Original (tert-Butyl peroxyisopropyl carbonate)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>2372-21-6</Cas>
+        <InChI>InChI=1S/C8H16O4/c1-6(2)10-7(9)11-12-8(3,4)5/h6H,1-5H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>tert-Butylperoxy 2-ethylhexyl carbonate</Name>
+        <Description>Name changed. Original (tert-butyl peroxy-2-ethylhexyl carbonate)</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+        <Cas>34443-12-4</Cas>
+        <InChI>InChI=1S/C13H26O4/c1-6-8-9-11(7-2)10-15-12(14)16-17-13(3,4)5/h11H,6-10H2,1-5H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>33</Id>
+        <Name>di-isopropyl benzene monohydroperoxide</Name>
+        <Description>Not enough information in the name to assign CAS number or InChI</Description>
+        <Labels>Training</Labels>
+        <Cargos></Cargos>
+    </Compound>
+    <Compound>
+        <Id>34</Id>
+        <Name>Benzoyl peroxide</Name>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>94-36-0</Cas>
+        <InChI>InChI=1S/C14H10O4/c15-13(11-7-3-1-4-8-11)17-18-14(16)12-9-5-2-6-10-12/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>35</Id>
+        <Name>Cumene hydroperoxide</Name>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>80-15-9</Cas>
+        <InChI>InChI=1S/C9H12O2/c1-9(2,11-10)8-6-4-3-5-7-8/h3-7,10H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>36</Id>
+        <Name>tert-Amyl peroxyneodecanoate</Name>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>68299-16-1</Cas>
+        <InChI>InChI=1S/C15H30O3/c1-7-15(5,6)18-17-13(16)11-9-8-10-12-14(2,3)4/h7-12H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>37</Id>
+        <Name>p-Menthane hydroperoxide</Name>
+        <Description>Name changed. Original (p-Mentane hydroperoxide)</Description>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>80-47-7</Cas>
+        <InChI>InChI=1S/C10H20O2/c1-8-4-6-9(7-5-8)10(2,3)12-11/h8-9,11H,4-7H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>38</Id>
+        <Name>tert-Amyl peroxy-2-ethylhexanoate</Name>
+        <Description>Name changed. Original (tert-Amylperoxy-2-ethylhexanoate)</Description>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>686-31-7</Cas>
+        <InChI>InChI=1S/C13H26O3/c1-6-9-10-11(7-2)12(14)15-16-13(4,5)8-3/h11H,6-10H2,1-5H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>39</Id>
+        <Name>2,4,4-trimethylpentyl-2-peroxyneodecanoate</Name>
+        <Description>Incompletely Defined Substance in SciFinder</Description>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>51240-95-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>40</Id>
+        <Name>Decanoyl peroxide</Name>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>762-12-9</Cas>
+        <InChI>InChI=1S/C20H38O4/c1-3-5-7-9-11-13-15-17-19(21)23-24-20(22)18-16-14-12-10-8-6-4-2/h3-18H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>41</Id>
+        <Name>2,5-Bis(tert-butylperoxy)-2,5-dimethyl-3-hexyne</Name>
+        <Description>Name changed. Original (2,5-bis-(t-butylperoxy)2,5-dimethyl-3-hexyne)</Description>
+        <Labels>Test</Labels>
+        <Cargos></Cargos>
+        <Cas>1068-27-5</Cas>
+        <InChI>InChI=1S/C16H30O4/c1-13(2,3)17-19-15(7,8)11-12-16(9,10)20-18-14(4,5)6/h1-10H3</InChI>
+    </Compound>
+</CompoundRegistry>

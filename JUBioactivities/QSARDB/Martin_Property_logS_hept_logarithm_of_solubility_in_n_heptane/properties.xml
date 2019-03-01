@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logS_hept</Id>
+        <Name>logarithm of solubility in n-heptane</Name>
+        <Labels></Labels>
+        <Cargos>bibtex ucum values</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+    <Property>
+        <Id>logS_oct</Id>
+        <Name>logarithm of solubility in 1-octanol</Name>
+        <Labels></Labels>
+        <Cargos>bibtex ucum values</Cargos>
+        <Endpoint>6. Other</Endpoint>
+    </Property>
+</PropertyRegistry>

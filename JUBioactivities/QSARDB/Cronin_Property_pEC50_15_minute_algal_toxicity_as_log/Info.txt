@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/162/2004CRT545.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pEC50: 15-minute algal toxicity as log(1/EC50) [log(1/mM)] "
+Paper:"Cronin, M.T.D.; Netzeva, T.I.; Dearden, J.C.; Edwards, R.; Worgan, A.D.P. Assessment and Modeling of the Toxicity of Organic Chemicals to Chlorella vulgaris :  Development of a Novel Database. Chem. Res. Toxicol. 2004, 17, 545–554."
+EP:"Property pEC50: 15-minute algal toxicity as log"
+Author:Cronin
+Filename:"Cronin_Property pEC50: 15-minute algal toxicity as log"

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/27/0166445X9090066X.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 48-h Tetrahymena toxicity as log(1/IGC50) [log(L/mmol)]"
+Paper:Cajina-Quezada, M.; Schultz, T.W. Structure-toxicity relationships for selected weak acid respiratory uncouplers. Aquat. Toxicol. 1990, 17, 3, 239–252.
+EP:"Property pIGC50: 48-h Tetrahymena toxicity as log"
+Author:Cajina-Quezada
+Filename:"Cajina-Quezada_Property pIGC50: 48-h Tetrahymena toxicity as log"

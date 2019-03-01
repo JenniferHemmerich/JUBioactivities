@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>mpC</Id>
+        <Name>mpC</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+    </Property>
+</PropertyRegistry>

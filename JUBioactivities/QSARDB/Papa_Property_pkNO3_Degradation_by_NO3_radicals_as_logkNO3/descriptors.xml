@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>Me</Id>
+        <Name>Mean atomic electronegativity of Sanderson</Name>
+        <Description>Me is statistically less relevant, plays an important role in the extension of the AD of the model, in particular to aromatic compounds.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nBnz</Id>
+        <Name>Number of benzene rings</Name>
+        <Description>nBnz encodes for the different reactivity of aliphatic and aromatic chemicals in relation to the attack sites for nitrate radicals.</Description>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5.4</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>HOMO</Id>
+        <Name>Energy of the highest occupied molecular orbital</Name>
+        <Description>Calculated by the semi-empirical PM3 Hamiltonian. HOMO energy is a measure of the nucleophilicity of a molecule or the affinity toward attack by electrophiles, such as the nitrate radical: more reactive chemicals have high HOMO energy values.</Description>
+        <Labels></Labels>
+        <Cargos>values ucum</Cargos>
+        <Application>HYPERCHEM 7.03</Application>
+    </Descriptor>
+</DescriptorRegistry>

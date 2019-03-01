@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>PBT_Index</Id>
+        <Name>PBT Index</Name>
+        <Description>The PBT Index is a macro-variable which condenses the chemical cumulative tendency to environmental persistency, bioaccumulation and (eco)toxicity. It is derived by Principal Component Analysis (PCA) from half-life, BCF and P. promelas toxicity experimental and reliable predicted data for a set of 180 heterogeneous organic chemicals. The scores of the compounds along PC1, which provides alone the largest part (77.1%) of the total information, defined the PBT Index; this index ranks the compounds according to their cumulative Persistent, Bioaccumulative and Toxic behavior.</Description>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>6. Other</Endpoint>
+        <Species>Pimephales promelas (Fathead minnow)</Species>
+    </Property>
+</PropertyRegistry>

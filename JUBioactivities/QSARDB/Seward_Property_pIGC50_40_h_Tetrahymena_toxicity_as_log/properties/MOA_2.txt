@@ -1,0 +1,51 @@
+Compound Id	Mode of action
+1	Nonpolar narcotic
+2	Nonpolar narcotic
+3	Nonpolar narcotic
+4	Nonpolar narcotic
+5	Biotic transformation to toxic form
+6	Nonpolar narcotic
+7	Respiratory uncoupler
+8	Nonpolar narcotic
+9	Biotic transformation to toxic form
+10	Nonpolar narcotic
+11	Nonpolar narcotic
+12	Nonpolar narcotic
+13	Biotic transformation to toxic form
+14	Nonpolar narcotic
+15	Polar narcotic
+16	Nonpolar narcotic
+17	Polar narcotic
+18	Biotic transformation to toxic form
+19	Polar narcotic
+20	Ester narcotic
+21	Polar narcotic
+22	Amine narcotic
+23	Ester narcotic
+24	Polar narcotic
+25	Polar narcotic
+26	Polar narcotic
+27	Polar narcotic
+28	Electrophile
+29	Biotic transformation to toxic form
+30	Electrophile
+31	Electrophile
+32	Electrophile
+33	Biotic transformation to toxic form
+34	Abiotic transformation to toxic form
+35	Electrophile
+36	Biotic transformation to toxic form
+37	Electrophile
+38	Electrophile
+39	Electrophile
+40	Electrophile
+41	Electrophile
+42	Electrophile
+43	Nonpolar narcotic
+44	Electrophile
+45	Abiotic transformation to toxic form
+46	Electrophile
+47	Electrophile
+48	Electrophile
+49	Electrophile
+50	Electrophile

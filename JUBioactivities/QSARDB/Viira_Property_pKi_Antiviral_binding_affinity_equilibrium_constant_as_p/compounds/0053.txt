@@ -1,0 +1,1 @@
+CC1=CN(C(=O)NC1=O)C2CC(C(O2)OP(=O)(NP(=O)(O)OP(=O)(O)O)O)O

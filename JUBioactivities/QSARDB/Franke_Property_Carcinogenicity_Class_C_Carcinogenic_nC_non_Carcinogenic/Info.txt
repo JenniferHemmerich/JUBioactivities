@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/142/2001C1561.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property Carcinogenicity: Class: C - Carcinogenic, nC -non-Carcinogenic"
+Paper:"Franke, R.; Gruska, A.; Giuliani, A.; Benigni, R. Prediction of rodent carcinogenicity of aromatic amines: a quantitative structure-activity relationships model. Carcinogenesis 2001, 22, 1561–1571."
+EP:"Property Carcinogenicity: Class: C - Carcinogenic, nC -non-Carcinogenic"
+Author:Franke
+Filename:"Franke_Property Carcinogenicity: Class: C - Carcinogenic, nC -non-Carcinogenic"

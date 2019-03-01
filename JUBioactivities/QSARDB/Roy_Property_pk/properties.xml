@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pk(OH)</Id>
+        <Name>Degradation by OH radicals as -logk(OH)</Name>
+        <Description>Tropospheric degradation of volatile organic compounds (VOCs), rate constants of hydroxyl radical reaction, k(OH), at 25 C and 1 atm.</Description>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.2. Persistence: Abiotic degradation in air</Endpoint>
+    </Property>
+</PropertyRegistry>

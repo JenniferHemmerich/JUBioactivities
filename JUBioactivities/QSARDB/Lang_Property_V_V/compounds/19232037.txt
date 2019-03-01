@@ -1,0 +1,1 @@
+C1CC(=O)C=C2CC[C@]3([C@@]4(CC[C@@](C(=O)COC(CC)=O)(O)[C@@]4(C)C[C@@H](O)[C@@]3([C@@]12C)[H])[H])[H]

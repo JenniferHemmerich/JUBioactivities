@@ -1,0 +1,1 @@
+CCNC1=NC(NC(C)(C)C)=NC(SC)=N1

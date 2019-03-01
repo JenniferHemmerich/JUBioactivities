@@ -1,0 +1,1 @@
+CC(=O)NC1=CC(NS(=O)(=O)C(F)(F)F)=C(C)C=C1C

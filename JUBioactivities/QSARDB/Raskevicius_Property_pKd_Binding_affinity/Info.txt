@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/176/2015CCADD237.qdb.zip?sequence=4&isAllowed=y
+Endpoint:"Property pKd: Binding affinity [log(mol)]"
+Paper:Raskevicius, V.; Kairys, V. Comparison of performance of docking, LIE, metadynamics and QSAR in predicting binding affinity of benzenesulfonamides. Curr. Comput.-Aided Drug Des. 2015, 3, 237-244.
+EP:"Property pKd: Binding affinity "
+Author:Raskevicius
+Filename:"Raskevicius_Property pKd: Binding affinity"

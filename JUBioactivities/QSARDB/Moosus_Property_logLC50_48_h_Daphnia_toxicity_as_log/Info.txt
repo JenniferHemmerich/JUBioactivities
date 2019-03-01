@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/111/2011SQER757.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property logLC50: 48-h Daphnia toxicity as log(LC50) [log(mol/L)]"
+Paper:Moosus, M.; Maran, U. Quantitative structure-activity relationship analysis of acute toxicity of diverse chemicals to Daphnia magna with whole molecule descriptors. SAR QSAR Environ. Res. 2011, 22, 7-8, 757–774.
+EP:"Property logLC50: 48-h Daphnia toxicity as log"
+Author:Moosus
+Filename:"Moosus_Property logLC50: 48-h Daphnia toxicity as log"

@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>1,1,2-trichloroethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>79-00-5</Cas>
+        <InChI>InChI=1S/C2H3Cl3/c3-1-2(4)5/h2H,1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>1,1-dichloroethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>75-34-3</Cas>
+        <InChI>InChI=1S/C2H4Cl2/c1-2(3)4/h2H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>1,2,3-trichloropropane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>96-18-4</Cas>
+        <InChI>InChI=1S/C3H5Cl3/c4-1-3(6)2-5/h3H,1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>1,2-dichlorobenzene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>25321-22-6</Cas>
+        <InChI>InChI=1S/C6H4Cl2/c7-5-3-1-2-4-6(5)8/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>1,2-dichloroethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>107-06-2</Cas>
+        <InChI>InChI=1S/C2H4Cl2/c3-1-2-4/h1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>1,2-dichloropropane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>78-87-5</Cas>
+        <InChI>InChI=1S/C3H6Cl2/c1-3(5)2-4/h3H,2H2,1H3/t3-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>1,3-dichlorobenzene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>541-73-1</Cas>
+        <InChI>InChI=1S/C6H4Cl2/c7-5-2-1-3-6(8)4-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>1,3-dichloropropane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>142-28-9</Cas>
+        <InChI>InChI=1S/C3H6Cl2/c4-2-1-3-5/h1-3H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>1,4-dichlorobenzene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-46-7</Cas>
+        <InChI>InChI=1S/C6H4Cl2/c7-5-1-2-6(8)4-3-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>1-Butanol</Name>
+        <Labels>Training Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>71-36-3</Cas>
+        <InChI>InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>1-chlorobutane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>109-69-3</Cas>
+        <InChI>InChI=1S/C4H9Cl/c1-2-3-4-5/h2-4H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>1-decanol</Name>
+        <Labels>Training Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>112-30-1</Cas>
+        <InChI>InChI=1S/C10H22O/c1-2-3-4-5-6-7-8-9-10-11/h11H,2-10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>1-octanol</Name>
+        <Labels>Training Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>111-87-5</Cas>
+        <InChI>InChI=1S/C8H18O/c1-2-3-4-5-6-7-8-9/h9H,2-8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>1-pentanol</Name>
+        <Labels>Training Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>71-41-0</Cas>
+        <InChI>InChI=1S/C5H12O/c1-2-3-4-5-6/h6H,2-5H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>2-(2-butoxyethoxy)-ethanol</Name>
+        <Labels>Training Glycol_ethers Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>112-34-5</Cas>
+        <InChI>InChI=1S/C8H18O3/c1-2-3-5-10-7-8-11-6-4-9/h9H,2-8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>2-(2-ethoxyethoxy)-ethanol</Name>
+        <Labels>Training Glycol_ethers Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>111-90-0</Cas>
+        <InChI>InChI=1S/C6H14O3/c1-2-8-5-6-9-4-3-7/h7H,2-6H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>2,3,4-trichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>634-67-3</Cas>
+        <InChI>InChI=1S/C6H4Cl3N/c7-3-1-2-4(10)6(9)5(3)8/h1-2H,10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>2,3,4-trichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>15950-66-0</Cas>
+        <InChI>InChI=1S/C6H3Cl3O/c7-3-1-2-4(10)6(9)5(3)8/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>2,3,5-trichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>933-78-8</Cas>
+        <InChI>InChI=1S/C6H3Cl3O/c7-3-1-4(8)6(9)5(10)2-3/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>2,3,5-trimethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>697-82-5</Cas>
+        <InChI>InChI=1S/C9H12O/c1-6-4-7(2)8(3)9(10)5-6/h4-5,10H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>2,3-dichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>608-27-5</Cas>
+        <InChI>InChI=1S/C6H5Cl2N/c7-4-2-1-3-5(9)6(4)8/h1-3H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>2,3-dimethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>87-59-2</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-4-3-5-8(9)7(6)2/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>2,4,5-trichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>636-30-6</Cas>
+        <InChI>InChI=1S/C6H4Cl3N/c7-3-1-5(9)6(10)2-4(3)8/h1-2H,10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>2,4,5-trichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-95-4</Cas>
+        <InChI>InChI=1S/C6H3Cl3O/c7-3-1-5(9)6(10)2-4(3)8/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>2,4,6-trichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>634-93-5</Cas>
+        <InChI>InChI=1S/C6H4Cl3N/c7-3-1-4(8)6(10)5(9)2-3/h1-2H,10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>2,4,6-trichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>88-06-2</Cas>
+        <InChI>InChI=1S/C6H3Cl3O/c7-3-1-4(8)6(10)5(9)2-3/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>2,4,6-trimethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>527-60-6</Cas>
+        <InChI>InChI=1S/C9H12O/c1-6-4-7(2)9(10)8(3)5-6/h4-5,10H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>2,4-dichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>554-00-7</Cas>
+        <InChI>InChI=1S/C6H5Cl2N/c7-4-1-2-6(9)5(8)3-4/h1-3H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>2,4-dichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>120-83-2</Cas>
+        <InChI>InChI=1S/C6H4Cl2O/c7-4-1-2-6(9)5(8)3-4/h1-3,9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>2,4-dichlorotoluene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-73-8</Cas>
+        <InChI>InChI=1S/C7H6Cl2/c1-5-2-3-6(8)4-7(5)9/h2-4H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>2,4-dimethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-68-1</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-3-4-8(9)7(2)5-6/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>2,4-dimethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>105-67-9</Cas>
+        <InChI>InChI=1S/C8H10O/c1-6-3-4-8(9)7(2)5-6/h3-5,9H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>33</Id>
+        <Name>2,5-dichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-82-9</Cas>
+        <InChI>InChI=1S/C6H5Cl2N/c7-4-1-2-5(8)6(9)3-4/h1-3H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>34</Id>
+        <Name>2,5-dichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>583-78-8</Cas>
+        <InChI>InChI=1S/C6H4Cl2O/c7-4-1-2-5(8)6(9)3-4/h1-3,9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>35</Id>
+        <Name>2,5-dimethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-78-3</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-3-4-7(2)8(9)5-6/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>36</Id>
+        <Name>2,5-dimethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-87-4</Cas>
+        <InChI>InChI=1S/C8H10O/c1-6-3-4-7(2)8(9)5-6/h3-5,9H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>37</Id>
+        <Name>2,6-dichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>608-31-1</Cas>
+        <InChI>InChI=1S/C6H5Cl2N/c7-4-2-1-3-5(8)6(4)9/h1-3H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>38</Id>
+        <Name>2,6-dichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>87-65-0</Cas>
+        <InChI>InChI=1S/C6H4Cl2O/c7-4-2-1-3-5(8)6(4)9/h1-3,9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>39</Id>
+        <Name>2,6-diethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>579-66-8</Cas>
+        <InChI>InChI=1S/C10H15N/c1-3-8-6-5-7-9(4-2)10(8)11/h5-7H,3-4,11H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>40</Id>
+        <Name>2,6-dimethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>576-26-1</Cas>
+        <InChI>InChI=1S/C8H10O/c1-6-4-3-5-7(2)8(6)9/h3-5,9H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>41</Id>
+        <Name>2-butoxyethanol</Name>
+        <Labels>Training Glycol_ethers Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>111-76-2</Cas>
+        <InChI>InChI=1S/C6H14O2/c1-2-3-5-8-6-4-7/h7H,2-6H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>42</Id>
+        <Name>2-chloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-51-2</Cas>
+        <InChI>InChI=1S/C6H6ClN/c7-5-3-1-2-4-6(5)8/h1-4H,8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>43</Id>
+        <Name>2-chlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-57-8</Cas>
+        <InChI>InChI=1S/C6H5ClO/c7-5-3-1-2-4-6(5)8/h1-4,8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>44</Id>
+        <Name>2-ethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>578-54-1</Cas>
+        <InChI>InChI=1S/C8H11N/c1-2-7-5-3-4-6-8(7)9/h3-6H,2,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>45</Id>
+        <Name>2-ethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>90-00-6</Cas>
+        <InChI>InChI=1S/C8H10O/c1-2-7-5-3-4-6-8(7)9/h3-6,9H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>46</Id>
+        <Name>2-isopropoxyethanol</Name>
+        <Labels>Training Glycol_ethers Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>109-59-1</Cas>
+        <InChI>InChI=1S/C5H12O2/c1-5(2)7-4-3-6/h5-6H,3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>47</Id>
+        <Name>2-methoxyethanol</Name>
+        <Labels>Training Glycol_ethers Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>109-86-4</Cas>
+        <InChI>InChI=1S/C3H8O2/c1-5-3-2-4/h4H,2-3H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>48</Id>
+        <Name>2-methylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-53-4</Cas>
+        <InChI>InChI=1S/C7H9N/c1-6-4-2-3-5-7(6)8/h2-5H,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>49</Id>
+        <Name>2-methylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-48-7</Cas>
+        <InChI>InChI=1S/C7H8O/c1-6-4-2-3-5-7(6)8/h2-5,8H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>50</Id>
+        <Name>3,4,5-trichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>634-91-3</Cas>
+        <InChI>InChI=1S/C6H4Cl3N/c7-4-1-3(10)2-5(8)6(4)9/h1-2H,10H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>51</Id>
+        <Name>3,4-dichloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-76-1</Cas>
+        <InChI>InChI=1S/C6H5Cl2N/c7-5-2-1-4(9)3-6(5)8/h1-3H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>52</Id>
+        <Name>3,4-dichlorophenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-77-2</Cas>
+        <InChI>InChI=1S/C6H4Cl2O/c7-5-2-1-4(9)3-6(5)8/h1-3,9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>53</Id>
+        <Name>3,4-dimethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-64-7</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-3-4-8(9)5-7(6)2/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>54</Id>
+        <Name>3,4-dimethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-65-8</Cas>
+        <InChI>InChI=1S/C8H10O/c1-6-3-4-8(9)5-7(6)2/h3-5,9H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>55</Id>
+        <Name>3,5-dimethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-69-0</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-3-7(2)5-8(9)4-6/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>56</Id>
+        <Name>3-chloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-42-9</Cas>
+        <InChI>InChI=1S/C6H6ClN/c7-5-2-1-3-6(8)4-5/h1-4H,8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>57</Id>
+        <Name>3-chlorotoluene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-41-8</Cas>
+        <InChI>InChI=1S/C7H7Cl/c1-6-3-2-4-7(8)5-6/h2-5H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>58</Id>
+        <Name>3-ethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>587-02-0</Cas>
+        <InChI>InChI=1S/C8H11N/c1-2-7-4-3-5-8(9)6-7/h3-6H,2,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>59</Id>
+        <Name>3-ethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>620-17-7</Cas>
+        <InChI>InChI=1S/C8H10O/c1-2-7-4-3-5-8(9)6-7/h3-6,9H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>60</Id>
+        <Name>3-methylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-44-1</Cas>
+        <InChI>InChI=1S/C7H9N/c1-6-3-2-4-7(8)5-6/h2-5H,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>61</Id>
+        <Name>3-methylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-39-4</Cas>
+        <InChI>InChI=1S/C7H8O/c1-6-3-2-4-7(8)5-6/h2-5,8H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>62</Id>
+        <Name>4-chloroaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-47-8</Cas>
+        <InChI>InChI=1S/C6H6ClN/c7-5-1-3-6(8)4-2-5/h1-4H,8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>63</Id>
+        <Name>4-chlorotoluene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-43-4</Cas>
+        <InChI>InChI=1S/C7H7Cl/c1-6-2-4-7(8)5-3-6/h2-5H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>64</Id>
+        <Name>4-ethylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>589-16-2</Cas>
+        <InChI>InChI=1S/C8H11N/c1-2-7-3-5-8(9)6-4-7/h3-6H,2,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>65</Id>
+        <Name>4-ethylphenol</Name>
+        <Labels>Training Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>123-07-9</Cas>
+        <InChI>InChI=1S/C8H10O/c1-2-7-3-5-8(9)6-4-7/h3-6,9H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>66</Id>
+        <Name>4-methylaniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-49-0</Cas>
+        <InChI>InChI=1S/C7H9N/c1-6-2-4-7(8)5-3-6/h2-5H,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>67</Id>
+        <Name>Acetone</Name>
+        <Labels>Training Ketones Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>67-64-1</Cas>
+        <InChI>InChI=1S/C3H6O/c1-3(2)4/h1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>68</Id>
+        <Name>Aniline</Name>
+        <Labels>Training Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>62-53-3</Cas>
+        <InChI>InChI=1S/C6H7N/c7-6-4-2-1-3-5-6/h1-5H,7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>69</Id>
+        <Name>Benzene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>71-43-2</Cas>
+        <InChI>InChI=1S/C6H6/c1-2-4-6-5-3-1/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>70</Id>
+        <Name>Benzophenone</Name>
+        <Labels>Training Ketones Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>119-61-9</Cas>
+        <InChI>InChI=1S/C13H10O/c14-13(11-7-3-1-4-8-11)12-9-5-2-6-10-12/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>71</Id>
+        <Name>Cyclohexane</Name>
+        <Labels>Training Akanes_cyclic Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>110-82-7</Cas>
+        <InChI>InChI=1S/C6H12/c1-2-4-6-5-3-1/h1-6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>72</Id>
+        <Name>Cyclohexanol</Name>
+        <Labels>Training Akanes_cyclic_alcohol Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-93-0</Cas>
+        <InChI>InChI=1S/C6H12O/c7-6-4-2-1-3-5-6/h6-7H,1-5H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>73</Id>
+        <Name>Cyclohexanone</Name>
+        <Labels>Training Akanes_cyclic_ketone Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-94-1</Cas>
+        <InChI>InChI=1S/C6H10O/c7-6-4-2-1-3-5-6/h1-5H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>74</Id>
+        <Name>Dichloromethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>75-09-2</Cas>
+        <InChI>InChI=1S/CH2Cl2/c2-1-3/h1H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>75</Id>
+        <Name>Diethylether</Name>
+        <Labels>Training Ethers Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>60-29-7</Cas>
+        <InChI>InChI=1S/C4H10O/c1-3-5-4-2/h3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>76</Id>
+        <Name>Ethylacetate</Name>
+        <Labels>Training Acetates Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>141-78-6</Cas>
+        <InChI>InChI=1S/C4H8O2/c1-3-6-4(2)5/h3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>77</Id>
+        <Name>Ethyleneglycol</Name>
+        <Labels>Training Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>107-21-1</Cas>
+        <InChI>InChI=1S/C2H6O2/c3-1-2-4/h3-4H,1-2H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>78</Id>
+        <Name>iso-Butanol</Name>
+        <Labels>Training Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>78-83-1</Cas>
+        <InChI>InChI=1S/C4H10O/c1-4(2)3-5/h4-5H,3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>79</Id>
+        <Name>m-xylene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-38-3</Cas>
+        <InChI>InChI=1S/C8H10/c1-7-4-3-5-8(2)6-7/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>80</Id>
+        <Name>o-xylene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-47-6</Cas>
+        <InChI>InChI=1S/C8H10/c1-7-5-3-4-6-8(7)2/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>81</Id>
+        <Name>Pentachloroethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>76-01-7</Cas>
+        <InChI>InChI=1S/C2HCl5/c3-1(4)2(5,6)7/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>82</Id>
+        <Name>p-xylene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-42-3</Cas>
+        <InChI>InChI=1S/C8H10/c1-7-3-5-8(2)6-4-7/h3-6H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>83</Id>
+        <Name>Tetrachloroethene</Name>
+        <Labels>Training Alkenes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>127-18-4</Cas>
+        <InChI>InChI=1S/C2Cl4/c3-1(4)2(5)6</InChI>
+    </Compound>
+    <Compound>
+        <Id>84</Id>
+        <Name>Tetrachloromethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>56-23-5</Cas>
+        <InChI>InChI=1S/CCl4/c2-1(3,4)5</InChI>
+    </Compound>
+    <Compound>
+        <Id>85</Id>
+        <Name>Toluene</Name>
+        <Labels>Training Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-88-3</Cas>
+        <InChI>InChI=1S/C7H8/c1-7-5-3-2-4-6-7/h2-6H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>86</Id>
+        <Name>Trichloroethene</Name>
+        <Labels>Training Alkenes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>79-01-6</Cas>
+        <InChI>InChI=1S/C2HCl3/c3-1-2(4)5/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>87</Id>
+        <Name>Trichloromethane</Name>
+        <Labels>Training Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>67-66-3</Cas>
+        <InChI>InChI=1S/CHCl3/c2-1(3)4/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>88</Id>
+        <Name>1,1,2,2-tetrachloroethane</Name>
+        <Labels>Validation Alkanes_halogenated Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>79-34-5</Cas>
+        <InChI>InChI=1S/C2H2Cl4/c3-1(4)2(5)6/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>89</Id>
+        <Name>1,2,4-trichlorobenzene</Name>
+        <Labels>Validation Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>120-82-1</Cas>
+        <InChI>InChI=1S/C6H3Cl3/c7-4-1-2-5(8)6(9)3-4/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>90</Id>
+        <Name>2,3,6-trichlorophenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>933-75-5</Cas>
+        <InChI>InChI=1S/C6H3Cl3O/c7-3-1-2-4(8)6(10)5(3)9/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>91</Id>
+        <Name>2,3,6-trimethylphenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>2416-94-6</Cas>
+        <InChI>InChI=1S/C9H12O/c1-6-4-5-7(2)9(10)8(6)3/h4-5,10H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>92</Id>
+        <Name>2,3-dichlorophenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>576-24-9</Cas>
+        <InChI>InChI=1S/C6H4Cl2O/c7-4-2-1-3-5(9)6(4)8/h1-3,9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>93</Id>
+        <Name>2,3-dimethylphenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>526-75-0</Cas>
+        <InChI>InChI=1S/C8H10O/c1-6-4-3-5-8(9)7(6)2/h3-5,9H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>94</Id>
+        <Name>2,4,6-trimethylaniline</Name>
+        <Labels>Validation Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>88-05-1</Cas>
+        <InChI>InChI=1S/C9H13N/c1-6-4-7(2)9(10)8(3)5-6/h4-5H,10H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>95</Id>
+        <Name>2,6-dimethylaniline</Name>
+        <Labels>Validation Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>87-62-7</Cas>
+        <InChI>InChI=1S/C8H11N/c1-6-4-3-5-7(2)8(6)9/h3-5H,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>96</Id>
+        <Name>2-ethoxyethanol</Name>
+        <Labels>Validation Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>110-80-5</Cas>
+        <InChI>InChI=1S/C4H10O2/c1-2-6-4-3-5/h5H,2-4H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>97</Id>
+        <Name>2-methyl-2-propanol</Name>
+        <Labels>Validation Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>75-65-0</Cas>
+        <InChI>InChI=1S/C4H10O/c1-4(2,3)5/h5H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>98</Id>
+        <Name>3,4-dichlorotoluene</Name>
+        <Labels>Validation Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>95-75-0</Cas>
+        <InChI>InChI=1S/C7H6Cl2/c1-5-2-3-6(8)7(9)4-5/h2-4H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>99</Id>
+        <Name>3,5-dichloroaniline</Name>
+        <Labels>Validation Anilines Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>626-43-7</Cas>
+        <InChI>InChI=1S/C6H5Cl2N/c7-4-1-5(8)3-6(9)2-4/h1-3H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>100</Id>
+        <Name>3,5-dichlorophenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>591-35-5</Cas>
+        <InChI>InChI=1S/C6H4Cl2O/c7-4-1-5(8)3-6(9)2-4/h1-3,9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>101</Id>
+        <Name>3,5-dimethylphenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-68-9</Cas>
+        <InChI>InChI=1S/C8H10O/c1-6-3-7(2)5-8(9)4-6/h3-5,9H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>102</Id>
+        <Name>3-chlorophenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-43-0</Cas>
+        <InChI>InChI=1S/C6H5ClO/c7-5-2-1-3-6(8)4-5/h1-4,8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>103</Id>
+        <Name>3-pentanol</Name>
+        <Labels>Validation Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>584-02-1</Cas>
+        <InChI>InChI=1S/C5H12O/c1-3-5(6)4-2/h5-6H,3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>104</Id>
+        <Name>4-chlorophenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-48-9</Cas>
+        <InChI>InChI=1S/C6H5ClO/c7-5-1-3-6(8)4-2-5/h1-4,8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>105</Id>
+        <Name>4-methylphenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>106-44-5</Cas>
+        <InChI>InChI=1S/C7H8O/c1-6-2-4-7(8)5-3-6/h2-5,8H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>106</Id>
+        <Name>Hexanol</Name>
+        <Labels>Validation Alkanes_alcohols Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>111-27-3</Cas>
+        <InChI>InChI=1S/C6H14O/c1-2-3-4-5-6-7/h7H,2-6H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>107</Id>
+        <Name>Monochlorobenzene</Name>
+        <Labels>Validation Benzenes Nonpolar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-90-7</Cas>
+        <InChI>InChI=1S/C6H5Cl/c7-6-4-2-1-3-5-6/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>108</Id>
+        <Name>Phenol</Name>
+        <Labels>Validation Phenols Polar_narcotics</Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <Cas>108-95-2</Cas>
+        <InChI>InChI=1S/C6H6O/c7-6-4-2-1-3-5-6/h1-5,7H</InChI>
+    </Compound>
+</CompoundRegistry>

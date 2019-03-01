@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>ZnO</Id>
+        <Name>Zinc oxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1314-13-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>CuO</Id>
+        <Name>Copper(II) oxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1317-38-0</Cas>
+    </Compound>
+    <Compound>
+        <Id>Y2O3</Id>
+        <Name>Yttrium(III) oxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1314-36-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>Bi2O3</Id>
+        <Name>Bismuth trioxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1304-76-3</Cas>
+    </Compound>
+    <Compound>
+        <Id>In2O3</Id>
+        <Name>Indium(III) oxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1312-43-2</Cas>
+    </Compound>
+    <Compound>
+        <Id>Al2O3</Id>
+        <Name>Aluminum oxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1344-28-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>Fe2O3</Id>
+        <Name>Iron(III) oxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>1309-37-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>SiO2</Id>
+        <Name>Silicon dioxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>7631-86-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>SnO2</Id>
+        <Name>Tin dioxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>18282-10-5</Cas>
+    </Compound>
+    <Compound>
+        <Id>TiO2</Id>
+        <Name>Titanium dioxide</Name>
+        <Labels>T</Labels>
+        <Cargos></Cargos>
+        <Cas>13463-67-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>V2O3</Id>
+        <Name>Vanadium(III) oxide</Name>
+        <Labels>V1</Labels>
+        <Cargos></Cargos>
+        <Cas>1314-34-7</Cas>
+    </Compound>
+    <Compound>
+        <Id>Sb2O3</Id>
+        <Name>Diantimony trioxide</Name>
+        <Labels>V1</Labels>
+        <Cargos></Cargos>
+        <Cas>1309-64-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>ZrO2</Id>
+        <Name>Zirconium dioxide</Name>
+        <Labels>V1</Labels>
+        <Cargos></Cargos>
+        <Cas>1314-23-4</Cas>
+    </Compound>
+    <Compound>
+        <Id>CoO</Id>
+        <Name>Cobalt(II) oxide</Name>
+        <Labels>V2</Labels>
+        <Cargos></Cargos>
+        <Cas>1307-96-6</Cas>
+    </Compound>
+    <Compound>
+        <Id>NiO</Id>
+        <Name>Nickel(II) oxide</Name>
+        <Labels>V2</Labels>
+        <Cargos></Cargos>
+        <Cas>1313-99-1</Cas>
+    </Compound>
+    <Compound>
+        <Id>Cr2O3</Id>
+        <Name>Chromium(III) oxide</Name>
+        <Labels>V2</Labels>
+        <Cargos></Cargos>
+        <Cas>1308-38-9</Cas>
+    </Compound>
+    <Compound>
+        <Id>La2O3</Id>
+        <Name>Lanthanum(III) oxide</Name>
+        <Labels>V2</Labels>
+        <Cargos></Cargos>
+        <Cas>1312-81-8</Cas>
+    </Compound>
+</CompoundRegistry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKow</Id>
+        <Name>Hydrophobicity</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>ClogP</Name>
+            <Version>1.0</Version>
+        </Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Amax</Id>
+        <Name>Maximum acceptor superdelocalizability</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>
+            <Name>MOPAC</Name>
+            <Version>93</Version>
+        </Application>
+    </Descriptor>
+</DescriptorRegistry>

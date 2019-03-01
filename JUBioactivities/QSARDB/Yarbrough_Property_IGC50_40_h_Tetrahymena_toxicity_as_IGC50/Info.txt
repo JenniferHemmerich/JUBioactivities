@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/16/tx600344a.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property IGC50: 40-h Tetrahymena toxicity as IGC50 [mmol/L]"
+Paper:"Yarbrough, J.W.; Schultz, T.W. Abiotic Sulfhydryl Reactivity: A Predictor of Aquatic Toxicity for Carbonyl-Containing α,β-Unsaturated Compounds. Chem. Res. Toxicol. 2007, 20, 3, 558–562."
+EP:"Property IGC50: 40-h Tetrahymena toxicity as IGC50 "
+Author:Yarbrough
+Filename:"Yarbrough_Property IGC50: 40-h Tetrahymena toxicity as IGC50"

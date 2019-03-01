@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>F03[C-F]</Id>
+        <Name>Frequency of C - F at topological distance 3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>nDB</Id>
+        <Name>Number of double bonds</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>AAC</Id>
+        <Name>Mean information index on atomic composition</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>X3</Id>
+        <Name>Connectivity index of order 3</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>T(F..F)</Id>
+        <Name>Sum of topological distances between F..F</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>SIC1</Id>
+        <Name>Structural Information Content index (neighborhood symmetry of 1-order)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>DRAGON 5</Application>
+    </Descriptor>
+</DescriptorRegistry>

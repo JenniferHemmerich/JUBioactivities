@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/178/2015EJMC30.qdb.zip?sequence=4&isAllowed=y
+Endpoint:"Property NB4_pIC50: pIC50 data against the NB4 cell line [ log(1/umol)]"
+Paper:Karpavičienė, I.; Valiulienė, G.; Raškevičius, V.; Lebedytė, I.; Brukštus, A.; Kairys, V.; Navakauskienė, R.; Čikotienė, I. Synthesis and antiproliferative activity of α-branched α,β-unsaturated ketones in human hematological and solid cancer cell lines. Eur. J. Med. Chem. 2015, 98, 30–48.
+EP:"Property NB4_pIC50: pIC50 data against the NB4 cell line "
+Author:Karpavičienė
+Filename:"Karpavičienė_Property NB4_pIC50: pIC50 data against the NB4 cell line"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>logKdS1</Id>
+        <Name>Soil adsorption coefficient for soil 1</Name>
+        <Description>Soil 1 had a sandy-loam texture with organic carbon content of 3.0% and had 7.5 % of calcite</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.7. Adsorption/Desorption in soil</Endpoint>
+    </Property>
+    <Property>
+        <Id>logKdS2</Id>
+        <Name>Soil adsorption coefficient for soil 2</Name>
+        <Description>Soil 2 had a loamy texture with organic carbon content of 2.2% and had 81.3 % of calcite</Description>
+        <Labels></Labels>
+        <Cargos>values ucum bibtex</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.7. Adsorption/Desorption in soil</Endpoint>
+    </Property>
+</PropertyRegistry>

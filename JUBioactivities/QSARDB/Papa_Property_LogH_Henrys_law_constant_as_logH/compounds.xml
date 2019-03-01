@@ -1,0 +1,1763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>1</Id>
+        <Name>1-bromo-2-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H9BrO/c13-11-8-4-5-9-12(11)14-10-6-2-1-3-7-10/h1-9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>2</Id>
+        <Name>1-bromo-3-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H9BrO/c13-10-5-4-8-12(9-10)14-11-6-2-1-3-7-11/h1-9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>3</Id>
+        <Name>1-bromo-4-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H9BrO/c13-10-6-8-12(9-7-10)14-11-4-2-1-3-5-11/h1-9H</InChI>
+    </Compound>
+    <Compound>
+        <Id>4</Id>
+        <Name>1-bromo-2-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-5-1-3-7-11(9)15-12-8-4-2-6-10(12)14/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>5</Id>
+        <Name>1,2-dibromo-3-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-5-1-3-7-11(9)15-12-8-4-2-6-10(12)14/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>6</Id>
+        <Name>1-bromo-2-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-4-3-5-10(8-9)15-12-7-2-1-6-11(12)14/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>7</Id>
+        <Name>2,4-dibromo-1-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-6-7-12(11(14)8-9)15-10-4-2-1-3-5-10/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>8</Id>
+        <Name>1-bromo-4-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-5-7-10(8-6-9)15-12-4-2-1-3-11(12)14/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>9</Id>
+        <Name>1,4-dibromo-2-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-6-7-11(14)12(8-9)15-10-4-2-1-3-5-10/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>10</Id>
+        <Name>1,3-dibromo-2-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-10-7-4-8-11(14)12(10)15-9-5-2-1-3-6-9/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>11</Id>
+        <Name>1-bromo-3-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-3-1-5-11(7-9)15-12-6-2-4-10(14)8-12/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>12</Id>
+        <Name>1,2-dibromo-4-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-11-7-6-10(8-12(11)14)15-9-4-2-1-3-5-9/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>13</Id>
+        <Name>1-bromo-4-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-4-6-11(7-5-9)15-12-3-1-2-10(14)8-12/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>14</Id>
+        <Name>1,3-dibromo-5-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-6-10(14)8-12(7-9)15-11-4-2-1-3-5-11/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>15</Id>
+        <Name>1-bromo-4-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H8Br2O/c13-9-1-5-11(6-2-9)15-12-7-3-10(14)4-8-12/h1-8H</InChI>
+    </Compound>
+    <Compound>
+        <Id>16</Id>
+        <Name>1,2-dibromo-3-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-4-1-2-6-10(8)16-11-7-3-5-9(14)12(11)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>17</Id>
+        <Name>2,4-dibromo-1-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-5-6-12(10(15)7-8)16-11-4-2-1-3-9(11)14/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>18</Id>
+        <Name>1,4-dibromo-2-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-5-6-10(15)12(7-8)16-11-4-2-1-3-9(11)14/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>19</Id>
+        <Name>1,3-dibromo-2-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-4-1-2-7-11(8)16-12-9(14)5-3-6-10(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>20</Id>
+        <Name>1,2-dibromo-3-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-3-1-4-9(7-8)16-11-6-2-5-10(14)12(11)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>21</Id>
+        <Name>1,2,3-tribromo-4-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-9-6-7-10(12(15)11(9)14)16-8-4-2-1-3-5-8/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>22</Id>
+        <Name>1,2-dibromo-3-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-4-6-9(7-5-8)16-11-3-1-2-10(14)12(11)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>23</Id>
+        <Name>1,2,5-tribromo-3-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-6-10(14)12(15)11(7-8)16-9-4-2-1-3-5-9/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>24</Id>
+        <Name>1,2,4-tribromo-3-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-9-6-7-10(14)12(11(9)15)16-8-4-2-1-3-5-8/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>25</Id>
+        <Name>2,4-dibromo-1-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-2-1-3-10(6-8)16-12-5-4-9(14)7-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>26</Id>
+        <Name>1,4-dibromo-2-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-2-1-3-10(6-8)16-12-7-9(14)4-5-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>27</Id>
+        <Name>1,3-dibromo-2-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-3-1-4-9(7-8)16-12-10(14)5-2-6-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>28</Id>
+        <Name>2,4-dibromo-1-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-1-4-10(5-2-8)16-12-6-3-9(14)7-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>29</Id>
+        <Name>1,2,4-tribromo-5-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-9-6-11(15)12(7-10(9)14)16-8-4-2-1-3-5-8/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>30</Id>
+        <Name>1,3,5-tribromo-2-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-6-10(14)12(11(15)7-8)16-9-4-2-1-3-5-9/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>31</Id>
+        <Name>1,4-dibromo-2-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-1-4-10(5-2-8)16-12-7-9(14)3-6-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>32</Id>
+        <Name>1,3-dibromo-2-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-4-6-9(7-5-8)16-12-10(14)2-1-3-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>33</Id>
+        <Name>1,2-dibromo-4-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-9-6-5-8(7-11(9)15)16-12-4-2-1-3-10(12)14/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>34</Id>
+        <Name>1,3-dibromo-5-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-5-9(14)7-10(6-8)16-12-4-2-1-3-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>35</Id>
+        <Name>1,2-dibromo-4-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-2-1-3-9(6-8)16-10-4-5-11(14)12(15)7-10/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>36</Id>
+        <Name>1,4-dibromo-2-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-2-1-3-10(6-8)16-12-7-9(14)4-5-11(12)15/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>37</Id>
+        <Name>1,2-dibromo-4-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-1-3-9(4-2-8)16-10-5-6-11(14)12(15)7-10/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>38</Id>
+        <Name>1,2,3-tribromo-5-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-10-6-9(7-11(14)12(10)15)16-8-4-2-1-3-5-8/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>39</Id>
+        <Name>1,3-dibromo-5-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O/c13-8-1-3-11(4-2-8)16-12-6-9(14)5-10(15)7-12/h1-7H</InChI>
+    </Compound>
+    <Compound>
+        <Id>40</Id>
+        <Name>1,2-dibromo-3-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-1-5-9(11(7)15)17-10-6-2-4-8(14)12(10)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>41</Id>
+        <Name>1,2,3-tribromo-4-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-1-2-4-9(7)17-10-6-5-8(14)11(15)12(10)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>42</Id>
+        <Name>1,2-dibromo-3-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-4-5-10(9(15)6-7)17-11-3-1-2-8(14)12(11)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>43</Id>
+        <Name>1,2,5-tribromo-3-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-5-9(15)12(16)11(6-7)17-10-4-2-1-3-8(10)14/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>44</Id>
+        <Name>1,2-dibromo-3-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-4-5-8(14)11(6-7)17-10-3-1-2-9(15)12(10)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>45</Id>
+        <Name>1,2,4-tribromo-3-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-1-2-4-10(7)17-12-9(15)6-5-8(14)11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>46</Id>
+        <Name>1,2-dibromo-3-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-2-6-10(11(7)16)17-12-8(14)4-1-5-9(12)15/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>47</Id>
+        <Name>2,4-dibromo-1-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-11(9(15)5-7)17-12-4-2-8(14)6-10(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>48</Id>
+        <Name>1,2,4-tribromo-5-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-1-2-4-11(7)17-12-6-9(15)8(14)5-10(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>49</Id>
+        <Name>2,4-dibromo-1-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-4-11(10(16)5-7)17-12-6-8(14)1-3-9(12)15/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>50</Id>
+        <Name>1,3,5-tribromo-2-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-5-9(15)12(10(16)6-7)17-11-4-2-1-3-8(11)14/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>51</Id>
+        <Name>1,3-dibromo-2-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-4-5-11(10(16)6-7)17-12-8(14)2-1-3-9(12)15/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>52</Id>
+        <Name>1,4-dibromo-2-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-9(15)11(5-7)17-12-6-8(14)2-4-10(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>53</Id>
+        <Name>1,4-dibromo-2-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-4-5-8(14)11(6-7)17-12-9(15)2-1-3-10(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>54</Id>
+        <Name>1,3-dibromo-2-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-1-4-8(14)11(7)17-12-9(15)5-2-6-10(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>55</Id>
+        <Name>1,2,3-tribromo-4-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-1-3-8(6-7)17-10-5-4-9(14)11(15)12(10)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>56</Id>
+        <Name>1,2-dibromo-3-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-8-5-4-7(6-10(8)15)17-11-3-1-2-9(14)12(11)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>57</Id>
+        <Name>1,2,5-tribromo-3-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-1-3-9(4-7)17-11-6-8(14)5-10(15)12(11)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>58</Id>
+        <Name>1,2-dibromo-3-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-4-8(14)6-9(5-7)17-11-3-1-2-10(15)12(11)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>59</Id>
+        <Name>1,2,4-tribromo-3-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-1-3-8(6-7)17-12-10(15)5-4-9(14)11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>60</Id>
+        <Name>1,2,3-tribromo-4-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-8(4-2-7)17-10-6-5-9(14)11(15)12(10)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>61</Id>
+        <Name>1,2,3,4-tetrabromo-5-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-8-6-9(11(15)12(16)10(8)14)17-7-4-2-1-3-5-7/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>62</Id>
+        <Name>1,2,3,5-tetrabromo-4-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-8-6-9(14)12(11(16)10(8)15)17-7-4-2-1-3-5-7/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>63</Id>
+        <Name>1,2,5-tribromo-3-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-9(4-2-7)17-11-6-8(14)5-10(15)12(11)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>64</Id>
+        <Name>1,2,4-tribromo-3-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-8(4-2-7)17-12-10(15)6-5-9(14)11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>65</Id>
+        <Name>1,2,4,5-tetrabromo-3-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-8-6-9(14)11(16)12(10(8)15)17-7-4-2-1-3-5-7/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>66</Id>
+        <Name>2,4-dibromo-1-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-4-12(11(16)5-7)17-8-2-3-9(14)10(15)6-8/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>67</Id>
+        <Name>1,2,4-tribromo-5-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-1-3-8(4-7)17-12-6-10(15)9(14)5-11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>68</Id>
+        <Name>2,4-dibromo-1-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-2-12(11(16)6-7)17-10-4-8(14)3-9(15)5-10/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>69</Id>
+        <Name>1,3,5-tribromo-2-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-1-3-9(4-7)17-12-10(15)5-8(14)6-11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>70</Id>
+        <Name>1,4-dibromo-2-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-10(15)12(5-7)17-8-2-4-9(14)11(16)6-8/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>71</Id>
+        <Name>1,3-dibromo-2-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-8-5-4-7(6-11(8)16)17-12-9(14)2-1-3-10(12)15/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>72</Id>
+        <Name>1,4-dibromo-2-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-2-11(16)12(6-7)17-10-4-8(14)3-9(15)5-10/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>73</Id>
+        <Name>1,3-dibromo-2-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-4-8(14)6-9(5-7)17-12-10(15)2-1-3-11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>74</Id>
+        <Name>1,2,4-tribromo-5-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-8(4-2-7)17-12-6-10(15)9(14)5-11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>75</Id>
+        <Name>1,3,5-tribromo-2-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-9(4-2-7)17-12-10(15)5-8(14)6-11(12)16/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>76</Id>
+        <Name>1,2,3-tribromo-5-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-8-3-1-2-4-11(8)17-7-5-9(14)12(16)10(15)6-7/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>77</Id>
+        <Name>1,2-dibromo-4-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-9-3-1-7(5-11(9)15)17-8-2-4-10(14)12(16)6-8/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>78</Id>
+        <Name>1,2,3-tribromo-5-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-2-1-3-8(4-7)17-9-5-10(14)12(16)11(15)6-9/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>79</Id>
+        <Name>1,2-dibromo-4-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-3-8(14)5-10(4-7)17-9-1-2-11(15)12(16)6-9/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>80</Id>
+        <Name>1,3-dibromo-5-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-8(14)4-11(3-7)17-12-5-9(15)2-10(16)6-12/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>81</Id>
+        <Name>1,2,3-tribromo-5-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O/c13-7-1-3-8(4-2-7)17-9-5-10(14)12(16)11(15)6-9/h1-6H</InChI>
+    </Compound>
+    <Compound>
+        <Id>82</Id>
+        <Name>1,2,3-tribromo-4-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-8(10(6)15)18-9-5-4-7(14)11(16)12(9)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>83</Id>
+        <Name>1,2,5-tribromo-3-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-4-8(15)12(17)10(5-6)18-9-3-1-2-7(14)11(9)16/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>84</Id>
+        <Name>1,2,4-tribromo-3-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-9(10(6)16)18-12-8(15)5-4-7(14)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>85</Id>
+        <Name>1,2,3-tribromo-4-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-3-9(8(15)5-6)18-10-4-2-7(14)11(16)12(10)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>86</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-1-2-4-8(6)18-9-5-7(14)10(15)12(17)11(9)16/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>87</Id>
+        <Name>1,2,3-tribromo-4-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-7(14)10(5-6)18-9-4-3-8(15)11(16)12(9)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>88</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-1-2-4-9(6)18-12-8(15)5-7(14)10(16)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>89</Id>
+        <Name>1,2,3-tribromo-4-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-4-5-9(11(17)10(6)16)18-12-7(14)2-1-3-8(12)15/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>90</Id>
+        <Name>1,2,5-tribromo-3-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-10(8(15)3-6)18-11-5-7(14)4-9(16)12(11)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>91</Id>
+        <Name>1,2,4-tribromo-3-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-4-10(9(16)5-6)18-12-8(15)3-2-7(14)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>92</Id>
+        <Name>1,2,5-tribromo-3-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-8(15)10(4-6)18-11-5-7(14)3-9(16)12(11)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>93</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-1-2-4-9(6)18-12-10(16)7(14)5-8(15)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>94</Id>
+        <Name>1,2,5-tribromo-3-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-4-9(16)11(17)10(5-6)18-12-7(14)2-1-3-8(12)15/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>95</Id>
+        <Name>1,2,4-tribromo-3-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-7(14)10(5-6)18-12-9(16)4-3-8(15)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>96</Id>
+        <Name>1,2,4-tribromo-3-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-4-5-9(16)12(10(6)17)18-11-7(14)2-1-3-8(11)15/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>97</Id>
+        <Name>1,2,4-tribromo-5-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-10(12(6)17)18-11-5-8(15)7(14)4-9(11)16/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>98</Id>
+        <Name>1,3,5-tribromo-2-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-4-8(15)12(9(16)5-6)18-10-3-1-2-7(14)11(10)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>99</Id>
+        <Name>1,2,4-tribromo-5-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-11(9(16)3-6)18-12-5-8(15)7(14)4-10(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>100</Id>
+        <Name>1,3,5-tribromo-2-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-11(8(15)3-6)18-12-9(16)4-7(14)5-10(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>101</Id>
+        <Name>1,2,4-tribromo-5-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-7(14)11(3-6)18-12-5-9(16)8(15)4-10(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>102</Id>
+        <Name>1,2,4-tribromo-5-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-7(14)12(6)18-11-5-9(16)8(15)4-10(11)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>103</Id>
+        <Name>1,3,5-tribromo-2-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-8(15)11(5-6)18-12-9(16)3-7(14)4-10(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>104</Id>
+        <Name>1,3,5-tribromo-2-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-4-9(16)12(10(17)5-6)18-11-7(14)2-1-3-8(11)15/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>105</Id>
+        <Name>1,2,3-tribromo-4-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-7-2-1-6(5-9(7)15)18-10-4-3-8(14)11(16)12(10)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>106</Id>
+        <Name>1,2,3,4-tetrabromo-5-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-7(4-6)18-9-5-8(14)10(15)12(17)11(9)16/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>107</Id>
+        <Name>1,2,5-tribromo-3-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-10(16)12(17)11(4-6)18-7-1-2-8(14)9(15)5-7/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>108</Id>
+        <Name>1,2,3-tribromo-4-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-7(14)5-8(4-6)18-10-2-1-9(15)11(16)12(10)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>109</Id>
+        <Name>1,2,3,5-tetrabromo-4-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-7(4-6)18-12-9(15)5-8(14)10(16)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>110</Id>
+        <Name>1,2,4-tribromo-3-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-7-2-1-6(5-10(7)16)18-12-9(15)4-3-8(14)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>111</Id>
+        <Name>1,2,5-tribromo-3-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-7(14)3-9(2-6)18-11-5-8(15)4-10(16)12(11)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>112</Id>
+        <Name>1,2,4,5-tetrabromo-3-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-2-1-3-7(4-6)18-12-10(16)8(14)5-9(15)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>113</Id>
+        <Name>1,2,4-tribromo-3-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-7(14)5-8(4-6)18-12-10(16)2-1-9(15)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>114</Id>
+        <Name>1,2,3,4-tetrabromo-5-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-3-7(4-2-6)18-9-5-8(14)10(15)12(17)11(9)16/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>115</Id>
+        <Name>1,2,3,5-tetrabromo-4-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-3-7(4-2-6)18-12-9(15)5-8(14)10(16)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>116</Id>
+        <Name>1,2,3,4,5-pentabromo-6-phenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-7-8(14)10(16)12(11(17)9(7)15)18-6-4-2-1-3-5-6/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>117</Id>
+        <Name>1,2,4,5-tetrabromo-3-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-3-7(4-2-6)18-12-10(16)8(14)5-9(15)11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>118</Id>
+        <Name>1,2,4-tribromo-5-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-7-2-1-6(3-8(7)14)18-12-5-10(16)9(15)4-11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>119</Id>
+        <Name>1,3,5-tribromo-2-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-3-10(16)12(11(17)4-6)18-7-1-2-8(14)9(15)5-7/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>120</Id>
+        <Name>1,2,4-tribromo-5-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-7(14)3-8(2-6)18-12-5-10(16)9(15)4-11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>121</Id>
+        <Name>1,3,5-tribromo-2-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-7(14)3-9(2-6)18-12-10(16)4-8(15)5-11(12)17/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>122</Id>
+        <Name>1,2,3-tribromo-5-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-7-2-1-3-10(12(7)17)18-6-4-8(14)11(16)9(15)5-6/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>123</Id>
+        <Name>1,2,3-tribromo-5-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-11(8(14)3-6)18-7-4-9(15)12(17)10(16)5-7/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>124</Id>
+        <Name>1,2,3-tribromo-5-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-2-8(14)11(3-6)18-7-4-9(15)12(17)10(16)5-7/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>125</Id>
+        <Name>1,2,3-tribromo-5-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-7-2-1-3-8(14)12(7)18-6-4-9(15)11(17)10(16)5-6/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>126</Id>
+        <Name>1,2,3-tribromo-5-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-8-2-1-6(3-9(8)14)18-7-4-10(15)12(17)11(16)5-7/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>127</Id>
+        <Name>1,2,3-tribromo-5-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O/c13-6-1-7(14)3-8(2-6)18-9-4-10(15)12(17)11(16)5-9/h1-5H</InChI>
+    </Compound>
+    <Compound>
+        <Id>128</Id>
+        <Name>1,2,3-tribromo-4-(2,3,4-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-3-7(11(17)9(5)15)19-8-4-2-6(14)10(16)12(8)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>129</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-7(9(5)15)19-8-4-6(14)10(16)12(18)11(8)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>130</Id>
+        <Name>1,2,3-tribromo-4-(2,3,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-3-7(15)10(16)9(4-5)19-8-2-1-6(14)11(17)12(8)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>131</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-8(9(5)16)19-12-7(15)4-6(14)10(17)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>132</Id>
+        <Name>1,2,3-tribromo-4-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-3-4-8(11(18)9(5)16)19-12-7(15)2-1-6(14)10(12)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>133</Id>
+        <Name>1,2,5-tribromo-3-(2,3,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-7(15)11(17)9(3-5)19-10-4-6(14)2-8(16)12(10)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>134</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-8(9(5)16)19-12-10(17)6(14)4-7(15)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>135</Id>
+        <Name>1,2,5-tribromo-3-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-3-8(16)10(17)9(4-5)19-12-7(15)2-1-6(14)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>136</Id>
+        <Name>1,2,4-tribromo-3-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-3-7(15)11(9(5)17)19-12-8(16)4-2-6(14)10(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>137</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-8(6(14)3-5)19-9-4-7(15)10(16)12(18)11(9)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>138</Id>
+        <Name>1,2,3-tribromo-4-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-9(12(18)11(5)17)19-10-4-7(15)6(14)3-8(10)16/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>139</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-9(6(14)3-5)19-12-8(16)4-7(15)10(17)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>140</Id>
+        <Name>1,2,3-tribromo-4-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-3-7(15)12(8(16)4-5)19-9-2-1-6(14)10(17)11(9)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>141</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-6(14)8(3-5)19-9-4-7(15)10(16)12(18)11(9)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>142</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-3-1-2-4-6(5)19-12-10(17)8(15)7(14)9(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>143</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-6(14)12(5)19-8-4-7(15)9(16)11(18)10(8)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>144</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-6(14)9(3-5)19-12-8(16)4-7(15)10(17)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>145</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-6(14)11(5)19-12-8(16)4-7(15)9(17)10(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>146</Id>
+        <Name>1,2,5-tribromo-3-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-9(17)12(18)11(2-5)19-10-4-7(15)6(14)3-8(10)16/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>147</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-9(6(14)3-5)19-12-10(17)7(15)4-8(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>148</Id>
+        <Name>1,2,5-tribromo-3-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-8(16)12(9(17)3-5)19-10-4-6(14)1-7(15)11(10)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>149</Id>
+        <Name>1,2,4-tribromo-3-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-6(14)12(11(5)18)19-10-4-8(16)7(15)3-9(10)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>150</Id>
+        <Name>1,2,4-tribromo-3-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-3-8(16)11(9(17)4-5)19-12-7(15)2-1-6(14)10(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>151</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-2-6(14)9(3-5)19-12-10(17)7(15)4-8(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>152</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-6(14)11(5)19-12-9(17)7(15)4-8(16)10(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>153</Id>
+        <Name>1,2,4-tribromo-5-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-9(17)11(3-7(5)15)19-12-4-8(16)6(14)2-10(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>154</Id>
+        <Name>1,2,4-tribromo-5-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-9(17)12(10(18)2-5)19-11-4-7(15)6(14)3-8(11)16/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>155</Id>
+        <Name>1,3,5-tribromo-2-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-7(15)11(8(16)2-5)19-12-9(17)3-6(14)4-10(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>156</Id>
+        <Name>1,2,3,4-tetrabromo-5-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-6-2-1-5(3-7(6)14)19-9-4-8(15)10(16)12(18)11(9)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>157</Id>
+        <Name>1,2,3-tribromo-4-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-6-1-2-9(12(18)11(6)17)19-5-3-7(14)10(16)8(15)4-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>158</Id>
+        <Name>1,2,3,5-tetrabromo-4-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-6-2-1-5(3-7(6)14)19-12-9(16)4-8(15)10(17)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>159</Id>
+        <Name>1,2,3,4-tetrabromo-5-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-6(14)3-7(2-5)19-9-4-8(15)10(16)12(18)11(9)17/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>160</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(3-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-2-1-3-6(4-5)19-12-10(17)8(15)7(14)9(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>161</Id>
+        <Name>1,2,3,5-tetrabromo-4-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-6(14)3-7(2-5)19-12-9(16)4-8(15)10(17)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>162</Id>
+        <Name>1,2,5-tribromo-3-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-7(14)12(18)10(2-5)19-6-3-8(15)11(17)9(16)4-6/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>163</Id>
+        <Name>1,2,4,5-tetrabromo-3-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-6-2-1-5(3-7(6)14)19-12-10(17)8(15)4-9(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>164</Id>
+        <Name>1,2,4-tribromo-3-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-6-1-2-7(14)12(11(6)18)19-5-3-8(15)10(17)9(16)4-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>165</Id>
+        <Name>1,2,4,5-tetrabromo-3-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-6(14)3-7(2-5)19-12-10(17)8(15)4-9(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>166</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(4-bromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-3-6(4-2-5)19-12-10(17)8(15)7(14)9(16)11(12)18/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>167</Id>
+        <Name>1,2,4-tribromo-5-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-6-3-8(15)11(4-7(6)14)19-5-1-9(16)12(18)10(17)2-5/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>168</Id>
+        <Name>1,3,5-tribromo-2-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-5-1-9(16)12(10(17)2-5)19-6-3-7(14)11(18)8(15)4-6/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>169</Id>
+        <Name>1,2,3-tribromo-5-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H4Br6O/c13-7-1-5(2-8(14)11(7)17)19-6-3-9(15)12(18)10(16)4-6/h1-4H</InChI>
+    </Compound>
+    <Compound>
+        <Id>170</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3,4-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-6(10(17)8(4)15)20-7-3-5(14)9(16)12(19)11(7)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>171</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,3,4-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-7(10(18)8(4)16)20-12-6(15)3-5(14)9(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>172</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-5(14)9(16)7(2-4)20-8-3-6(15)10(17)12(19)11(8)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>173</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-2-1-3-5(6(4)14)20-12-10(18)8(16)7(15)9(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>174</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-5(14)12(9(4)17)20-7-3-6(15)8(16)11(19)10(7)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>175</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,3,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-5(14)9(17)8(2-4)20-12-7(16)3-6(15)10(18)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>176</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-5(14)11(9(4)18)20-12-7(16)3-6(15)8(17)10(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>177</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,3,4-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-7(11(19)8(4)16)20-12-9(17)5(14)3-6(15)10(12)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>178</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,3,4-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-7(11(19)8(4)16)20-12-9(17)5(14)3-6(15)10(12)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>179</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-5(14)11(8(4)17)20-12-9(18)6(15)3-7(16)10(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>180</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-6(15)8(2-5(4)14)20-9-3-7(16)10(17)12(19)11(9)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>181</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-6(5(14)3-4)20-12-10(18)8(16)7(15)9(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>182</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-6(15)12(7(16)2-4)20-8-3-5(14)9(17)11(19)10(8)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>183</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-6(15)9(3-5(4)14)20-12-8(17)2-7(16)10(18)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>184</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-6(15)9(3-5(4)14)20-12-8(17)2-7(16)10(18)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>185</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-2-5(14)6(3-4)20-12-10(18)8(16)7(15)9(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>186</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,6-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-2-1-3-5(14)11(4)20-12-9(18)7(16)6(15)8(17)10(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>187</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-6(15)9(3-5(4)14)20-12-10(18)7(16)2-8(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>188</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-7(16)11(8(17)2-4)20-12-9(18)5(14)3-6(15)10(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>189</Id>
+        <Name>1,2,3,4-tetrabromo-5-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-5-1-4(2-6(14)9(5)16)20-8-3-7(15)10(17)12(19)11(8)18/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>190</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(3,4-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-5-2-1-4(3-6(5)14)20-12-10(18)8(16)7(15)9(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>191</Id>
+        <Name>1,2,3,5-tetrabromo-4-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-5-1-4(2-6(14)9(5)17)20-12-8(16)3-7(15)10(18)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>192</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(3,5-dibromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-4-1-5(14)3-6(2-4)20-12-10(18)8(16)7(15)9(17)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>193</Id>
+        <Name>1,2,4,5-tetrabromo-3-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H3Br7O/c13-5-1-4(2-6(14)9(5)17)20-12-10(18)7(15)3-8(16)11(12)19/h1-3H</InChI>
+    </Compound>
+    <Compound>
+        <Id>194</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3,4,5-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-5(9(17)11(19)7(3)15)21-6-2-4(14)8(16)12(20)10(6)18/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>195</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3,4-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-2-4(6(15)5(3)14)21-12-10(19)8(17)7(16)9(18)11(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>196</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3,4,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-5(15)12(11(20)8(3)17)21-6-2-4(14)7(16)10(19)9(6)18/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>197</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,3,4,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-5(15)11(9(19)7(3)17)21-12-6(16)2-4(14)8(18)10(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>198</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-4(14)6(15)5(2-3)21-12-10(19)8(17)7(16)9(18)11(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>199</Id>
+        <Name>1,2,3,4-tetrabromo-5-(2,3,5,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-4(14)9(18)12(8(3)17)21-6-2-5(15)7(16)11(20)10(6)19/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>200</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-2-4(14)11(5(3)15)21-12-9(19)7(17)6(16)8(18)10(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>201</Id>
+        <Name>1,2,3,5-tetrabromo-4-(2,3,5,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-2-6(16)11(10(20)7(3)17)21-12-8(18)4(14)1-5(15)9(12)19/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>202</Id>
+        <Name>1,2,4,5-tetrabromo-3-(2,3,5,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-4(14)8(18)11(7(3)17)21-12-9(19)5(15)2-6(16)10(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>203</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-5(15)6(2-4(3)14)21-12-10(19)8(17)7(16)9(18)11(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>204</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,4,6-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-3-1-4(14)11(5(15)2-3)21-12-9(19)7(17)6(16)8(18)10(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>205</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(3,4,5-tribromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H2Br8O/c13-4-1-3(2-5(14)6(4)15)21-12-10(19)8(17)7(16)9(18)11(12)20/h1-2H</InChI>
+    </Compound>
+    <Compound>
+        <Id>206</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3,4,5-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12HBr9O/c13-2-1-3(5(15)6(16)4(2)14)22-12-10(20)8(18)7(17)9(19)11(12)21/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>207</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3,4,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12HBr9O/c13-2-1-3(14)11(8(19)4(2)15)22-12-9(20)6(17)5(16)7(18)10(12)21/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>208</Id>
+        <Name>1,2,3,4,5-pentabromo-6-(2,3,5,6-tetrabromophenoxy)benzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12HBr9O/c13-2-1-3(14)5(16)11(4(2)15)22-12-9(20)7(18)6(17)8(19)10(12)21/h1H</InChI>
+    </Compound>
+    <Compound>
+        <Id>209</Id>
+        <Name>1,2,3,4,5-pentabromo-6-pentabromophenoxybenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12Br10O/c13-1-3(15)7(19)11(8(20)4(1)16)23-12-9(21)5(17)2(14)6(18)10(12)22</InChI>
+    </Compound>
+    <Compound>
+        <Id>210</Id>
+        <Name>2-bromo-4-[2-(4-hydroxyphenyl)propan-2-yl]phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C15H15BrO2/c1-15(2,10-3-6-12(17)7-4-10)11-5-8-14(18)13(16)9-11/h3-9,17-18H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>211</Id>
+        <Name>2-bromo-4-[2-(3-bromo-4-hydroxyphenyl)propan-2-yl]phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C15H14Br2O2/c1-15(2,9-3-5-13(18)11(16)7-9)10-4-6-14(19)12(17)8-10/h3-8,18-19H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>212</Id>
+        <Name>2,6-dibromo-4-[2-(3-bromo-4-hydroxyphenyl)propan-2-yl]phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C15H13Br3O2/c1-15(2,8-3-4-13(19)10(16)5-8)9-6-11(17)14(20)12(18)7-9/h3-7,19-20H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>213</Id>
+        <Name>2,6-dibromo-4-[2-(3,5-dibromo-4-hydroxyphenyl)propan-2-yl]phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C15H12Br4O2/c1-15(2,7-3-9(16)13(20)10(17)4-7)8-5-11(18)14(21)12(19)6-8/h3-6,20-21H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>214</Id>
+        <Name>2,4,6-tribromophenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C6H3Br3O/c7-3-1-4(8)6(10)5(9)2-3/h1-2,10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>215</Id>
+        <Name>3,5-dibromo-2-(2,4-dibromophenoxy)phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O2/c13-6-1-2-11(8(15)3-6)18-12-9(16)4-7(14)5-10(12)17/h1-5,17H</InChI>
+    </Compound>
+    <Compound>
+        <Id>216</Id>
+        <Name>4-(2,4,6-tribromophenoxy)phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H7Br3O2/c13-7-5-10(14)12(11(15)6-7)17-9-3-1-8(16)2-4-9/h1-6,16H</InChI>
+    </Compound>
+    <Compound>
+        <Id>217</Id>
+        <Name>2-bromo-4-(2,4,6-tribromophenoxy)phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H6Br4O2/c13-6-3-9(15)12(10(16)4-6)18-7-1-2-11(17)8(14)5-7/h1-5,17H</InChI>
+    </Compound>
+    <Compound>
+        <Id>218</Id>
+        <Name>2,6-dibromo-4-(2,4,6-tribromophenoxy)phenol</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H5Br5O2/c13-5-1-9(16)12(10(17)2-5)19-6-3-7(14)11(18)8(15)4-6/h1-4,18H</InChI>
+    </Compound>
+    <Compound>
+        <Id>219</Id>
+        <Name>(1R,2R,5R,6S,9S,10R)-1,2,5,6,9,10-hexabromocyclododecane</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C12H18Br6/c13-7-1-2-8(14)10(16)5-6-12(18)11(17)4-3-9(7)15/h7-12H,1-6H2/t7-,8-,9-,10+,11-,12+/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>220</Id>
+        <Name>hexabromobenzene</Name>
+        <Description>Names, mol-files and InChI codes were generated with JChem for Excel</Description>
+        <Labels></Labels>
+        <Cargos>mdl-molfile</Cargos>
+        <InChI>InChI=1S/C6Br6/c7-1-2(8)4(10)6(12)5(11)3(1)9</InChI>
+    </Compound>
+</CompoundRegistry>

@@ -1,0 +1,1 @@
+CCOC1OC2=CC=C(OS(C)(=O)=O)C=C2C1(C)C

@@ -1,0 +1,1 @@
+O=C(OC)\C(=N\OC)c1c(cccc1)COc2ccccc2C

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DescriptorRegistry xmlns="http://www.qsardb.org/QDB">
+    <Descriptor>
+        <Id>logKowmix</Id>
+        <Name>Logarithm of octanol-water partition coefficient</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>KOWWIN 1.67</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>dHfDivNatoms</Id>
+        <Name>Final heat of formation / # of atoms</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>MW</Id>
+        <Name>Molecular weight</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+    <Descriptor>
+        <Id>Elumo</Id>
+        <Name>Energy of the lowest unoccupied molecular orbital</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Application>CODESSA 2.20</Application>
+    </Descriptor>
+</DescriptorRegistry>

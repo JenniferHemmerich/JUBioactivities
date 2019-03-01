@@ -1,0 +1,12 @@
+Compound Id	logarithm base 10 of molecular polarity
+Mipafox	-0.29
+Paraoxon	0.75
+Malaoxon	0.25
+Chlorpyrifos-oxon	0.3
+Dichlorovos	0.0005
+Trichlorfon	0.032
+DFP	-0.38
+TSP	-1.1
+PSP	-1.1
+DBVP	-0.33
+DOVP	-0.457

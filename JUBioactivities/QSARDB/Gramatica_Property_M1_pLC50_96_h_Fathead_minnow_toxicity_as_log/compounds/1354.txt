@@ -1,0 +1,1 @@
+c1(ccccc1)[C@@H](c1c(ccc(C)c1)C)C

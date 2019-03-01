@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pBCm</Id>
+        <Name>Benchmark concentration for 5% increase in embryos with neural tube defects as log(1/BCm)</Name>
+        <Labels>Training</Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>4. Human health effects 4.16. In vivo pre-natal-developmental toxicity</Endpoint>
+        <Species>Mus musculus</Species>
+    </Property>
+</PropertyRegistry>

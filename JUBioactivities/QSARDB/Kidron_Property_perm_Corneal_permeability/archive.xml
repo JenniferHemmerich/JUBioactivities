@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>Prediction of the Corneal Permeability of Drug-Like Compounds</Name>
+    <Description>To develop a computational model for optimisation of low corneal permeability, which is a key feature in ocular drug development. 
+We have used multivariate analysis to build corneal permeability models based on a structurally diverse set of 58 drug-like compounds. 
+According to the models, the most important parameters for permeability are logD at physiologically relevant pH and the number of hydrogen bonds that can be formed. Combining these descriptors resulted in models with Q^2 and R^2 values ranging from 0.77 to 0.79. The predictive capability of the models was verified by estimating the corneal permeability of an external data set of 11 compounds and by using predicted permeability values to calculate the aqueous humour concentrations in the steady-state of seven compounds. The predicted values correlated well with experimental values. 
+The developed models are useful in early drug development to predict the corneal permeability and steady-state drug concentration in aqueous humor without experimental data.</Description>
+</Archive>

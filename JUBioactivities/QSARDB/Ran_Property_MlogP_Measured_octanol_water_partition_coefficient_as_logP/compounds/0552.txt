@@ -1,0 +1,1 @@
+NC1=C(Cl)C(=O)N(N=C1)C1=CC=CC=C1

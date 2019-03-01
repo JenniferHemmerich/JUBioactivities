@@ -1,0 +1,24 @@
+Compound Id	Energy of the highest occupied molecular orbital
+Tab3-1	-8.49
+Tab3-2	-8.51
+Tab3-3	-8.52
+Tab3-4	-8.42
+Tab3-5	-8.43
+Tab3-6	-8.66
+Tab3-7	-8.39
+Tab3-8	-8.36
+Tab3-9	-8.37
+Tab3-10	-8.34
+Tab3-11	-8.35
+Tab3-12	-8.31
+Tab3-13	-8.36
+Tab3-14	-8.39
+Tab3-15	-8.38
+Tab3-16	-8.38
+Tab3-17	-8.31
+Tab3-18	-8.33
+Tab3-19	-8.35
+Tab3-20	-8.3
+Tab3-21	-8.36
+Tab3-22	-7.99
+Tab3-23	-7.98

@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/146/2009QCS790.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property LogH: Henry's law constant as logH [Pa.m3/mol] "
+Paper:Papa, E.; Kovarich, S.; Gramatica, P. Development, Validation and Inspection of the Applicability Domain of QSPR Models for Physicochemical Properties of Polybrominated Diphenyl Ethers. QSAR Comb. Sci. 2009, 28, 790–796.
+EP:"Property LogH: Henry's law constant as logH "
+Author:Papa
+Filename:"Papa_Property LogH: Henry's law constant as logH"

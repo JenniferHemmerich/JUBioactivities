@@ -1,0 +1,16 @@
+Compound Id	Average logPeff over selected pH values
+N1	-5.51
+N2	-5.57
+N4	-4.22
+N5	-7.34
+N6	-4.2
+N7	-5.52
+N8	-7.01
+N9	-4.14
+N11	-6.01
+N12	-7.51
+N14	-6.27
+N15	-5.46
+N3	-5.15
+N10	-5.57
+N13	-6.71

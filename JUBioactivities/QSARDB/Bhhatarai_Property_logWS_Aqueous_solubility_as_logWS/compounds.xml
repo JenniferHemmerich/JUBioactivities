@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CompoundRegistry xmlns="http://www.qsardb.org/QDB">
+    <Compound>
+        <Id>000061-82-5</Id>
+        <Name>2H-1,2,4-triazol-3-amine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>61-82-5</Cas>
+        <InChI>InChI=1S/C2H4N4/c3-2-4-1-5-6-2/h1H,(H3,3,4,5,6)</InChI>
+    </Compound>
+    <Compound>
+        <Id>000086-50-0</Id>
+        <Name>3-(dimethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>86-50-0</Cas>
+        <InChI>InChI=1S/C10H12N3O3PS2/c1-15-17(18,16-2)19-7-13-10(14)8-5-3-4-6-9(8)11-12-13/h3-6H,7H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>000095-14-7</Id>
+        <Name>2H-Benzotriazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>95-14-7</Cas>
+        <InChI>InChI=1S/C6H5N3/c1-2-4-6-5(3-1)7-9-8-6/h1-4H,(H,7,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>000134-58-7</Id>
+        <Name>5-amino-2,3-dihydrotriazolo[4,5-e]pyrimidin-7-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>134-58-7</Cas>
+        <InChI>InChI=1S/C4H4N6O/c5-4-6-2-1(3(11)7-4)8-10-9-2/h(H4,5,6,7,8,9,10,11)</InChI>
+    </Compound>
+    <Compound>
+        <Id>000273-40-5</Id>
+        <Name>2H-triazolo[4,5-d]pyrimidine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>273-40-5</Cas>
+        <InChI>InChI=1S/C4H3N5/c1-3-4(6-2-5-1)8-9-7-3/h1-2H,(H,5,6,7,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>001031-47-6</Id>
+        <Name>2-bis(dimethylamino)phosphoryl-5-phenyl-1,2,4-triazol-3-amine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1031-47-6</Cas>
+        <InChI>InChI=1S/C12H19N6OP/c1-16(2)20(19,17(3)4)18-12(13)14-11(15-18)10-8-6-5-7-9-10/h5-9H,1-4H3,(H2,13,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>002642-71-9</Id>
+        <Name>3-(diethoxyphosphinothioylsulfanylmethyl)-1,2,3-benzotriazin-4-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2642-71-9</Cas>
+        <InChI>InChI=1S/C12H16N3O3PS2/c1-3-17-19(20,18-4-2)21-9-15-12(16)10-7-5-6-8-11(10)13-14-15/h5-8H,3-4,9H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>014500-23-3</Id>
+        <Name>4-Methyl-1-phenyl-1,2,4-triazolidine-3,5-dione</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>14500-23-3</Cas>
+        <InChI>InChI=1S/C9H9N3O2/c1-11-8(13)10-12(9(11)14)7-5-3-2-4-6-7/h2-6H,1H3,(H,10,13)</InChI>
+    </Compound>
+    <Compound>
+        <Id>024017-47-8</Id>
+        <Name>diethoxy-[(1-phenyl-1,2,4-triazol-3-yl)oxy]-sulfanylidenephosphorane</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>24017-47-8</Cas>
+        <InChI>InChI=1S/C12H16N3O3PS/c1-3-16-19(20,17-4-2)18-12-13-10-15(14-12)11-8-6-5-7-9-11/h5-10H,3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>041083-11-8</Id>
+        <Name>tricyclohexyl-(1,2,4-triazol-1-yl)stannane</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>41083-11-8</Cas>
+        <InChI>InChI=1S/3C6H11.C2H2N3.Sn/c3*1-2-4-6-5-3-1;1-3-2-5-4-1;/h3*1H,2-6H2;1-2H;/q;;;-1;+1</InChI>
+    </Compound>
+    <Compound>
+        <Id>041814-78-2</Id>
+        <Name>8-methyl-[1,2,4]triazolo[3,4-b][1,3]benzothiazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>41814-78-2</Cas>
+        <InChI>InChI=1S/C9H7N3S/c1-6-3-2-4-7-8(6)12-5-10-11-9(12)13-7/h2-5H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>042509-80-8</Id>
+        <Name>(5-chloro-1-propan-2-yl-1,2,4-triazol-3-yl)oxy-diethoxy-sulfanylidenephosphorane</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>42509-80-8</Cas>
+        <InChI>InChI=1S/C9H17ClN3O3PS/c1-5-14-17(18,15-6-2)16-9-11-8(10)13(12-9)7(3)4/h7H,5-6H2,1-4H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>043121-43-3</Id>
+        <Name>1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>43121-43-3</Cas>
+        <InChI>InChI=1S/C14H16ClN3O2/c1-14(2,3)12(19)13(18-9-16-8-17-18)20-11-6-4-10(15)5-7-11/h4-9,13H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>055179-31-2</Id>
+        <Name>3,3-dimethyl-1-(4-phenylphenoxy)-1-(1,2,4-triazol-1-yl)butan-2-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>55179-31-2</Cas>
+        <InChI>InChI=1S/C20H23N3O2/c1-20(2,3)18(24)19(23-14-21-13-22-23)25-17-11-9-16(10-12-17)15-7-5-4-6-8-15/h4-14,18-19,24H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>055219-65-3</Id>
+        <Name>1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>55219-65-3</Cas>
+        <InChI>InChI=1S/C14H18ClN3O2/c1-14(2,3)12(19)13(18-9-16-8-17-18)20-11-6-4-10(15)5-7-11/h4-9,12-13,19H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>060207-31-0</Id>
+        <Name>1-[[2-(2,4-dichlorophenyl)-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>60207-31-0</Cas>
+        <InChI>InChI=1S/C12H11Cl2N3O2/c13-9-1-2-10(11(14)5-9)12(18-3-4-19-12)6-17-8-15-7-16-17/h1-2,5,7-8H,3-4,6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>060207-90-1</Id>
+        <Name>1-[[2-(2,4-dichlorophenyl)-4-propyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>60207-90-1</Cas>
+        <InChI>InChI=1S/C15H17Cl2N3O2/c1-2-3-12-7-21-15(22-12,8-20-10-18-9-19-20)13-5-4-11(16)6-14(13)17/h4-6,9-10,12H,2-3,7-8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>060207-93-4</Id>
+        <Name>1-[[2-(2,4-dichlorophenyl)-4-ethyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>60207-93-4</Cas>
+        <InChI>InChI=1S/C14H15Cl2N3O2/c1-2-11-6-20-14(21-11,7-19-9-17-8-18-19)12-4-3-10(15)5-13(12)16/h3-5,8-9,11H,2,6-7H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>066246-88-6</Id>
+        <Name>1-[2-(2,4-dichlorophenyl)pentyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>66246-88-6</Cas>
+        <InChI>InChI=1S/C13H15Cl2N3/c1-2-3-10(7-18-9-16-8-17-18)12-5-4-11(14)6-13(12)15/h4-6,8-10H,2-3,7H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>068049-83-2</Id>
+        <Name>2-(2,4-dichloro-5-prop-2-ynoxyphenyl)-5,6,7,8-tetrahydro-[1,2,4]triazolo[4,5-a]pyridin-3-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>68049-83-2</Cas>
+        <InChI>InChI=1S/C15H13Cl2N3O2/c1-2-7-22-13-9-12(10(16)8-11(13)17)20-15(21)19-6-4-3-5-14(19)18-20/h1,8-9H,3-7H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>075736-33-3</Id>
+        <Name>1-(2,4-Dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pentan-3-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>75736-33-3</Cas>
+        <InChI>InChI=1S/C15H19Cl2N3O/c1-15(2,3)14(21)13(20-9-18-8-19-20)6-10-4-5-11(16)7-12(10)17/h4-5,7-9,13-14,21H,6H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>076674-21-0</Id>
+        <Name>1-(2-fluorophenyl)-1-(4-fluorophenyl)-2-(1,2,4-triazol-1-yl)ethanol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>76674-21-0</Cas>
+        <InChI>InChI=1S/C16H13F2N3O/c17-13-7-5-12(6-8-13)16(22,9-21-11-19-10-20-21)14-3-1-2-4-15(14)18/h1-8,10-11,22H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>079983-71-4</Id>
+        <Name>2-(2,4-dichlorophenyl)-1-(1,2,4-triazol-1-yl)hexan-2-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>79983-71-4</Cas>
+        <InChI>InChI=1S/C14H17Cl2N3O/c1-2-3-6-14(20,8-19-10-17-9-18-19)12-5-4-11(15)7-13(12)16/h4-5,7,9-10,20H,2-3,6,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>082200-72-4</Id>
+        <Name>(1S,2S)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>82200-72-4</Cas>
+        <InChI>InChI=1S/C14H18ClN3O2/c1-14(2,3)12(19)13(18-9-16-8-17-18)20-11-6-4-10(15)5-7-11/h4-9,12-13,19H,1-3H3/t12-,13+/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>083657-17-4</Id>
+        <Name>(E,3S)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pent-1-en-3-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>83657-17-4</Cas>
+        <InChI>InChI=1S/C15H18ClN3O/c1-15(2,3)14(20)13(19-10-17-9-18-19)8-11-4-6-12(16)7-5-11/h4-10,14,20H,1-3H3/b13-8+/t14-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>083657-22-1</Id>
+        <Name>(E)-1-(4-chlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pent-1-en-3-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>83657-22-1</Cas>
+        <InChI>InChI=1S/C15H18ClN3O/c1-15(2,3)14(20)13(19-10-17-9-18-19)8-11-4-6-12(16)7-5-11/h4-10,14,20H,1-3H3/b13-8+</InChI>
+    </Compound>
+    <Compound>
+        <Id>083657-24-3</Id>
+        <Name>1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pent-1-en-3-ol(E)-1-(2,4-dichlorophenyl)-4,4-dimethyl-2-(1,2,4-triazol-1-yl)pent-1-en-3-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>83657-24-3</Cas>
+        <InChI>InChI=1S/C15H17Cl2N3O/c1-15(2,3)14(21)13(20-9-18-8-19-20)6-10-4-5-11(16)7-12(10)17/h4-9,14,21H,1-3H3/b13-6+</InChI>
+    </Compound>
+    <Compound>
+        <Id>086598-92-7</Id>
+        <Name>1-[(4-chlorophenyl)methylsulfanyl]-N-(2,4-dichlorophenyl)-2-(1,2,4-triazol-1-yl)ethanimine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>86598-92-7</Cas>
+        <InChI>InChI=1S/C17H13Cl3N4S/c18-13-3-1-12(2-4-13)9-25-17(8-24-11-21-10-22-24)23-16-6-5-14(19)7-15(16)20/h1-7,10-11H,8-9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>088671-89-0</Id>
+        <Name>2-(4-chlorophenyl)-2-(1,2,4-triazol-1-ylmethyl)hexanenitrile</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>88671-89-0</Cas>
+        <InChI>InChI=1S/C15H17ClN4/c1-2-3-8-15(9-17,10-20-12-18-11-19-20)13-4-6-14(16)7-5-13/h4-7,11-12H,2-3,8,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>089482-17-7</Id>
+        <Name>(1S,2R)-1-(4-chlorophenoxy)-3,3-dimethyl-1-(1,2,4-triazol-1-yl)butan-2-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>89482-17-7</Cas>
+        <InChI>InChI=1S/C14H18ClN3O2/c1-14(2,3)12(19)13(18-9-16-8-17-18)20-11-6-4-10(15)5-7-11/h4-9,12-13,19H,1-3H3/t12-,13-/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>094361-06-5</Id>
+        <Name>2-(4-chlorophenyl)-3-cyclopropyl-1-(1,2,4-triazol-1-yl)butan-2-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>94361-06-5</Cas>
+        <InChI>InChI=1S/C15H18ClN3O/c1-11(12-2-3-12)15(20,8-19-10-17-9-18-19)13-4-6-14(16)7-5-13/h4-7,9-12,20H,2-3,8H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>098967-40-9</Id>
+        <Name>N-(2,6-difluorophenyl)-5-methyl-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>98967-40-9</Cas>
+        <InChI>InChI=1S/C12H9F2N5O2S/c1-7-5-6-19-11(15-7)16-12(17-19)22(20,21)18-10-8(13)3-2-4-9(10)14/h2-6,18H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>103112-35-2</Id>
+        <Name>ethyl 1-(2,4-dichlorophenyl)-5-(trichloromethyl)-1,2,4-triazole-3-carboxylate</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>103112-35-2</Cas>
+        <InChI>InChI=1S/C12H8Cl5N3O2/c1-2-22-10(21)9-18-11(12(15,16)17)20(19-9)8-4-3-6(13)5-7(8)14/h3-5H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>107534-96-3</Id>
+        <Name>1-(4-Chlorophenyl)-4,4-dimethyl-3-(1,2,4-triazol-1-ylmethyl)pentan-3-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>107534-96-3</Cas>
+        <InChI>InChI=1S/C16H22ClN3O/c1-15(2,3)16(21,10-20-12-18-11-19-20)9-8-13-4-6-14(17)7-5-13/h4-7,11-12,21H,8-10H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>112143-82-5</Id>
+        <Name>ethyl 2-[[5-tert-butyl-2-(dimethylcarbamoyl)-1,2,4-triazol-3-yl]sulfanyl]acetate</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>112143-82-5</Cas>
+        <InChI>InChI=1S/C13H22N4O3S/c1-7-20-9(18)8-21-11-14-10(13(2,3)4)15-17(11)12(19)16(5)6/h7-8H2,1-6H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>112281-77-3</Id>
+        <Name>1-[2-(2,4-dichlorophenyl)-3-(1,1,2,2-tetrafluoroethoxy)propyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>112281-77-3</Cas>
+        <InChI>InChI=1S/C13H11Cl2F4N3O/c14-9-1-2-10(11(15)3-9)8(4-22-7-20-6-21-22)5-23-13(18,19)12(16)17/h1-3,6-8,12H,4-5H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>114369-43-6</Id>
+        <Name>4-(4-chlorophenyl)-2-phenyl-2-(1,2,4-triazol-1-ylmethyl)butanenitrile</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>114369-43-6</Cas>
+        <InChI>InChI=1S/C19H17ClN4/c20-18-8-6-16(7-9-18)10-11-19(12-21,13-24-15-22-14-23-24)17-4-2-1-3-5-17/h1-9,14-15H,10-11,13H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>116255-48-2</Id>
+        <Name>1-[[4-bromo-2-(2,4-dichlorophenyl)oxolan-2-yl]methyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>116255-48-2</Cas>
+        <InChI>InChI=1S/C13H12BrCl2N3O/c14-9-4-13(20-5-9,6-19-8-17-7-18-19)11-2-1-10(15)3-12(11)16/h1-3,7-9H,4-6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>119126-15-7</Id>
+        <Name>1-[4-chloro-3-(2,2,3,3,3-pentafluoropropoxymethyl)phenyl]-5-phenyl-1,2,4-triazole-3-carboxamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>119126-15-7</Cas>
+        <InChI>InChI=1S/C19H14ClF5N4O2/c20-14-7-6-13(8-12(14)9-31-10-18(21,22)19(23,24)25)29-17(11-4-2-1-3-5-11)27-16(28-29)15(26)30/h1-8H,9-10H2,(H2,26,30)</InChI>
+    </Compound>
+    <Compound>
+        <Id>119446-68-3</Id>
+        <Name>1-[[2-[2-chloro-4-(4-chlorophenoxy)phenyl]-4-methyl-1,3-dioxolan-2-yl]methyl]-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>119446-68-3</Cas>
+        <InChI>InChI=1S/C19H17Cl2N3O3/c1-13-9-25-19(27-13,10-24-12-22-11-23-24)17-7-6-16(8-18(17)21)26-15-4-2-14(20)3-5-15/h2-8,11-13H,9-10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>122836-35-5</Id>
+        <Name>N-[2,4-dichloro-5-[4-(difluoromethyl)-3-methyl-5-oxo-1,2,4-triazol-1-yl]phenyl]methanesulfonamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>122836-35-5</Cas>
+        <InChI>InChI=1S/C11H10Cl2F2N4O3S/c1-5-16-19(11(20)18(5)10(14)15)9-4-8(17-23(2,21)22)6(12)3-7(9)13/h3-4,10,17H,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>125116-23-6</Id>
+        <Name>5-[(4-chlorophenyl)methyl]-2,2-dimethyl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>125116-23-6</Cas>
+        <InChI>InChI=1S/C17H22ClN3O/c1-16(2)8-7-14(9-13-3-5-15(18)6-4-13)17(16,22)10-21-12-19-11-20-21/h3-6,11-12,14,22H,7-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>125225-28-7</Id>
+        <Name>2-[(4-chlorophenyl)methyl]-5-propan-2-yl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>125225-28-7</Cas>
+        <InChI>InChI=1S/C18H24ClN3O/c1-13(2)17-8-5-15(9-14-3-6-16(19)7-4-14)18(17,23)10-22-12-20-11-21-22/h3-4,6-7,11-13,15,17,23H,5,8-10H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>125306-83-4</Id>
+        <Name>N,N-diethyl-3-(2,4,6-trimethylphenyl)sulfonyl-1,2,4-triazole-1-carboxamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>125306-83-4</Cas>
+        <InChI>InChI=1S/C16H22N4O3S/c1-6-19(7-2)16(21)20-10-17-15(18-20)24(22,23)14-12(4)8-11(3)9-13(14)5/h8-10H,6-7H2,1-5H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>128639-02-1</Id>
+        <Name>ethyl 2-chloro-3-[2-chloro-5-[4-(difluoromethyl)-3-methyl-5-oxo-1,2,4-triazol-1-yl]-4-fluorophenyl]propanoate</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>128639-02-1</Cas>
+        <InChI>InChI=1S/C15H14Cl2F3N3O3/c1-3-26-13(24)10(17)4-8-5-12(11(18)6-9(8)16)23-15(25)22(14(19)20)7(2)21-23/h5-6,10,14H,3-4H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>129586-32-9</Id>
+        <Name>1-(4-chlorophenyl)-2-(1,2,4-triazol-1-yl)cycloheptan-1-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>129586-32-9</Cas>
+        <InChI>InChI=1S/C15H18ClN3O/c16-13-7-5-12(6-8-13)15(20)9-3-1-2-4-14(15)19-11-17-10-18-19/h5-8,10-11,14,20H,1-4,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>131983-72-7</Id>
+        <Name>(5Z)-5-[(4-chlorophenyl)methylidene]-2,2-dimethyl-1-(1,2,4-triazol-1-ylmethyl)cyclopentan-1-ol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>131983-72-7</Cas>
+        <InChI>InChI=1S/C17H20ClN3O/c1-16(2)8-7-14(9-13-3-5-15(18)6-4-13)17(16,22)10-21-12-19-11-20-21/h3-6,9,11-12,22H,7-8,10H2,1-2H3/b14-9-</InChI>
+    </Compound>
+    <Compound>
+        <Id>139528-85-1</Id>
+        <Name>N-(2,6-dichloro-3-methylphenyl)-5,7-dimethoxy-[1,2,4]triazolo[1,5-a]pyrimidine-2-sulfonamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>139528-85-1</Cas>
+        <InChI>InChI=1S/C14H13Cl2N5O4S/c1-7-4-5-8(15)12(11(7)16)20-26(22,23)14-18-13-17-9(24-2)6-10(25-3)21(13)19-14/h4-6,20H,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>147150-35-4</Id>
+        <Name>methyl 3-chloro-2-[(5-ethoxy-7-fluoro-[1,2,4]triazolo[5,1-f]pyrimidin-2-yl)sulfonylamino]benzoate</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>147150-35-4</Cas>
+        <InChI>InChI=1S/C15H13ClFN5O5S/c1-3-27-15-18-10(17)7-11-19-14(20-22(11)15)28(24,25)21-12-8(13(23)26-2)5-4-6-9(12)16/h4-7,21H,3H2,1-2H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>000273-02-9</Id>
+        <Name>2H-Benzotriazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>273-02-9</Cas>
+        <InChI>InChI=1S/C6H5N3/c1-2-4-6-5(3-1)7-9-8-6/h1-4H,(H,7,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>000288-36-8</Id>
+        <Name>2H-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>288-36-8</Cas>
+        <InChI>InChI=1S/C2H3N3/c1-2-4-5-3-1/h1-2H,(H,3,4,5)</InChI>
+    </Compound>
+    <Compound>
+        <Id>000288-88-0</Id>
+        <Name>1H-1,2,4-Triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>288-88-0</Cas>
+        <InChI>InChI=1S/C2H3N3/c1-3-2-5-4-1/h1-2H,(H,3,4,5)</InChI>
+    </Compound>
+    <Compound>
+        <Id>000938-56-7</Id>
+        <Name>2-(benzotriazol-1-yl)ethanol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>938-56-7</Cas>
+        <InChI>InChI=1S/C8H9N3O/c12-6-5-11-8-4-2-1-3-7(8)9-10-11/h1-4,12H,5-6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>001123-54-2</Id>
+        <Name>2H-triazolo[4,5-e]pyrimidin-7-amine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1123-54-2</Cas>
+        <InChI>InChI=1S/C4H4N6/c5-3-2-4(7-1-6-3)9-10-8-2/h1H,(H3,5,6,7,8,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>001455-77-2</Id>
+        <Name>1H-1,2,4-Triazole-3,5-diamine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1455-77-2</Cas>
+        <InChI>InChI=1S/C2H5N5/c3-1-5-2(4)7-6-1/h(H5,3,4,5,6,7)</InChI>
+    </Compound>
+    <Compound>
+        <Id>001680-44-0</Id>
+        <Name>4-phenyl-2H-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>1680-44-0</Cas>
+        <InChI>InChI=1S/C8H7N3/c1-2-4-7(5-3-1)8-6-9-11-10-8/h1-6H,(H,9,10,11)</InChI>
+    </Compound>
+    <Compound>
+        <Id>002338-12-7</Id>
+        <Name>N-hydroxy-2H-benzotriazol-5-amine oxide N-(2H-benzotriazol-5-yl)-N-oxidohydroxylamine 5-nitro-2H-benzotriazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2338-12-7</Cas>
+        <InChI>InChI=1S/C6H4N4O2/c11-10(12)4-1-2-5-6(3-4)8-9-7-5/h1-3H,(H,7,8,9)</InChI>
+    </Compound>
+    <Compound>
+        <Id>002440-22-4</Id>
+        <Name>2-(benzotriazol-2-yl)-4-methylphenol</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2440-22-4</Cas>
+        <InChI>InChI=1S/C13H11N3O/c1-9-6-7-13(17)12(8-9)16-14-10-4-2-3-5-11(10)15-16/h2-8,17H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>002683-90-1</Id>
+        <Name>2,3-dihydrotriazolo[4,5-e]pyrimidin-7-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>2683-90-1</Cas>
+        <InChI>InChI=1S/C4H3N5O/c10-4-2-3(5-1-6-4)8-9-7-2/h1H,(H2,5,6,7,8,9,10)</InChI>
+    </Compound>
+    <Compound>
+        <Id>003357-42-4</Id>
+        <Name>3-phenyl-2H-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>3357-42-4</Cas>
+        <InChI>InChI=1S/C8H7N3/c1-2-4-7(5-3-1)8-9-6-10-11-8/h1-6H,(H,9,10,11)</InChI>
+    </Compound>
+    <Compound>
+        <Id>004368-68-7</Id>
+        <Name>1-(phenylmethyl)triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>4368-68-7</Cas>
+        <InChI>InChI=1S/C9H9N3/c1-2-4-9(5-3-1)8-12-7-6-10-11-12/h1-7H,8H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>006085-94-5</Id>
+        <Name>1-(phenylmethyl)-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>6085-94-5</Cas>
+        <InChI>InChI=1S/C9H9N3/c1-2-4-9(5-3-1)6-12-8-10-7-11-12/h1-5,7-8H,6H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>007411-23-6</Id>
+        <Name>3,5-dibromo-1H-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>7411-23-6</Cas>
+        <InChI>InChI=1S/C2HBr2N3/c3-1-5-2(4)7-6-1/h(H,5,6,7)</InChI>
+    </Compound>
+    <Compound>
+        <Id>013351-73-0</Id>
+        <Name>1-Methylbenzotriazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>13351-73-0</Cas>
+        <InChI>InChI=1S/C7H7N3/c1-10-7-5-3-2-4-6(7)8-9-10/h2-5H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>015421-84-8</Id>
+        <Name>N,N-diethyl-5-methyl-[1,2,4]triazolo[5,1-b]pyrimidin-7-amine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>15421-84-8</Cas>
+        <InChI>InChI=1S/C10H15N5/c1-4-14(5-2)9-6-8(3)13-10-11-7-12-15(9)10/h6-7H,4-5H2,1-3H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>016584-05-7</Id>
+        <Name>1-Ethylbenzotriazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>16584-05-7</Cas>
+        <InChI>InChI=1S/C8H9N3/c1-2-11-8-6-4-3-5-7(8)9-10-11/h3-6H,2H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>019794-93-5</Id>
+        <Name>2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-[1,2,4]triazolo[4,5-a]pyridin-3-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>19794-93-5</Cas>
+        <InChI>InChI=1S/C19H22ClN5O/c20-16-5-3-6-17(15-16)23-13-11-22(12-14-23)8-4-10-25-19(26)24-9-2-1-7-18(24)21-25/h1-3,5-7,9,15H,4,8,10-14H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>026621-45-4</Id>
+        <Name>1-Methyl-3-nitro-1,2,4-triazole</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>26621-45-4</Cas>
+        <InChI>InChI=1S/C3H4N4O2/c1-6-2-4-3(5-6)7(8)9/h2H,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>028911-01-5</Id>
+        <Name>8-chloro-6-(2-chlorophenyl)-1-methyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>28911-01-5</Cas>
+        <InChI>InChI=1S/C17H12Cl2N4/c1-10-21-22-16-9-20-17(12-4-2-3-5-14(12)19)13-8-11(18)6-7-15(13)23(10)16/h2-8H,9H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>028981-97-7</Id>
+        <Name>8-chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>28981-97-7</Cas>
+        <InChI>InChI=1S/C17H13ClN4/c1-11-20-21-16-10-19-17(12-5-3-2-4-6-12)14-9-13(18)7-8-15(14)22(11)16/h2-9H,10H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>029975-16-4</Id>
+        <Name>8-Chloro-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>29975-16-4</Cas>
+        <InChI>InChI=1S/C16H11ClN4/c17-12-6-7-14-13(8-12)16(11-4-2-1-3-5-11)18-9-15-20-19-10-21(14)15/h1-8,10H,9H2</InChI>
+    </Compound>
+    <Compound>
+        <Id>036791-04-5</Id>
+        <Name>1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,4-triazole-3-carboxamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>36791-04-5</Cas>
+        <InChI>InChI=1S/C8H12N4O5/c9-6(16)7-10-2-12(11-7)8-5(15)4(14)3(1-13)17-8/h2-5,8,13-15H,1H2,(H2,9,16)/t3-,4-,5-,8-/m1/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>057801-81-7</Id>
+        <Name>2-bromo-4-(2-chlorophenyl)-9-methyl-6H-thieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>57801-81-7</Cas>
+        <InChI>InChI=1S/C15H10BrClN4S/c1-8-19-20-13-7-18-14(9-4-2-3-5-11(9)17)10-6-12(16)22-15(10)21(8)13/h2-6H,7H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>059338-93-1</Id>
+        <Name>6-methoxy-N-[(1-prop-2-enylpyrrolidin-2-yl)methyl]-2H-benzotriazole-5-carboxamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>59338-93-1</Cas>
+        <InChI>InChI=1S/C16H21N5O2/c1-3-6-21-7-4-5-11(21)10-17-16(22)12-8-13-14(19-20-18-13)9-15(12)23-2/h3,8-9,11H,1,4-7,10H2,2H3,(H,17,22)(H,18,19,20)</InChI>
+    </Compound>
+    <Compound>
+        <Id>066535-86-2</Id>
+        <Name>2-(4-chlorophenyl)-[1,2,4]triazolo[5,1-a]isoquinoline</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>66535-86-2</Cas>
+        <InChI>InChI=1S/C16H10ClN3/c17-13-7-5-12(6-8-13)15-18-16-14-4-2-1-3-11(14)9-10-20(16)19-15/h1-10H</InChI>
+    </Compound>
+    <Compound>
+        <Id>069141-50-0</Id>
+        <Name>(5S,6S)-6-hydroxy-2,2,7,7-tetramethyl-5-(1,2,4-triazol-1-yl)octan-3-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>69141-50-0</Cas>
+        <InChI>InChI=1S/C14H25N3O2/c1-13(2,3)11(18)7-10(12(19)14(4,5)6)17-9-15-8-16-17/h8-10,12,19H,7H2,1-6H3/t10-,12+/m0/s1</InChI>
+    </Compound>
+    <Compound>
+        <Id>077314-77-3</Id>
+        <Name>4-(5-amino-2H-1,2,4-triazol-3-yl)-N-ethylpyridin-2-amine</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>77314-77-3</Cas>
+        <InChI>InChI=1S/C9H12N6/c1-2-11-7-5-6(3-4-12-7)8-13-9(10)15-14-8/h3-5H,2H2,1H3,(H,11,12)(H3,10,13,14,15)</InChI>
+    </Compound>
+    <Compound>
+        <Id>083366-66-9</Id>
+        <Name>2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-5-ethyl-4-[2-(phenoxy)ethyl]-1,2,4-triazol-3-one</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>83366-66-9</Cas>
+        <InChI>InChI=1S/C25H32ClN5O2/c1-2-24-27-31(25(32)30(24)18-19-33-23-10-4-3-5-11-23)13-7-12-28-14-16-29(17-15-28)22-9-6-8-21(26)20-22/h3-6,8-11,20H,2,7,12-19H2,1H3</InChI>
+    </Compound>
+    <Compound>
+        <Id>104958-85-2</Id>
+        <Name>N-(2-Hydroxyethyl)-2-(3-nitro-1,2,4-triazol-1-yl)acetamide</Name>
+        <Description>InChI code and name were downloaded from http://cactus.nci.nih.gov</Description>
+        <Labels></Labels>
+        <Cargos></Cargos>
+        <Cas>104958-85-2</Cas>
+        <InChI>InChI=1S/C6H9N5O4/c12-2-1-7-5(13)3-10-4-8-6(9-10)11(14)15/h4,12H,1-3H2,(H,7,13)</InChI>
+    </Compound>
+</CompoundRegistry>

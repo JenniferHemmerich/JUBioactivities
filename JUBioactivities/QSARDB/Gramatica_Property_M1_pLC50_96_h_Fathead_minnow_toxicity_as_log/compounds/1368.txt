@@ -1,0 +1,1 @@
+[C@H](OP(=O)(O[C@H](CCl)C)O[C@H](CCl)C)(CCl)C

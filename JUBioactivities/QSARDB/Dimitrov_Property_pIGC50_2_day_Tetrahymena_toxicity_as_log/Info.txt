@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/43/i1552-8618-23-2-463.qdb.zip?sequence=1&isAllowed=y
+Endpoint:"Property pIGC50: 2-day Tetrahymena toxicity as log(1/IGC50) [log(L/mol)]"
+Paper:"Dimitrov, S.; Koleva, Y.; Schultz, T.W.; Walker, J.D.; Mekenyan, O. Interspecies Quantitative Structure-Activity Relationship Model for Aldehydes: Aquatic Toxicity. Environ. Toxicol. Chem. 2004, 23, 2, 463–470."
+EP:"Property pIGC50: 2-day Tetrahymena toxicity as log"
+Author:Dimitrov
+Filename:"Dimitrov_Property pIGC50: 2-day Tetrahymena toxicity as log"

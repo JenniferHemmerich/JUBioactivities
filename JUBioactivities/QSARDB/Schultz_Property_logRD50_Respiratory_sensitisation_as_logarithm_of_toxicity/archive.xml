@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Archive xmlns="http://www.qsardb.org/QDB">
+    <Name>A conceptual framework for predicting the toxicity of reactive chemicals: modeling soft electrophilicity</Name>
+    <Description>Although the literature is replete with QSAR models developed for many toxic effects caused by
+reversible chemical interactions, the development of QSARs for the toxic effects of reactive
+chemicals lacks a consistent approach. While limitations exit, an appropriate starting-point
+for modeling reactive toxicity is the applicability of the general rules of organic chemical
+reactions and the association of these reactions to cellular targets of importance in toxicology.
+The identification of plausible ‘‘molecular initiating events’’ based on covalent reactions with
+nucleophiles in proteins and DNA provides the unifying concept for a framework for reactive
+toxicity. This paper outlines the proposed framework for reactive toxicity. Empirical measures
+of the chemical reactivity of xenobiotics with a model nucleophile (thiol) are used to simulate
+the relative rates at which a reactive chemical is likely to bind irreversibly to cellular targets.
+These measures of intrinsic reactivity serve as correlates to a variety of toxic effects; what’s
+more they appear to be more appropriate endpoints for QSAR modeling than the toxicity
+endpoints themselves.</Description>
+</Archive>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>BCF_class</Id>
+        <Name>Experimental BCF class (nB - non-bio-accumulative, B - bioaccumulative)</Name>
+        <Labels></Labels>
+        <Cargos>values</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.4. Bioconcentration</Endpoint>
+        <Species>Actinopterygii (ray-finned fish)</Species>
+    </Property>
+    <Property>
+        <Id>logBCF</Id>
+        <Name>Experimental logarithmic BCF</Name>
+        <Labels></Labels>
+        <Cargos>values bibtex</Cargos>
+        <Endpoint>2. Environmental fate parameters 2.4. Bioconcentration</Endpoint>
+        <Species>Actinopterygii (ray-finned fish)</Species>
+    </Property>
+</PropertyRegistry>

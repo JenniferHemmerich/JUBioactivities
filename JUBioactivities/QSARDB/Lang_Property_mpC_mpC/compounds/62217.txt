@@ -1,0 +1,1 @@
+Cc1cc(ccc1O)C2(c3ccccc3C(=O)O2)c4ccc(c(c4)C)O

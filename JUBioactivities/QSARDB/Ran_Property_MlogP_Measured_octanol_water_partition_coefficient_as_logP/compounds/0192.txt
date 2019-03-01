@@ -1,0 +1,1 @@
+[H][C@@]12CC[C@](O)(C(=O)COC(=O)CC(C)(C)C)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C

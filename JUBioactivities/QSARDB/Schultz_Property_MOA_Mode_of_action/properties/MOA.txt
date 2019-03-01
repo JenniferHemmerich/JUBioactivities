@@ -1,0 +1,501 @@
+Compound Id	Mode of action
+1	Nonpolar narcotic
+2	Nonpolar narcotic
+3	Nonpolar narcotic
+4	Nonpolar narcotic
+5	Nonpolar narcotic
+6	Nonpolar narcotic
+7	Nonpolar narcotic
+8	Nonpolar narcotic
+9	Nonpolar narcotic
+10	Nonpolar narcotic
+11	Nonpolar narcotic
+12	Nonpolar narcotic
+13	Nonpolar narcotic
+14	Nonpolar narcotic
+15	Nonpolar narcotic
+16	Nonpolar narcotic
+17	Nonpolar narcotic
+18	Nonpolar narcotic
+19	Nonpolar narcotic
+20	Nonpolar narcotic
+21	Nonpolar narcotic
+22	Nonpolar narcotic
+23	Nonpolar narcotic
+24	Nonpolar narcotic
+25	Nonpolar narcotic
+26	Nonpolar narcotic
+27	Nonpolar narcotic
+28	Nonpolar narcotic
+29	Nonpolar narcotic
+30	Nonpolar narcotic
+31	Nonpolar narcotic
+32	Nonpolar narcotic
+33	Nonpolar narcotic
+34	Nonpolar narcotic
+35	Nonpolar narcotic
+36	Nonpolar narcotic
+37	Nonpolar narcotic
+38	Nonpolar narcotic
+39	Nonpolar narcotic
+40	Nonpolar narcotic
+41	Nonpolar narcotic
+42	Nonpolar narcotic
+43	Nonpolar narcotic
+44	Nonpolar narcotic
+45	Nonpolar narcotic
+46	Nonpolar narcotic
+47	Nonpolar narcotic
+48	Nonpolar narcotic
+49	Nonpolar narcotic
+50	Nonpolar narcotic
+51	Nonpolar narcotic
+52	Nonpolar narcotic
+53	Nonpolar narcotic
+54	Nonpolar narcotic
+55	Nonpolar narcotic
+56	Nonpolar narcotic
+57	Nonpolar narcotic
+58	Nonpolar narcotic
+59	Nonpolar narcotic
+60	Nonpolar narcotic
+61	Nonpolar narcotic
+62	Nonpolar narcotic
+63	Nonpolar narcotic
+64	Nonpolar narcotic
+65	Nonpolar narcotic
+66	Nonpolar narcotic
+67	Nonpolar narcotic
+68	Nonpolar narcotic
+69	Nonpolar narcotic
+70	Nonpolar narcotic
+71	Nonpolar narcotic
+72	Nonpolar narcotic
+73	Nonpolar narcotic
+74	Nonpolar narcotic
+75	Nonpolar narcotic
+76	Nonpolar narcotic
+77	Nonpolar narcotic
+78	Nonpolar narcotic
+79	Nonpolar narcotic
+80	Nonpolar narcotic
+81	Nonpolar narcotic
+82	Nonpolar narcotic
+83	Nonpolar narcotic
+84	Nonpolar narcotic
+85	Nonpolar narcotic
+86	Nonpolar narcotic
+87	Nonpolar narcotic
+88	Nonpolar narcotic
+89	Nonpolar narcotic
+90	Nonpolar narcotic
+91	Nonpolar narcotic
+92	Nonpolar narcotic
+93	Nonpolar narcotic
+94	Nonpolar narcotic
+95	Nonpolar narcotic
+96	Nonpolar narcotic
+97	Nonpolar narcotic
+98	Nonpolar narcotic
+99	Nonpolar narcotic
+100	Nonpolar narcotic
+101	Nonpolar narcotic
+102	Nonpolar narcotic
+103	Nonpolar narcotic
+104	Nonpolar narcotic
+105	Nonpolar narcotic
+106	Nonpolar narcotic
+107	Nonpolar narcotic
+108	Nonpolar narcotic
+109	Nonpolar narcotic
+110	Nonpolar narcotic
+111	Nonpolar narcotic
+112	Nonpolar narcotic
+113	Nonpolar narcotic
+114	Nonpolar narcotic
+115	Nonpolar narcotic
+116	Nonpolar narcotic
+117	Nonpolar narcotic
+118	Nonpolar narcotic
+119	Nonpolar narcotic
+120	Nonpolar narcotic
+121	Nonpolar narcotic
+122	Nonpolar narcotic
+123	Nonpolar narcotic
+124	Nonpolar narcotic
+125	Nonpolar narcotic
+126	Nonpolar narcotic
+127	Nonpolar narcotic
+128	Nonpolar narcotic
+129	Nonpolar narcotic
+130	Nonpolar narcotic
+131	Nonpolar narcotic
+132	Nonpolar narcotic
+133	Nonpolar narcotic
+134	Nonpolar narcotic
+135	Nonpolar narcotic
+136	Nonpolar narcotic
+137	Nonpolar narcotic
+138	Nonpolar narcotic
+139	Nonpolar narcotic
+140	Nonpolar narcotic
+141	Nonpolar narcotic
+142	Nonpolar narcotic
+143	Nonpolar narcotic
+144	Nonpolar narcotic
+145	Nonpolar narcotic
+146	Nonpolar narcotic
+147	Nonpolar narcotic
+148	Nonpolar narcotic
+149	Nonpolar narcotic
+150	Nonpolar narcotic
+151	Nonpolar narcotic
+152	Nonpolar narcotic
+153	Nonpolar narcotic
+154	Nonpolar narcotic
+155	Nonpolar narcotic
+156	Nonpolar narcotic
+157	Nonpolar narcotic
+158	Nonpolar narcotic
+159	Nonpolar narcotic
+160	Nonpolar narcotic
+161	Nonpolar narcotic
+162	Nonpolar narcotic
+163	Nonpolar narcotic
+164	Nonpolar narcotic
+165	Nonpolar narcotic
+166	Nonpolar narcotic
+167	Nonpolar narcotic
+168	Nonpolar narcotic
+169	Nonpolar narcotic
+170	Nonpolar narcotic
+171	Nonpolar narcotic
+172	Nonpolar narcotic
+173	Nonpolar narcotic
+174	Nonpolar narcotic
+175	Nonpolar narcotic
+176	Nonpolar narcotic
+177	Nonpolar narcotic
+178	Nonpolar narcotic
+179	Nonpolar narcotic
+180	Nonpolar narcotic
+181	Nonpolar narcotic
+182	Nonpolar narcotic
+183	Nonpolar narcotic
+184	Nonpolar narcotic
+185	Nonpolar narcotic
+186	Nonpolar narcotic
+187	Nonpolar narcotic
+188	Nonpolar narcotic
+189	Nonpolar narcotic
+190	Nonpolar narcotic
+191	Nonpolar narcotic
+192	Nonpolar narcotic
+193	Nonpolar narcotic
+194	Nonpolar narcotic
+195	Nonpolar narcotic
+196	Nonpolar narcotic
+197	Nonpolar narcotic
+198	Nonpolar narcotic
+199	Nonpolar narcotic
+200	Nonpolar narcotic
+201	Nonpolar narcotic
+202	Nonpolar narcotic
+203	Nonpolar narcotic
+204	Nonpolar narcotic
+205	Nonpolar narcotic
+206	Nonpolar narcotic
+207	Nonpolar narcotic
+208	Nonpolar narcotic
+209	Nonpolar narcotic
+210	Nonpolar narcotic
+211	Nonpolar narcotic
+212	Nonpolar narcotic
+213	Nonpolar narcotic
+214	Nonpolar narcotic
+215	Nonpolar narcotic
+216	Nonpolar narcotic
+217	Nonpolar narcotic
+218	Nonpolar narcotic
+219	Nonpolar narcotic
+220	Nonpolar narcotic
+221	Nonpolar narcotic
+222	Nonpolar narcotic
+223	Ester narcotic
+224	Ester narcotic
+225	Ester narcotic
+226	Ester narcotic
+227	Ester narcotic
+228	Ester narcotic
+229	Ester narcotic
+230	Ester narcotic
+231	Ester narcotic
+232	Ester narcotic
+233	Ester narcotic
+234	Ester narcotic
+235	Ester narcotic
+236	Ester narcotic
+237	Ester narcotic
+238	Ester narcotic
+239	Ester narcotic
+240	Ester narcotic
+241	Ester narcotic
+242	Ester narcotic
+243	Ester narcotic
+244	Ester narcotic
+245	Ester narcotic
+246	Ester narcotic
+247	Carboxylic acid salt
+248	Carboxylic acid salt
+249	Carboxylic acid salt
+250	Carboxylic acid salt
+251	Carboxylic acid salt
+252	Carboxylic acid salt
+253	Schiff-base former
+254	Schiff-base former
+255	Schiff-base former
+256	Schiff-base former
+257	Schiff-base former
+258	Schiff-base former
+259	Schiff-base former
+260	Schiff-base former
+261	Schiff-base former
+262	Schiff-base former
+263	Schiff-base former
+264	Schiff-base former
+265	Schiff-base former
+266	Schiff-base former
+267	Schiff-base former
+268	Schiff-base former
+269	Schiff-base former
+270	Schiff-base former
+271	Strained-ring lactone
+272	Strained-ring lactone
+273	Strained-ring lactone
+274	Strained-ring lactone
+275	Strained-ring lactone
+276	Strained-ring lactone
+277	Strained-ring lactone
+278	Strained-ring lactone
+279	Strained-ring lactone
+280	Strained-ring lactone
+281	Strained-ring lactone
+282	Pro-electrophile
+283	Pro-electrophile
+284	Pro-electrophile
+285	Pro-electrophile
+286	Pro-electrophile
+287	Pro-electrophile
+288	Pro-electrophile
+289	Pro-electrophile
+290	Pro-electrophile
+291	Pro-electrophile
+292	Pro-electrophile
+293	Pro-electrophile
+294	Pro-electrophile
+295	Pro-electrophile
+296	Pro-electrophile
+297	Pro-electrophile
+298	Pro-electrophile
+299	Pro-electrophile
+300	Pro-electrophile
+301	Pro-electrophile
+302	Pro-electrophile
+303	Pro-electrophile
+304	Pro-electrophile
+305	SN2 substitution
+306	SN2 substitution
+307	SN2 substitution
+308	SN2 substitution
+309	SN2 substitution
+310	SN2 substitution
+311	SN2 substitution
+312	SN2 substitution
+313	SN2 substitution
+314	SN2 substitution
+315	SN2 substitution
+316	SN2 substitution
+317	SN2 substitution
+318	SN2 substitution
+319	SN2 substitution
+320	SN2 substitution
+321	SN2 substitution
+322	SN2 substitution
+323	SN2 substitution
+324	SN2 substitution
+325	SN2 substitution
+326	SN2 substitution
+327	SN2 substitution
+328	SN2 substitution
+329	SN2 substitution
+330	SN2 substitution
+331	SN2 substitution
+332	SN2 substitution
+333	SN2 substitution
+334	SN2 substitution
+335	SN2 substitution
+336	SN2 substitution
+337	SN2 substitution
+338	SN2 substitution
+339	SN2 substitution
+340	SN2 substitution
+341	SN2 substitution
+342	SN2 substitution
+343	SN2 substitution
+344	SN2 substitution
+345	SN2 substitution
+346	SN2 substitution
+347	SN2 substitution
+348	SN2 substitution
+349	SN2 substitution
+350	SN2 substitution
+351	SN2 substitution
+352	SN2 substitution
+353	SN2 substitution
+355	(Other)
+356	(Other)
+357	(Other)
+354	(Other)
+358	(Other)
+359	(Other)
+360	(Other)
+361	(Other)
+362	(Other)
+363	(Other)
+364	(Other)
+365	(Other)
+366	(Other)
+367	(Other)
+368	Aminoalcohol
+369	Aminoalcohol
+370	Aminoalcohol
+371	Aminoalcohol
+372	Aminoalcohol
+373	Aminoalcohol
+374	Aminoalcohol
+375	Aminoalcohol
+376	Aminoalcohol
+377	Aminoalcohol
+378	Aminoalcohol
+379	Aminoalcohol
+380	Aminoalcohol
+381	Aminoalcohol
+382	Aminoalcohol
+383	Aminoalcohol
+384	Aminoalcohol
+385	Aminoalcohol
+386	Aminoalcohol
+387	Aminoalcohol
+388	Aminoalcohol
+389	Aminoalcohol
+390	Aminoalcohol
+391	Aminoalcohol
+392	Aminoalcohol
+393	Amine narcotic
+394	Amine narcotic
+395	Amine narcotic
+396	Amine narcotic
+397	Amine narcotic
+398	Amine narcotic
+399	Amine narcotic
+400	Amine narcotic
+401	Amine narcotic
+402	Amine narcotic
+403	Amine narcotic
+404	Amine narcotic
+405	Amine narcotic
+406	Amine narcotic
+407	Amine narcotic
+408	Amine narcotic
+409	Amine narcotic
+410	Amine narcotic
+411	Amine narcotic
+412	Amine narcotic
+413	Amine narcotic
+414	Amine narcotic
+415	Amine narcotic
+416	Amine narcotic
+417	Amine narcotic
+418	Amine narcotic
+419	Amine narcotic
+420	Amine narcotic
+421	Amine narcotic
+422	Amine narcotic
+423	Amine narcotic
+424	Amine narcotic
+425	Carboxylic acid
+426	Carboxylic acid
+427	Carboxylic acid
+428	Carboxylic acid
+429	Carboxylic acid
+430	Carboxylic acid
+431	Carboxylic acid
+432	Carboxylic acid
+433	Carboxylic acid
+434	Carboxylic acid
+435	Carboxylic acid
+436	Carboxylic acid
+437	Carboxylic acid
+438	Carboxylic acid
+439	Carboxylic acid
+440	Carboxylic acid
+441	Carboxylic acid
+442	Carboxylic acid
+443	Carboxylic acid
+444	Carboxylic acid
+445	Carboxylic acid
+446	Carboxylic acid
+447	Carboxylic acid
+448	Carboxylic acid
+449	Carboxylic acid
+450	Carboxylic acid
+451	Carboxylic acid
+452	Carboxylic acid
+453	Carboxylic acid
+454	Carboxylic acid
+455	Carboxylic acid
+456	Carboxylic acid
+457	Carboxylic acid
+458	Carboxylic acid
+459	Carboxylic acid
+460	Carboxylic acid
+461	Isothiocyanate
+462	Isothiocyanate
+463	Isothiocyanate
+464	Isothiocyanate
+465	Isothiocyanate
+466	Isothiocyanate
+467	Isothiocyanate
+468	Isothiocyanate
+469	SN2 halo-activation
+470	SN2 halo-activation
+471	SN2 halo-activation
+472	SN2 halo-activation
+473	SN2 halo-activation
+474	SN2 halo-activation
+475	SN2 halo-activation
+476	SN2 halo-activation
+477	SN2 halo-activation
+478	SN2 halo-activation
+479	SN2 halo-activation
+480	SN2 halo-activation
+481	SN2 halo-activation
+482	SN2 halo-activation
+483	SN2 halo-activation
+484	SN2 halo-activation
+485	SN2 halo-activation
+486	SN2 halo-activation
+487	SN2 halo-activation
+488	SN2 halo-activation
+489	SN2 halo-activation
+490	SN2 halo-activation
+491	SN2 halo-activation
+492	SN2 halo-activation
+493	SN2 halo-activation
+494	SN2 halo-activation
+495	SN2 halo-activation
+496	SN2 halo-activation
+497	SN2 halo-activation
+498	SN2 halo-activation
+499	SN2 halo-activation
+500	SN2 halo-activation

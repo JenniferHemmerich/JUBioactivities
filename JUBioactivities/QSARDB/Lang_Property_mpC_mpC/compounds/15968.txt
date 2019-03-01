@@ -1,0 +1,1 @@
+c1ccc2c(c1)C(=O)OC23c4ccc(cc4Oc5c3ccc(c5)O)O

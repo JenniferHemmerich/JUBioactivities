@@ -1,0 +1,6 @@
+link:/repository/bitstream/handle/10967/121/2010AE1428.zip?sequence=1&isAllowed=y
+Endpoint:"Property logPL: Liquid vapor pressure [Pa]"
+Paper:"Gajewicz, A.; Haranczyk, M.; Puzyn, T. Predicting logarithmic values of the subcooled liquid vapor pressure of halogenated persistent organic pollutants with QSPR: How different are chlorinated and brominated congeners?. Atmos. Environ. 2010, 44, 11, 1428–1436."
+EP:"Property logPL: Liquid vapor pressure "
+Author:Gajewicz
+Filename:"Gajewicz_Property logPL: Liquid vapor pressure"
