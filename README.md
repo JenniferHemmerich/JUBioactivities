@@ -119,7 +119,10 @@ DOI: 10.1002/minf.201500055
 All references can also be found in docs/references.bib
 
 Future changes:
+
 Instead of standardiser use RDKit standardisation
+
 Use custom one hot encoder (remove scikit-learn dependency) 
+
 Get stream redirection to work with Notebooks
 
