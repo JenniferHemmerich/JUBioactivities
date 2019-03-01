@@ -3,11 +3,14 @@
 
 This library helps in easily loading datasets into python for further use in machine learning.
 
+### A) Install in a conda environment
+
 The library can be installed by downloading the latest release and installing it in a conda environment (note: rdkit has to be installed manually)
 
-navigate into the unzipped folder and activate the environment
+For this: 
+1. navigate into the unzipped folder and activate the environment
 
-Installation then can be done via 
+2. Installation then can be done via 
 
 ```
 pip install .
@@ -15,13 +18,13 @@ pip install .
 
 The library will be installed in the site-packages.
 
-Without installation: 
+### B) Without installation: 
 
 Just add the libraries directory to the PYTHONPATH and use it without installation
 Dependencies are pandas, standardiser, scikit-learn and rdkit
 
  
-##Use of the library
+## Use of the library
 
 Each datasource contains an init file which (in most cases) provides two functions:
 
