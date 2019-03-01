@@ -21,7 +21,7 @@ Just add the libraries directory to the PYTHONPATH and use it without installati
 Dependencies are pandas, standardiser, scikit-learn and rdkit
 
  
-## Use of the library
+##Use of the library
 
 Each datasource contains an init file which (in most cases) provides two functions:
 
