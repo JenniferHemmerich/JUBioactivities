@@ -21,6 +21,7 @@ The library will be installed in the site-packages.
 ### B) Without installation: 
 
 Just add the libraries directory to the PYTHONPATH and use it without installation
+
 Dependencies are pandas, standardiser, scikit-learn and rdkit
 
  
