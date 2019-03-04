@@ -65,6 +65,7 @@ RDKit were kept (currently 1212 structures) these have to be filtered via prepro
 The datasources used for the library are:
 
 The following webpages were used to accumulate the datasets:
+
 • http://www.cheminformatics.org/datasets/index.shtml
 
 • http://cdb.ics.uci.edu/cgibin/LearningDatasetsWeb.py
@@ -117,6 +118,7 @@ Method. Mol. Inf., 2016 35: 136-144.
 DOI: 10.1002/minf.201500055
 
 All references can also be found in docs/references.bib
+
 
 Future changes:
 
