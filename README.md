@@ -46,7 +46,7 @@ In there all available datasets with the respective endpoint are stored. Additio
 
 The processing of the original files is done as follows:
 
-1.The Matrix of Assay results
+1. The Matrix of Assay results
 For the assay results the assay data is read in and converted to a standard format:
 Continuous values are kept as given, binary values are converted to 1 if the assay outcome
 is positive, 0 if negative and NA if not available. Multiclass assays are encoded as one
