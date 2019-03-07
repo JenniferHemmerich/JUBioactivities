@@ -1,4 +1,4 @@
-## JUNet
+## JUBioactivities
 ===================
 
 This library helps in easily loading datasets into python for further use in machine learning.
@@ -7,7 +7,8 @@ This library helps in easily loading datasets into python for further use in mac
 
 The library can be installed by downloading the latest release and installing it in a conda environment (note: rdkit has to be installed manually)
 
-For this: 
+For this:
+
 1. navigate into the unzipped folder and activate the environment
 
 2. Installation then can be done via 
@@ -119,6 +120,18 @@ Method. Mol. Inf., 2016 35: 136-144.
 DOI: 10.1002/minf.201500055
 
 All references can also be found in docs/references.bib
+
+
+To cite this dataset use:
+
+@misc{JUBioactivities,
+  author = {Jennifer Hemmerich and Guenter Klambauer},
+  title = {JUBioactivities: Datasets for Toxicity prediction},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/JenniferHemmerich/JUBioactivities/}}
+}
 
 
 Future changes:
