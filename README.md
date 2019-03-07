@@ -123,26 +123,19 @@ DOI: 10.1002/minf.201500055
 All references can also be found in docs/references.bib
 
 
-To cite this dataset use:
+#### To cite this dataset use:
 
 @misc{JUBioactivities,
-
-  author = {Jennifer Hemmerich and Guenter Klambauer},
-  
-  title = {JUBioactivities: Datasets for Toxicity prediction},
-  
-  year = {2019},
-  
-  publisher = {GitHub},
-  
-  journal = {GitHub repository},
-  
-  howpublished = {\url{https://github.com/JenniferHemmerich/JUBioactivities/}}
-  
+  author = {Jennifer Hemmerich and Guenter Klambauer},  
+  title = {JUBioactivities: Datasets for Toxicity prediction},  
+  year = {2019},  
+  publisher = {GitHub},  
+  journal = {GitHub repository},  
+  howpublished = {\url{https://github.com/JenniferHemmerich/JUBioactivities/}}  
 }
 
 
-Future changes:
+### Future changes:
 
 Instead of standardiser use RDKit standardisation
 
