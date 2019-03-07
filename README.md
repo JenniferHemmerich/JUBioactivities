@@ -126,12 +126,19 @@ All references can also be found in docs/references.bib
 To cite this dataset use:
 
 @misc{JUBioactivities,
+
   author = {Jennifer Hemmerich and Guenter Klambauer},
+  
   title = {JUBioactivities: Datasets for Toxicity prediction},
+  
   year = {2019},
+  
   publisher = {GitHub},
+  
   journal = {GitHub repository},
+  
   howpublished = {\url{https://github.com/JenniferHemmerich/JUBioactivities/}}
+  
 }
 
 
